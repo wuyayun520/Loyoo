@@ -379,15 +379,15 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_IDENTITY = "Apple Development";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				CODE_SIGN_STYLE = Manual;
 				CURRENT_PROJECT_VERSION = 1.1;
 				DEVELOPMENT_TEAM = "";
-				"DEVELOPMENT_TEAM[sdk=iphoneos*]" = 7J496Z4356;
+				"DEVELOPMENT_TEAM[sdk=iphoneos*]" = 6VFR63B9QM;
 				ENABLE_BITCODE = NO;
-				FLUTTER_APPLICATION_PATH = /Users/runner/work/Loyoo/Loyoo;
+				FLUTTER_APPLICATION_PATH = /Users/charlotte/Desktop/Loyoo;
 				FLUTTER_BUILD_NAME = 1.0.1;
-				FLUTTER_ROOT = "/Users/runner/hostedtoolcache/flutter/3.24.4-stable/arm64";
+				FLUTTER_ROOT = /opt/homebrew/Caskroom/flutter/3.27.3/flutter;
 				INFOPLIST_FILE = Runner/Info.plist;
 				INFOPLIST_KEY_CFBundleDisplayName = Loyoo;
 				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
@@ -395,10 +395,10 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.unrestrain.6677;
+				PRODUCT_BUNDLE_IDENTIFIER = ios.sweete.happy;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = unrestrain_dis;
-				"PROVISIONING_PROFILE_SPECIFIER[sdk=iphoneos*]" = unrestrain_dis;
+				"PROVISIONING_PROFILE_SPECIFIER[sdk=iphoneos*]" = ios.sweete.happy_dev_20240509;
 				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
 				SUPPORTS_MACCATALYST = NO;
 				SWIFT_OBJC_BRIDGING_HEADER = "Runner/Runner-Bridging-Header.h";
@@ -526,15 +526,15 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_IDENTITY = "Apple Development";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				CODE_SIGN_STYLE = Manual;
 				CURRENT_PROJECT_VERSION = 1.1;
 				DEVELOPMENT_TEAM = "";
-				"DEVELOPMENT_TEAM[sdk=iphoneos*]" = 7J496Z4356;
+				"DEVELOPMENT_TEAM[sdk=iphoneos*]" = 6VFR63B9QM;
 				ENABLE_BITCODE = NO;
-				FLUTTER_APPLICATION_PATH = /Users/runner/work/Loyoo/Loyoo;
+				FLUTTER_APPLICATION_PATH = /Users/charlotte/Desktop/Loyoo;
 				FLUTTER_BUILD_NAME = 1.0.1;
-				FLUTTER_ROOT = "/Users/runner/hostedtoolcache/flutter/3.24.4-stable/arm64";
+				FLUTTER_ROOT = /opt/homebrew/Caskroom/flutter/3.27.3/flutter;
 				INFOPLIST_FILE = Runner/Info.plist;
 				INFOPLIST_KEY_CFBundleDisplayName = Loyoo;
 				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
@@ -542,10 +542,10 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.unrestrain.6677;
+				PRODUCT_BUNDLE_IDENTIFIER = ios.sweete.happy;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = unrestrain_dis;
-				"PROVISIONING_PROFILE_SPECIFIER[sdk=iphoneos*]" = unrestrain_dis;
+				"PROVISIONING_PROFILE_SPECIFIER[sdk=iphoneos*]" = ios.sweete.happy_dev_20240509;
 				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
 				SUPPORTS_MACCATALYST = NO;
 				SWIFT_OBJC_BRIDGING_HEADER = "Runner/Runner-Bridging-Header.h";
@@ -563,15 +563,15 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_IDENTITY = "Apple Development";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				CODE_SIGN_STYLE = Manual;
 				CURRENT_PROJECT_VERSION = 1.1;
 				DEVELOPMENT_TEAM = "";
-				"DEVELOPMENT_TEAM[sdk=iphoneos*]" = 7J496Z4356;
+				"DEVELOPMENT_TEAM[sdk=iphoneos*]" = 6VFR63B9QM;
 				ENABLE_BITCODE = NO;
-				FLUTTER_APPLICATION_PATH = /Users/runner/work/Loyoo/Loyoo;
+				FLUTTER_APPLICATION_PATH = /Users/charlotte/Desktop/Loyoo;
 				FLUTTER_BUILD_NAME = 1.0.1;
-				FLUTTER_ROOT = "/Users/runner/hostedtoolcache/flutter/3.24.4-stable/arm64";
+				FLUTTER_ROOT = /opt/homebrew/Caskroom/flutter/3.27.3/flutter;
 				INFOPLIST_FILE = Runner/Info.plist;
 				INFOPLIST_KEY_CFBundleDisplayName = Loyoo;
 				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
@@ -579,10 +579,10 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.unrestrain.6677;
+				PRODUCT_BUNDLE_IDENTIFIER = ios.sweete.happy;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = unrestrain_dis;
-				"PROVISIONING_PROFILE_SPECIFIER[sdk=iphoneos*]" = unrestrain_dis;
+				"PROVISIONING_PROFILE_SPECIFIER[sdk=iphoneos*]" = ios.sweete.happy_dev_20240509;
 				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
 				SUPPORTS_MACCATALYST = NO;
 				SWIFT_OBJC_BRIDGING_HEADER = "Runner/Runner-Bridging-Header.h";
