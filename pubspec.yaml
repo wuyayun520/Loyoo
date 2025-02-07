@@ -28,6 +28,9 @@ dependencies:
   permission_handler: ^11.2.0
   logger: ^2.0.2+1
   http: ^1.2.0
+  in_app_purchase: ^3.1.13
+  in_app_purchase_storekit: ^0.3.12
+  intl: ^0.18.0
 
 dev_dependencies:
   flutter_test:

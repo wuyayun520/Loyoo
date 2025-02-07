@@ -9,8 +9,8 @@ class BalanceService {
   BalanceService(this._prefs) {
     // 初始化默认余额
     if (!_prefs.containsKey(_balanceKey)) {
-      _prefs.setInt(_balanceKey, 618); // 设置默认余额为 100
-      _balanceController.add(618);
+      _prefs.setInt(_balanceKey, 10); // 设置默认余额为 10
+      _balanceController.add(10);
     } else {
       _balanceController.add(_prefs.getInt(_balanceKey)!);
     }
@@ -19,7 +19,7 @@ class BalanceService {
   Stream<int> get balanceStream => _balanceController.stream;
 
   Future<int> getBalance() async {
-    final balance = _prefs.getInt(_balanceKey) ?? 618;
+    final balance = _prefs.getInt(_balanceKey) ?? 10;
     return balance;
   }
 
@@ -42,8 +42,8 @@ class BalanceService {
   }
 
   Future<void> resetBalance() async {
-    await _prefs.setInt(_balanceKey, 618);
-    _balanceController.add(618);
+    await _prefs.setInt(_balanceKey, 10);
+    _balanceController.add(10);
   }
 
   void dispose() {

@@ -61,7 +61,7 @@ class _AboutPageState extends State<AboutPage> {
                 ),
                 const SizedBox(height: 16),
                 const Text(
-                  'Loyoo',
+                  'Lush',
                   style: TextStyle(
                     fontSize: 24,
                     fontWeight: FontWeight.bold,

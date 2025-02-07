@@ -4,15 +4,16 @@ import '../smart/smart_page.dart';
 import '../tools/tools_page.dart';
 import '../profile/profile_page.dart';
 import '../message/message_page.dart';
+import 'package:flutter_riverpod/flutter_riverpod.dart';
 
-class MainPage extends StatefulWidget {
+class MainPage extends ConsumerStatefulWidget {
   const MainPage({super.key});
 
   @override
-  State<MainPage> createState() => _MainPageState();
+  ConsumerState<MainPage> createState() => _MainPageState();
 }
 
-class _MainPageState extends State<MainPage> {
+class _MainPageState extends ConsumerState<MainPage> {
   int _currentIndex = 0;
 
   final List<Widget> _pages = const <Widget>[

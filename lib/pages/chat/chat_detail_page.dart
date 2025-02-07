@@ -6,6 +6,9 @@ import '../../models/character.dart';
 import '../../services/chatglm_service.dart';
 import '../../services/balance_service.dart';
 import '../../services/message_storage_service.dart';
+import '../profile/recharge_page.dart';
+import '../profile/subscription_page.dart';
+import '../../providers/membership_provider.dart';
 
 // 添加 Provider
 final chatGLMServiceProvider = Provider((ref) => ChatGLMService(ref));
@@ -32,6 +35,7 @@ class _ChatDetailPageState extends ConsumerState<ChatDetailPage> {
   final _focusNode = FocusNode();
 
   bool _isLoading = false;
+  static const int _costPerMessage = 5; // 每条消息消耗的金币数
 
   @override
   void initState() {
@@ -214,17 +218,57 @@ class _ChatDetailPageState extends ConsumerState<ChatDetailPage> {
     final userMessage = _textController.text.trim();
     if (userMessage.isEmpty) return;
 
-    final balance = await _balanceService.getBalance();
-    if (balance < 10) {
-      if (mounted) {
-        ScaffoldMessenger.of(context).showSnackBar(
-          const SnackBar(
-            content: Text('Insufficient balance, please recharge'),
-            behavior: SnackBarBehavior.floating,
-          ),
-        );
+    // 检查会员状态
+    final membershipState = ref.read(membershipProvider);
+    if (!membershipState.isValid) {
+      // 非会员需要检查金币余额
+      final balance = await _balanceService.getBalance();
+      if (balance < _costPerMessage) {
+        if (mounted) {
+          showDialog(
+            context: context,
+            builder: (context) => AlertDialog(
+              title: const Text('Insufficient Balance'),
+              content: Text(
+                'You need $_costPerMessage coins to send a message.\n'
+                'Current balance: $balance coins\n\n'
+                'Would you like to recharge or upgrade to premium membership?'
+              ),
+              actions: [
+                TextButton(
+                  onPressed: () {
+                    Navigator.pop(context);
+                    Navigator.push(
+                      context,
+                      MaterialPageRoute(
+                        builder: (context) => const RechargePage(),
+                      ),
+                    );
+                  },
+                  child: const Text('Recharge'),
+                ),
+                TextButton(
+                  onPressed: () {
+                    Navigator.pop(context);
+                    Navigator.push(
+                      context,
+                      MaterialPageRoute(
+                        builder: (context) => const SubscriptionPage(),
+                      ),
+                    );
+                  },
+                  child: const Text('Upgrade to Premium'),
+                ),
+                TextButton(
+                  onPressed: () => Navigator.pop(context),
+                  child: const Text('Cancel'),
+                ),
+              ],
+            ),
+          );
+        }
+        return;
       }
-      return;
     }
 
     final newUserMessage = ChatMessage(
@@ -247,7 +291,13 @@ class _ChatDetailPageState extends ConsumerState<ChatDetailPage> {
           .map((msg) => {'role': msg.role, 'content': msg.content})
           .toList());
 
-      await _balanceService.deductBalance(10);
+      // 如果不是会员，扣除金币
+      if (!ref.read(membershipProvider).isValid) {
+        final deductSuccess = await _balanceService.deductBalance(_costPerMessage);
+        if (!deductSuccess) {
+          throw Exception('Failed to deduct balance');
+        }
+      }
 
       if (mounted) {
         final assistantMessage = ChatMessage(
@@ -271,7 +321,7 @@ class _ChatDetailPageState extends ConsumerState<ChatDetailPage> {
         });
         ScaffoldMessenger.of(context).showSnackBar(
           SnackBar(
-            content: Text('Sending message failed: $e'),
+            content: Text('Failed to send message: $e'),
             behavior: SnackBarBehavior.floating,
           ),
         );

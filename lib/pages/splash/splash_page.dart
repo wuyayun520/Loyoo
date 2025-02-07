@@ -54,7 +54,7 @@ class _SplashPageState extends ConsumerState<SplashPage> {
             const SizedBox(height: 24),
             // App Name
             const Text(
-              'Loyoo',
+              'Lush',
               style: TextStyle(
                 color: Colors.white,
                 fontSize: 32,
