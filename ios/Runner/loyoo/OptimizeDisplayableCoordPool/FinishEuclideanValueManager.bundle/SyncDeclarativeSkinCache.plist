@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>getDifficultValueFilter</key>
+	<string>getLocalParamHelper</string>
+	<key>getPrimaryButtonImplement</key>
+	<string>finishSharedAlphaAdapter</string>
+	<key>restartGeometricTitleType</key>
+	<string>prepareMainVarArray</string>
+	<key>setConcurrentGroupAdapter</key>
+	<string>restartAccessibleNumberTarget</string>
+	<key>touchPrimaryBufferArray</key>
+	<string>setNormalParameterReference</string>
+</dict>
+</plist>

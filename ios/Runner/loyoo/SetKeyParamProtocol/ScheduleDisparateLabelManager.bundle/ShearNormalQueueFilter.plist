@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>augmentFirstBrushFilter</key>
+	<string>navigateSymmetricTailFilter</string>
+	<key>getActivatedLayerExtension</key>
+	<string>initializeCurrentGrayscaleTarget</string>
+	<key>getBasicEffectManager</key>
+	<string>stopEnabledGroupType</string>
+	<key>getUnsortedAllocatorAdapter</key>
+	<string>stopSortedTailManager</string>
+	<key>setLostStatusCreator</key>
+	<string>finishLastVertexExtension</string>
+	<key>startCrudeMetadataManager</key>
+	<string>getUnsortedBottomCache</string>
+	<key>stopEnabledTempleReference</key>
+	<string>multiplyDisparateNodeArray</string>
+</dict>
+</plist>

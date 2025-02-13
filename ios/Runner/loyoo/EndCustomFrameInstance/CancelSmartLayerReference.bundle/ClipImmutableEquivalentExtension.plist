@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>finishAccordionEffectImplement</key>
+	<string>setPermanentEvaluationCreator</string>
+	<key>getBeginnerValueHelper</key>
+	<string>augmentIntermediateParamAdapter</string>
+	<key>getGreatVarCache</key>
+	<string>captureDifficultGroupReference</string>
+	<key>pauseElasticBufferReference</key>
+	<string>continueHardCosineHelper</string>
+	<key>prepareElasticParamAdapter</key>
+	<string>setSophisticatedValueObserver</string>
+	<key>setSmallButtonList</key>
+	<string>trainLargeVariableCollection</string>
+	<key>trainBasicParticleTarget</key>
+	<string>setOpaqueLayoutManager</string>
+	<key>trainUnsortedFrameDelegate</key>
+	<string>writeMutableGroupPool</string>
+</dict>
+</plist>

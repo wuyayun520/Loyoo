@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="19529" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_1" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="19519"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="System colors in document resources" minToolsVersion="11.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="BeyondPointHeightView">
+            <connections>
+                <outlet property="viewLabel" destination="UGY-z7-XWW" id="Ihi-S2-M4S"/>
+                <outlet property="compartmentButton" destination="Kq0-z6-ttn" id="Mez-FK-4uK"/>
+                <outlet property="partnerLabel" destination="Xt1-9a-cDt" id="dkN-SN-San"/>
+            </connections>
+        </placeholder>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="Fp0-yd-6l4">
+            <rect key="frame" x="0.0" y="0.0" width="530.6" height="103.3"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <label userInteractionEnabled="NO" contentMode="scaleToFill" horizontalCompressionResistancePriority="250" verticalCompressionResistancePriority="250" text="content tap of view" textAlignment="right" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="UGY-z7-XWW" numberOfLines="9">
+                    <rect key="frame" x="131.9" y="-4" width="130.9" height="87.5"/>
+                    <fontDescription key="fontDescription" type="system" pointSize="13"/>
+                    <nil key="textColor"/>
+                    <nil key="highlightedColor"/>
+                </label>
+                <label userInteractionEnabled="NO" contentMode="bottomLeft" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="part confirm change type view page" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Xt1-9a-cDt" clearsContextBeforeDrawing="NO" clipsSubviews="NO" numberOfLines="9" enabled="NO" highlighted="YES">
+                    <rect key="frame" x="4" y="2" width="130.9" height="87.5"/>
+                    <fontDescription key="fontDescription" type="system" pointSize="9"/>
+                    <nil key="textColor"/>
+                    <nil key="highlightedColor"/>
+                </label>
+                <button contentMode="center" horizontalHuggingPriority="1000" verticalHuggingPriority="991" horizontalCompressionResistancePriority="1000" verticalCompressionResistancePriority="1000" contentHorizontalAlignment="leading" contentVerticalAlignment="bottom" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Kq0-z6-ttn" clipsSubviews="NO">
+                    <rect key="frame" x="242" y="5" width="214.5" height="87.5"/>
+                    <inset key="imageEdgeInsets" minX="0.0" minY="0.0" maxX="2.2250738585072014e-308" maxY="0.0"/>
+                    <state key="normal" title="data view will model info" image="frame_length_picture">
+                        <color key="titleColor" red="0.20801110280944236" green="0.80216241688474088" blue="0.37149053971082963" alpha="0.87483083322322849" colorSpace="custom" customColorSpace="sRGB"/>
+                    </state>
+                    <state key="disabled" title="to with view view" image="equal_observe_pic">
+                        <color key="titleColor" red="0.3251827794589793" green="0.95862888884743896" blue="0.63769983603668184" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                    </state>
+                    <state key="highlighted" title="sign following content record in" image="object_picture">
+                        <color key="titleColor" red="0.1167636465" green="1" blue="0.1985451956" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                    </state>
+                </button>
+            </subviews>
+            <viewLayoutGuide key="safeArea" id="tPp-ys-veC"/>
+            <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+            <constraints>
+                <constraint firstItem="UGY-z7-XWW" firstAttribute="leading" secondItem="tPp-ys-veC" secondAttribute="leading" constant="1" id="rEb-mZ-Lyo"/>
+                <constraint firstItem="tPp-ys-veC" firstAttribute="trailing" secondItem="Kq0-z6-ttn" secondAttribute="trailing" constant="5" id="NQ6-4d-XFh"/>
+                <constraint firstItem="UGY-z7-XWW" firstAttribute="top" secondItem="Fp0-yd-6l4" secondAttribute="top" constant="5" id="Wuf-hb-2Wv"/>
+                <constraint firstAttribute="bottom" secondItem="UGY-z7-XWW" secondAttribute="bottom" constant="7" id="eML-N9-fDi"/>
+                <constraint firstAttribute="bottom" secondItem="Kq0-z6-ttn" secondAttribute="bottom" constant="5" id="GgN-GV-LJr"/>
+                <constraint firstItem="Xt1-9a-cDt" firstAttribute="top" secondItem="Fp0-yd-6l4" secondAttribute="top" constant="4" id="Whf-HQ-c7t"/>
+                <constraint firstItem="Kq0-z6-ttn" firstAttribute="top" secondItem="Fp0-yd-6l4" secondAttribute="top" constant="6" id="Tzw-9Y-ZHx"/>
+                <constraint firstItem="Kq0-z6-ttn" firstAttribute="leading" secondItem="Xt1-9a-cDt" secondAttribute="trailing" constant="6" id="X7n-B0-biu"/>
+                <constraint firstAttribute="bottom" secondItem="Xt1-9a-cDt" secondAttribute="bottom" constant="2" id="BAR-2e-6yI"/>
+                <constraint firstItem="UGY-z7-XWW" firstAttribute="width" secondItem="Xt1-9a-cDt" secondAttribute="width" id="xDY-09-KvA" constant="5"/>
+                <constraint firstItem="Xt1-9a-cDt" firstAttribute="leading" secondItem="UGY-z7-XWW" secondAttribute="trailing" constant="5" id="QeP-Vf-YDA"/>
+            </constraints>
+            <nil key="simulatedTopBarMetrics"/>
+            <nil key="simulatedBottomBarMetrics"/>
+            <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+            <point key="canvasLocation" x="187.272430051072" y="-209.78987424634000"/>
+        </view>
+    </objects>
+    <resources>
+        <image name="frame_length_picture" width="64.6" height="73.5"/>
+        <image name="object_picture" width="64.6" height="73.5"/>
+        <image name="equal_observe_pic" width="64.6" height="73.5"/>
+        <systemColor name="systemBackgroundColor">
+            <color white="1" alpha="0.9424348997632371" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+        </systemColor>
+    </resources>
+</document>

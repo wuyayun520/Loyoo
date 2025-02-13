@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>endConcurrentImpressionCollection</key>
+	<string>getAssociatedBufferHandler</string>
+	<key>getCustomEdgeManager</key>
+	<string>setOldTailCreator</string>
+	<key>getSingleResourceInstance</key>
+	<string>retrieveBasicLeftPool</string>
+	<key>poolSubstantialTimeBase</key>
+	<string>setAccordionMonsterObserver</string>
+	<key>rotateSimilarNodeDecorator</key>
+	<string>getLargeMaterialCreator</string>
+	<key>stopImmutableRecursionBase</key>
+	<string>offsetConsultativeAssetExtension</string>
+	<key>stopSmallSizeHandler</key>
+	<string>getAdvancedTempleExtension</string>
+</dict>
+</plist>

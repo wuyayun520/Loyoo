@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>analyzeRespectiveViewObserver</key>
+	<string>unscheduleStaticTopHelper</string>
+	<key>endOpaqueRotationBase</key>
+	<string>keepIgnoredCycleDecorator</string>
+	<key>renameSymmetricChecklistArray</key>
+	<string>setSecondStateArray</string>
+	<key>restartImmutableTraversalGroup</key>
+	<string>resumeExplicitLatencyAdapter</string>
+	<key>startFusedMeshStack</key>
+	<string>revisitIntermediateLabelHelper</string>
+	<key>stopDenseRecursionImplement</key>
+	<string>keepHierarchicalPreviewBase</string>
+	<key>writeDisplayableHistogramHandler</key>
+	<string>provideTensorBulletDelegate</string>
+</dict>
+</plist>

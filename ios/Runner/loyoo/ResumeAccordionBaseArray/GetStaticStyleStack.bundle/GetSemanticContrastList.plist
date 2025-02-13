@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>finishFirstVariableDelegate</key>
+	<string>getProtectedTempleArray</string>
+	<key>initializeSingleTopicDelegate</key>
+	<string>navigateLastSchedulerTarget</string>
+	<key>keepMultiSpotHandler</key>
+	<string>endGreatSpriteGroup</string>
+	<key>lockOldDescriptorCollection</key>
+	<string>resizeNormalStrengthInstance</string>
+	<key>requestNormalFrameBase</key>
+	<string>setRapidLeftImplement</string>
+	<key>setConcreteParamGroup</key>
+	<string>captureEuclideanTweakInstance</string>
+	<key>setPublicColorProtocol</key>
+	<string>mitigateSemanticTimeDelegate</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cancelRapidDetailCache</key>
+	<string>getResilientFeatureCollection</string>
+	<key>cloneRequiredSceneTarget</key>
+	<string>getConcurrentCurveInstance</string>
+	<key>getCartesianContrastPool</key>
+	<string>prepareDirectlyViewDecorator</string>
+	<key>getImmutableVariantCache</key>
+	<string>drawSemanticTexturePool</string>
+	<key>multiplyAdvancedMobileCache</key>
+	<string>pauseLocalParamHandler</string>
+	<key>quantizerFirstBufferFactory</key>
+	<string>extendGeometricFeatureBase</string>
+	<key>restartUnsortedIndexImplement</key>
+	<string>reducePrismaticBufferTarget</string>
+	<key>searchMediumFrameHelper</key>
+	<string>reconcileNumericalMobileDelegate</string>
+	<key>setCommonInterpolationPool</key>
+	<string>continuePrimaryGrainBase</string>
+</dict>
+</plist>

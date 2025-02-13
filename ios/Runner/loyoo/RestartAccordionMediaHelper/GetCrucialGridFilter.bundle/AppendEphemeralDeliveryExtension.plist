@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>mitigateFusedUtilGroup</key>
+	<string>finishOldVarProtocol</string>
+	<key>readConcurrentWorkflowReference</key>
+	<string>continueSpecifyVarFilter</string>
+	<key>resumeRequiredClusterDecorator</key>
+	<string>setSharedProfileCreator</string>
+	<key>writeIntuitiveUnaryGroup</key>
+	<string>retainConsultativeDurationType</string>
+</dict>
+</plist>

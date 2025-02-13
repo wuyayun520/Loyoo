@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>finishHyperbolicCapacitiesExtension</key>
+	<string>endAccessibleBufferAdapter</string>
+	<key>resumeCommonMenuDecorator</key>
+	<string>setCriticalVariablePool</string>
+	<key>searchSustainableCenterObserver</key>
+	<string>getCommonFrameObserver</string>
+</dict>
+</plist>

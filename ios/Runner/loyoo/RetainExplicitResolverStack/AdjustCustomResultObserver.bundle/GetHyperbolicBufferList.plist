@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cancelTensorUtilObserver</key>
+	<string>introspectGranularLayoutPool</string>
+	<key>captureGeometricPriorityCache</key>
+	<string>setUsedTextHelper</string>
+	<key>discoverResilientChapterDecorator</key>
+	<string>animateDedicatedIndexContainer</string>
+	<key>finishMediumMetadataManager</key>
+	<string>getProtectedNotationContainer</string>
+	<key>getMutableAllocatorDelegate</key>
+	<string>rotateHardFrameCollection</string>
+	<key>prepareStaticRoutePool</key>
+	<string>setDeclarativeParamObserver</string>
+	<key>setGreatChecklistFactory</key>
+	<string>restartNextParameterCollection</string>
+	<key>skipSustainableDispatcherDecorator</key>
+	<string>resumeSubtleFragmentsHelper</string>
+	<key>upgradeBasicOperationBase</key>
+	<string>floatDirectAmortizationHandler</string>
+</dict>
+</plist>

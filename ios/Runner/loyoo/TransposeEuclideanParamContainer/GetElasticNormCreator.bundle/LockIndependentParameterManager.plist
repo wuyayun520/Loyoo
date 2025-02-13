@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>endCartesianBufferProtocol</key>
+	<string>fillPrimaryParamDecorator</string>
+	<key>finishNormalScaleProtocol</key>
+	<string>setSustainableTrianglesHandler</string>
+	<key>getHyperbolicPlateCollection</key>
+	<string>parseNumericalBufferContainer</string>
+	<key>getLastTextAdapter</key>
+	<string>resumeProtectedLatencyList</string>
+	<key>readRetainedTechniqueList</key>
+	<string>keepSustainableStateDecorator</string>
+	<key>setDirectlyOperationFactory</key>
+	<string>getIntuitiveProfileType</string>
+</dict>
+</plist>

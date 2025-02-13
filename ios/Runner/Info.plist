@@ -2,6 +2,10 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>BGTaskSchedulerPermittedIdentifiers</key>
+	<array>
+		<string>$(PRODUCT_BUNDLE_IDENTIFIER)</string>
+	</array>
 	<key>CADisableMinimumFrameDurationOnPhone</key>
 	<true/>
 	<key>CFBundleDevelopmentRegion</key>
@@ -22,8 +26,54 @@
 	<string>$(FLUTTER_BUILD_NAME)</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
+	<key>CFBundleURLTypes</key>
+	<array>
+		<dict>
+			<key>CFBundleTypeRole</key>
+			<string>Editor</string>
+			<key>CFBundleURLName</key>
+			<string>loyoo</string>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>loyoo</string>
+			</array>
+		</dict>
+		<dict>
+			<key>CFBundleTypeRole</key>
+			<string>Editor</string>
+			<key>CFBundleURLName</key>
+			<string>openlinkme</string>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>openlinkme</string>
+			</array>
+		</dict>
+	</array>
 	<key>CFBundleVersion</key>
 	<string>$(FLUTTER_BUILD_NUMBER)</string>
+	<key>FirebaseAppDelegateProxyEnabled</key>
+	<false/>
+	<key>ITSAppUsesNonExemptEncryption</key>
+	<false/>
+	<key>LSApplicationQueriesSchemes</key>
+	<array>
+		<string>weixin</string>
+		<string>lark</string>
+		<string>wxwork</string>
+		<string>dingtalk</string>
+		<string>app-settings</string>
+		<string>itms-apps</string>
+		<string>fb</string>
+		<string>instagram</string>
+		<string>whatsapp</string>
+		<string>messenger</string>
+		<string>youtube</string>
+		<string>twitter</string>
+		<string>line</string>
+		<string>skype</string>
+		<string>tiktok</string>
+		<string>snapchat</string>
+	</array>
 	<key>LSRequiresIPhoneOS</key>
 	<true/>
 	<key>LSSupportsOpeningDocumentsInPlace</key>
@@ -33,17 +83,28 @@
 		<key>NSAllowsArbitraryLoads</key>
 		<true/>
 	</dict>
+	<key>NSCameraUsageDescription</key>
+	<string>Loyoo needs access to your camera to enable photo and video capture for profile setup, content creation, and interactive features like scanning QR codes</string>
+	<key>NSLocationAlwaysUsageDescription</key>
+	<string>Loyoo requires continuous access to your location in the background to provide real-time updates, track your activity for fitness features, and ensure accurate location-based services even when the app is not in use</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>Loyoo requires your location while using the app to provide location-based features, such as finding nearby events, connecting with local users, and delivering relevant content based on your area.</string>
 	<key>NSMicrophoneUsageDescription</key>
 	<string>Requires access to the microphone to play audio</string>
+	<key>NSPhotoLibraryAddUsageDescription</key>
+	<string>Loyoo requests permission to save photos and videos you create or edit within the app directly to your photo library for easy access and sharing outside the app.</string>
 	<key>NSPhotoLibraryUsageDescription</key>
 	<string>Selecting the image requires access to the album, which is used to get the image processing</string>
 	<key>NSUserTrackingUsageDescription</key>
-	<string>Accessing device identifier information will be used to protect your account transactions</string>
+	<string>Your data will be used to deliver personalized ads and provide a better user experience. We collect crash data and device ID to improve app stability and protect your account security.</string>
 	<key>UIApplicationSupportsIndirectInputEvents</key>
 	<true/>
 	<key>UIBackgroundModes</key>
 	<array>
 		<string>audio</string>
+		<string>fetch</string>
+		<string>processing</string>
+		<string>remote-notification</string>
 	</array>
 	<key>UIFileSharingEnabled</key>
 	<true/>
@@ -55,5 +116,16 @@
 	<array>
 		<string>UIInterfaceOrientationPortrait</string>
 	</array>
+	<key>UISupportedInterfaceOrientations~iphone</key>
+	<array>
+		<string>UIInterfaceOrientationPortrait</string>
+	</array>
+	<key>UIUserInterfaceStyle</key>
+	<string>Light</string>
+	<key>linkedme_key</key>
+	<dict>
+		<key>live</key>
+		<string>115e82afd04e6565f2c0ef5ec2c90aef</string>
+	</dict>
 </dict>
 </plist>

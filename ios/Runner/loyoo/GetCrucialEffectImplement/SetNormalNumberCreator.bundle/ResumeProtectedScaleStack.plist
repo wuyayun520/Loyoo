@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>generatePrevOptimizerFilter</key>
+	<string>getUniqueParamHelper</string>
+	<key>getFusedItemCollection</key>
+	<string>getEnabledEventDecorator</string>
+	<key>getResilientHistogramStack</key>
+	<string>finishConsultativeValueFilter</string>
+	<key>makeSimilarIntegerDecorator</key>
+	<string>initializeLocalPositionGroup</string>
+	<key>replaceCrudeTailCreator</key>
+	<string>setGranularHeadImplement</string>
+	<key>resetLostColorHelper</key>
+	<string>resumeRetainedResultCreator</string>
+</dict>
+</plist>

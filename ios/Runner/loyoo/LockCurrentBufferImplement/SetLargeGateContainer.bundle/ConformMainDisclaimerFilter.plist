@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animateSymmetricBorderDelegate</key>
+	<string>getCustomizedClusterCollection</string>
+	<key>calculateCurrentCubeCollection</key>
+	<string>trainKeyLoopFilter</string>
+	<key>cancelNextVarFilter</key>
+	<string>setRespectiveTrianglesStack</string>
+	<key>initializeArithmeticVariableFactory</key>
+	<string>setNumericalAlphaCollection</string>
+	<key>playPermissiveLoopCollection</key>
+	<string>allocateDirectlyParamDelegate</string>
+	<key>prepareComprehensiveBaseExtension</key>
+	<string>setConsultativeEvolutionProtocol</string>
+	<key>setNextTaskInstance</key>
+	<string>quantizationSingleBaseDelegate</string>
+</dict>
+</plist>

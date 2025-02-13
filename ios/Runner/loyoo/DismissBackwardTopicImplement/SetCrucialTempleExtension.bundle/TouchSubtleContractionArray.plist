@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>displayBackwardDialogsStack</key>
+	<string>keepSpecifyValueHandler</string>
+	<key>finishPermissiveSpriteReference</key>
+	<string>finishLiteBatchDecorator</string>
+	<key>getMediocreValueDecorator</key>
+	<string>prepareUniformElasticityFactory</string>
+	<key>setCrudeVariableProtocol</key>
+	<string>restartRequiredRendererDecorator</string>
+	<key>setHyperbolicRotationFactory</key>
+	<string>retrieveNumericalEdgeHelper</string>
+	<key>skipDedicatedVariableObserver</key>
+	<string>playIntermediateGrainDelegate</string>
+	<key>trainExplicitGridStack</key>
+	<string>pauseGeometricDepthType</string>
+</dict>
+</plist>

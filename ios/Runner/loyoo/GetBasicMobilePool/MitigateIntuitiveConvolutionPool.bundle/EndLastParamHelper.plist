@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>displayCustomizedRecursionDelegate</key>
+	<string>setRetainedSignatureHandler</string>
+	<key>getCrucialChartFilter</key>
+	<string>setBackwardShapeCache</string>
+	<key>holdEnabledAmortizationList</key>
+	<string>playAdvancedSceneGroup</string>
+	<key>reducePublicVariableHelper</key>
+	<string>startRelationalParameterContainer</string>
+	<key>restartConsultativeFlagsHelper</key>
+	<string>continueNormalVertexFactory</string>
+	<key>shearDifficultVarHelper</key>
+	<string>skipGranularThreadPool</string>
+</dict>
+</plist>

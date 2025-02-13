@@ -9,6 +9,13 @@ class SubscriptionService {
   bool _isInitialized = false;
   List<ProductDetails> _cachedProducts = [];
 
+  // Error messages
+  static const String _errorServiceUnavailable = 'In-app purchase service is not available';
+  static const String _errorNoProducts = 'No subscription products found. Please check App Store Connect configuration';
+  static const String _errorLoadProducts = 'Failed to load subscription products';
+  static const String _errorProductUnavailable = 'Subscription product is not available';
+  static const String _errorInitPurchase = 'Failed to initiate subscription process';
+
   SubscriptionService() {
     onSubscriptionSuccess = (String productId) {
       print('Default subscription success handler: $productId');
@@ -28,12 +35,12 @@ class SubscriptionService {
     final bool available = await _inAppPurchase.isAvailable();
     if (!available) {
       print('In-app purchase not available');
-      throw Exception('应用内购买服务不可用');
+      throw Exception(_errorServiceUnavailable);
     }
 
     print('In-app purchase is available for subscriptions');
     
-    // 加载订阅商品列表
+    // Load subscription products
     _cachedProducts = await loadProducts();
     
     _isInitialized = true;
@@ -43,13 +50,12 @@ class SubscriptionService {
 
   Future<List<ProductDetails>> loadProducts() async {
     try {
-      // 如果已经有缓存的商品列表，直接返回
       if (_cachedProducts.isNotEmpty) {
         print('Returning cached subscription products');
         return _cachedProducts;
       }
 
-      // 订阅商品ID列表
+      // Subscription product IDs
       const Set<String> _kSubscriptionIds = <String>{
         'loyoo.weekly',
         'loyoo.monthly.com',
@@ -60,14 +66,15 @@ class SubscriptionService {
           await _inAppPurchase.queryProductDetails(_kSubscriptionIds);
 
       print('Subscription query completed. Found ${response.productDetails.length} products');
-      print('Not found subscription products: ${response.notFoundIDs}');
+      if (response.notFoundIDs.isNotEmpty) {
+        print('Products not found: ${response.notFoundIDs}');
+      }
 
       if (response.error != null) {
         print('Error loading subscription products: ${response.error}');
         throw response.error!;
       }
 
-      // 打印每个找到的订阅商品的详细信息
       for (var product in response.productDetails) {
         print('Found subscription product: ${product.id}');
         print('  Title: ${product.title}');
@@ -77,15 +84,14 @@ class SubscriptionService {
 
       if (response.productDetails.isEmpty) {
         print('No subscription products found!');
-        throw Exception('未能加载任何订阅商品，请检查 App Store Connect 配置');
+        throw Exception(_errorNoProducts);
       }
 
-      // 缓存商品列表
       _cachedProducts = response.productDetails;
       return _cachedProducts;
     } catch (e) {
       print('Failed to load subscription products: $e');
-      throw Exception('加载订阅商品列表失败: $e');
+      throw Exception('$_errorLoadProducts: $e');
     }
   }
 
@@ -93,22 +99,19 @@ class SubscriptionService {
     try {
       print('Starting subscription purchase for: ${product.id}');
       
-      // 检查购买服务是否可用
       final bool available = await _inAppPurchase.isAvailable();
       if (!available) {
-        throw Exception('应用内购买服务不可用');
+        throw Exception(_errorServiceUnavailable);
       }
 
-      // 检查商品是否在缓存列表中
       if (!_cachedProducts.any((p) => p.id == product.id)) {
         print('Subscription product not in cached list, refreshing products...');
         _cachedProducts = await loadProducts();
         if (!_cachedProducts.any((p) => p.id == product.id)) {
-          throw Exception('订阅商品不可用，请稍后再试');
+          throw Exception(_errorProductUnavailable);
         }
       }
 
-      // 创建购买参数
       final PurchaseParam purchaseParam = PurchaseParam(
         productDetails: product,
       );
@@ -119,12 +122,29 @@ class SubscriptionService {
       print('Subscription purchase request result: $success');
       
       if (!success) {
-        throw Exception('无法启动订阅流程');
+        throw Exception(_errorInitPurchase);
       }
     } catch (e) {
       print('Subscription purchase failed: $e');
-      onSubscriptionError('订阅失败: $e');
+      onSubscriptionError('Subscription failed: $e');
       rethrow;
+    }
+  }
+
+  // New method to handle purchase completion in background
+  Future<void> _completePurchaseInBackground(PurchaseDetails purchase) async {
+    if (purchase.pendingCompletePurchase) {
+      print('Starting background completion for subscription: ${purchase.productID}');
+      try {
+        // Use Future.microtask to avoid blocking UI
+        await Future.microtask(() async {
+          await _inAppPurchase.completePurchase(purchase);
+          print('Subscription completed successfully in background: ${purchase.productID}');
+        });
+      } catch (e) {
+        print('Error completing subscription in background: $e');
+        // Don't throw the error as this is a background operation
+      }
     }
   }
 
@@ -132,19 +152,13 @@ class SubscriptionService {
     try {
       print('Handling successful subscription purchase: ${purchase.productID}');
       
-      // 确保只处理订阅商品
-      if (!purchase.productID.startsWith('loungeplus')) {
-        print('Not a subscription purchase, skipping in SubscriptionService');
-        return;
-      }
-
-      // 检查是否已经处理过这个购买
+      // Check if this purchase has already been processed
       final purchaseKey = 'subscription_${purchase.purchaseID}';
       final hasProcessed = prefs.getBool(purchaseKey) ?? false;
       
       if (!hasProcessed) {
         try {
-          // 更新会员状态
+          // Update membership status
           final membershipNotifier = MembershipNotifier(prefs);
           final now = DateTime.now();
           final expiryDate = purchase.productID == 'loyoo.weekly'
@@ -157,25 +171,30 @@ class SubscriptionService {
             planType: purchase.productID == 'loyoo.weekly' ? 'weekly' : 'monthly',
           );
           
-          // 标记这个订阅已经处理过
+          // Mark this subscription as processed
           await prefs.setBool(purchaseKey, true);
           
-          // 调用成功回调
+          // Call success callback
           onSubscriptionSuccess(purchase.productID);
           
           print('Subscription status updated successfully');
+          
+          // Complete purchase in background
+          _completePurchaseInBackground(purchase);
         } catch (e) {
           print('Error updating subscription status: $e');
-          throw Exception('更新订阅状态失败: $e');
+          throw Exception('Failed to update subscription status: $e');
         }
       } else {
         print('Subscription ${purchase.purchaseID} already processed');
-        // 即使已处理过，也调用成功回调以更新UI
+        // Call success callback even if already processed to update UI
         onSubscriptionSuccess(purchase.productID);
+        // Still complete purchase in background if needed
+        _completePurchaseInBackground(purchase);
       }
     } catch (e) {
       print('Error handling successful subscription purchase: $e');
-      onSubscriptionError('处理订阅时出错: $e');
+      onSubscriptionError('Error processing subscription: $e');
       rethrow;
     }
   }

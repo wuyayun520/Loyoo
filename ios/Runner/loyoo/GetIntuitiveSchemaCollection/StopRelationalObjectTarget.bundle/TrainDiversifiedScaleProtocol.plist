@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>endSmallGraphList</key>
+	<string>initializeStaticSessionReference</string>
+	<key>getAccordionRotationBase</key>
+	<string>animateOriginalCenterCollection</string>
+	<key>makeCriticalRowOwner</key>
+	<string>introspectSymmetricDataDelegate</string>
+	<key>setDisplayableDetailFactory</key>
+	<string>combineDisplayableRotationDecorator</string>
+	<key>setStaticUtilFactory</key>
+	<string>pushUniqueCenterHelper</string>
+	<key>startCurrentSliderObserver</key>
+	<string>resumeMutableVisibleCollection</string>
+	<key>stopSpecifyBatchBase</key>
+	<string>skipSimilarTaskObserver</string>
+</dict>
+</plist>

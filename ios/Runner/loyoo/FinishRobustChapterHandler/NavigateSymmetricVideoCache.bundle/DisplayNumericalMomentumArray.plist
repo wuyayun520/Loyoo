@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>escalateOtherNodeOwner</key>
+	<string>getOriginalSceneProtocol</string>
+	<key>prepareBasicScenarioContainer</key>
+	<string>setSharedParamObserver</string>
+	<key>searchRapidZoneManager</key>
+	<string>renameSemanticDescriptionGroup</string>
+	<key>setAssociatedEvaluationImplement</key>
+	<string>resumeActivatedControllerList</string>
+	<key>startSustainableValueCollection</key>
+	<string>insteadConcreteVarExtension</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>getTypicalShaderDelegate</key>
+	<string>escalateTensorAllocatorCache</string>
+	<key>lockSophisticatedMatrixPool</key>
+	<string>setSingleParameterFactory</string>
+	<key>pauseUnsortedParamCollection</key>
+	<string>getNumericalProgressBarDecorator</string>
+	<key>resetSynchronousRestrictionGroup</key>
+	<string>startHierarchicalPolygonPool</string>
+	<key>setMediumSkewYInstance</key>
+	<string>unscheduleKeyParameterStack</string>
+	<key>setSignificantVisibleHandler</key>
+	<string>poolMediocreParameterCache</string>
+	<key>setSortedNumberObserver</key>
+	<string>spinIntuitiveInstructionPool</string>
+	<key>setTensorMenuDecorator</key>
+	<string>augmentSignificantVarCollection</string>
+	<key>stopLastRemainderExtension</key>
+	<string>skipDirectlyHeadInstance</string>
+</dict>
+</plist>

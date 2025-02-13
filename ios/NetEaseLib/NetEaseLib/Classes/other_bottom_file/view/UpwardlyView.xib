@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="19529" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_1" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="19519"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="System colors in document resources" minToolsVersion="11.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="UpwardlyView">
+            <connections>
+                <outlet property="fundButton" destination="LXL-bA-cs4" id="M88-Uw-0qT"/>
+                <outlet property="sessionCloudButton" destination="Lbr-pc-rqB" id="RK9-un-4ps"/>
+                <outlet property="inputSignalImageView" destination="A9D-MR-PUY" id="jQ8-F5-XDM"/>
+            </connections>
+        </placeholder>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="Zfr-nJ-3aO">
+            <rect key="frame" x="0.0" y="0.0" width="197.0" height="304.0"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <button contentMode="redraw" verticalHuggingPriority="251" horizontalCompressionResistancePriority="250" contentHorizontalAlignment="leading" contentVerticalAlignment="bottom" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="LXL-bA-cs4" hidden="YES" autoresizesSubviews="NO">
+                    <rect key="frame" x="6" y="197" width="150.1" height="59.6"/>
+                    <inset key="imageEdgeInsets" minX="0.0" minY="0.0" maxX="2.2250738585072014e-308" maxY="0.0"/>
+                    <state key="normal" title="voice info view" image="exaggerate_image">
+                        <color key="titleColor" red="0.2014389162955121" green="0.83879663446544547" blue="0.36586026328714943" alpha="0.85610481695184559" colorSpace="custom" customColorSpace="sRGB"/>
+                    </state>
+                    <state key="selected" title="icon data lab on raw" image="object_picture">
+                        <color key="titleColor" red="0.394796696" green="0.83161484770000005" blue="0.75892637900000004" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                    </state>
+                    <state key="highlighted" title="build pic" image="image_picture">
+                        <color key="titleColor" red="0.06376965484875451" green="0.99578640541029834" blue="0.20573619971684295" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                    </state>
+                </button>
+                <button contentMode="bottom" horizontalCompressionResistancePriority="250" verticalCompressionResistancePriority="250" contentHorizontalAlignment="fill" contentVerticalAlignment="fill" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Lbr-pc-rqB">
+                    <rect key="frame" x="-3" y="66" width="150.1" height="138.4"/>
+                    <inset key="imageEdgeInsets" minX="0.0" minY="0.0" maxX="2.2250738585072014e-308" maxY="0.0"/>
+                    <state key="normal" title="send image at" image="border_window_picture">
+                        <color key="titleColor" red="0.2130513793837074" green="0.98619239236666276" blue="0.16188624483246056" alpha="0.92108252797629064" colorSpace="custom" customColorSpace="sRGB"/>
+                    </state>
+                    <state key="selected" title="block view count to language bind" image="price_image">
+                        <color key="titleColor" red="0.394796696" green="0.83161484770000005" blue="0.75892637900000004" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                    </state>
+                </button>
+                <imageView userInteractionEnabled="NO" contentMode="center" horizontalHuggingPriority="303" verticalHuggingPriority="314" horizontalCompressionResistancePriority="318" verticalCompressionResistancePriority="262" image="exaggerate_image" highlightedImage="image_picture" translatesAutoresizingMaskIntoConstraints="NO" id="A9D-MR-PUY" hidden="YES" adjustsImageSizeForAccessibilityContentSizeCategory="YES">
+                    <rect key="frame" x="11" y="7" width="150.1" height="59.6"/>
+                </imageView>
+            </subviews>
+            <viewLayoutGuide key="safeArea" id="jtW-Oe-GSj"/>
+            <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+            <constraints>
+                <constraint firstItem="Lbr-pc-rqB" firstAttribute="leading" secondItem="Zfr-nJ-3aO" secondAttribute="leading" constant="6" id="rVo-OM-2LG"/>
+                <constraint firstItem="Lbr-pc-rqB" firstAttribute="top" secondItem="A9D-MR-PUY" secondAttribute="bottom" constant="7" id="tlW-aD-kS2"/>
+                <constraint firstItem="A9D-MR-PUY" firstAttribute="leading" secondItem="jtW-Oe-GSj" secondAttribute="leading" constant="8" id="Mxs-6S-SPO"/>
+                <constraint firstAttribute="trailing" secondItem="Lbr-pc-rqB" secondAttribute="trailing" id="c3t-ZS-3FN"/>
+                <constraint firstItem="LXL-bA-cs4" firstAttribute="leading" secondItem="jtW-Oe-GSj" secondAttribute="leading" constant="2" id="Sz9-Yz-1lG"/>
+                <constraint firstItem="jtW-Oe-GSj" firstAttribute="bottom" secondItem="Lbr-pc-rqB" secondAttribute="bottom" id="WCp-q0-bvY"/>
+                <constraint firstItem="A9D-MR-PUY" firstAttribute="top" secondItem="LXL-bA-cs4" secondAttribute="bottom" constant="4" id="wNZ-Uo-m5E"/>
+                <constraint firstItem="jtW-Oe-GSj" firstAttribute="trailing" secondItem="A9D-MR-PUY" secondAttribute="trailing" constant="8" id="tnh-gy-T2g"/>
+                <constraint firstItem="LXL-bA-cs4" firstAttribute="top" secondItem="Zfr-nJ-3aO" secondAttribute="top" constant="5" id="kMY-uG-Ke0"/>
+                <constraint firstItem="jtW-Oe-GSj" firstAttribute="trailing" secondItem="LXL-bA-cs4" secondAttribute="trailing" constant="4" id="XIy-ag-nS0"/>
+            </constraints>
+            <nil key="simulatedTopBarMetrics"/>
+            <nil key="simulatedBottomBarMetrics"/>
+            <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+            <point key="canvasLocation" x="-25.742082378486906" y="-150.97716689213199"/>
+        </view>
+    </objects>
+    <resources>
+        <image name="border_window_picture" width="74.8" height="56.9"/>
+        <image name="price_image" width="74.8" height="56.9"/>
+        <image name="exaggerate_image" width="74.8" height="56.9"/>
+        <image name="image_picture" width="74.8" height="56.9"/>
+        <image name="object_picture" width="74.8" height="56.9"/>
+        <systemColor name="systemBackgroundColor">
+            <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+        </systemColor>
+    </resources>
+</document>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>getRetainedTextFactory</key>
+	<string>touchSpecifyImpactInstance</string>
+	<key>pauseLocalBufferBase</key>
+	<string>finishFusedLayerFilter</string>
+	<key>retainCrudeEffectImplement</key>
+	<string>continueCrudeStampProtocol</string>
+	<key>setDirectMapOwner</key>
+	<string>setNewestBufferPool</string>
+	<key>trainActivatedBatchDecorator</key>
+	<string>trainTypicalSkewXManager</string>
+</dict>
+</plist>

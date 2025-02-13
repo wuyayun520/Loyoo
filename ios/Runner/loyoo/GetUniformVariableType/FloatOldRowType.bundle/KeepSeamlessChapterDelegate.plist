@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cancelLocalMusicArray</key>
+	<string>setDisplayableEdgeDelegate</string>
+	<key>getMissedOperationOwner</key>
+	<string>keepOriginalResultDelegate</string>
+	<key>keepRespectiveFeatureTarget</key>
+	<string>keepIndependentProgressBarPool</string>
+	<key>readKeyPreviewFilter</key>
+	<string>resumeSubsequentFeatureFilter</string>
+	<key>renameSubsequentMusicImplement</key>
+	<string>mitigateDenseValueFactory</string>
+	<key>rotateNewestNumberDecorator</key>
+	<string>restartOldLatencyArray</string>
+	<key>setAutoActionProtocol</key>
+	<string>setAccordionIndexCreator</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocateBeginnerStyleInstance</key>
+	<string>prepareAsynchronousNameExtension</string>
+	<key>createDirectSpotCreator</key>
+	<string>setCommonOperationPool</string>
+	<key>getProtectedMenuObserver</key>
+	<string>setUniqueGraphicOwner</string>
+	<key>initializeImmutableParamImplement</key>
+	<string>getDedicatedVarReference</string>
+	<key>mitigateRobustProgressBarProtocol</key>
+	<string>getDelicateCycleFilter</string>
+	<key>trainUniformBorderStack</key>
+	<string>restartIterativeAmortizationHandler</string>
+</dict>
+</plist>

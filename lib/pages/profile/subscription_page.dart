@@ -13,6 +13,13 @@ class SubscriptionPage extends ConsumerStatefulWidget {
 }
 
 class _SubscriptionPageState extends ConsumerState<SubscriptionPage> {
+  // Error messages
+  static const String _errorInitService = 'Failed to initialize subscription service';
+  static const String _errorProductNotFound = 'Product not found: ';
+  static const String _errorSubscriptionSuccess = 'Subscription successful!';
+  static const String _errorSubscriptionFailed = 'Subscription Failed';
+  static const String _errorSubscriptionGeneral = 'Subscription Error';
+
   SubscriptionService? _subscriptionService;
   bool _isLoading = true;
   int? _selectedPlanIndex;
@@ -26,7 +33,7 @@ class _SubscriptionPageState extends ConsumerState<SubscriptionPage> {
   @override
   void didChangeDependencies() {
     super.didChangeDependencies();
-    // 刷新会员状态
+    // Refresh membership status
     ref.refresh(membershipProvider);
   }
 
@@ -48,7 +55,7 @@ class _SubscriptionPageState extends ConsumerState<SubscriptionPage> {
         showDialog(
           context: context,
           builder: (context) => AlertDialog(
-            title: const Text('Initialization Error'),
+            title: Text(_errorInitService),
             content: Text(e.toString()),
             actions: [
               TextButton(
@@ -447,49 +454,49 @@ class _SubscriptionPageState extends ConsumerState<SubscriptionPage> {
         throw Exception('Subscription service not initialized');
       }
 
-      // 初始化订阅服务并获取商品列表
+      // Initialize subscription service and get product list
       final products = await _subscriptionService!.initialize();
       
-      // 查找对应的商品
+      // Find the corresponding product
       final product = products.firstWhere(
         (p) => p.id == productId,
-        orElse: () => throw Exception('Product not found: $productId'),
+        orElse: () => throw Exception('$_errorProductNotFound$productId'),
       );
 
       print('Starting subscription purchase for: ${product.id}');
       
-      // 设置购买成功回调
+      // Set success callback
       _subscriptionService!.onSubscriptionSuccess = (String purchasedProductId) async {
         if (!mounted) return;
         
-        // 先刷新会员状态
+        // Refresh membership status
         ref.refresh(membershipProvider);
         
         if (!mounted) return;
         
-        // 使用 BuildContext 扩展方法来检查是否可以弹出
+        // Check if we can show snackbar
         if (context.mounted && Navigator.canPop(context)) {
-          // 显示成功提示
+          // Show success message
           ScaffoldMessenger.of(context).showSnackBar(
-            const SnackBar(
-              content: Text('Subscription successful!'),
+            SnackBar(
+              content: Text(_errorSubscriptionSuccess),
               behavior: SnackBarBehavior.floating,
             ),
           );
           
-          // 安全地返回上一页
+          // Safely navigate back
           Navigator.of(context).pop();
         }
       };
       
-      // 设置购买失败回调
+      // Set error callback
       _subscriptionService!.onSubscriptionError = (String error) {
         if (!mounted) return;
         
         showDialog(
           context: context,
           builder: (context) => AlertDialog(
-            title: const Text('Subscription Failed'),
+            title: Text(_errorSubscriptionFailed),
             content: Text(error),
             actions: [
               TextButton(
@@ -505,7 +512,7 @@ class _SubscriptionPageState extends ConsumerState<SubscriptionPage> {
         );
       };
 
-      // 发起购买
+      // Initiate purchase
       await _subscriptionService!.purchase(product);
       
     } catch (e) {
@@ -517,7 +524,7 @@ class _SubscriptionPageState extends ConsumerState<SubscriptionPage> {
         showDialog(
           context: context,
           builder: (context) => AlertDialog(
-            title: const Text('Subscription Error'),
+            title: Text(_errorSubscriptionGeneral),
             content: Text(e.toString()),
             actions: [
               TextButton(

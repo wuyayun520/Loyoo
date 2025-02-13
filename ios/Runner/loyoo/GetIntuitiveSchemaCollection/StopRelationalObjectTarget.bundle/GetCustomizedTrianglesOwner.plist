@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>generateResilientLayerDelegate</key>
+	<string>setEuclideanRangeCreator</string>
+	<key>getDirectlyBorderCreator</key>
+	<string>resetSmartActionBase</string>
+	<key>insteadSimilarHeroList</key>
+	<string>setMutableScreenExtension</string>
+	<key>keepUniqueValueHelper</key>
+	<string>getExplicitIndexManager</string>
+	<key>rectifyDirectRotationType</key>
+	<string>getResilientRestrictionContainer</string>
+	<key>setRespectiveInitiatorsFactory</key>
+	<string>executeSeamlessEvaluationManager</string>
+	<key>setSecondInitiativeList</key>
+	<string>stopRespectiveTernaryOwner</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>continueSubtleValueContainer</key>
+	<string>enhanceNormalOriginTarget</string>
+	<key>getCustomStrengthList</key>
+	<string>setFirstActionImplement</string>
+	<key>getStaticTexturePool</key>
+	<string>getMainCoordTarget</string>
+	<key>initializeImmutableBufferManager</key>
+	<string>finishExplicitSpinePool</string>
+	<key>keepRespectiveTweakCreator</key>
+	<string>compareDirectlyVarList</string>
+	<key>reconcileHierarchicalViewCache</key>
+	<string>pauseRobustTimelineReference</string>
+	<key>resumePrismaticInteractionOwner</key>
+	<string>resumeMainNumberManager</string>
+	<key>setStandaloneGrayscaleReference</key>
+	<string>executePublicMatrixInstance</string>
+	<key>skipBackwardTagAdapter</key>
+	<string>getOriginalDescriptorCache</string>
+</dict>
+</plist>

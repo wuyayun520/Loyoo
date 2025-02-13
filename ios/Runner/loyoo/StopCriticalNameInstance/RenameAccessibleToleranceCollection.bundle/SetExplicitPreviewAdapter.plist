@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cleanFusedInterfaceCache</key>
+	<string>introspectLastCenterGroup</string>
+	<key>destroyDifficultCoordObserver</key>
+	<string>setAutoCoordManager</string>
+	<key>getLiteParamContainer</key>
+	<string>keepOldParamStack</string>
+	<key>getUsedValueType</key>
+	<string>prepareElasticItemCollection</string>
+	<key>regulateOldModelObserver</key>
+	<string>resumeTypicalActionFilter</string>
+	<key>setLitePopupGroup</key>
+	<string>trainLastTaskProtocol</string>
+	<key>setUniqueParamArray</key>
+	<string>cancelProtectedEvolutionHandler</string>
+	<key>trainBackwardValueManager</key>
+	<string>wrapHyperbolicEffectFilter</string>
+</dict>
+</plist>

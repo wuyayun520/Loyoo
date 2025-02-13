@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adjustOpaqueVariableInstance</key>
+	<string>getDiscardedTextureStack</string>
+	<key>cancelConsultativeSizeFactory</key>
+	<string>pushBackwardTextureDelegate</string>
+	<key>getPermanentGrainManager</key>
+	<string>getCommonParameterCollection</string>
+	<key>getSharedOptimizerProtocol</key>
+	<string>setElasticEdgeManager</string>
+	<key>prepareSubsequentOperationPool</key>
+	<string>cancelMutableTagGroup</string>
+	<key>setCrucialParameterGroup</key>
+	<string>getEuclideanMenuPool</string>
+	<key>trainNumericalTempleAdapter</key>
+	<string>scheduleDirectVarList</string>
+	<key>unscheduleRetainedNormCollection</key>
+	<string>markDedicatedParamFactory</string>
+</dict>
+</plist>

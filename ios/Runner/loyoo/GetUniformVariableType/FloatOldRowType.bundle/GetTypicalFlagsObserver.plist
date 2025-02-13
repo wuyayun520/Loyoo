@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>encapsulateFusedResultGroup</key>
+	<string>stopPublicHeadAdapter</string>
+	<key>getDeclarativeItemCache</key>
+	<string>skipConcurrentBufferArray</string>
+	<key>getDisparateRectHandler</key>
+	<string>searchOpaquePolygonHandler</string>
+	<key>getMutableTopOwner</key>
+	<string>setHierarchicalToleranceAdapter</string>
+	<key>getStandaloneNodeImplement</key>
+	<string>setGlobalSkewYFilter</string>
+	<key>limitOtherAnchorDelegate</key>
+	<string>keepOriginalMenuReference</string>
+	<key>resumeHardMusicImplement</key>
+	<string>getIntuitiveNameFactory</string>
+	<key>startAgileZoneCache</key>
+	<string>equalCustomLabelCreator</string>
+</dict>
+</plist>

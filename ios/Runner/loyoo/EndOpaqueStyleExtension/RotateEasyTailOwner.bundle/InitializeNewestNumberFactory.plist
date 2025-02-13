@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>generateSortedTextureAdapter</key>
+	<string>mitigateExplicitScreenTarget</string>
+	<key>getEasyGrayscaleDelegate</key>
+	<string>quantizationDelicateBulletDecorator</string>
+	<key>getEphemeralTaskList</key>
+	<string>setBackwardLayerImplement</string>
+	<key>locateReusableHeadList</key>
+	<string>skipGeometricBufferTarget</string>
+	<key>pauseCriticalRangeExtension</key>
+	<string>setDeclarativeScaleReference</string>
+	<key>skipBasicSkewYManager</key>
+	<string>getSignificantConfigurationArray</string>
+</dict>
+</plist>

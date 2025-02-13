@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>freeUsedUtilFilter</key>
+	<string>restartDeclarativeBatchImplement</string>
+	<key>getBasicRestrictionGroup</key>
+	<string>quantizationNumericalPopupHandler</string>
+	<key>getElasticParameterObserver</key>
+	<string>getSharedBufferManager</string>
+	<key>getIterativeHeadInstance</key>
+	<string>initializeStaticParameterPool</string>
+	<key>initializeIndependentVariableGroup</key>
+	<string>moveFirstGroupList</string>
+	<key>keepFirstTweakContainer</key>
+	<string>setAdvancedLeftProtocol</string>
+	<key>startArithmeticParamFactory</key>
+	<string>rotateCriticalFormatImplement</string>
+	<key>touchOldEdgeDelegate</key>
+	<string>startPermanentInterfaceManager</string>
+	<key>updateRelationalGramReference</key>
+	<string>resumeDifficultParameterCollection</string>
+</dict>
+</plist>

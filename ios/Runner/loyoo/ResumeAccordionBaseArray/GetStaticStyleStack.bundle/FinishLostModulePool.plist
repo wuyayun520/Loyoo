@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dissociateRobustReferenceAdapter</key>
+	<string>skipOtherStatusBase</string>
+	<key>getGlobalBufferCollection</key>
+	<string>finishUniformFlagsHelper</string>
+	<key>pauseSubsequentBandwidthCache</key>
+	<string>findDifficultChapterInstance</string>
+	<key>stopDiscardedAscentGroup</key>
+	<string>getSymmetricPositionArray</string>
+</dict>
+</plist>

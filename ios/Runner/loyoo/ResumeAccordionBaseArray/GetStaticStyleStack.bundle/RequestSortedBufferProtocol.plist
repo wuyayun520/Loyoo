@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocateMutableBoundDelegate</key>
+	<string>addDisplayableLeftImplement</string>
+	<key>associateCustomCharacterList</key>
+	<string>getSortedEffectHelper</string>
+	<key>dissociateEphemeralBottomReference</key>
+	<string>rotateLiteDescriptionImplement</string>
+	<key>endGeometricInterfaceGroup</key>
+	<string>getConcurrentVisibleProtocol</string>
+	<key>initializeCrudeVariableReference</key>
+	<string>appendAssociatedCapacityStack</string>
+	<key>lockEuclideanDeliveryFilter</key>
+	<string>setSubstantialTextureAdapter</string>
+	<key>preparePrevPermutationFilter</key>
+	<string>pauseHardParameterContainer</string>
+	<key>storeMainReferenceImplement</key>
+	<string>prepareLastParamObserver</string>
+</dict>
+</plist>

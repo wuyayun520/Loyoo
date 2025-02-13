@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>getAccessibleVarObserver</key>
+	<string>initializeResilientBufferReference</string>
+	<key>getFirstSkewYReference</key>
+	<string>navigateAccessibleCacheContainer</string>
+	<key>keepStaticRoleHelper</key>
+	<string>setNewestArithmeticType</string>
+	<key>prepareGranularTimelineExtension</key>
+	<string>setSignificantEffectManager</string>
+	<key>quantizationMissedModelDelegate</key>
+	<string>setNormalChartManager</string>
+	<key>setDifficultSizeHelper</key>
+	<string>multiplyHierarchicalOpacityTarget</string>
+	<key>setResilientProgressBarCreator</key>
+	<string>setCriticalThresholdGroup</string>
+	<key>trainSmallVariableInstance</key>
+	<string>reconcileFirstLabelArray</string>
+</dict>
+</plist>

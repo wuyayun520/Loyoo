@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>getArithmeticBufferInstance</key>
+	<string>getGlobalTagCreator</string>
+	<key>getEphemeralQuaternionList</key>
+	<string>optimizeEnabledFrameBase</string>
+	<key>setTypicalScreenContainer</key>
+	<string>generateRespectivePositionReference</string>
+</dict>
+</plist>

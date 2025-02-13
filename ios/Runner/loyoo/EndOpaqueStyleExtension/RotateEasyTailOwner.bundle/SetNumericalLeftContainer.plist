@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>decoupleBackwardMetadataGroup</key>
+	<string>prepareSubsequentFrameList</string>
+	<key>embedIgnoredLayerType</key>
+	<string>cancelAccessibleIndexGroup</string>
+	<key>getDisparateTailOwner</key>
+	<string>updateDenseCubeProtocol</string>
+	<key>getIgnoredHashProtocol</key>
+	<string>initializeDiscardedValueBase</string>
+	<key>getUsedDepthObserver</key>
+	<string>introspectCrudeBoxBase</string>
+	<key>offsetMutableClusterObserver</key>
+	<string>setMutableIndexCache</string>
+	<key>resetCustomizedCapacitiesPool</key>
+	<string>getSingleAssetReference</string>
+	<key>restartDedicatedPositionFactory</key>
+	<string>getSeamlessFeatureManager</string>
+	<key>setArithmeticBufferCreator</key>
+	<string>initializeConsultativeFrameCache</string>
+</dict>
+</plist>

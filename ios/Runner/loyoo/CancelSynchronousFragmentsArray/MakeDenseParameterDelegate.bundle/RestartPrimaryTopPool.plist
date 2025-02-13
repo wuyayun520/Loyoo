@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>captureSeamlessCompositionType</key>
+	<string>setDelicateRotationDecorator</string>
+	<key>equalRobustBufferFactory</key>
+	<string>getCartesianSkewYObserver</string>
+	<key>getUnsortedNotationExtension</key>
+	<string>getMultiSpriteDelegate</string>
+	<key>resumeEuclideanMeshInstance</key>
+	<string>getDelicateInfoFactory</string>
+	<key>setCustomOpacityContainer</key>
+	<string>resetMutableLabelOwner</string>
+	<key>setProtectedCursorFactory</key>
+	<string>getCartesianChartDelegate</string>
+	<key>stopSignificantNumberCache</key>
+	<string>resetAccordionVarFilter</string>
+</dict>
+</plist>

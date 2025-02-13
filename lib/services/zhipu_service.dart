@@ -9,7 +9,7 @@ class ZhipuService {
 
   Future<String> generateContent(String prompt) async {
     try {
-      dev.log('准备调用智谱API', name: 'ZhipuService');
+      dev.log('Preparing to call Zhipu API', name: 'ZhipuService');
       
       final headers = {
         'Authorization': 'Bearer $_apiKey',
@@ -28,7 +28,7 @@ class ZhipuService {
         'request_id': DateTime.now().millisecondsSinceEpoch.toString(),
       });
 
-      dev.log('发送请求到智谱API', name: 'ZhipuService', error: 'Request Body: $body');
+      dev.log('Sending request to Zhipu API', name: 'ZhipuService', error: 'Request Body: $body');
 
       final response = await http.post(
         Uri.parse(_baseUrl),
@@ -36,29 +36,28 @@ class ZhipuService {
         body: body,
       );
 
-      dev.log('收到API响应', name: 'ZhipuService', error: 'Status Code: ${response.statusCode}, Body: ${response.body}');
+      dev.log('Received API response', name: 'ZhipuService', error: 'Status Code: ${response.statusCode}, Body: ${response.body}');
 
       if (response.statusCode == 200) {
         final responseData = jsonDecode(response.body);
-        dev.log('API响应数据', name: 'ZhipuService', error: 'Response: $responseData');
+        dev.log('API response data', name: 'ZhipuService', error: 'Response: $responseData');
         
-        // 根据智谱API的响应格式提取内容
         if (responseData['data'] != null && 
             responseData['data']['choices'] != null && 
             responseData['data']['choices'].isNotEmpty &&
             responseData['data']['choices'][0]['message'] != null) {
           final message = responseData['data']['choices'][0]['message'];
           final content = message['content'];
-          return content ?? '生成内容为空';
+          return content ?? 'Generated content is empty';
         } else {
-          throw Exception('API返回数据格式不正确: ${response.body}');
+          throw Exception('Invalid API response format: ${response.body}');
         }
       } else {
-        throw Exception('API请求失败: ${response.statusCode} - ${response.body}');
+        throw Exception('API request failed: ${response.statusCode} - ${response.body}');
       }
     } catch (e, stackTrace) {
       dev.log(
-        'API调用错误',
+        'API call error',
         name: 'ZhipuService',
         error: e,
         stackTrace: stackTrace,

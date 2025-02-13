@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>calculateUsedPreviewGroup</key>
+	<string>optimizeGeometricEquipmentDecorator</string>
+	<key>clearSortedMeshContainer</key>
+	<string>keepFusedOriginTarget</string>
+	<key>eraseMissedEdgeCache</key>
+	<string>stopTensorProvisionDelegate</string>
+	<key>fillDifficultRotationTarget</key>
+	<string>executeCustomAllocatorExtension</string>
+	<key>finishActivatedParameterHandler</key>
+	<string>initializeDirectLeftDelegate</string>
+	<key>skipUniqueConvolutionCache</key>
+	<string>computeAssociatedGroupCollection</string>
+	<key>trainStandaloneBufferReference</key>
+	<string>setAccordionEdgeContainer</string>
+</dict>
+</plist>

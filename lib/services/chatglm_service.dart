@@ -14,22 +14,29 @@ class ChatGLMService {
   final String _imageUrl = 'https://open.bigmodel.cn/api/paas/v4/images/generations';
   final ProviderRef _ref;
 
-  // 定义各功能消耗的金币数
+  // Define costs for each feature
   static const int _textGenerationCost = 1;
   static const int _imageGenerationCost = 5;
   static const int _chatCost = 5;
 
+  // Error messages
+  static const String _errorInsufficientBalance = 'Insufficient balance. Please recharge or upgrade to premium membership to continue.';
+  static const String _errorEmptyContent = 'Generated content is empty';
+  static const String _errorInvalidResponse = 'Invalid API response format: ';
+  static const String _errorRequestFailed = 'API request failed: ';
+  static const String _errorEmptyImageUrl = 'Generated image URL is empty';
+
   ChatGLMService(this._ref);
 
   Future<bool> _checkAndDeductBalance(int amount) async {
-    // 检查会员状态
+    // Check membership status
     final membershipState = _ref.read(membershipProvider);
     if (membershipState.isValid) {
-      // 会员无需扣除金币
+      // Members don't need to deduct coins
       return true;
     }
     
-    // 非会员需要检查并扣除金币
+    // Non-members need to check and deduct coins
     final balanceNotifier = _ref.read(balanceProvider.notifier);
     return await balanceNotifier.deductBalance(amount);
   }
@@ -61,10 +68,10 @@ class ChatGLMService {
   }
 
   Future<String> generateContent(String prompt) async {
-    // 检查并扣除金币（文本生成消耗1个金币）
+    // Check and deduct coins (text generation costs 1 coin)
     final hasEnoughBalance = await _checkAndDeductBalance(_textGenerationCost);
     if (!hasEnoughBalance) {
-      throw Exception('Insufficient balance. Please recharge or upgrade to premium membership to continue.');
+      throw Exception(_errorInsufficientBalance);
     }
 
     try {
@@ -82,10 +89,10 @@ class ChatGLMService {
   }
 
   Future<String> generateImage(String prompt) async {
-    // 检查并扣除金币（图片生成消耗5个金币）
+    // Check and deduct coins (image generation costs 5 coins)
     final hasEnoughBalance = await _checkAndDeductBalance(_imageGenerationCost);
     if (!hasEnoughBalance) {
-      throw Exception('Insufficient balance. Please recharge or upgrade to premium membership to continue.');
+      throw Exception(_errorInsufficientBalance);
     }
 
     try {
@@ -123,14 +130,14 @@ class ChatGLMService {
         if (responseData['data'] != null && responseData['data'].isNotEmpty) {
           final imageUrl = responseData['data'][0]['url'];
           if (imageUrl == null) {
-            throw Exception('Generated image URL is empty');
+            throw Exception(_errorEmptyImageUrl);
           }
           return imageUrl;
         } else {
-          throw Exception('Invalid API response format: ${response.body}');
+          throw Exception('$_errorInvalidResponse${response.body}');
         }
       } else {
-        throw Exception('API request failed: ${response.statusCode} - ${response.body}');
+        throw Exception('$_errorRequestFailed${response.statusCode} - ${response.body}');
       }
     } catch (e, stackTrace) {
       dev.log(
@@ -144,10 +151,10 @@ class ChatGLMService {
   }
 
   Future<String> chat(List<Map<String, String>> messages) async {
-    // 检查并扣除金币（聊天消耗5个金币）
+    // Check and deduct coins (chat costs 5 coins)
     final hasEnoughBalance = await _checkAndDeductBalance(_chatCost);
     if (!hasEnoughBalance) {
-      throw Exception('Insufficient balance. Please recharge or upgrade to premium membership to continue.');
+      throw Exception(_errorInsufficientBalance);
     }
 
     try {
@@ -186,12 +193,12 @@ class ChatGLMService {
             responseData['choices'][0]['message'] != null) {
           final message = responseData['choices'][0]['message'];
           final content = message['content'];
-          return content ?? 'Generated content is empty';
+          return content ?? _errorEmptyContent;
         } else {
-          throw Exception('Invalid API response format: ${response.body}');
+          throw Exception('$_errorInvalidResponse${response.body}');
         }
       } else {
-        throw Exception('API request failed: ${response.statusCode} - ${response.body}');
+        throw Exception('$_errorRequestFailed${response.statusCode} - ${response.body}');
       }
     } catch (e, stackTrace) {
       dev.log(

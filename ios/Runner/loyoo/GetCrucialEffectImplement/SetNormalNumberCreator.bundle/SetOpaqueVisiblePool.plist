@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appendEphemeralPrecisionCollection</key>
+	<string>getPermanentTrianglesPool</string>
+	<key>combineCommonRowBase</key>
+	<string>setHyperbolicRangeCreator</string>
+	<key>eraseDenseEfficiencyHelper</key>
+	<string>restartDenseBorderGroup</string>
+	<key>getRespectiveMonsterGroup</key>
+	<string>resumeOldAllocatorHandler</string>
+	<key>getRespectiveRectHelper</key>
+	<string>finishDelicateRestrictionExtension</string>
+	<key>initializePublicNormObserver</key>
+	<string>drawResilientTopicObserver</string>
+</dict>
+</plist>

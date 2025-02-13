@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>continueAdvancedRangeArray</key>
+	<string>getDisplayableChecklistDelegate</string>
+	<key>discoverStandaloneResilienceFilter</key>
+	<string>prepareIndependentPolyfillTarget</string>
+	<key>getPriorValueCache</key>
+	<string>setAutoViewDecorator</string>
+	<key>restartAdvancedAllocatorImplement</key>
+	<string>resumeComprehensiveTitleDecorator</string>
+	<key>resumeSustainableParameterDelegate</key>
+	<string>restartSmallTextAdapter</string>
+	<key>startSubtleCardFilter</key>
+	<string>continueStaticColorFactory</string>
+</dict>
+</plist>

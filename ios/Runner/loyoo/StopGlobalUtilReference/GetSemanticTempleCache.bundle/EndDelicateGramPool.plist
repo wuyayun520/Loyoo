@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>addIndependentEfficiencyCreator</key>
+	<string>startUnactivatedSamplePool</string>
+	<key>continueActivatedDepthPool</key>
+	<string>getSecondStyleCreator</string>
+	<key>initializeSustainableCacheDecorator</key>
+	<string>shearUniqueVectorImplement</string>
+	<key>keepOtherRangeDelegate</key>
+	<string>setLostCenterCollection</string>
+	<key>restartCustomFlagsBase</key>
+	<string>pausePublicFrameManager</string>
+	<key>resumeDirectAudioManager</key>
+	<string>keepLargeDataList</string>
+</dict>
+</plist>

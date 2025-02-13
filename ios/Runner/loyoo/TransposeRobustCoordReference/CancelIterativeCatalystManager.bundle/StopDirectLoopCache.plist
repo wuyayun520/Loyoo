@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cleanTensorStatusType</key>
+	<string>resumeRetainedVariableManager</string>
+	<key>holdLostInformationManager</key>
+	<string>finishOpaqueIndexObserver</string>
+	<key>pushRobustSegmentCollection</key>
+	<string>setDisplayableColorManager</string>
+	<key>respondSecondRectFilter</key>
+	<string>offsetSophisticatedHashImplement</string>
+	<key>resumeHierarchicalListenerTarget</key>
+	<string>endAssociatedPaddingOwner</string>
+</dict>
+</plist>

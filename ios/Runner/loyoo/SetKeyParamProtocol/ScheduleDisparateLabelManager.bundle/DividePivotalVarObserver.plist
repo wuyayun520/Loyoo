@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>getDifficultTopFilter</key>
+	<string>insteadOpaqueModelList</string>
+	<key>setBasicStyleManager</key>
+	<string>cleanUnactivatedVarBase</string>
+	<key>stopLargeReferenceType</key>
+	<string>setComprehensiveListenerTarget</string>
+</dict>
+</plist>

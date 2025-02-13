@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>getBeginnerQueueObserver</key>
+	<string>finishCrudeProjectionManager</string>
+	<key>keepDirectlyStylePool</key>
+	<string>stopUnactivatedViewInstance</string>
+	<key>keepImmutableInterfaceBase</key>
+	<string>generatePublicCacheContainer</string>
+	<key>prepareRobustCapacitiesHandler</key>
+	<string>setPivotalTopicArray</string>
+</dict>
+</plist>

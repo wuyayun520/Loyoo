@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>freeStaticMovementHandler</key>
+	<string>getEuclideanLayoutExtension</string>
+	<key>getNextNumberPool</key>
+	<string>getLocalRowHelper</string>
+	<key>pauseSustainableGraphInstance</key>
+	<string>getCrucialDocumentExtension</string>
+	<key>playResilientTopDelegate</key>
+	<string>scheduleHyperbolicHeadDecorator</string>
+	<key>setCustomStyleTarget</key>
+	<string>dropoutAssociatedPaddingDecorator</string>
+	<key>setMediocreNameObserver</key>
+	<string>rotatePrevTempleCreator</string>
+	<key>startHyperbolicTextCollection</key>
+	<string>requestUniqueCharacterCache</string>
+</dict>
+</plist>

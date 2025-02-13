@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocateReusableTopDelegate</key>
+	<string>prepareRetainedEdgeHelper</string>
+	<key>finishCurrentModuleInstance</key>
+	<string>startKeyCapsuleAdapter</string>
+	<key>getConsultativeSymbolPool</key>
+	<string>insteadSubstantialAnchorStack</string>
+	<key>getPrismaticIndexProtocol</key>
+	<string>resumeLargePrecisionDelegate</string>
+	<key>resetLocalDistinctionExtension</key>
+	<string>startUnactivatedSpineHandler</string>
+	<key>setConsultativeTweakReference</key>
+	<string>pauseRelationalSymbolDecorator</string>
+	<key>skipPrevNumberTarget</key>
+	<string>seekConcreteReplicaCache</string>
+	<key>startGlobalTemplePool</key>
+	<string>stopAutoLayoutHandler</string>
+	<key>startResilientSkewXAdapter</key>
+	<string>introspectRobustDurationPool</string>
+</dict>
+</plist>

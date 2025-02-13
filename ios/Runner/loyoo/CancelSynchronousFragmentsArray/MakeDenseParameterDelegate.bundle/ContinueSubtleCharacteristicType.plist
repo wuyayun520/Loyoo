@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>combineCurrentNotationType</key>
+	<string>setAutoIntensityAdapter</string>
+	<key>finishDenseQueueInstance</key>
+	<string>getDelicateLayoutDelegate</string>
+	<key>getImmutableOptimizerBase</key>
+	<string>findTensorMultiplicationFilter</string>
+	<key>initializeUniformSizeProtocol</key>
+	<string>cancelSpecifyOptionTarget</string>
+	<key>prepareUnactivatedDepthTarget</key>
+	<string>startIterativeNameFactory</string>
+	<key>restartRespectiveEdgeProtocol</key>
+	<string>setAutoMatrixAdapter</string>
+	<key>resumeSynchronousSkewYObserver</key>
+	<string>clearNewestRemediationHelper</string>
+</dict>
+</plist>

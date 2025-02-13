@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>limitKeyVariableAdapter</key>
+	<string>trainSemanticSpecifierCache</string>
+	<key>locateRequiredStrengthExtension</key>
+	<string>prepareNumericalNumberTarget</string>
+	<key>setAssociatedAnchorObserver</key>
+	<string>calculateSemanticContractionStack</string>
+	<key>setSingleDialogsDecorator</key>
+	<string>setBasicChartObserver</string>
+	<key>stopSophisticatedOpacityCollection</key>
+	<string>undertakeRequiredDetailDecorator</string>
+	<key>trainDenseDescriptionDelegate</key>
+	<string>getConcurrentActionFactory</string>
+	<key>trainMediocreTextPool</key>
+	<string>initializeGeometricMusicObserver</string>
+</dict>
+</plist>

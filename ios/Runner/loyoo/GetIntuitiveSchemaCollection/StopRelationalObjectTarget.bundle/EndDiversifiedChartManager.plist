@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compareFirstBufferObserver</key>
+	<string>pauseComprehensivePointDelegate</string>
+	<key>getUnsortedExponentContainer</key>
+	<string>movePriorBorderHandler</string>
+	<key>quitLastPreviewContainer</key>
+	<string>setSubsequentTimePool</string>
+	<key>readDiversifiedBoxFilter</key>
+	<string>endAdvancedSpriteFilter</string>
+	<key>setActivatedPositionTarget</key>
+	<string>setCustomizedVarPool</string>
+	<key>setHyperbolicBufferProtocol</key>
+	<string>executeAdvancedAnimationContainer</string>
+	<key>skipSmallProjectionCreator</key>
+	<string>pauseGreatParticleArray</string>
+</dict>
+</plist>

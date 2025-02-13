@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>extendIndependentScaleCollection</key>
+	<string>findDiscardedGateAdapter</string>
+	<key>findPermissiveViewDecorator</key>
+	<string>continueAccessibleRectangleCreator</string>
+	<key>finishPrimaryResolverCache</key>
+	<string>setFirstParamCreator</string>
+	<key>getMediocreBorderList</key>
+	<string>seekPermanentTempleDelegate</string>
+	<key>parseUniformOriginProtocol</key>
+	<string>endPublicFeatureTarget</string>
+	<key>pauseComprehensiveVarDelegate</key>
+	<string>multiplyMissedCoordinatorReference</string>
+	<key>prepareConcreteGroupAdapter</key>
+	<string>upgradeOpaqueDepthProtocol</string>
+</dict>
+</plist>

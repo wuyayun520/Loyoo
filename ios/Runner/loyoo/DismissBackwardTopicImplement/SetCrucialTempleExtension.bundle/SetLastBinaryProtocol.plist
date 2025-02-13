@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associateSubtleMenuDelegate</key>
+	<string>refreshIgnoredSizeHandler</string>
+	<key>escalateFirstTailOwner</key>
+	<string>resumePrevStyleCollection</string>
+	<key>getLiteConfigurationDecorator</key>
+	<string>enhanceDisplayableHashHelper</string>
+	<key>getNumericalOpacityFactory</key>
+	<string>pauseGlobalGraphicAdapter</string>
+	<key>resetBeginnerParameterPool</key>
+	<string>setNormalVideoType</string>
+	<key>setCrudeShaderExtension</key>
+	<string>setLostParamList</string>
+	<key>setDisparateTrajectoryAdapter</key>
+	<string>setAccordionVariableManager</string>
+	<key>setStaticLabelFilter</key>
+	<string>setFirstEffectAdapter</string>
+	<key>setSubsequentNumberGroup</key>
+	<string>limitSecondCoordInstance</string>
+	<key>trainLostEvolutionFactory</key>
+	<string>pauseResilientScaleAdapter</string>
+</dict>
+</plist>

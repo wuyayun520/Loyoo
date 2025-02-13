@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adjustConcurrentResolverType</key>
+	<string>encapsulateActivatedScaleDecorator</string>
+	<key>cancelReusableHeadStack</key>
+	<string>cloneAutoSceneDecorator</string>
+	<key>embraceEnabledStrokeHelper</key>
+	<string>setBackwardBorderHelper</string>
+	<key>keepDiversifiedGraphDecorator</key>
+	<string>calculateEuclideanIntensityCache</string>
+	<key>provideIntermediateSchedulerArray</key>
+	<string>setMediocreBorderReference</string>
+	<key>setRespectiveNumberCreator</key>
+	<string>respondGranularInitiativeStack</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>finishRequiredEventProtocol</key>
+	<string>setHardModuleGroup</string>
+	<key>getBasicUsageBase</key>
+	<string>clipDiscardedVisibleOwner</string>
+	<key>getGranularHeadList</key>
+	<string>setSophisticatedAllocatorManager</string>
+	<key>prepareUnactivatedStylePool</key>
+	<string>getProtectedTrajectoryHandler</string>
+	<key>provideAsynchronousChapterObserver</key>
+	<string>setArithmeticScaleDecorator</string>
+	<key>restartCrudeAnalogyObserver</key>
+	<string>setSymmetricControllerHelper</string>
+	<key>setCustomizedMenuStack</key>
+	<string>detachAssociatedComponentPool</string>
+	<key>showPriorMasterStack</key>
+	<string>lockConsultativeBoundDecorator</string>
+</dict>
+</plist>

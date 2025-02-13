@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>continueMediumVariableList</key>
+	<string>pauseMainParamInstance</string>
+	<key>getCommonSkewXAdapter</key>
+	<string>restartSharedHeadFactory</string>
+	<key>getDirectPaddingCreator</key>
+	<string>obtainPublicStyleContainer</string>
+	<key>getStaticNumberOwner</key>
+	<string>prepareDeclarativeDepthGroup</string>
+	<key>locateExplicitBottomPool</key>
+	<string>cancelSmartStrokeCache</string>
+	<key>pushPrismaticAnimationPool</key>
+	<string>showCrudeParamHelper</string>
+	<key>stopCrucialDurationCollection</key>
+	<string>trainElasticLatencyManager</string>
+</dict>
+</plist>

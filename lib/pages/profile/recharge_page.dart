@@ -15,6 +15,16 @@ class RechargePage extends StatefulWidget {
 }
 
 class _RechargePageState extends State<RechargePage> with WidgetsBindingObserver {
+  // Error messages
+  static const String _errorLoadingProducts = 'Failed to load product list. Please try again later';
+  static const String _errorInitService = 'Failed to initialize service. Please try again later';
+  static const String _errorPurchasePending = 'Purchase in progress...';
+  static const String _errorPurchaseCanceled = 'Purchase canceled';
+  static const String _errorPurchaseSuccess = 'Purchase successful!';
+  static const String _errorProductNotFound = 'Product not found: ';
+  static const String _errorPurchaseGeneral = 'Purchase failed: ';
+  static const String _errorCompletePurchase = 'Error completing purchase: ';
+
   BalanceService? _balanceService;
   ApplePaymentService? _applePaymentService;
   List<RechargeItemModel> _rechargeItems = [];
@@ -63,11 +73,11 @@ class _RechargePageState extends State<RechargePage> with WidgetsBindingObserver
 
       final prefs = await SharedPreferences.getInstance();
       
-      // 先初始化 BalanceService
+      // Initialize BalanceService
       final balanceService = BalanceService(prefs);
       print('Initializing balance service...');
       
-      // 再初始化 ApplePaymentService
+      // Initialize ApplePaymentService
       final applePaymentService = ApplePaymentService(prefs);
       
       if (!mounted) return;
@@ -77,7 +87,7 @@ class _RechargePageState extends State<RechargePage> with WidgetsBindingObserver
         _applePaymentService = applePaymentService;
       });
 
-      // 设置回调
+      // Set callbacks
       _applePaymentService?.onPurchaseSuccess = (String productId) {
         print('Purchase successful: $productId');
         _loadBalance();
@@ -92,7 +102,7 @@ class _RechargePageState extends State<RechargePage> with WidgetsBindingObserver
         }
       };
 
-      // 设置购买流监听器
+      // Set purchase stream listener
       _subscription = InAppPurchase.instance.purchaseStream.listen(
         _listenToPurchaseUpdated,
         onError: (error) {
@@ -100,7 +110,7 @@ class _RechargePageState extends State<RechargePage> with WidgetsBindingObserver
         },
       );
 
-      // 并行加载数据
+      // Load data in parallel
       try {
         await Future.wait([
           _loadBalance(),
@@ -109,20 +119,6 @@ class _RechargePageState extends State<RechargePage> with WidgetsBindingObserver
         ]);
       } catch (e) {
         print('Error loading data: $e');
-        if (mounted) {
-          ScaffoldMessenger.of(context).showSnackBar(
-            SnackBar(
-              content: Text('加载商品列表失败，请稍后重试'),
-              behavior: SnackBarBehavior.floating,
-              action: SnackBarAction(
-                label: '重试',
-                onPressed: () {
-                  _initServices();
-                },
-              ),
-            ),
-          );
-        }
       }
 
       if (!mounted) return;
@@ -138,10 +134,10 @@ class _RechargePageState extends State<RechargePage> with WidgetsBindingObserver
         });
         ScaffoldMessenger.of(context).showSnackBar(
           SnackBar(
-            content: Text('初始化服务失败，请稍后重试'),
+            content: Text(_errorInitService),
             behavior: SnackBarBehavior.floating,
             action: SnackBarAction(
-              label: '重试',
+              label: 'Retry',
               onPressed: () {
                 _initServices();
               },
@@ -414,12 +410,10 @@ class _RechargePageState extends State<RechargePage> with WidgetsBindingObserver
     try {
       print('Starting recharge process, product ID: ${item.productId}');
       
-      // 禁用按钮，防止重复点击
       setState(() {
         _isLoading = true;
       });
 
-      // 如果商品列表为空，重新初始化
       if (_products.isEmpty) {
         print('Product list is empty, reinitializing...');
         final products = await _applePaymentService!.initialize();
@@ -432,21 +426,21 @@ class _RechargePageState extends State<RechargePage> with WidgetsBindingObserver
       final product = _products.firstWhere(
         (p) => p.id.toLowerCase() == item.productId.toLowerCase(),
         orElse: () {
-          print('找不到商品ID: ${item.productId}');
-          throw Exception('未找到商品ID: ${item.productId}');
+          print('Product not found: ${item.productId}');
+          throw Exception('$_errorProductNotFound${item.productId}');
         },
       );
 
-      print('找到商品，准备发起购买...');
+      print('Product found, initiating purchase...');
       await _applePaymentService!.purchase(product);
-      print('购买请求已发送');
+      print('Purchase request sent');
       
     } catch (e) {
-      print('充值失败: $e');
+      print('Recharge failed: $e');
       if (mounted) {
         ScaffoldMessenger.of(context).showSnackBar(
           SnackBar(
-            content: Text('充值失败: $e'),
+            content: Text('$_errorPurchaseGeneral$e'),
             behavior: SnackBarBehavior.floating,
           ),
         );
@@ -469,9 +463,9 @@ class _RechargePageState extends State<RechargePage> with WidgetsBindingObserver
           print('Purchase pending: ${purchaseDetails.productID}');
           if (mounted) {
             ScaffoldMessenger.of(context).showSnackBar(
-              const SnackBar(
-                content: Text('购买处理中...'),
-                duration: Duration(seconds: 2),
+              SnackBar(
+                content: Text(_errorPurchasePending),
+                duration: const Duration(seconds: 2),
               ),
             );
           }
@@ -480,7 +474,7 @@ class _RechargePageState extends State<RechargePage> with WidgetsBindingObserver
         case PurchaseStatus.error:
           print('Purchase error: ${purchaseDetails.error}');
           _handleError(purchaseDetails.error);
-          _completePurchase(purchaseDetails);  // 完成错误的交易
+          _completePurchase(purchaseDetails);
           break;
           
         case PurchaseStatus.purchased:
@@ -491,12 +485,12 @@ class _RechargePageState extends State<RechargePage> with WidgetsBindingObserver
           
         case PurchaseStatus.canceled:
           print('Purchase canceled: ${purchaseDetails.productID}');
-          _completePurchase(purchaseDetails);  // 完成取消的交易
+          _completePurchase(purchaseDetails);
           if (mounted) {
             ScaffoldMessenger.of(context).showSnackBar(
-              const SnackBar(
-                content: Text('购买已取消'),
-                duration: Duration(seconds: 2),
+              SnackBar(
+                content: Text(_errorPurchaseCanceled),
+                duration: const Duration(seconds: 2),
               ),
             );
           }
@@ -518,7 +512,7 @@ class _RechargePageState extends State<RechargePage> with WidgetsBindingObserver
     if (mounted) {
       ScaffoldMessenger.of(context).showSnackBar(
         SnackBar(
-          content: Text('购买失败: ${error?.message ?? "未知错误"}'),
+          content: Text('$_errorPurchaseGeneral${error?.message ?? "Unknown error"}'),
           behavior: SnackBarBehavior.floating,
         ),
       );
@@ -530,23 +524,18 @@ class _RechargePageState extends State<RechargePage> with WidgetsBindingObserver
       print('Completing purchase: ${purchase.productID}');
       
       if (purchase.pendingCompletePurchase) {
-        // 先处理购买成功的业务逻辑
         await _applePaymentService?.handleSuccessfulPurchase(purchase);
-        
-        // 然后完成交易
         await InAppPurchase.instance.completePurchase(purchase);
         print('Purchase completed successfully');
         
-        // 刷新余额显示
         await _loadBalance();
         
         if (mounted) {
-          // 返回上一页以触发 ProfilePage 的刷新
           Navigator.of(context).pop();
           
           ScaffoldMessenger.of(context).showSnackBar(
-            const SnackBar(
-              content: Text('购买成功！'),
+            SnackBar(
+              content: Text(_errorPurchaseSuccess),
               behavior: SnackBarBehavior.floating,
             ),
           );
@@ -557,7 +546,7 @@ class _RechargePageState extends State<RechargePage> with WidgetsBindingObserver
       if (mounted) {
         ScaffoldMessenger.of(context).showSnackBar(
           SnackBar(
-            content: Text('完成购买时出错: $e'),
+            content: Text('$_errorCompletePurchase$e'),
             behavior: SnackBarBehavior.floating,
           ),
         );

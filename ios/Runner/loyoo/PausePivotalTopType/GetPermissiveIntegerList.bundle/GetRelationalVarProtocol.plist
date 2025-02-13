@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>getAutoBufferType</key>
+	<string>wrapCriticalPositionHelper</string>
+	<key>getNextParameterFactory</key>
+	<string>getLastOptionGroup</string>
+	<key>getSubstantialPolygonHandler</key>
+	<string>locateLargeDocumentArray</string>
+	<key>parseSubtleParameterDecorator</key>
+	<string>trainPrimaryFrameFilter</string>
+	<key>resumeCartesianSoundType</key>
+	<string>getPrismaticGrainExtension</string>
+	<key>resumeRobustBufferDecorator</key>
+	<string>conformDiscardedTentativeObserver</string>
+	<key>setDirectlyVarFilter</key>
+	<string>getBeginnerIndicatorTarget</string>
+	<key>startDiversifiedTailAdapter</key>
+	<string>restartSimilarEvaluationHelper</string>
+</dict>
+</plist>

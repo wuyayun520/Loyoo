@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>continueDenseDescriptorHelper</key>
+	<string>setProtectedResolverHelper</string>
+	<key>continueIgnoredSliderFilter</key>
+	<string>setCustomParamExtension</string>
+	<key>encapsulateReusablePreviewCache</key>
+	<string>setRelationalColorCollection</string>
+	<key>initializeCrucialParameterReference</key>
+	<string>prepareBackwardTweakPool</string>
+	<key>introspectTypicalValueManager</key>
+	<string>startSmartConfigurationList</string>
+	<key>limitSharedVariableDelegate</key>
+	<string>stopLostTitleStack</string>
+	<key>setAssociatedTernaryDelegate</key>
+	<string>setUniqueTempleDelegate</string>
+	<key>setReusableCharacterFilter</key>
+	<string>endSharedStrengthInstance</string>
+</dict>
+</plist>

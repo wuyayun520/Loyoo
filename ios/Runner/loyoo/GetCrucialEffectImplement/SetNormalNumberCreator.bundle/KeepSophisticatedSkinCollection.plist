@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>enhanceLiteDialogsAdapter</key>
+	<string>endConcurrentActivityContainer</string>
+	<key>fillSecondMasterAdapter</key>
+	<string>getSymmetricMobileList</string>
+	<key>getHierarchicalGemInstance</key>
+	<string>findEphemeralParamHandler</string>
+	<key>provideLargeValueHandler</key>
+	<string>resumeNumericalTitleCache</string>
+	<key>setImmutableTaskObserver</key>
+	<string>wrapOtherShaderManager</string>
+	<key>trainPrismaticIndexAdapter</key>
+	<string>setSustainableDisclaimerDelegate</string>
+</dict>
+</plist>

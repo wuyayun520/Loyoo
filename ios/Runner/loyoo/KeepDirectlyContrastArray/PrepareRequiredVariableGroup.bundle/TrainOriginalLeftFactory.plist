@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>calculateMediumEvaluationFactory</key>
+	<string>scheduleConcurrentVariableCreator</string>
+	<key>calculateUnactivatedNormList</key>
+	<string>drawSecondSkewYCache</string>
+	<key>cloneRobustDimensionFactory</key>
+	<string>extendFusedPositionContainer</string>
+	<key>escalateSubstantialInitiatorsPool</key>
+	<string>startDeclarativeObjectStack</string>
+	<key>initializeNewestQuaternionArray</key>
+	<string>initializeRequiredRemainderInstance</string>
+	<key>prepareSubtleResolverOwner</key>
+	<string>refreshOldScaleList</string>
+	<key>setMediocreScenarioDecorator</key>
+	<string>restartUniformQueueInstance</string>
+	<key>setSeamlessLeftReference</key>
+	<string>startSubtleScenarioList</string>
+</dict>
+</plist>

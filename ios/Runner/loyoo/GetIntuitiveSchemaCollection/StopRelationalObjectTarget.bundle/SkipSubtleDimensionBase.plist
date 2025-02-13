@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>getHardZoneDelegate</key>
+	<string>divideConsultativeGrainImplement</string>
+	<key>getUnactivatedEdgeDelegate</key>
+	<string>continueMultiOperationFilter</string>
+	<key>initializeProtectedSceneArray</key>
+	<string>showOpaqueLabelContainer</string>
+	<key>offsetSophisticatedParameterFilter</key>
+	<string>wrapMutableTempleHandler</string>
+	<key>setAccordionCharacteristicDelegate</key>
+	<string>cancelHierarchicalTitleFilter</string>
+	<key>setRetainedRotationArray</key>
+	<string>resumeDisplayableParameterReference</string>
+</dict>
+</plist>

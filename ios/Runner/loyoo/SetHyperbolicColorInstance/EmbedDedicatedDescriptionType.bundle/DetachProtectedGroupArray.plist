@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>finishBeginnerClusterCreator</key>
+	<string>setRespectiveOriginCreator</string>
+	<key>keepFusedTextureCollection</key>
+	<string>pauseMutableValueCache</string>
+	<key>resumeIntermediateBufferExtension</key>
+	<string>rotateConcreteShapeProtocol</string>
+	<key>setCommonHeadStack</key>
+	<string>finishPublicRecursionCollection</string>
+</dict>
+</plist>

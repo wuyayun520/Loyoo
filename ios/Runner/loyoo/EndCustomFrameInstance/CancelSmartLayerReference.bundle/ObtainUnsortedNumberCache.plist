@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cancelElasticDepthContainer</key>
+	<string>setUsedTraversalTarget</string>
+	<key>drawSharedTangentCache</key>
+	<string>drawRequiredChecklistFactory</string>
+	<key>extendStaticSkewXReference</key>
+	<string>setSharedVarReference</string>
+	<key>finishReusableColorArray</key>
+	<string>pauseSmartOptimizerFactory</string>
+	<key>getGreatParameterOwner</key>
+	<string>endRapidProgressBarCollection</string>
+	<key>getTypicalNodeManager</key>
+	<string>finishPivotalOpacityExtension</string>
+	<key>introspectPrevAnalogyBase</key>
+	<string>setDiscardedBorderManager</string>
+	<key>poolConcurrentNodeHelper</key>
+	<string>getDiscardedPriorityList</string>
+	<key>stopAccessibleLabelHelper</key>
+	<string>resumeAsynchronousLayoutFactory</string>
+	<key>stopGreatSceneHelper</key>
+	<string>unschedulePermanentZoneDecorator</string>
+</dict>
+</plist>

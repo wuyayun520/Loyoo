@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associateOpaqueDescriptorManager</key>
+	<string>prepareLocalEffectList</string>
+	<key>continueSubsequentParticlePool</key>
+	<string>stopEnabledNodeHandler</string>
+	<key>readDenseCoordExtension</key>
+	<string>setGlobalLeftObserver</string>
+	<key>refreshDedicatedValueInstance</key>
+	<string>upgradeSortedVarPool</string>
+	<key>setUnsortedGrayscaleReference</key>
+	<string>scheduleMutableDisclaimerDelegate</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appendEuclideanSchedulerAdapter</key>
+	<string>setMainStyleProtocol</string>
+	<key>cancelFusedPaddingContainer</key>
+	<string>startDedicatedZoneGroup</string>
+	<key>getOtherNumberBase</key>
+	<string>offsetKeyProgressBarProtocol</string>
+	<key>keepDenseCapacityFactory</key>
+	<string>stopPublicGraphOwner</string>
+	<key>resumeLocalDepthBase</key>
+	<string>setGreatSignPool</string>
+	<key>retainLastParameterFactory</key>
+	<string>keepEuclideanIntensityObserver</string>
+	<key>startAccessibleImageStack</key>
+	<string>undertakeIterativeResultBase</string>
+</dict>
+</plist>

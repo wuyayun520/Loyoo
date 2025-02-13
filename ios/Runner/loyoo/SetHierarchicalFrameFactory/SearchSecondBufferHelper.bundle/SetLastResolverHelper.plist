@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>addReusableWorkflowDecorator</key>
+	<string>setPriorLayerDelegate</string>
+	<key>aggregateLargePolygonGroup</key>
+	<string>accelerateUniqueValueCreator</string>
+	<key>checkIntermediateComponentOwner</key>
+	<string>getDelicateObserverContainer</string>
+	<key>continueAgileControllerOwner</key>
+	<string>releaseSubtlePopupReference</string>
+	<key>prepareDisplayableBufferContainer</key>
+	<string>destroyMissedTopCache</string>
+</dict>
+</plist>

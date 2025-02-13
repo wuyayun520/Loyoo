@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>getSubsequentCoordBase</key>
+	<string>getPriorValueList</string>
+	<key>initializeSharedCoordDelegate</key>
+	<string>limitLiteBufferProtocol</string>
+	<key>prepareBasicNameFilter</key>
+	<string>combineProtectedToolList</string>
+	<key>quitPrimaryItemDecorator</key>
+	<string>syncConcreteEffectHandler</string>
+	<key>setHyperbolicProjectAdapter</key>
+	<string>pauseMediocreFormatPool</string>
+	<key>skipPublicReplicaType</key>
+	<string>prepareSingleMasterOwner</string>
+	<key>startCustomVarDelegate</key>
+	<string>retainSortedLeftOwner</string>
+	<key>stopSingleAllocatorCache</key>
+	<string>skipPrimaryCaptionFactory</string>
+</dict>
+</plist>

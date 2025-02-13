@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>encapsulateSimilarStyleExtension</key>
+	<string>limitFirstNumberContainer</string>
+	<key>getDedicatedNumberStack</key>
+	<string>getEphemeralBatchFactory</string>
+	<key>keepNextScopeAdapter</key>
+	<string>restartMissedShapeDecorator</string>
+	<key>resumeResilientTrianglesCreator</key>
+	<string>embraceSynchronousVariableContainer</string>
+	<key>showCriticalVariableManager</key>
+	<string>clipOpaqueRightDelegate</string>
+</dict>
+</plist>

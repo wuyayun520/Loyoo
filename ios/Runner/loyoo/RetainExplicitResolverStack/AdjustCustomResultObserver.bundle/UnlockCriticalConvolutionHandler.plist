@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>getCommonEventList</key>
+	<string>startGlobalVertexBase</string>
+	<key>getHierarchicalAmortizationInstance</key>
+	<string>enumerateSeamlessVisibleCreator</string>
+	<key>initializeHardTimeProtocol</key>
+	<string>setSignificantMetadataCache</string>
+	<key>setCustomSpriteAdapter</key>
+	<string>cancelActivatedVarContainer</string>
+	<key>setPublicViewList</key>
+	<string>stopNormalInitiativeType</string>
+	<key>setSemanticTimelineStack</key>
+	<string>continueAutoEffectManager</string>
+</dict>
+</plist>

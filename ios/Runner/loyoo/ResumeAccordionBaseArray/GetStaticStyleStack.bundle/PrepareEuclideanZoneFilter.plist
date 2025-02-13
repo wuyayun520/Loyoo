@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cloneImmutableModelFilter</key>
+	<string>keepArithmeticCycleDecorator</string>
+	<key>getSubsequentFeatureStack</key>
+	<string>concatenateDenseParameterDecorator</string>
+	<key>mitigateSubtleInfoPool</key>
+	<string>setIterativeElasticityBase</string>
+	<key>setCustomAmortizationReference</key>
+	<string>setCrucialTempleExtension</string>
+	<key>setMediumNumberFilter</key>
+	<string>getIntuitiveBottomFactory</string>
+	<key>skipSymmetricSkewXGroup</key>
+	<string>getConcreteCapacitiesObserver</string>
+	<key>storeGlobalStyleImplement</key>
+	<string>startMainKernelImplement</string>
+	<key>touchSeamlessTagCache</key>
+	<string>restartDiscardedVertexPool</string>
+</dict>
+</plist>

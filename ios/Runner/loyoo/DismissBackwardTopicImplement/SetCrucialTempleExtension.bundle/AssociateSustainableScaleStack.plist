@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>continuePublicSliderDelegate</key>
+	<string>setPriorElasticityDelegate</string>
+	<key>initializeRobustOriginDecorator</key>
+	<string>revisitOpaqueCurveReference</string>
+	<key>resumeMainSlashDelegate</key>
+	<string>captureHyperbolicVectorGroup</string>
+	<key>setSecondStateReference</key>
+	<string>stopElasticBoundExtension</string>
+	<key>skipPermanentHeadTarget</key>
+	<string>unlockCustomAssetHelper</string>
+</dict>
+</plist>

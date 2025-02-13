@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appendConcurrentFrameFilter</key>
+	<string>getLargeVarList</string>
+	<key>getLocalGrainFilter</key>
+	<string>parseImmutableGraphBase</string>
+	<key>resumeSemanticIntegrityContainer</key>
+	<string>skipResilientSizeGroup</string>
+	<key>resumeUniqueParamCache</key>
+	<string>cancelSecondProfileStack</string>
+	<key>startDenseCompositionPool</key>
+	<string>getKeyFrameArray</string>
+	<key>stopCommonContractionType</key>
+	<string>undertakeUniqueContrastObserver</string>
+	<key>trainCrudeDocumentPool</key>
+	<string>keepSignificantVarGroup</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>introspectStaticDescriptorDelegate</key>
+	<string>getLiteConstantProtocol</string>
+	<key>prepareEuclideanInterfaceDecorator</key>
+	<string>restartCommonCertificateGroup</string>
+	<key>prepareIndependentFlagsCache</key>
+	<string>equalMultiCharacterObserver</string>
+	<key>prepareUniformNumberProtocol</key>
+	<string>convertNormalBufferAdapter</string>
+	<key>refreshStaticLayerImplement</key>
+	<string>enumerateActivatedStampImplement</string>
+	<key>resumeSimilarNodeList</key>
+	<string>setKeyScenarioContainer</string>
+	<key>setSubtleIndexCreator</key>
+	<string>syncRequiredLabelHelper</string>
+	<key>startCustomQueueDecorator</key>
+	<string>getOpaqueDepthInstance</string>
+</dict>
+</plist>

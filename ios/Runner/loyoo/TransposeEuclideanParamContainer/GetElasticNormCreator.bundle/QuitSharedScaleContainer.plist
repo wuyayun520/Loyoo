@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>endDisplayableOptionFactory</key>
+	<string>skipDirectMetricsDelegate</string>
+	<key>getSmartReliabilityHandler</key>
+	<string>startUniformDeliveryManager</string>
+	<key>limitGranularScopeHelper</key>
+	<string>setMainSpineFilter</string>
+	<key>playNextTemplePool</key>
+	<string>stopAccordionResilienceContainer</string>
+	<key>playPrevDepthDecorator</key>
+	<string>setSmartBorderCollection</string>
+	<key>restartResilientSpecifierType</key>
+	<string>setIndependentThreadCache</string>
+	<key>setResilientProgressBarPool</key>
+	<string>dismissSharedTextureContainer</string>
+	<key>setRetainedHeroGroup</key>
+	<string>endPrismaticParticleGroup</string>
+	<key>stopPrismaticRangeInstance</key>
+	<string>getCurrentVisibleTarget</string>
+	<key>undertakeDirectlyRowReference</key>
+	<string>transposeMissedTempleAdapter</string>
+</dict>
+</plist>

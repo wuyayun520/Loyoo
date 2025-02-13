@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dropoutEnabledColorFactory</key>
+	<string>trainAgileTitleCache</string>
+	<key>prepareElasticBufferProtocol</key>
+	<string>setTensorObserverProtocol</string>
+	<key>resumeUnsortedBufferStack</key>
+	<string>skipImmutableNotationHelper</string>
+	<key>skipUnactivatedFormatInstance</key>
+	<string>spinOriginalHeadBase</string>
+	<key>storeCartesianElasticityDelegate</key>
+	<string>resumeComprehensiveImageType</string>
+</dict>
+</plist>

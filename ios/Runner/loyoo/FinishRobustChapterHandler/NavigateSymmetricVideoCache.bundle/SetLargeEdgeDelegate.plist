@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>captureDedicatedChartReference</key>
+	<string>spinCriticalNumberManager</string>
+	<key>continueProtectedChartHandler</key>
+	<string>refreshNumericalResolverPool</string>
+	<key>getActivatedTextureBase</key>
+	<string>getDenseMissionHandler</string>
+	<key>getFirstSpineInstance</key>
+	<string>getRespectiveMasterObserver</string>
+	<key>holdBasicPriorityExtension</key>
+	<string>restartFirstFrameCache</string>
+	<key>pushCartesianVariableFilter</key>
+	<string>displayAdvancedRectangleList</string>
+	<key>setPrismaticTagOwner</key>
+	<string>getSustainableSizeInstance</string>
+	<key>setUniformCapacityHandler</key>
+	<string>initializeSharedPriorityBase</string>
+	<key>skipImmutableParamFilter</key>
+	<string>writeDeclarativeMusicProtocol</string>
+</dict>
+</plist>

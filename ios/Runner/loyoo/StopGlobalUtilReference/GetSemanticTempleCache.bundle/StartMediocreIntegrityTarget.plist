@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>finishDirectlyAllocatorHandler</key>
+	<string>associateLastVariablePool</string>
+	<key>getGlobalParamBase</key>
+	<string>offsetPermanentVariableGroup</string>
+	<key>initializeResilientParameterFactory</key>
+	<string>setProtectedOpacityOwner</string>
+	<key>resumeNumericalParamArray</key>
+	<string>searchCommonFragmentsTarget</string>
+	<key>setAgileSpotFactory</key>
+	<string>findBasicFragmentDecorator</string>
+	<key>setReusableMatrixCreator</key>
+	<string>removeExplicitIndexObserver</string>
+</dict>
+</plist>

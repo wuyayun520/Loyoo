@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>keepPermanentDescriptionHandler</key>
+	<string>startResilientRestrictionBase</string>
+	<key>markStaticInterfaceHandler</key>
+	<string>setTypicalVarStack</string>
+	<key>prepareUniqueMissionOwner</key>
+	<string>skipRetainedAllocatorBase</string>
+</dict>
+</plist>

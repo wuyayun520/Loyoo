@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compareEuclideanParticleDelegate</key>
+	<string>getSemanticPetGroup</string>
+	<key>convertTensorOpacityFactory</key>
+	<string>setSharedLabelHelper</string>
+	<key>setCustomizedStampAdapter</key>
+	<string>equalPrimaryTextureCollection</string>
+	<key>setOldSizeCache</key>
+	<string>setSemanticFragmentExtension</string>
+	<key>spinResilientFeatureDelegate</key>
+	<string>eraseGreatColorAdapter</string>
+	<key>unlockEasyValueImplement</key>
+	<string>getDedicatedCharacterDecorator</string>
+</dict>
+</plist>

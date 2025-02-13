@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>continueSharedRendererType</key>
+	<string>setDirectlyRendererArray</string>
+	<key>detachEasyCoordDecorator</key>
+	<string>setTensorGroupHelper</string>
+	<key>endRequiredChapterCache</key>
+	<string>keepMultiEffectReference</string>
+	<key>finishMainChartDecorator</key>
+	<string>embraceMainVarHandler</string>
+	<key>getCommonMetadataPool</key>
+	<string>getOldSizeContainer</string>
+	<key>getOldParameterAdapter</key>
+	<string>navigateIntuitiveChapterProtocol</string>
+	<key>retrieveActivatedParamList</key>
+	<string>resumeSynchronousBrushCollection</string>
+</dict>
+</plist>

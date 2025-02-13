@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>continueGranularLayoutPool</key>
+	<string>getSemanticObjectHelper</string>
+	<key>finishSortedChapterPool</key>
+	<string>getPrevShaderFilter</string>
+	<key>getHierarchicalMeshAdapter</key>
+	<string>setAgileColorCreator</string>
+	<key>getOldSceneCollection</key>
+	<string>getPermissiveInterfaceType</string>
+	<key>moveDeclarativeValueList</key>
+	<string>resetNumericalVarReference</string>
+	<key>setDirectLayoutStack</key>
+	<string>getMediocreSpriteOwner</string>
+	<key>setSubsequentMatrixManager</key>
+	<string>startActivatedPlaybackInstance</string>
+	<key>unscheduleMissedQueueContainer</key>
+	<string>exitHyperbolicMetricsFactory</string>
+	<key>visitPermanentConfidentialityBase</key>
+	<string>replaceSymmetricDescriptionManager</string>
+</dict>
+</plist>

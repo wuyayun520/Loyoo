@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>getAutoProgressBarFactory</key>
+	<string>finishProtectedActionArray</string>
+	<key>getFusedValueArray</key>
+	<string>setEphemeralVarCreator</string>
+	<key>getIterativeBitrateInstance</key>
+	<string>startAccessibleInfoTarget</string>
+	<key>getMediumGroupDelegate</key>
+	<string>prepareSymmetricInterfaceDecorator</string>
+	<key>rectifyUnsortedTempleDecorator</key>
+	<string>stopRequiredOriginDecorator</string>
+	<key>resumeIntuitiveValueBase</key>
+	<string>initializeIntermediateBoundTarget</string>
+	<key>setBeginnerDocumentImplement</key>
+	<string>getExplicitTentativeCache</string>
+	<key>upgradeUnactivatedTitleList</key>
+	<string>allocateSignificantParameterList</string>
+</dict>
+</plist>

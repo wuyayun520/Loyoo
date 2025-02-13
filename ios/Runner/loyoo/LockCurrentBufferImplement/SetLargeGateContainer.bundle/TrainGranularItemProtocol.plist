@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocateDedicatedSegmentGroup</key>
+	<string>freeSharedPolyfillStack</string>
+	<key>cancelLostResultFilter</key>
+	<string>endHierarchicalBandwidthExtension</string>
+	<key>captureArithmeticStateExtension</key>
+	<string>getExplicitVariableProtocol</string>
+	<key>endTensorVariableCreator</key>
+	<string>unlockCriticalViewHandler</string>
+	<key>getKeyVariableHandler</key>
+	<string>getProtectedNumberBase</string>
+	<key>getSpecifyTrajectoryImplement</key>
+	<string>getReusableBufferCache</string>
+	<key>getSustainablePreviewBase</key>
+	<string>requestCommonValueCreator</string>
+	<key>requestOriginalParameterImplement</key>
+	<string>searchHardSkewYFilter</string>
+	<key>setDisparatePlaybackArray</key>
+	<string>finishConcreteVarArray</string>
+	<key>touchCriticalColorImplement</key>
+	<string>setMultiTrajectoryAdapter</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>getEphemeralConfigurationFilter</key>
+	<string>setCrudeTextureFilter</string>
+	<key>getNormalRightObserver</key>
+	<string>setOpaqueDataTarget</string>
+	<key>getRobustNumberProtocol</key>
+	<string>skipSmallVolumeHelper</string>
+	<key>reconcileEasySceneExtension</key>
+	<string>continueDirectlyPlateFilter</string>
+	<key>retainSubsequentListenerBase</key>
+	<string>endSymmetricEntropyFactory</string>
+	<key>setUsedGrainInstance</key>
+	<string>initializeSimilarExponentDecorator</string>
+</dict>
+</plist>

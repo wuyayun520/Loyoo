@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>exitRetainedSizeContainer</key>
+	<string>initializeSymmetricLeftHelper</string>
+	<key>generateConcurrentShapeDecorator</key>
+	<string>reconcileSynchronousValueCreator</string>
+	<key>setBeginnerCapacityManager</key>
+	<string>resumeBeginnerNumberExtension</string>
+	<key>stopDiscardedTailCollection</key>
+	<string>startElasticBoundObserver</string>
+</dict>
+</plist>

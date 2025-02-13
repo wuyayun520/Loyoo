@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatePermanentQueueExtension</key>
+	<string>startCustomizedInterfaceInstance</string>
+	<key>eraseUnsortedStyleDecorator</key>
+	<string>setMediumSchemaCollection</string>
+	<key>getMainObjectTarget</key>
+	<string>cancelGlobalParamCache</string>
+	<key>preparePriorViewReference</key>
+	<string>continueCurrentFrameObserver</string>
+	<key>retrievePrevReliabilityProtocol</key>
+	<string>setSmartFlagsStack</string>
+	<key>setOpaqueValueImplement</key>
+	<string>getAsynchronousVarType</string>
+	<key>setSemanticColorHelper</key>
+	<string>analyzeGreatBufferTarget</string>
+	<key>setSingleWorkflowBase</key>
+	<string>setDensePopupStack</string>
+</dict>
+</plist>

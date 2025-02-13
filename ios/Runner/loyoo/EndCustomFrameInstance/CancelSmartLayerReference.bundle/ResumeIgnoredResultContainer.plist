@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>continueDifficultBaseHandler</key>
+	<string>exitSharedObjectDecorator</string>
+	<key>moveElasticInformationProtocol</key>
+	<string>prepareUniqueSpriteFilter</string>
+	<key>setFusedStrokeStack</key>
+	<string>fillGeometricViewReference</string>
+</dict>
+</plist>

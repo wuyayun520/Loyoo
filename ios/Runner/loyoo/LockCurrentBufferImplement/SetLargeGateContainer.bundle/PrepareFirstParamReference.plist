@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>clearReusableTaskDecorator</key>
+	<string>createUsedAllocatorObserver</string>
+	<key>endSignificantBottomList</key>
+	<string>setPriorRotationCache</string>
+	<key>getSustainableSpriteInstance</key>
+	<string>mitigateBeginnerNameManager</string>
+	<key>getUniqueTempleStack</key>
+	<string>dropoutResilientSkewXImplement</string>
+	<key>keepSmartVariantHelper</key>
+	<string>continueMediumParamAdapter</string>
+	<key>multiplyUniqueParameterFactory</key>
+	<string>getDelicateAllocatorStack</string>
+	<key>restartNumericalGrainAdapter</key>
+	<string>endFusedSkewYGroup</string>
+</dict>
+</plist>

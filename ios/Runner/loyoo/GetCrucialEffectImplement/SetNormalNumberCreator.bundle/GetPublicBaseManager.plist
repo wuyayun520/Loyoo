@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>addRobustTimeDelegate</key>
+	<string>getUsedConstantType</string>
+	<key>getPermanentSceneOwner</key>
+	<string>setSingleOriginFilter</string>
+	<key>regulateImmutableDescriptorObserver</key>
+	<string>setDedicatedVolumeContainer</string>
+	<key>setPermissiveGateReference</key>
+	<string>getReusableGroupHandler</string>
+	<key>setPrimaryComponentExtension</key>
+	<string>seekMutableLayoutExtension</string>
+</dict>
+</plist>

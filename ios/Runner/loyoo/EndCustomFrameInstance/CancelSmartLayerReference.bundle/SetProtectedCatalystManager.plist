@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cancelNormalTimeHelper</key>
+	<string>encapsulateLiteNameTarget</string>
+	<key>getUnactivatedLayerList</key>
+	<string>setCurrentSessionTarget</string>
+	<key>resumeLocalDurationFactory</key>
+	<string>initializeTensorRemainderType</string>
+	<key>retainOriginalLossManager</key>
+	<string>combineImmutableResolverProtocol</string>
+	<key>setPrimaryDescentBase</key>
+	<string>freeEnabledSizeType</string>
+</dict>
+</plist>

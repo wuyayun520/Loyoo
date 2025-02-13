@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>getSpecifySceneFactory</key>
+	<string>scheduleDelicateAllocatorManager</string>
+	<key>getUnactivatedParamDecorator</key>
+	<string>setLiteBoxTarget</string>
+	<key>setSmallTaxonomyHandler</key>
+	<string>makeResilientNameCache</string>
+	<key>setSmartIndexDelegate</key>
+	<string>setTypicalParamAdapter</string>
+	<key>startRobustSlashStack</key>
+	<string>initializeSeamlessRowTarget</string>
+	<key>startSustainableResolverCache</key>
+	<string>trainDeclarativeProgressBarInstance</string>
+	<key>visitDiscardedCubeFilter</key>
+	<string>cancelAccessibleMenuDelegate</string>
+</dict>
+</plist>

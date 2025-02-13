@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dissociateOldSpriteProtocol</key>
+	<string>getBackwardBrushProtocol</string>
+	<key>finishPivotalRotationContainer</key>
+	<string>setPriorDimensionCache</string>
+	<key>initializePrismaticStyleFactory</key>
+	<string>createRobustModelDecorator</string>
+	<key>navigateSortedDispatcherExtension</key>
+	<string>rectifyCurrentChapterContainer</string>
+	<key>pausePermanentMenuHandler</key>
+	<string>respondCommonVariableDecorator</string>
+	<key>skipEnabledInitiativeStack</key>
+	<string>setSubsequentTempleAdapter</string>
+	<key>stopMediocreSpriteStack</key>
+	<string>setCustomizedChartOwner</string>
+	<key>touchDisplayableGrainArray</key>
+	<string>skipLargeAssetFactory</string>
+	<key>trainNumericalWorkflowFactory</key>
+	<string>setTensorParameterManager</string>
+</dict>
+</plist>

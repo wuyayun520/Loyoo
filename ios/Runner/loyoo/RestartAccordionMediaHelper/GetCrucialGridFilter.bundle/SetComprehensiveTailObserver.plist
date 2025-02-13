@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>endArithmeticRectangleHelper</key>
+	<string>drawSymmetricValueDecorator</string>
+	<key>getSmallInteractionOwner</key>
+	<string>setMainCardProtocol</string>
+	<key>initializeAutoValueInstance</key>
+	<string>stopDenseLayerGroup</string>
+	<key>initializeOldAudioHandler</key>
+	<string>setEphemeralBottomFactory</string>
+	<key>restartUnsortedValueStack</key>
+	<string>getIgnoredLayerImplement</string>
+	<key>scheduleIndependentPopupGroup</key>
+	<string>generateDirectlyScopeArray</string>
+	<key>setConcurrentAspectDecorator</key>
+	<string>getBackwardGraphicPool</string>
+</dict>
+</plist>

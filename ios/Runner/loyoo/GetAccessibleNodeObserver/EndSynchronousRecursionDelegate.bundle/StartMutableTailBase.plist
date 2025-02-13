@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>continueLostProfileOwner</key>
+	<string>pauseNewestDispatcherDecorator</string>
+	<key>initializeSynchronousBoundCache</key>
+	<string>setDiscardedThresholdArray</string>
+	<key>parseKeyParamList</key>
+	<string>initializeRobustBorderStack</string>
+	<key>scheduleSharedFrameImplement</key>
+	<string>setFirstNumberAdapter</string>
+	<key>setMediumNumberTarget</key>
+	<string>setCurrentSineImplement</string>
+	<key>setMissedSkewXExtension</key>
+	<string>prepareAccessibleContractionCreator</string>
+	<key>stopIgnoredAnimationManager</key>
+	<string>setRespectiveParameterCollection</string>
+	<key>touchMediumPreviewDelegate</key>
+	<string>setEphemeralTopicDecorator</string>
+</dict>
+</plist>

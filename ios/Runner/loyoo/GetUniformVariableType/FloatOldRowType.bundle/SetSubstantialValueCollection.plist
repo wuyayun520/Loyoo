@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dropoutDisplayableRowImplement</key>
+	<string>getRequiredNodeHandler</string>
+	<key>embedTensorChannelsAdapter</key>
+	<string>prepareMutableMatrixGroup</string>
+	<key>getProtectedScaleHelper</key>
+	<string>shearUniqueVarCreator</string>
+	<key>getSubtleRowTarget</key>
+	<string>setMediumTimelineBase</string>
+	<key>getTypicalParamGroup</key>
+	<string>getDiscardedTimelineOwner</string>
+	<key>playElasticValueCreator</key>
+	<string>provideSemanticProgressBarOwner</string>
+	<key>prepareOriginalValueHandler</key>
+	<string>skipElasticTangentOwner</string>
+	<key>renameAgileCharacteristicManager</key>
+	<string>transposeStaticIndexHelper</string>
+	<key>setCrudeRightAdapter</key>
+	<string>setLastBorderFactory</string>
+	<key>setSubsequentResolverCache</key>
+	<string>getCriticalBoundHelper</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checkExplicitDepthImplement</key>
+	<string>skipBackwardOptimizerCollection</string>
+	<key>detachArithmeticBaseDecorator</key>
+	<string>endMutableLayoutCreator</string>
+	<key>endMainValueFilter</key>
+	<string>enhancePriorDepthDecorator</string>
+	<key>generateAsynchronousTagGroup</key>
+	<string>destroyDifficultUtilCreator</string>
+	<key>insteadIgnoredNavigationHelper</key>
+	<string>readSemanticBufferFactory</string>
+	<key>restartSemanticUtilImplement</key>
+	<string>retainMainBaseFilter</string>
+	<key>revisitRetainedAssetList</key>
+	<string>prepareOtherStateDecorator</string>
+	<key>setLiteChecklistImplement</key>
+	<string>pauseCartesianNumberCreator</string>
+	<key>visitSmallCenterType</key>
+	<string>getHierarchicalGateCreator</string>
+</dict>
+</plist>

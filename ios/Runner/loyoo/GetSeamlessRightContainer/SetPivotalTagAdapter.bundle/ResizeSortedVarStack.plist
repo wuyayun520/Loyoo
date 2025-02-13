@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>getEnabledBufferStack</key>
+	<string>pauseExplicitNameReference</string>
+	<key>getGranularActionFactory</key>
+	<string>stopPriorValueTarget</string>
+	<key>getStaticChannelsList</key>
+	<string>prepareUniqueHashBase</string>
+	<key>setBasicMetadataCreator</key>
+	<string>setSemanticAnimationList</string>
+	<key>setElasticVarCollection</key>
+	<string>escalateCustomMetadataArray</string>
+	<key>stopHardTempleCreator</key>
+	<string>setProtectedNumberExtension</string>
+	<key>trainAsynchronousPopupCollection</key>
+	<string>provideRetainedCenterImplement</string>
+	<key>trainConcreteCapsuleType</key>
+	<string>endSecondOpacityStack</string>
+</dict>
+</plist>

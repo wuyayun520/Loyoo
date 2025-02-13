@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>executeAgileGateExtension</key>
+	<string>removeFusedLabelInstance</string>
+	<key>getSharedProvisionFilter</key>
+	<string>getSmartIndexList</string>
+	<key>prepareOtherIndexManager</key>
+	<string>setRapidCompositionStack</string>
+	<key>resumeAccessibleStyleGroup</key>
+	<string>displayEnabledValueContainer</string>
+	<key>setMediocreBufferOwner</key>
+	<string>setAccessibleSpriteHandler</string>
+	<key>setMissedDescriptionStack</key>
+	<string>setGeometricParameterTarget</string>
+	<key>setPivotalVariableContainer</key>
+	<string>initializeSmallVariantHelper</string>
+</dict>
+</plist>

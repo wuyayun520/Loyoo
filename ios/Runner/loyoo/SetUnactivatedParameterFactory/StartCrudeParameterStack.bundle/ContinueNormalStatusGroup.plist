@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cancelDifficultDocumentHelper</key>
+	<string>setLastRightCache</string>
+	<key>finishEasyIndexHelper</key>
+	<string>getImmutableSceneInstance</string>
+	<key>getBackwardVectorAdapter</key>
+	<string>poolMainRangeCache</string>
+	<key>getMissedNumberInstance</key>
+	<string>pauseMultiResolverDelegate</string>
+	<key>getSubstantialCurveInstance</key>
+	<string>startNewestAnalogyTarget</string>
+	<key>initializeSymmetricAscentGroup</key>
+	<string>endAssociatedProjectHandler</string>
+	<key>setCustomizedNumberGroup</key>
+	<string>setIterativeAspectFactory</string>
+	<key>skipSemanticPreviewCreator</key>
+	<string>continueCustomGridOwner</string>
+	<key>visitGreatStrokeAdapter</key>
+	<string>setAsynchronousCoordDecorator</string>
+</dict>
+</plist>

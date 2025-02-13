@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>calculateDenseLoopCreator</key>
+	<string>cancelPivotalStyleCache</string>
+	<key>conformSinglePolyfillImplement</key>
+	<string>setOldTopProtocol</string>
+	<key>getHierarchicalSceneProtocol</key>
+	<string>getAutoThresholdHelper</string>
+	<key>getNewestAssetReference</key>
+	<string>appendDiversifiedValueHelper</string>
+	<key>navigateGranularParameterCache</key>
+	<string>updateSingleAssetProtocol</string>
+	<key>pauseBeginnerCoordinatorContainer</key>
+	<string>startRelationalContrastInstance</string>
+	<key>restartFirstAnimationGroup</key>
+	<string>scheduleOtherHistogramAdapter</string>
+	<key>upgradeNumericalGrainImplement</key>
+	<string>getConcurrentVariableStack</string>
+</dict>
+</plist>

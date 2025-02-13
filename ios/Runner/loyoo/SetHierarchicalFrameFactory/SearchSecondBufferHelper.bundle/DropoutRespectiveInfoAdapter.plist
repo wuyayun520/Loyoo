@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>computeRequiredSizePool</key>
+	<string>cancelSingleEquivalentDelegate</string>
+	<key>endExplicitVarPool</key>
+	<string>getGlobalVectorFactory</string>
+	<key>getLastPositionFilter</key>
+	<string>cleanNewestMovementHelper</string>
+	<key>getSemanticBehaviorCache</key>
+	<string>prepareNumericalRotationImplement</string>
+	<key>getSemanticSampleBase</key>
+	<string>resumeDirectStrengthManager</string>
+	<key>initializeKeyUtilManager</key>
+	<string>drawSignificantResourceDelegate</string>
+	<key>keepDiversifiedParamImplement</key>
+	<string>getSymmetricSchemaDelegate</string>
+	<key>prepareTensorNodeAdapter</key>
+	<string>restartPrevElementTarget</string>
+</dict>
+</plist>

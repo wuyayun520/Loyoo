@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cloneDirectlyVariantCollection</key>
+	<string>skipLiteDialogsAdapter</string>
+	<key>continueAsynchronousBufferContainer</key>
+	<string>replaceHardGateDelegate</string>
+	<key>getAdvancedCapacitiesDelegate</key>
+	<string>restartElasticReplicaCache</string>
+	<key>getBasicDialogsExtension</key>
+	<string>discoverIgnoredNumberInstance</string>
+	<key>getSpecifyVariableObserver</key>
+	<string>getFirstHashInstance</string>
+	<key>setIterativeSignStack</key>
+	<string>reflectDirectParamPool</string>
+	<key>startGeometricThreadReference</key>
+	<string>reconcileRelationalTempleCreator</string>
+	<key>stopRetainedSegmentStack</key>
+	<string>getDisplayableChartManager</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>endLiteImpactExtension</key>
+	<string>getUsedArchitectureCache</string>
+	<key>getStaticLayoutTarget</key>
+	<string>prepareTypicalAnimationBase</string>
+	<key>setExplicitPopupPool</key>
+	<string>getDeclarativeParamOwner</string>
+	<key>setPermanentPolyfillManager</key>
+	<string>setHyperbolicSizeOwner</string>
+	<key>skipBackwardDataCache</key>
+	<string>concatenateCommonCoordAdapter</string>
+	<key>startMediocreTempleArray</key>
+	<string>resumeFusedGraphType</string>
+</dict>
+</plist>

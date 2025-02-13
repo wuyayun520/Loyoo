@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>divideImmutableKernelBase</key>
+	<string>setRobustConfigurationFilter</string>
+	<key>setEphemeralTrianglesList</key>
+	<string>extendFirstParameterProtocol</string>
+	<key>setRapidDepthCache</key>
+	<string>skipOldLayoutHandler</string>
+	<key>stopDirectBaseFilter</key>
+	<string>accelerateCartesianFlagsStack</string>
+</dict>
+</plist>

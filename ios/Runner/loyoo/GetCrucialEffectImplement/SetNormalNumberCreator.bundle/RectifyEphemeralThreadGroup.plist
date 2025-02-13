@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>getAgileFragmentsHandler</key>
+	<string>setRobustThreadDelegate</string>
+	<key>keepDiscardedBufferPool</key>
+	<string>setDifficultPriorityPool</string>
+	<key>restartRetainedListenerCache</key>
+	<string>trainIndependentConstantManager</string>
+	<key>setSubsequentCursorProtocol</key>
+	<string>provideOtherIntegerPool</string>
+	<key>transposeOriginalFrameReference</key>
+	<string>finishPublicSignArray</string>
+</dict>
+</plist>

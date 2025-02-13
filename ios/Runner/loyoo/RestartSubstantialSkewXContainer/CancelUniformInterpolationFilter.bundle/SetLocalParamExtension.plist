@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>computeLargeIntegrationFilter</key>
+	<string>setConcurrentSceneInstance</string>
+	<key>quantizationAutoScaleManager</key>
+	<string>writeLocalHeadDelegate</string>
+	<key>readUniformChecklistFactory</key>
+	<string>respondDeclarativeStateHelper</string>
+	<key>rotateGreatEquipmentArray</key>
+	<string>startSemanticParameterFilter</string>
+	<key>skipNumericalResolverObserver</key>
+	<string>clipCustomizedNumberInstance</string>
+	<key>startUniformTagFilter</key>
+	<string>insteadProtectedRotationHandler</string>
+</dict>
+</plist>

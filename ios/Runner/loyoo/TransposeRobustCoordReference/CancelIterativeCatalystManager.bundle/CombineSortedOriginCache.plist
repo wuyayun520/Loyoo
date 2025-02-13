@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adjustDedicatedRotationFilter</key>
+	<string>continueActivatedNumberHandler</string>
+	<key>getSingleVarArray</key>
+	<string>pauseConcurrentElementDecorator</string>
+	<key>initializeTensorInitiativeInstance</key>
+	<string>getSemanticVariableObserver</string>
+	<key>restartImmutableVarProtocol</key>
+	<string>clearEphemeralVariableBase</string>
+	<key>touchDisparateBufferOwner</key>
+	<string>keepArithmeticImpactDecorator</string>
+</dict>
+</plist>

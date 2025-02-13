@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>convertSimilarParameterType</key>
+	<string>readIntuitiveTopFilter</string>
+	<key>generateSimilarNameManager</key>
+	<string>markEnabledHashManager</string>
+	<key>getImmutableGridFactory</key>
+	<string>skipCriticalVertexStack</string>
+	<key>getPivotalLoaderFilter</key>
+	<string>trainNormalParamStack</string>
+	<key>resetUnactivatedLayoutHelper</key>
+	<string>getCrudeSpotHandler</string>
+	<key>setImmutableIntensityHelper</key>
+	<string>visitHierarchicalViewCreator</string>
+	<key>startPriorPositionOwner</key>
+	<string>displayCustomBoundFactory</string>
+</dict>
+</plist>

@@ -7,9 +7,9 @@ class BalanceService {
   final _balanceController = StreamController<int>.broadcast();
 
   BalanceService(this._prefs) {
-    // 初始化默认余额
+    // Initialize default balance
     if (!_prefs.containsKey(_balanceKey)) {
-      _prefs.setInt(_balanceKey, 10); // 设置默认余额为 10
+      _prefs.setInt(_balanceKey, 10); // Set default balance to 10
       _balanceController.add(10);
     } else {
       _balanceController.add(_prefs.getInt(_balanceKey)!);

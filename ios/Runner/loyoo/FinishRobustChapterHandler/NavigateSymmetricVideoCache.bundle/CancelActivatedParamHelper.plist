@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cancelRequiredFrameBase</key>
+	<string>skipCustomizedSizeDelegate</string>
+	<key>continueGlobalCapacitiesTarget</key>
+	<string>skipUsedInstructionStack</string>
+	<key>getUniformValueCreator</key>
+	<string>stopAsynchronousChallengeAdapter</string>
+	<key>insteadAsynchronousMendBase</key>
+	<string>prepareOpaqueConfigurationStack</string>
+	<key>keepConsultativeNumberPool</key>
+	<string>unschedulePermanentDepthReference</string>
+	<key>requestMediumUtilObserver</key>
+	<string>setDeclarativeNameManager</string>
+	<key>setRespectiveOperationObserver</key>
+	<string>keepAgileSpriteBase</string>
+	<key>setUniqueBufferCollection</key>
+	<string>getProtectedTempleArray</string>
+</dict>
+</plist>

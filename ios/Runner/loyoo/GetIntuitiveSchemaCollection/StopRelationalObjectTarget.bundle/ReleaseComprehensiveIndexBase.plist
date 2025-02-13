@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>continueMissedSoundPool</key>
+	<string>skipPrevBrushGroup</string>
+	<key>getBeginnerTrianglesArray</key>
+	<string>startGlobalEffectList</string>
+	<key>getFusedMetadataFactory</key>
+	<string>stopMediocreParameterCreator</string>
+	<key>setAutoOpacityProtocol</key>
+	<string>trainUniformFrameArray</string>
+	<key>setRetainedEvolutionImplement</key>
+	<string>accelerateDedicatedScaleCreator</string>
+	<key>setStandaloneVectorImplement</key>
+	<string>clipHierarchicalTempleHandler</string>
+	<key>wrapPrevEffectList</key>
+	<string>locateHyperbolicVarPool</string>
+</dict>
+</plist>

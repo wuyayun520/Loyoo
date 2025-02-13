@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>endSortedAllocatorOwner</key>
+	<string>pauseCustomizedEventReference</string>
+	<key>findSmartZoneHandler</key>
+	<string>getRapidNumberTarget</string>
+	<key>getPermissiveAudioCache</key>
+	<string>keepLostVariableImplement</string>
+	<key>quantizationLocalStrengthDecorator</key>
+	<string>enhancePermanentFlagsFactory</string>
+	<key>setImmutableVariableHandler</key>
+	<string>setNextQueueOwner</string>
+	<key>startPivotalFlagsImplement</key>
+	<string>endCustomInitiativeReference</string>
+</dict>
+</plist>

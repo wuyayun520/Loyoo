@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>decoupleCrudeRowBase</key>
+	<string>getProtectedPositionType</string>
+	<key>holdCrucialChartBase</key>
+	<string>associateMutableSampleDelegate</string>
+	<key>parseLostProjectDecorator</key>
+	<string>getDirectlyConfigurationHelper</string>
+	<key>regulateConcurrentRouteDelegate</key>
+	<string>stopNormalGridProtocol</string>
+	<key>startAutoQuaternionHelper</key>
+	<string>setSynchronousTrianglesArray</string>
+	<key>stopCartesianDetailType</key>
+	<string>resumeCartesianLayoutManager</string>
+</dict>
+</plist>

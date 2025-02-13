@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>endCrucialUtilStack</key>
+	<string>restartSingleTrajectoryDecorator</string>
+	<key>getBeginnerGraphicStack</key>
+	<string>getActivatedGrainManager</string>
+	<key>getStandaloneDimensionHandler</key>
+	<string>prepareIterativeSkewYFactory</string>
+	<key>getTensorFrameOwner</key>
+	<string>refreshPublicPositionReference</string>
+	<key>pauseSustainableSignInstance</key>
+	<string>clearNumericalValueObserver</string>
+	<key>rectifySemanticVarCreator</key>
+	<string>finishSignificantNodeHandler</string>
+	<key>releaseCommonSliderObserver</key>
+	<string>getDisplayableProfileHandler</string>
+	<key>trainIndependentColorType</key>
+	<string>embraceSimilarLeftInstance</string>
+	<key>trainLastVarCache</key>
+	<string>analyzeAsynchronousMetadataStack</string>
+</dict>
+</plist>

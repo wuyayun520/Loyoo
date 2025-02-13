@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>embedRespectiveBufferAdapter</key>
+	<string>setHyperbolicPreviewExtension</string>
+	<key>getUsedChartStack</key>
+	<string>getLiteVectorManager</string>
+	<key>rectifyLostHeadManager</key>
+	<string>shearNextAssetList</string>
+	<key>resumeDirectVariantStack</key>
+	<string>refreshOldParamHelper</string>
+	<key>setSophisticatedGramProtocol</key>
+	<string>checkNextParamFactory</string>
+	<key>touchEnabledOpacityStack</key>
+	<string>analyzeGeometricSkewYDelegate</string>
+</dict>
+</plist>

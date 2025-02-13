@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>endPermissiveLabelImplement</key>
+	<string>setSubtleFeatureOwner</string>
+	<key>getDisplayableOriginHelper</key>
+	<string>parseDisplayableEdgeStack</string>
+	<key>getSeamlessContractionCreator</key>
+	<string>continueAccordionMendPool</string>
+	<key>initializeCommonProgressBarList</key>
+	<string>cancelSpecifySizeProtocol</string>
+	<key>pauseExplicitAccessoryObserver</key>
+	<string>resumeGlobalUsageContainer</string>
+	<key>setFusedViewGroup</key>
+	<string>limitGranularColorPool</string>
+	<key>skipAdvancedColorDelegate</key>
+	<string>restartMultiLoopFactory</string>
+	<key>skipIterativeBoundTarget</key>
+	<string>restartDirectBufferPool</string>
+	<key>wrapEphemeralNamePool</key>
+	<string>restartSymmetricAnalogyPool</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>continueSemanticPolyfillObserver</key>
+	<string>getSortedVariableTarget</string>
+	<key>endUniformGraphType</key>
+	<string>storeCurrentTechniqueInstance</string>
+	<key>getAgileDocumentObserver</key>
+	<string>getTensorModelList</string>
+	<key>getFusedBufferInstance</key>
+	<string>initializeRetainedBorderPool</string>
+	<key>getLargeOpacityFactory</key>
+	<string>createConcurrentHeadHelper</string>
+	<key>getSubsequentBufferAdapter</key>
+	<string>cleanMediumSpotInstance</string>
+	<key>poolPermanentParameterExtension</key>
+	<string>restartCriticalLayoutTarget</string>
+</dict>
+</plist>

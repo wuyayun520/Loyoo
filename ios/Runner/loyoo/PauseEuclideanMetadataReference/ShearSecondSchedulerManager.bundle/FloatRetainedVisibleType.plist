@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>continueMainNumberObserver</key>
+	<string>resumeAccessibleParameterList</string>
+	<key>getMainNumberHelper</key>
+	<string>unlockMutableDispatcherContainer</string>
+	<key>pauseAutoInitiatorsStack</key>
+	<string>dissociateOriginalGrainReference</string>
+	<key>pauseOldOriginArray</key>
+	<string>resumeGlobalPreviewCache</string>
+</dict>
+</plist>

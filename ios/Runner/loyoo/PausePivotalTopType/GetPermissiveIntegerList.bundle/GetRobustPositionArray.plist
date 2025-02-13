@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>discoverBackwardFrameExtension</key>
+	<string>skipSimilarValueBase</string>
+	<key>endIndependentCacheReference</key>
+	<string>setOpaqueGrayscaleStack</string>
+	<key>getSingleChapterInstance</key>
+	<string>prepareIntermediateGraphicHelper</string>
+	<key>pauseNextStepImplement</key>
+	<string>unlockImmutablePositionExtension</string>
+	<key>setAsynchronousVarCreator</key>
+	<string>differentiateStaticUtilType</string>
+	<key>setStandaloneSegmentTarget</key>
+	<string>escalateDisparateBaseExtension</string>
+	<key>updateGranularDimensionTarget</key>
+	<string>startUnsortedInterfaceArray</string>
+</dict>
+</plist>

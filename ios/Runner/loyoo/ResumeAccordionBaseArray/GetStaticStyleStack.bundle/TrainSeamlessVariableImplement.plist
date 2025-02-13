@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>encapsulateMediumUsageDelegate</key>
+	<string>getSymmetricZoneCache</string>
+	<key>getIndependentSkewXAdapter</key>
+	<string>clearCriticalSkewXList</string>
+	<key>getPrismaticMaterialManager</key>
+	<string>getEuclideanDescriptionAdapter</string>
+	<key>preparePrismaticMatrixHelper</key>
+	<string>trainDenseBoundBase</string>
+	<key>pushMissedMemberPool</key>
+	<string>getSingleReductionReference</string>
+	<key>removeSubstantialTaskType</key>
+	<string>readBackwardImpactType</string>
+	<key>resumeSemanticPositionCache</key>
+	<string>cancelNextLayoutObserver</string>
+	<key>setLocalPopupObserver</key>
+	<string>removeImmutableSpineGroup</string>
+	<key>setSortedCursorCollection</key>
+	<string>associateResilientCaptionBase</string>
+</dict>
+</plist>

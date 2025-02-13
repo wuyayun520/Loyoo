@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accelerateActivatedGroupImplement</key>
+	<string>skipSemanticLoaderBase</string>
+	<key>executeKeyVariableHandler</key>
+	<string>stopBeginnerVarFilter</string>
+	<key>prepareUniformMetadataList</key>
+	<string>cancelGeometricBinaryPool</string>
+	<key>reconcileCustomizedFlagsCache</key>
+	<string>multiplyArithmeticGroupFactory</string>
+	<key>wrapLostVectorDelegate</key>
+	<string>getIntuitiveViewExtension</string>
+</dict>
+</plist>

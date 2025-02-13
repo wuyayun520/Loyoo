@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>continueRespectiveEvaluationGroup</key>
+	<string>trainFirstChartObserver</string>
+	<key>reflectAutoPointCache</key>
+	<string>checkCrudeConfigurationDecorator</string>
+	<key>regulateHardNumberCache</key>
+	<string>setSemanticColorCreator</string>
+	<key>renameSignificantSceneHelper</key>
+	<string>setCrudeEdgeObserver</string>
+	<key>setPublicTopicInstance</key>
+	<string>setReusableNumberHelper</string>
+</dict>
+</plist>

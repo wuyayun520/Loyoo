@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appendIntermediateTempleHelper</key>
+	<string>keepMainTempleType</string>
+	<key>getActivatedStyleStack</key>
+	<string>getCustomizedVarList</string>
+	<key>getImmutableTextureCollection</key>
+	<string>lockSharedCurveInstance</string>
+	<key>getLiteCoordAdapter</key>
+	<string>startIntuitiveRotationInstance</string>
+	<key>getSortedBottomType</key>
+	<string>endSynchronousTweakAdapter</string>
+	<key>prepareConcreteValueFactory</key>
+	<string>finishFusedCharacteristicAdapter</string>
+	<key>seekNextNumberDelegate</key>
+	<string>getSmartValueExtension</string>
+	<key>setBackwardOpacityDelegate</key>
+	<string>keepCriticalScaleContainer</string>
+	<key>startDirectlyOperationList</key>
+	<string>getSeamlessDepthReference</string>
+</dict>
+</plist>

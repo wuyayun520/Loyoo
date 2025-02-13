@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>displayStaticCacheFactory</key>
+	<string>setElasticLoopFactory</string>
+	<key>keepTensorNumberCreator</key>
+	<string>getBackwardOpacityArray</string>
+	<key>poolNormalBorderType</key>
+	<string>decoupleGreatIntegerGroup</string>
+	<key>restartFusedLayerCreator</key>
+	<string>startMediumTextList</string>
+	<key>restartIgnoredResultGroup</key>
+	<string>keepCustomScaleAdapter</string>
+	<key>resumeSmallTempleTarget</key>
+	<string>keepAccordionResolverInstance</string>
+	<key>stopExplicitDepthPool</key>
+	<string>embedAccordionVariableInstance</string>
+</dict>
+</plist>

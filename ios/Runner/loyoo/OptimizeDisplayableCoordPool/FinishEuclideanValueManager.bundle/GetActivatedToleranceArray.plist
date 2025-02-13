@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>continueComprehensiveParamImplement</key>
+	<string>setDiscardedValueProtocol</string>
+	<key>endAccordionOpacityHandler</key>
+	<string>resumeIgnoredGroupHandler</string>
+	<key>finishOriginalParticleHandler</key>
+	<string>finishFirstInstructionTarget</string>
+	<key>getIgnoredExponentExtension</key>
+	<string>initializeDirectTechniqueManager</string>
+	<key>keepBackwardNumberObserver</key>
+	<string>finishMediumBufferList</string>
+	<key>playPrevProgressBarImplement</key>
+	<string>setMultiInterpolationStack</string>
+	<key>pushGranularOptimizerReference</key>
+	<string>setSortedConstantObserver</string>
+	<key>replaceSimilarRemediationFactory</key>
+	<string>skipSecondDescriptionCache</string>
+	<key>setRequiredStateBase</key>
+	<string>setBeginnerModelCollection</string>
+</dict>
+</plist>

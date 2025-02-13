@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>getSortedDepthDelegate</key>
+	<string>keepExplicitParamManager</string>
+	<key>initializeMediumControllerFilter</key>
+	<string>resumePermanentQueueBase</string>
+	<key>setIntermediateBandwidthCache</key>
+	<string>retainDeclarativeNumberContainer</string>
+	<key>showSortedIndexArray</key>
+	<string>requestIntuitiveMatrixCache</string>
+	<key>undertakeSustainableMetadataFilter</key>
+	<string>updateAssociatedLabelReference</string>
+</dict>
+</plist>

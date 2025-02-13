@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accelerateFirstFormatFactory</key>
+	<string>setMediumEffectBase</string>
+	<key>finishStandaloneProvisionDecorator</key>
+	<string>getOriginalBufferArray</string>
+	<key>getMediumGiftDelegate</key>
+	<string>getPrevTopicObserver</string>
+	<key>prepareGranularCardOwner</key>
+	<string>cloneDelicateChallengeTarget</string>
+	<key>requestRobustCycleFactory</key>
+	<string>aggregateConcurrentBoundBase</string>
+	<key>setCustomizedCharacterOwner</key>
+	<string>stopPriorBoundImplement</string>
+	<key>setPublicChapterProtocol</key>
+	<string>cancelEnabledCompositionType</string>
+	<key>wrapDifficultZoneArray</key>
+	<string>getSharedOptimizerHandler</string>
+</dict>
+</plist>

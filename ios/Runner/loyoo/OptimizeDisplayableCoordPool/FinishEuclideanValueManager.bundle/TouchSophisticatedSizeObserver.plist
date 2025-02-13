@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cancelSemanticCapacitiesHelper</key>
+	<string>showDenseColorExtension</string>
+	<key>discoverKeyAudioManager</key>
+	<string>setMutableResolverInstance</string>
+	<key>getLastLayerInstance</key>
+	<string>setBasicVisibleExtension</string>
+	<key>limitSignificantSkirtExtension</key>
+	<string>resumeCurrentTimeFilter</string>
+	<key>refreshBackwardVectorArray</key>
+	<string>differentiateIntuitiveDepthManager</string>
+	<key>setLocalScaleInstance</key>
+	<string>setSingleAspectArray</string>
+	<key>setTensorTempleContainer</key>
+	<string>cancelUniformDepthReference</string>
+</dict>
+</plist>

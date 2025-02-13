@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>embraceSynchronousSkewXImplement</key>
+	<string>transposeNewestBufferImplement</string>
+	<key>mitigateSynchronousWorkflowProtocol</key>
+	<string>escalateLastInformationDecorator</string>
+	<key>removeSemanticBufferArray</key>
+	<string>computeOtherPreviewFilter</string>
+	<key>setFusedCoordinatorBase</key>
+	<string>setRapidTagPool</string>
+	<key>setPublicSizeTarget</key>
+	<string>setElasticEventImplement</string>
+	<key>skipHierarchicalProjectReference</key>
+	<string>prepareCriticalRemainderReference</string>
+</dict>
+</plist>

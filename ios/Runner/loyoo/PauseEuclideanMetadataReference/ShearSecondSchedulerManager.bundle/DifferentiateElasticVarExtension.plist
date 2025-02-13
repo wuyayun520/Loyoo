@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>enumerateMediocreQueueObserver</key>
+	<string>setHardClusterManager</string>
+	<key>getLastBoundObserver</key>
+	<string>getEphemeralSkinManager</string>
+	<key>getSmartValueStack</key>
+	<string>continueMainClusterTarget</string>
+	<key>getSynchronousPositionCollection</key>
+	<string>parsePrimaryGroupList</string>
+	<key>renameSpecifyOptimizerHandler</key>
+	<string>endPermissivePrecisionList</string>
+	<key>setDirectVertexFilter</key>
+	<string>prepareOldTweakBase</string>
+</dict>
+</plist>

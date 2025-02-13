@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>continuePrevSceneGroup</key>
+	<string>setNextInteractionTarget</string>
+	<key>getBeginnerVideoHandler</key>
+	<string>setBackwardSkewXBase</string>
+	<key>replaceCriticalDescriptionBase</key>
+	<string>resizeUnactivatedBufferHandler</string>
+	<key>setNumericalProfileTarget</key>
+	<string>setActivatedCharacterManager</string>
+	<key>startLostDescriptorType</key>
+	<string>seekOtherOriginManager</string>
+	<key>stopSmallAnalogyContainer</key>
+	<string>getSynchronousSampleBase</string>
+</dict>
+</plist>

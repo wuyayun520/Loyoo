@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>getAdvancedVariableManager</key>
+	<string>extendNewestCenterContainer</string>
+	<key>getDirectlyPreviewBase</key>
+	<string>reconcileDiscardedFlagsFactory</string>
+	<key>readMultiOriginContainer</key>
+	<string>endBackwardCoordGroup</string>
+	<key>setDiversifiedOpacityExtension</key>
+	<string>divideEnabledLayoutExtension</string>
+	<key>setUnsortedLabelReference</key>
+	<string>getAdvancedImageDelegate</string>
+	<key>stopGeometricUtilExtension</key>
+	<string>cancelIgnoredSlashReference</string>
+</dict>
+</plist>

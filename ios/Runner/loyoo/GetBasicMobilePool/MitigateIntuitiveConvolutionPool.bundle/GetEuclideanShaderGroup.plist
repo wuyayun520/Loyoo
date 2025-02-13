@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associateCriticalNumberHandler</key>
+	<string>getUnactivatedImageList</string>
+	<key>discoverMutableGrainType</key>
+	<string>startSingleVisibleManager</string>
+	<key>finishProtectedOriginStack</key>
+	<string>getSignificantTagOwner</string>
+	<key>getAssociatedResultCollection</key>
+	<string>locatePrismaticViewExtension</string>
+	<key>moveEuclideanCursorList</key>
+	<string>getCartesianLabelPool</string>
+	<key>setSemanticSpriteObserver</key>
+	<string>setRespectiveFeatureCollection</string>
+	<key>setStaticDimensionManager</key>
+	<string>setCriticalCoordinatorReference</string>
+	<key>skipSignificantEvaluationAdapter</key>
+	<string>getMainInterfaceGroup</string>
+	<key>stopSpecifyDescriptionDelegate</key>
+	<string>quantizationEuclideanHeadArray</string>
+	<key>writeMissedQueueImplement</key>
+	<string>getDedicatedFragmentsCollection</string>
+</dict>
+</plist>

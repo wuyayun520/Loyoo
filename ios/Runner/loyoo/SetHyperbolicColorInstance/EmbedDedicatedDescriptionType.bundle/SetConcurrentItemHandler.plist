@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>continueProtectedSignatureFactory</key>
+	<string>setOldHashPool</string>
+	<key>findDenseFlagsOwner</key>
+	<string>setBasicAnchorArray</string>
+	<key>getSharedNumberOwner</key>
+	<string>setSingleTopicObserver</string>
+	<key>prepareLocalVariableList</key>
+	<string>getComprehensiveConvolutionObserver</string>
+	<key>retainCustomizedTopType</key>
+	<string>getLocalLoopHelper</string>
+	<key>searchCartesianNodeGroup</key>
+	<string>keepSpecifyVarInstance</string>
+	<key>setLocalToolPool</key>
+	<string>checkRetainedRouteImplement</string>
+	<key>updatePrimaryBottomManager</key>
+	<string>restartDiversifiedCapsuleGroup</string>
+</dict>
+</plist>

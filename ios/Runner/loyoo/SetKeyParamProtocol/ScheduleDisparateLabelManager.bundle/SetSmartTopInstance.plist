@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>generateFusedProgressBarExtension</key>
+	<string>fillStandaloneContractionReference</string>
+	<key>getNormalStyleArray</key>
+	<string>setCommonThreadCreator</string>
+	<key>getSortedPreviewCache</key>
+	<string>getUnsortedEdgeList</string>
+	<key>getUnsortedChannelsDelegate</key>
+	<string>markCartesianTernaryExtension</string>
+	<key>getUsedDeliveryDelegate</key>
+	<string>getSophisticatedProgressBarInstance</string>
+	<key>mitigateGlobalOriginStack</key>
+	<string>trainSharedInterfaceAdapter</string>
+	<key>respondCommonHeapDecorator</key>
+	<string>getOriginalGraphCache</string>
+	<key>setMultiApertureProtocol</key>
+	<string>preparePriorUsageObserver</string>
+</dict>
+</plist>

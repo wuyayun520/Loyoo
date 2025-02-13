@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adjustLargeDescriptorType</key>
+	<string>shearAdvancedCompositionManager</string>
+	<key>finishIndependentRectangleCreator</key>
+	<string>generateHierarchicalOptionArray</string>
+	<key>getConsultativeReliabilityDecorator</key>
+	<string>calculatePrimaryVarHandler</string>
+	<key>getSortedVariantCreator</key>
+	<string>setSignificantParameterCreator</string>
+	<key>trainDiscardedTimeExtension</key>
+	<string>trainConsultativeFragmentsHandler</string>
+	<key>writeLastTweakProtocol</key>
+	<string>restartStandaloneCenterProtocol</string>
+</dict>
+</plist>

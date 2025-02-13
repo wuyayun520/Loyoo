@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cancelCrudeParameterCache</key>
+	<string>skipBackwardParamList</string>
+	<key>compareGranularMaterialCreator</key>
+	<string>startIndependentBufferFactory</string>
+	<key>discoverElasticHeroFilter</key>
+	<string>scheduleDirectlyChartHandler</string>
+	<key>setNextShaderList</key>
+	<string>freeSemanticParameterArray</string>
+	<key>setPrismaticTextTarget</key>
+	<string>setPrimarySpriteDecorator</string>
+	<key>storeCustomAnimationReference</key>
+	<string>pauseUniformStrokeFilter</string>
+	<key>syncDeclarativeAscentTarget</key>
+	<string>renameGreatBufferCollection</string>
+	<key>visitDeclarativeBorderOwner</key>
+	<string>setDifficultTempleDecorator</string>
+</dict>
+</plist>

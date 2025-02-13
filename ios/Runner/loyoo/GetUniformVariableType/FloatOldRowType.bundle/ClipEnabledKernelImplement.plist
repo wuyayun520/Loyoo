@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>generateNormalOriginType</key>
+	<string>getStaticCardGroup</string>
+	<key>getCrudePetCollection</key>
+	<string>resumeSubsequentSceneReference</string>
+	<key>getPriorObserverReference</key>
+	<string>skipActivatedBehaviorFactory</string>
+	<key>keepDiscardedApertureCollection</key>
+	<string>setMissedAxisHelper</string>
+	<key>keepHierarchicalAllocatorOwner</key>
+	<string>keepAdvancedHeadTarget</string>
+	<key>resumeSemanticStrengthList</key>
+	<string>pauseGranularDepthAdapter</string>
+	<key>setAdvancedDepthList</key>
+	<string>setNormalStateCollection</string>
+	<key>setAdvancedRoleInstance</key>
+	<string>keepCrucialAxisPool</string>
+	<key>skipSubsequentCycleReference</key>
+	<string>spinHardBufferHandler</string>
+</dict>
+</plist>

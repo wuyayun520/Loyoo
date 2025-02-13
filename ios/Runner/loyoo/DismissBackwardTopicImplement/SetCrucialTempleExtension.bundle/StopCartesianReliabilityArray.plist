@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>getPermissiveLogarithmFactory</key>
+	<string>visitKeyContractionReference</string>
+	<key>preparePrevBaselineFilter</key>
+	<string>cancelDeclarativeVariableObserver</string>
+	<key>reconcileOldAnimationFactory</key>
+	<string>spinCommonGraphStack</string>
+	<key>reduceCommonRotationTarget</key>
+	<string>skipRequiredFrameBase</string>
+	<key>setFirstPolyfillImplement</key>
+	<string>initializePrimaryPositionImplement</string>
+	<key>transposePermissiveNumberTarget</key>
+	<string>setHyperbolicConfigurationFactory</string>
+	<key>wrapSmallMenuCreator</key>
+	<string>augmentSingleParameterObserver</string>
+</dict>
+</plist>

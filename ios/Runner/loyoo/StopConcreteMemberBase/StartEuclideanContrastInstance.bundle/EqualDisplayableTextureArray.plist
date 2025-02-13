@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>clearSynchronousHeapDecorator</key>
+	<string>continueStaticTopPool</string>
+	<key>finishLastParameterCreator</key>
+	<string>cleanBeginnerNumberHelper</string>
+	<key>getCustomizedCenterDelegate</key>
+	<string>generatePrismaticSkewXArray</string>
+	<key>provideMutableEqualizationCreator</key>
+	<string>getAutoStyleReference</string>
+	<key>setRequiredResultTarget</key>
+	<string>trainHierarchicalOriginCache</string>
+	<key>wrapEuclideanTempleGroup</key>
+	<string>getIndependentParameterTarget</string>
+</dict>
+</plist>

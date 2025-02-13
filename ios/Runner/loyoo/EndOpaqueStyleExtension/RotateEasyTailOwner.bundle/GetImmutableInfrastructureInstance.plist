@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>prepareRelationalNodeBase</key>
+	<string>setPermissiveHeadContainer</string>
+	<key>resumeEnabledOptimizerBase</key>
+	<string>cancelRetainedResultFactory</string>
+	<key>skipRespectiveTailManager</key>
+	<string>pauseArithmeticFeatureList</string>
+	<key>trainDiversifiedFlagsExtension</key>
+	<string>stopMultiRemediationCache</string>
+</dict>
+</plist>

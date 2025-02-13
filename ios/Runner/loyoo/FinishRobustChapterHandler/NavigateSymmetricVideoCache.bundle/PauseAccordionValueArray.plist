@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>pauseCommonMapStack</key>
+	<string>restartConcurrentSpotFactory</string>
+	<key>pauseIndependentCurveCache</key>
+	<string>parsePrevParamHelper</string>
+	<key>quitFirstPlateDecorator</key>
+	<string>showEuclideanParameterTarget</string>
+	<key>setDirectFragmentsBase</key>
+	<string>regulateUniformSoundInstance</string>
+	<key>setRetainedVectorFactory</key>
+	<string>provideSimilarKernelObserver</string>
+	<key>startHierarchicalNumberFactory</key>
+	<string>resumeMediumEffectObserver</string>
+	<key>streamlineSmallScaleType</key>
+	<string>setUniqueParameterOwner</string>
+</dict>
+</plist>

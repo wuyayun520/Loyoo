@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>analyzeMultiOperationType</key>
+	<string>reduceMainFlagsManager</string>
+	<key>exitStaticSpriteProtocol</key>
+	<string>restoreSmartBufferList</string>
+	<key>getLocalIndexInstance</key>
+	<string>getEasyVariableGroup</string>
+	<key>initializeNextSpriteCollection</key>
+	<string>restartPrimaryColorTarget</string>
+	<key>keepPriorSpriteManager</key>
+	<string>startSemanticVolumeAdapter</string>
+	<key>pauseNewestResultImplement</key>
+	<string>setRetainedNameTarget</string>
+	<key>setAgileParameterStack</key>
+	<string>pauseLocalArchitectureExtension</string>
+	<key>skipCrudeSignHandler</key>
+	<string>writeCustomizedOperationInstance</string>
+</dict>
+</plist>

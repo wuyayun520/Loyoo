@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cancelFusedControllerType</key>
+	<string>getDisplayableLeftInstance</string>
+	<key>getBeginnerTrianglesHandler</key>
+	<string>setCustomVarReference</string>
+	<key>initializeReusableZoneFilter</key>
+	<string>getGreatGramType</string>
+	<key>offsetDiscardedNumberStack</key>
+	<string>setKeyCenterDecorator</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>finishEphemeralParticleHandler</key>
+	<string>enumerateDiscardedPlateAdapter</string>
+	<key>getSpecifyCachePool</key>
+	<string>getOtherZoneAdapter</string>
+	<key>prepareGreatParameterManager</key>
+	<string>getSmartNumberFilter</string>
+	<key>resumeImmutableRecursionInstance</key>
+	<string>getHyperbolicPolygonList</string>
+	<key>setPermissiveSineHandler</key>
+	<string>setSemanticNumberTarget</string>
+	<key>startUnsortedGridManager</key>
+	<string>resumeSemanticGroupProtocol</string>
+	<key>syncIntermediateValuePool</key>
+	<string>resumeOtherBufferArray</string>
+	<key>upgradeDirectComponentManager</key>
+	<string>prepareEphemeralVarStack</string>
+</dict>
+</plist>

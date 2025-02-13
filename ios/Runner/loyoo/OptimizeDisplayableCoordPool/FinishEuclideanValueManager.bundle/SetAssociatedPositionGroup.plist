@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>getUniformSkewXHandler</key>
+	<string>setUnactivatedEquipmentList</string>
+	<key>reduceGeometricEdgeCreator</key>
+	<string>revisitLocalProfileProtocol</string>
+	<key>reflectRobustCharacterTarget</key>
+	<string>endBackwardParameterTarget</string>
+	<key>restartDenseVariableDecorator</key>
+	<string>getAccessibleTailExtension</string>
+	<key>setExplicitParamArray</key>
+	<string>initializePrimaryBufferList</string>
+	<key>setStaticResilienceContainer</key>
+	<string>getEasyBottomType</string>
+	<key>upgradeCustomizedNormFactory</key>
+	<string>continuePriorDescriptionImplement</string>
+</dict>
+</plist>

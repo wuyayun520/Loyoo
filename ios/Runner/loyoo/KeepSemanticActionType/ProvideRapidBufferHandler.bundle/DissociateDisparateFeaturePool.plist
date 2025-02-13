@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cancelSymmetricVertexDecorator</key>
+	<string>trainOpaqueBoundManager</string>
+	<key>keepAutoPlaybackTarget</key>
+	<string>getOriginalProgressBarFactory</string>
+	<key>regulateOpaqueDetailHandler</key>
+	<string>getRequiredRightType</string>
+	<key>setExplicitEvolutionList</key>
+	<string>finishStandaloneLayoutDelegate</string>
+	<key>setRequiredPositionList</key>
+	<string>analyzeLocalTagReference</string>
+</dict>
+</plist>

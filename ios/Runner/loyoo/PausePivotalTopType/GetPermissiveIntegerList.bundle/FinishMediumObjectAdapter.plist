@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cancelUniqueViewObserver</key>
+	<string>cancelReusableScaleContainer</string>
+	<key>findConcreteScaleReference</key>
+	<string>quantizerLiteLayoutPool</string>
+	<key>getAccessibleVarCollection</key>
+	<string>introspectMutableBufferFilter</string>
+	<key>pushDedicatedLayerArray</key>
+	<string>getSignificantVarReference</string>
+	<key>quantizationDisparateLoopHelper</key>
+	<string>startUnsortedParamAdapter</string>
+</dict>
+</plist>

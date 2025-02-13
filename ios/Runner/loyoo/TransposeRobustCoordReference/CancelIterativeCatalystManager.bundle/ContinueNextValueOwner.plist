@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>getPermanentTagReference</key>
+	<string>getAsynchronousDescriptorBase</string>
+	<key>getReusablePolyfillProtocol</key>
+	<string>getMultiOriginDelegate</string>
+	<key>keepDifficultQuaternionBase</key>
+	<string>stopHardTopicObserver</string>
+	<key>prepareEuclideanVarAdapter</key>
+	<string>getAssociatedOperationFilter</string>
+	<key>writeTensorEntropyReference</key>
+	<string>computeHardCacheGroup</string>
+</dict>
+</plist>
