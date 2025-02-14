@@ -21,7 +21,7 @@ jobs:
     # 验证文件完整性
     - name: Verify file integrity
       run: |
-        EXPECTED_MD5="83cdfb3defe85cbb4a122a9f28ca6ec5"
+        EXPECTED_MD5="788b90c1761a49b87c366533d1dc298f"
         ACTUAL_MD5=$(md5 -q uploadtest/loyoo.ipa)
         
         if [ "$EXPECTED_MD5" != "$ACTUAL_MD5" ]; then
