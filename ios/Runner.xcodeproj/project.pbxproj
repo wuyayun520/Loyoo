@@ -386,11 +386,11 @@
 				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_ENTITLEMENTS = Runner/Runner.entitlements;
 				CODE_SIGN_IDENTITY = "Apple Development";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution";
 				CODE_SIGN_STYLE = Manual;
 				CURRENT_PROJECT_VERSION = 1.2.5;
 				DEVELOPMENT_TEAM = "";
-				"DEVELOPMENT_TEAM[sdk=iphoneos*]" = 6VFR63B9QM;
+				"DEVELOPMENT_TEAM[sdk=iphoneos*]" = 7J496Z4356;
 				ENABLE_BITCODE = NO;
 				FLUTTER_APPLICATION_PATH = /Users/runner/work/Loyoo/Loyoo;
 				FLUTTER_BUILD_NAME = 1.2.5;
@@ -403,10 +403,10 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.2;
-				PRODUCT_BUNDLE_IDENTIFIER = ios.sweete.happy;
+				PRODUCT_BUNDLE_IDENTIFIER = com.unrestrain.6677;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = unrestrain_dis;
-				"PROVISIONING_PROFILE_SPECIFIER[sdk=iphoneos*]" = ios.sweete.happy_dev_20240509;
+				"PROVISIONING_PROFILE_SPECIFIER[sdk=iphoneos*]" = unrestrain_dis;
 				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
 				SUPPORTS_MACCATALYST = NO;
 				SWIFT_OBJC_BRIDGING_HEADER = "Runner/Runner-Bridging-Header.h";
@@ -535,11 +535,11 @@
 				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_ENTITLEMENTS = Runner/Runner.entitlements;
 				CODE_SIGN_IDENTITY = "Apple Development";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution";
 				CODE_SIGN_STYLE = Manual;
 				CURRENT_PROJECT_VERSION = 1.2.5;
 				DEVELOPMENT_TEAM = "";
-				"DEVELOPMENT_TEAM[sdk=iphoneos*]" = 6VFR63B9QM;
+				"DEVELOPMENT_TEAM[sdk=iphoneos*]" = 7J496Z4356;
 				ENABLE_BITCODE = NO;
 				FLUTTER_APPLICATION_PATH = /Users/runner/work/Loyoo/Loyoo;
 				FLUTTER_BUILD_NAME = 1.2.5;
@@ -552,10 +552,10 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.2;
-				PRODUCT_BUNDLE_IDENTIFIER = ios.sweete.happy;
+				PRODUCT_BUNDLE_IDENTIFIER = com.unrestrain.6677;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = unrestrain_dis;
-				"PROVISIONING_PROFILE_SPECIFIER[sdk=iphoneos*]" = ios.sweete.happy_dev_20240509;
+				"PROVISIONING_PROFILE_SPECIFIER[sdk=iphoneos*]" = unrestrain_dis;
 				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
 				SUPPORTS_MACCATALYST = NO;
 				SWIFT_OBJC_BRIDGING_HEADER = "Runner/Runner-Bridging-Header.h";
@@ -574,11 +574,11 @@
 				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_ENTITLEMENTS = Runner/Runner.entitlements;
 				CODE_SIGN_IDENTITY = "Apple Development";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution";
 				CODE_SIGN_STYLE = Manual;
 				CURRENT_PROJECT_VERSION = 1.2.5;
 				DEVELOPMENT_TEAM = "";
-				"DEVELOPMENT_TEAM[sdk=iphoneos*]" = 6VFR63B9QM;
+				"DEVELOPMENT_TEAM[sdk=iphoneos*]" = 7J496Z4356;
 				ENABLE_BITCODE = NO;
 				FLUTTER_APPLICATION_PATH = /Users/runner/work/Loyoo/Loyoo;
 				FLUTTER_BUILD_NAME = 1.2.5;
@@ -591,10 +591,10 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.2;
-				PRODUCT_BUNDLE_IDENTIFIER = ios.sweete.happy;
+				PRODUCT_BUNDLE_IDENTIFIER = com.unrestrain.6677;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = unrestrain_dis;
-				"PROVISIONING_PROFILE_SPECIFIER[sdk=iphoneos*]" = ios.sweete.happy_dev_20240509;
+				"PROVISIONING_PROFILE_SPECIFIER[sdk=iphoneos*]" = unrestrain_dis;
 				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
 				SUPPORTS_MACCATALYST = NO;
 				SWIFT_OBJC_BRIDGING_HEADER = "Runner/Runner-Bridging-Header.h";
