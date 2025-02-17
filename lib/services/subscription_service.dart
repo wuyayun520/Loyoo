@@ -1,6 +1,7 @@
 import 'package:in_app_purchase/in_app_purchase.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 import '../providers/membership_provider.dart';
+import 'dart:developer' as dev;
 
 class SubscriptionService {
   final InAppPurchase _inAppPurchase = InAppPurchase.instance;
@@ -57,7 +58,7 @@ class SubscriptionService {
 
       // Subscription product IDs
       const Set<String> _kSubscriptionIds = <String>{
-        'loyoo.weekly',
+        'loungeplusweek_13',
         'loyoo.monthly.com',
       };
 
@@ -161,14 +162,14 @@ class SubscriptionService {
           // Update membership status
           final membershipNotifier = MembershipNotifier(prefs);
           final now = DateTime.now();
-          final expiryDate = purchase.productID == 'loyoo.weekly'
+          final expiryDate = purchase.productID == 'loungeplusweek_13'
               ? now.add(const Duration(days: 7))
               : now.add(const Duration(days: 30));
               
           await membershipNotifier.updateSubscription(
             isSubscribed: true,
             expiryDate: expiryDate,
-            planType: purchase.productID == 'loyoo.weekly' ? 'weekly' : 'monthly',
+            planType: purchase.productID == 'loungeplusweek_13' ? 'weekly' : 'monthly',
           );
           
           // Mark this subscription as processed
@@ -195,6 +196,20 @@ class SubscriptionService {
     } catch (e) {
       print('Error handling successful subscription purchase: $e');
       onSubscriptionError('Error processing subscription: $e');
+      rethrow;
+    }
+  }
+
+  Future<void> restorePurchases() async {
+    try {
+      dev.log('Starting purchase restoration', name: 'SubscriptionService');
+      
+      // 恢复购买
+      await _inAppPurchase.restorePurchases();
+      
+      dev.log('Purchase restoration completed', name: 'SubscriptionService');
+    } catch (e) {
+      dev.log('Error restoring purchases: $e', name: 'SubscriptionService');
       rethrow;
     }
   }

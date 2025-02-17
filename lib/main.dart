@@ -60,7 +60,7 @@ bool _isInAppPurchaseId(String productId) {
 
 // 判断是否是订阅ID
 bool _isSubscriptionId(String productId) {
-  final subscriptionIds = ['loyoo.weekly', 'loyoo.monthly.com'];
+  final subscriptionIds = ['loungeplusweek_13', 'loyoo.monthly.com'];
   return subscriptionIds.contains(productId);
 }
 

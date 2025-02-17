@@ -178,7 +178,7 @@ class _SubscriptionPageState extends ConsumerState<SubscriptionPage> {
       {
         'title': 'Weekly',
         'price': '\$12.99/week',
-        'productId': 'loyoo.weekly',
+        'productId': 'loungeplusweek_13',
         'description': '7-day premium access',
       },
       {
@@ -288,21 +288,35 @@ class _SubscriptionPageState extends ConsumerState<SubscriptionPage> {
             );
           }),
           const SizedBox(height: 16),
-          SizedBox(
-            width: double.infinity,
-            child: ElevatedButton(
-              onPressed: _selectedPlanIndex != null
-                  ? () => _handleSubscribe(plans[_selectedPlanIndex!]['productId'] as String)
-                  : null,
-              style: ElevatedButton.styleFrom(
-                padding: const EdgeInsets.symmetric(vertical: 16),
-                shape: RoundedRectangleBorder(
-                  borderRadius: BorderRadius.circular(12),
+          Row(
+            children: [
+              Expanded(
+                child: ElevatedButton(
+                  onPressed: _selectedPlanIndex != null
+                      ? () => _handleSubscribe(plans[_selectedPlanIndex!]['productId'] as String)
+                      : null,
+                  style: ElevatedButton.styleFrom(
+                    padding: const EdgeInsets.symmetric(vertical: 16),
+                    shape: RoundedRectangleBorder(
+                      borderRadius: BorderRadius.circular(12),
+                    ),
+                  ),
+                  child: const Text(
+                    'Subscribe Now',
+                    style: TextStyle(fontSize: 18),
+                  ),
                 ),
               ),
-              child: const Text(
-                'Subscribe Now',
-                style: TextStyle(fontSize: 18),
+            ],
+          ),
+          const SizedBox(height: 12),
+          TextButton(
+            onPressed: _handleRestorePurchases,
+            child: const Text(
+              'Restore Purchases',
+              style: TextStyle(
+                fontSize: 16,
+                decoration: TextDecoration.underline,
               ),
             ),
           ),
@@ -525,6 +539,54 @@ class _SubscriptionPageState extends ConsumerState<SubscriptionPage> {
           context: context,
           builder: (context) => AlertDialog(
             title: Text(_errorSubscriptionGeneral),
+            content: Text(e.toString()),
+            actions: [
+              TextButton(
+                onPressed: () => Navigator.of(context).pop(),
+                child: const Text('OK'),
+              ),
+            ],
+          ),
+        );
+      }
+    } finally {
+      if (mounted) {
+        setState(() => _isLoading = false);
+      }
+    }
+  }
+
+  Future<void> _handleRestorePurchases() async {
+    try {
+      setState(() => _isLoading = true);
+      
+      if (_subscriptionService == null) {
+        throw Exception('Subscription service not initialized');
+      }
+
+      // 调用恢复购买
+      await _subscriptionService!.restorePurchases();
+      
+      if (!mounted) return;
+
+      // 刷新会员状态
+      ref.refresh(membershipProvider);
+      
+      // 显示成功消息
+      if (mounted) {
+        ScaffoldMessenger.of(context).showSnackBar(
+          const SnackBar(
+            content: Text('Purchases restored successfully'),
+            behavior: SnackBarBehavior.floating,
+          ),
+        );
+      }
+    } catch (e) {
+      if (mounted) {
+        showDialog(
+          context: context,
+          builder: (context) => AlertDialog(
+            title: const Text('Restore Failed'),
             content: Text(e.toString()),
             actions: [
               TextButton(

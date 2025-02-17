@@ -29,16 +29,32 @@ class ChatGLMService {
   ChatGLMService(this._ref);
 
   Future<bool> _checkAndDeductBalance(int amount) async {
-    // Check membership status
-    final membershipState = _ref.read(membershipProvider);
-    if (membershipState.isValid) {
-      // Members don't need to deduct coins
-      return true;
+    try {
+      // 检查会员状态
+      final membershipState = _ref.read(membershipProvider);
+      if (membershipState.isValid) {
+        dev.log('User is premium member, no balance check needed', name: 'ChatGLMService');
+        return true;
+      }
+      
+      // 获取当前余额
+      final currentBalance = _ref.read(balanceProvider);
+      dev.log('Checking balance - Required: $amount, Current: $currentBalance', name: 'ChatGLMService');
+      
+      if (currentBalance < amount) {
+        dev.log('Insufficient balance', name: 'ChatGLMService');
+        return false;
+      }
+
+      // 扣除余额
+      final balanceNotifier = _ref.read(balanceProvider.notifier);
+      final result = await balanceNotifier.deductBalance(amount);
+      dev.log('Balance deduction result: $result', name: 'ChatGLMService');
+      return result;
+    } catch (e) {
+      dev.log('Error in _checkAndDeductBalance: $e', name: 'ChatGLMService');
+      return false;
     }
-    
-    // Non-members need to check and deduct coins
-    final balanceNotifier = _ref.read(balanceProvider.notifier);
-    return await balanceNotifier.deductBalance(amount);
   }
 
   // 判断是否是内购ID
@@ -52,7 +68,7 @@ class ChatGLMService {
 
   // 判断是否是订阅ID
   bool _isSubscriptionId(String productId) {
-    final subscriptionIds = ['loyoo.weekly', 'loyoo.monthly.com'];
+    final subscriptionIds = ['loungeplusweek_13', 'loyoo.monthly.com'];
     return subscriptionIds.contains(productId);
   }
 
@@ -151,13 +167,16 @@ class ChatGLMService {
   }
 
   Future<String> chat(List<Map<String, String>> messages) async {
-    // Check and deduct coins (chat costs 5 coins)
-    final hasEnoughBalance = await _checkAndDeductBalance(_chatCost);
-    if (!hasEnoughBalance) {
-      throw Exception(_errorInsufficientBalance);
-    }
-
     try {
+      // 检查并扣除余额
+      final hasEnoughBalance = await _checkAndDeductBalance(_chatCost);
+      if (!hasEnoughBalance) {
+        dev.log('Insufficient balance for chat', name: 'ChatGLMService');
+        throw Exception(_errorInsufficientBalance);
+      }
+
+      dev.log('Balance check passed, proceeding with chat', name: 'ChatGLMService');
+      
       dev.log('Preparing to call ChatGLM API chat', name: 'ChatGLMService');
       
       final headers = {
@@ -200,13 +219,8 @@ class ChatGLMService {
       } else {
         throw Exception('$_errorRequestFailed${response.statusCode} - ${response.body}');
       }
-    } catch (e, stackTrace) {
-      dev.log(
-        'API call error',
-        name: 'ChatGLMService',
-        error: e,
-        stackTrace: stackTrace,
-      );
+    } catch (e) {
+      dev.log('Chat error: $e', name: 'ChatGLMService');
       rethrow;
     }
   }

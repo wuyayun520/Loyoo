@@ -1,658 +1,0 @@
-//key = value-ar（阿拉伯语）;
-"Net Error, Try again later" = "خطأ في الشبكة، حاول مرة أخرى لاحقًا";
-"We want everyone to enjoy a healthy chatting environment and to use this feature you need to be \"Face cerification\"." = "نريد للجميع أن يستمتعوا ببيئة دردشة صحية وللاستفادة من هذه الميزة، يجب أن تكون \"التحقق من الوجه\".";
-"By blocking a user, you will not receive his/her new messages and the message history will be removed too. Continue to block this user?" = "من خلال حظر مستخدم، لن تتلقى رسائله/رسائلها الجديدة وسيتم حذف سجل الرسائل أيضًا. هل تريد الاستمرار في حظر هذا المستخدم؟";
-"Turn on permissions in settings before you can use the feature" = "قم بتشغيل الأذونات في الإعدادات قبل أن تتمكن من استخدام الميزة";
-"Not available during a call" = "غير متاح أثناء المكالمة";
-"You're on the live" = "أنت على الهواء مباشرة";
-"Current network unavailable" = "الشبكة الحالية غير متاحة";
-"Yesterday" = "أمس";
-"Finish" = "انهاء";
-"Cancel" = "إلغاء";
-"Please click 'Go' to allow access" = "يرجى النقر على 'اذهب' للسماح بالوصول.";
-"Please allow '%@' to access your album in your iPhone's 'Settings-Privacy-Album' option" = "يرجى السماح لـ '%@' بالوصول إلى ألبومك في خيار 'الإعدادات - الخصوصية - الألبوم' في iPhone الخاص بك.";
-"Please allow '%@' to access your location services in your iPhone's 'Settings-Privacy-Location Services' option" = "يُرجى السماح لـ '%@' بالوصول إلى خدمات موقعك في خيار 'الإعدادات-الخصوصية-خدمات الموقع' بجهاز iPhone الخاص بك";
-"Go" = "يذهب";
-"Video Call" = "مكالمة فيديو";
-"Voice Call" = "مكالمة صوتية";
-"Licensing" = "الترخيص";
-"Granting licences to receive better video calls and earn more money" = "منح تراخيص لتلقي مكالمات فيديو أفضل وكسب المزيد من المال";
-"Turn on Camera and recording permissions in settings to use the feature properly" = "قم بتشغيل أذونات الكاميرا والتسجيل في الإعدادات لاستخدام الميزة بشكل صحيح";
-"Open" = "يفتح";
-"Select a date" = "اختر تاريخا";
-"The video length should be %@-%@ seconds. Please intercept it" = "يجب أن تكون مدة الفيديو %@-%@ ثانية. يرجى اعتراضه";
-"%@ points/min" = "%@ عملات/دقيقة";
-"Video Call (%@ Points/Min)" = "مكالمة فيديو (%@ نقطة/دقيقة)";
-"Voice Call (%@ Points/Min)" = "مكالمة صوتية (%@ نقطة/دقيقة)";
-" Free" = " حر";
-" Video call" = " مكالمة فيديو";
-"Free 1 min" = "دقيقة واحدة مجانية";
-"\n %@/min" = "\n %@/دقيقة";
-"\n %@ %@/min" = "\n %@ %@/دقيقة";
-"Video Call (%@ Coins/min)" = "مكالمة فيديو (%@ عملات/دقيقة)";
-"Voice Call (%@ Coins/min)" = "مكالمة صوتية (%@ عملات/دقيقة)";
-"%@ Gold coins / Min" = "%@ عملات ذهبية / الحد الأدنى";
-"%@/min" = "%@/دقيقة";
-"%@ Coins/min" = "%@ عملات/دقيقة";
-"%@ Gold coins / Message" = "%@ عملات ذهبية / رسالة";
-"%@ (%@x1  %@ Gold coins)" = "%@ (%@x1 %@ عملات ذهبية)";
-"Need a %@ (%@ Gold coins) to unlock" = "تحتاج إلى %@ (%@ عملات ذهبية) لفتحها";
-"Not enough coins" = "لا توجد عملات كافية";
-"Get gold coins" = "الحصول على العملات الذهبية";
-"Insufficient gold coins, call has ended" = "عملات ذهبية غير كافية، انتهت المكالمة";
-"  %@(%@ Gold coins*%@)" = " %@(%@ عملات ذهبية*%@)";
-"  %@(%@ Gold coins)" = " %@(%@ عملات ذهبية) ";
-"My Gold coins" = "عملاتي الذهبية";
-"Matching..." = "مطابقة...";
-"Free video time is over, you can continue to call her if you are interested" = "لقد انتهى وقت الفيديو المجاني، يمكنك الاستمرار في الاتصال بها إذا كنت مهتمًا";
-"In order to find friends nearby please allow the access of your location." = "من أجل العثور على أصدقاء بالقرب منك، يرجى السماح بالوصول إلى موقعك.";
-"You've got no list yet." = "ليس لديك قائمة بعد.";
-"Popular" = "شائع";
-"Nearby" = "مجاور";
-"New" = "جديد";
-"Match" = "مباراة";
-"Give a gift, you will get a free public gift an nouncement automatically." = "امنح هدية، سوف تحصل على هدية عامة مجانية بإعلان تلقائي.";
-"Turn on live certification" = "تشغيل الشهادة المباشرة";
-"will increase the chances of receiving calls to earn more points." = "سيزيد من فرص تلقي المكالمات لكسب المزيد من النقاط.";
-"Turn on" = "تشغيل";
-"Contact information" = "معلومات الاتصال";
-"Notifications" = "إشعارات";
-"Social Preferences" = "التفضيلات الاجتماعية";
-"Announcement Settings" = "إعدادات الإعلان";
-"Phone Number" = "رقم التليفون";
-"Turn on Notification" = "تشغيل الإشعارات";
-"Same-gendered messaging" = "الرسائل بين الجنسين";
-"Cupid messaging" = "رسائل كيوبيد";
-"Ranking anonymous" = "التصنيف مجهول";
-"Automatic message" = "الرسالة التلقائية";
-"Delete Account" = "حذف الحساب";
-"Open then %@ will recommend users to you. A new chat will be made after a successful recommendation." = "افتح، ثم سوف يوصي %@ بالمستخدمين لك. سيتم إجراء محادثة جديدة بعد التوصية الناجحة.";
-"Open then Applyname will recommend users to you. Use your identity to greet each other." = "افتح ثم Applyname سوف يوصي المستخدمين لك. استخدم هويتك لتحية بعضكم البعض.";
-"Your avatar and nickname will not be displayed in the ranking." = "لن يتم عرض الصورة الرمزية واللقب الخاص بك في الترتيب.";
-"Open then %@ will recommend users to you. Use your identity to greet each other." = "افتح ثم سيوصي %@ بالمستخدمين لك. استخدم هويتك للتحية بعضكم البعض.";
-"You're going to delete your profile,messages, photos and matched friends PERMANENTLY and your account will be UNRECOVERABLE.Continue to delete your account? " = "ستقوم بحذف ملفك الشخصي ورسائلك وصورك وأصدقائك المتطابقين بشكل دائم ولن يكون حسابك قابلاً للاسترداد. هل تريد الاستمرار في حذف حسابك؟";
-"Delete" = "حذف";
-"Logout succeeded!" = "تم تسجيل الخروج بنجاح!";
-"Followers" = "متابعون";
-"Following" = "التالي";
-"Reviewing" = "مراجعة";
-"Income" = "دخل";
-"Select Country Code" = "اختر رمز الدولة";
-"Once gender is set, it Cannot be changed." = "بمجرد تحديد الجنس، لا يمكن تغييره.";
-"Next" = "التالي";
-"Network error. Check it and try again." = "خطأ في الشبكة. تحقق منه ثم حاول مرة أخرى.";
-"Enter the email code sent to" = "أدخل رمز البريد الإلكتروني المرسل إلى";
-"Resend verification email" = "إعادة ارسال بريد التحقق";
-"Tips: If you can't receive the verification code, please check whether the message is in spam or not" = "نصائح: إذا لم تتمكن من استلام رمز التحقق، يرجى التحقق مما إذا كانت الرسالة ضمن الرسائل غير المرغوب فيها أم لا";
-"Bind Email succeed" = "نجح ربط البريد الإلكتروني";
-"Resend verification email (%@s)" = "إعادة إرسال رسالة التحقق (%@s)";
-"Email Address" = "عنوان البريد الإلكتروني";
-"Request failed, Try again later" = "فشل الطلب، حاول مرة أخرى لاحقاً";
-"Net Error" = "خطأ صافي";
-"You are currently on a call, please try again later" = "أنت تجري مكالمة حاليًا، يرجى المحاولة مرة أخرى لاحقًا";
-"You're already in her live room" = "أنت بالفعل في غرفة المعيشة الخاصة بها";
-"Failed to enter the chat room. Please try again later" = "فشل الدخول إلى غرفة الدردشة. يرجى المحاولة مرة أخرى لاحقاً";
-"Sure" = "بالتأكيد";
-"Face" = "وجه";
-"Eyes" = "عيون";
-"Nose" = "أنف";
-"Lip" = "شفة";
-"Filter" = "فرز";
-"Restore to default Beautify Settings" = "الاستعادة إلى إعدادات التجميل الافتراضية";
-"OK" = "نعم";
-"None" = "لا أحد";
-"Tone" = "نغمة";
-"Ruddy" = "وردي";
-"Smooth" = "سلس";
-"Slim" = "ضئيله";
-"Small" = "صغير";
-"Narrow" = "ضيق";
-"Face Shape" = "شكل الوجه";
-"Chin" = "ذقن";
-"Firm" = "شركة";
-"Cheekbones" = "عظام الخد";
-"Forehead" = "جبين";
-"Big" = "كبير";
-"Round" = "دائري";
-"Brighten" = "سطع";
-"Dark Circles" = "الهالات السوداء";
-"Nose Ala" = "أنف علاء";
-"Enhance" = "يحسن";
-"Lip" = "شفة";
-"Whitening" = "تبييض";
-"Original" = "الأصلي";
-"Standard" = "معيار";
-"Natural" = "طبيعي";
-"Luminous" = "مضيئة";
-"Ruby" = "ياقوت";
-"Whiten" = "بيض";
-"Honey Peach" = "عسل الخوخ";
-"Sweet" = "حلو";
-"Cute" = "لطيف";
-"Cookies" = "بسكويت";
-"Fair" = "عدل";
-"There is no data to upload" = "لا توجد بيانات للتحميل";
-"Upload Log successfully!" = "تم تحميل السجل بنجاح!";
-"Edit" = "يحرر";
-"Home" = "بيت";
-"People" = "الناس";
-"Moment" = "لحظة";
-"Message" = "رسالة";
-"Me" = "أنا";
-"Live" = "يعيش";
-"She is busy now" = "إنها مشغولة الآن";
-"Enter \"Settings\" and open \"Camera\" permission to use this function normally" = "ادخل إلى \"الإعدادات\" وافتح إذن \"الكاميرا\" لاستخدام هذه الوظيفة بشكل طبيعي.";
-"Settings" = "إعدادات";
-"Modify the success" = "تعديل النجاح";
-"UID Copied" = "تم نسخ الهوية";
-" Reward" = " جائزة";
-"Add an email address" = "إضافة عنوان بريد إلكتروني";
-"Only you will see your email on your profile." = "أنت فقط من سيشاهد بريدك الإلكتروني في ملفك الشخصي.";
-"Send verification email" = "ارسل ايميل التفعيل";
-"Personal information" = "معلومات شخصية";
-"Face verification" = "التحقق من الوجه";
-"Verify now" = "تحقق الآن";
-"You can feel free to skip this step." = "لا تتردد في تخطي هذه الخطوة.";
-"Invitation code" = "شفرة الدعوة";
-"Skip" = "يتخطى";
-"If you don't have the code,you can feel free to skip this step" = "إذا لم يكن لديك الرمز، فلا تتردد في تخطي هذه الخطوة";
-"Resent Code" = "الرمز المعاد إرساله";
-"By tapping Create Account or sign in, you agree to our terms. Learn how we process your data in our Privacy Policy." = "بالضغط على إنشاء حساب أو تسجيل الدخول، فإنك توافق على شروطنا. تعرف على كيفية معالجة بياناتك في سياسة الخصوصية الخاصة بنا.";
-"Agree and Continue" = "موافقة ومتابعة";
-"Disagree and Quit" = "لا أتفق وانسحب";
-"Enter code" = "ادخل الرمز";
-"Nickname" = "كنية";
-"More attractive photo more calls" = "صور أكثر جاذبية المزيد من المكالمات";
-"Please upload a clear and beautiful photo of yourself" = "من فضلك قم بتحميل صورة واضحة وجميلة لنفسك";
-"Upload any photo you like" = "قم بتحميل أي صورة تريدها";
-"No violence, pornography, or politics allowed" = "لا يسمح بالعنف أو المواد الإباحية أو السياسة";
-"Don’t worry , we never post to Facebook" = "لا تقلق، نحن لا ننشر أبدًا على الفيسبوك";
-"Continue with Apple" = "استمر مع أبل";
-"Enter phone number" = "أدخل رقم الهاتف";
-"Password" = "كلمة المرور";
-"Login by password" = "تسجيل الدخول بكلمة المرور";
-"Login by OTP" = "تسجيل الدخول عن طريق OTP";
-"Login" = "تسجيل الدخول";
-"Set New Password" = "تعيين كلمة مرور جديدة";
-"Please set a password of at least 6 digits, consisting of numbers, English case groups" = "يُرجى تعيين كلمة مرور مكونة من 6 أرقام على الأقل، وتتكون من أرقام ومجموعات حالات باللغة الإنجليزية";
-"Your Password: %@" = "كلمة السر خاصتك: %@";
-"After updating your password, you won't be able to log in with your old password, are you sure you want to update your password?\n%@" = "بعد تحديث كلمة المرور الخاصة بك، لن تتمكن من تسجيل الدخول باستخدام كلمة المرور القديمة، هل أنت متأكد أنك تريد تحديث كلمة المرور الخاصة بك؟ \n%@";
-"Confirm" = "يتأكد";
-"Status changed, please exit and retry" = "لقد تغيرت الحالة، يرجى الخروج وإعادة المحاولة";
-"This feature is not available during a call" = "هذه الميزة غير متوفرة أثناء المكالمة";
-"Invite Friends" = "ادعو أصدقاء";
-"Level" = "مستوى";
-"Posts" = "دعوة";
-"Service On-line" = "الخدمة عبر الإنترنت";
-"Price Settings" = "إعدادات الأسعار";
-"Greeting Message Settings" = "إعدادات رسالة الترحيب";
-"Wallet" = "محفظة";
-"Task" = "مهمة";
-"Beautify Setting" = "تجميل الإعداد";
-"Video Settings" = "اعدادات الفيديو";
-"Game" = "لعبة";
-"AboutUs" = "معلومات عنا";
-"Blacklist" = "القائمة السوداء";
-"You've got Blacklist yet." = "لقد تم إدراجك في القائمة السوداء.";
-"Edit profiles" = "تحرير الملفات الشخصية";
-"Done" = "منتهي";
-"aboutMe" = "ْعَنِّي";
-"interest" = "اهتمام";
-"An error occurred, please try again" = "حدث خطأ، يرجى المحاولة مرة أخرى";
-"Video cover submitted successfully" = "تم إرسال غلاف الفيديو بنجاح";
-"My interests" = "اهتماماتي";
-"Save the change?" = "حفظ التغيير؟";
-"Save" = "يحفظ";
-"No more than 10 tags" = "لا يزيد عن 10 علامات";
-"Feedback" = "ردود الفعل";
-"Enter your feedback…" = "أدخل تعليقاتك...";
-"Your email (Required) " = "بريدك الالكتروني (مطلوب) ";
-"Please fill in the content" = "الرجاء ملء المحتوى";
-"Please enter the correct email address" = "الرجاء إدخال عنوان البريد الإلكتروني الصحيح";
-"Operation succeeded" = "نجحت العملية";
-"Problem statements" = "تصريحات المشكلة";
-"Feature advice" = "نصيحة مميزة";
-"Operation questions" = "أسئلة العمليات";
-"Chat price settings" = "إعدادات أسعار الدردشة";
-"Video call price settings" = "إعدادات أسعار مكالمات الفيديو";
-"Voice call price settings" = "إعدادات أسعار المكالمات الصوتية";
-"Game Center" = "مركز الالعاب";
-"Voice greeting" = "تحية صوتية";
-"Add" = "يضيف";
-"Successfully added, please wait for approval" = "تمت الإضافة بنجاح، برجاء انتظار الموافقة";
-"Are you sure to delete this message？" = "هل أنت متأكد من حذف هذه الرسالة؟";
-"Please wait for the audit result" = "الرجاء انتظار نتيجة التدقيق";
-"The upper limit has been reached" = "تم الوصول إلى الحد الأعلى";
-"Currently mute" = "كتم الصوت حاليا";
-"Edit Title" = "تعديل العنوان";
-"Add multiple voice greetings, and the system will send voice messages by turns;\nClick the bubble to play the voice, slide to the voice area to delete it, and the voice title can be edited." = "أضف تحيات صوتية متعددة، وسيرسل النظام رسائل صوتية بالتناوب؛n\انقر فوق الفقاعة لتشغيل الصوت، ثم قم بالتمرير إلى منطقة الصوت لحذفها، ويمكن تحرير عنوان الصوت.";
-"  Burn after reading" = "حرق بعد القراءة";
-"Delete Successfully" = "تم الحذف بنجاح";
-"Upload a beautiful photo of the greeting" = "تحميل صورة جميلة للتحية";
-"Text greeting" = "تحية نصية";
-"Click the button below to add\ncontent" = "انقر فوق الزر أدناه لإضافة\nمحتوى";
-"When adding multiple text message, the syst em will send them by turns;slide to the message to delete" = "عند إضافة رسائل نصية متعددة، سيقوم النظام بإرسالها بالتناوب؛ قم بالتمرير إلى الرسالة المراد حذفها";
-"Video calls will all use the current Beautify Settings" = "ستستخدم جميع مكالمات الفيديو إعدادات التجميل الحالية";
-"Beautify Settings" = "تجميل الإعدادات";
-"Program" = "برنامج";
-"Terms of Use" = "شروط الاستخدام";
-"Privacy Policy" = "سياسة الخصوصية";
-"About us" = "معلومات عنا";
-"Upload Log" = "سجل التحميل";
-"Logout" = "تسجيل خروج";
-"Security" = "أمن";
-"More" = "أكثر";
-"Please communicate with online service first and then upload logs, logs are used to analyze problems you encountered in the use of the App!" = "يُرجى التواصل مع الخدمة عبر الإنترنت أولاً ثم تحميل السجلات، حيث يتم استخدام السجلات لتحليل المشكلات التي واجهتها أثناء استخدام التطبيق!";
-"Post" = "أعلن";
-"Profile" = "حساب تعريفي";
-"Are you sure you want to remove this item?" = "هل أنت متأكد أنك تريد إزالة هذا العنصر؟";
-"Purple means turn on the call invitation, grey means turn off the call invitation." = "اللون الأرجواني يعني تشغيل دعوة المكالمة، واللون الرمادي يعني إيقاف تشغيل دعوة المكالمة.";
-"You can receive a gold coins bonus once a day while the \"Lounge plus\" subscription service is active.The time of the daily gold coins will be based on the US Eastern Time Zone." = "يمكنك الحصول على مكافأة من العملات الذهبية مرة واحدة في اليوم بينما يكون خدمة الاشتراك في \"الصالة المتقدمة\" نشطة. سيتم تحديد وقت العملات الذهبية اليومية بناءً على المنطقة الزمنية الشرقية للولايات المتحدة.";
-"Sun" = "الأحد";
-"Mon" = "الاثنين";
-"Tue" = "يوم الثلاثاء";
-"Wed" = "الأربعاء";
-"Thu" = "يوم الخميس";
-"Fri" = "جمعة";
-"Sat" = "السبت";
-" No more than 10 characters" = "لا يزيد عن 10 أحرف";
-"enter your name" = "أدخل أسمك";
-"My photos" = "صوري";
-"Add more details of yourself" = "أضف المزيد من التفاصيل عن نفسك";
-"Tip:Don't post content that induces others to send gifts or other money-relatsed content." = "نصيحة: لا تنشر محتوى يحث الآخرين على إرسال الهدايا أو أي محتوى آخر متعلق بالمال.";
-"Video Cover" = "غلاف فيديو";
-"Adding a video cover to show the charm can get more good feelings." = "إن إضافة غلاف فيديو لإظهار السحر يمكن أن يجلب المزيد من المشاعر الطيبة.";
-"Shoot video at least 5 seconds" = "تصوير فيديو لا يقل عن 5 ثواني";
-"A real-person verification of your profile will get you more and better matches." = "إن التحقق الشخصي من ملفك الشخصي سيوفر لك المزيد من التطابقات الأفضل.";
-"· Take the photo by following the posing guide." = "· التقط الصورة باتباع دليل الوضع.";
-"· The person in the photo must be the account owner." = "· يجب أن يكون الشخص الموجود في الصورة هو صاحب الحساب.";
-"Continue" = "استمر";
-"To show sincere interest, The other party needs to pay to chat with you, and you will get redeemable points." = "لإظهار الاهتمام الصادق، يحتاج الطرف الآخر إلى الدفع مقابل الدردشة معك، وستحصل على نقاط قابلة للاسترداد.";
-"The price setting for video calls does not work for the Random Video feature.If you hang up within 20 seconds of answering the phone, you will not get Points." = "إعدادات الأسعار لمكالمات الفيديو لا تعمل مع ميزة الفيديو العشوائي. إذا قمت بإنهاء المكالمة خلال 20 ثانية من الرد على الهاتف، فلن تحصل على نقاط.";
-"You need to pay extra attention that if you hang up within 20 seconds of answering the phone, you will not get Points." = "يجب عليك الانتباه أكثر إلى أنه إذا أغلقت الخط خلال 20 ثانية من الرد على الهاتف، فلن تحصل على نقاط.";
-"Submitted successfully, please wait \n patiently for review." = "تم الإرسال بنجاح، يرجى الانتظار \n بصبر للمراجعة.";
-"Pending review" = "في انتظار المراجعة";
-"Choose a gift" = "اختر هدية";
-"Click to listen" = "انقر للاستماع";
-"Click to start recording" = "انقر لبدء التسجيل";
-"Come back" = "عود";
-"Submit" = "تقديم";
-"Click to finish recording" = "انقر لإنهاء التسجيل";
-"Click to pause" = "انقر للإيقاف المؤقت";
-"Click to play" = "انقر للعب";
-"Add voice message" = "إضافة رسالة صوتية";
-"Record a voice for 3-10s" = "تسجيل صوت لمدة 3-10 ثواني";
-"Dance a dance" = "الرقص رقصة";
-"Sing a song" = "غني أغنية";
-"Please tell us your problems                   " = "من فضلك أخبرنا مشاكلك";
-"You need to choose at least one." = "عليك اختيار واحد على الأقل.";
-"Please tell us your problems." = "من فضلك أخبرنا مشاكلك.";
-"Submitted successfully" = "تم الإرسال بنجاح";
-"Nudity" =  "العري";
-"Violence" = "العنف";
-"Harassment" =  "التحرش";
-"Suicide or Self-injury" = "الانتحار أو الإيذاء الذاتي";
-"False Information" = "المعلومات الكاذبة";
-"Spam" = "رسائل غير مرغوب فيها";
-"Hate Speech" = "خطاب الكراهية";
-"Terrorism" = "الإرهاب";
-"Sale of Illegal or Regulated Goods" = "بيع البضائع غير القانونية أو المنظمة";
-"Sending disgusting messages" = "إرسال رسائل مثيرة للاشمئزاز";
-"Using photos of nudity or drugs" = "استخدام صور العري أو المخدرات";
-"Harassing or sending ads" = "المضايقة أو إرسال الإعلانات";
-"Defraud or using fake info" = "الاحتيال أو استخدام معلومات مزيفة";
-"Others" = "آحرون";
-"Receive video calls" = "استقبال مكالمات الفيديو";
-"Receive voice calls" = "استقبال المكالمات الصوتية";
-"Strike this pose and take a photo" = "اضرب هذا الوضع والتقط صورة";
-"Your photo will never be uploaded to your profile or shown to anyone else." = "لن يتم تحميل صورتك إلى ملفك الشخصي أو عرضها لأي شخص آخر.";
-"Camera" = "آلة تصوير";
-"To pass the verification, in the photo you should:" = "لاجتياز عملية التحقق، يجب عليك في الصورة:";
-"· show your face clearly;" = "· أظهر وجهك بوضوح؛";
-"· pose exactly like the posing guide." = "· تشكل تمامًا مثل دليل الانتحال.";
-"Your photo will never be uploaded to your profile or shown to anvone else." = "لن يتم أبدًا تحميل صورتك إلى ملفك الشخصي أو عرضها لشخص آخر.";
-"Submit Photo" = "إرسال الصورة";
-"Retake Photo" = "إعادة التقاط الصورة";
-"Gifts received" = "الهدايا المستلمة";
-"Gift" = "هدية";
-"Shielding Success" = "تحصين النجاح";
-"Unmasking Succeeded" = "نجحت عملية الكشف";
-"Remvoe Block" = "حظر الإزالة";
-"Block" = "حاجز";
-"Favourite" = "مفضل";
-"No personal signature was completed" = "لم يتم إكمال التوقيع الشخصي";
-"Send Gift" = "إرسال هدية";
-"View info" = "عرض المعلومات";
-"Report" = "إبلاغ";
-"Can't send blank message" = "لا يمكن إرسال رسالة فارغة";
-"Beauty Photos" = "صور الجمال";
-"I know" = "أنا أعرف";
-"%@ is using too low a version" = "%@ يستخدم إصدارًا منخفضًا جدًا";
-"Upload failed" = "التحميل فشل";
-"You can use the video chat feature to give %@ a call" = "يمكنك استخدام ميزة الدردشة المرئية لإجراء مكالمة مع %@";
-"Reply to get points~" = "الرد للحصول على النقاط ~";
-"My album" = "ألبومي";
-"🎉congratulations! She may be very interested in you. She's not far from you. \nWhy don't you say hello to her?" = "🎉تهانينا! ربما تكون مهتمة بك جداً. إنها ليست بعيدة عنك. \nلماذا لا تلقي عليها التحية؟";
-"Why don't you say hello to her?" = "لماذا لا تقول مرحبا لها؟";
-"🎉congratulations! He may be very interested in you. He's not far from you. \nWhy don't you say hello to him?" = "🎉تهانينا! ربما يكون مهتماً بك جداً. إنه ليس بعيداً عنك. \nلماذا لا تلقي عليه التحية؟";
-"Why don't you say hello to him?" = "لماذا لا تقول مرحباً له؟";
-"My interests：" = "اهتماماتي:";
-"Click for details" = "انقر للاطلاع على التفاصيل";
-"Open lucky blind-box\nSent " = "فتح الصندوق الأعمى المحظوظ\nتم الإرسال";
-"Sent " = "مرسل ";
-"My interests：%@" = "اهتماماتي:%@";
-"Send to %@" = "ارسل إلى %@";
-"Send to All Numbers" = "إرسال إلى جميع الأرقام";
-"Send to All (Total %@)" = "أرسل إلى الجميع (الإجمالي %@)";
-"Please add greeting text" = "الرجاء إضافة نص الترحيب";
-"You have not set up a photo greeting, please set it up before sending!" = "لم تقم بإعداد صورة تحية، يرجى إعدادها قبل الإرسال!";
-"Go to set" = "اذهب إلى المجموعة";
-"Customer Care Center" = "مركز رعايه المستخدم";
-"Someone@ me" = "شخص ما@";
-"Play Error,File does not exist" = "خطأ في التشغيل، الملف غير موجود";
-"Play Error,File expired" = "خطأ في التشغيل، انتهت صلاحية الملف";
-"Play Error，Net error" = "خطأ في التشغيل، خطأ صافي";
-"Currently in mute mode" = "حاليًا في وضع كتم الصوت";
-"Your account is logged in on another device and you are forced to go offline! If it is not done by me, the password may have been leaked, and it is recommended to change the password." = "لقد تم تسجيل الدخول إلى حسابك على جهاز آخر وأنت مجبر على عدم الاتصال بالإنترنت! إذا لم أقم بذلك، فمن المحتمل أن تكون كلمة المرور قد تسربت، ومن المستحسن تغيير كلمة المرور.";
-"Offline Notification" = "إخطار غير متصل";
-"Re Login" = "إعادة تسجيل الدخول";
-"Try again later, if you have any questions please contact customer service" = "حاول مرة أخرى لاحقاً، إذا كان لديك أي أسئلة يرجى الاتصال بخدمة العملاء";
-"Here comes " = "هنا يأتي ";
-"Your live will be publicly displayed to others" = "سيتم عرض البث المباشر الخاص بك بشكل علني للآخرين";
-"its content must comply with current laws and regulations and platform requirements." = "يجب أن يتوافق محتواه مع القوانين واللوائح الحالية ومتطلبات النظام الأساسي.";
-"Please make sure" = "الرجاء التأكد";
-"your face is always in the video frame." = "وجهك موجود دائمًا في إطار الفيديو.";
-"The live broadcast has ended" = "انتهى البث المباشر";
-"You have entered the other party's blacklist" = "لقد قمت بإدخال القائمة السوداء للطرف الآخر";
-"Live room exception, please return to retry, if multiple failures please contact the staff" = "استثناء الغرفة المباشرة، يرجى العودة لإعادة المحاولة، وفي حالة حدوث إخفاقات متعددة، يرجى الاتصال بالموظفين";
-"Not for now" = "ليس الآن";
-"Please make sure your face is always in the video screen" = "من فضلك تأكد من أن وجهك موجود دائمًا على شاشة الفيديو";
-"Live Certification off" = "الشهادة المباشرة متوقفة";
-"Live Reminder" = "تذكير مباشر";
-"You haven't used your free video opportunity yet, talk to someone first!" = "لم تستغل فرصة الفيديو المجانية الخاصة بك بعد، تحدث إلى شخص ما أولاً!";
-"Live will end soon" = "البث المباشر سينتهي قريبا";
-"Make sure your face is always in the frame" = "تأكد من أن وجهك موجود دائمًا في الإطار";
-"points\n≈ $" = "النقاط\n≈ $";
-"Say something...     " = "قل شيئا... ";
-"no data available" = "لا تتوافر بيانات";
-"Stop Live" = "توقف عن البث المباشر";
-"Open VIP\nto give Exclusive gifts" = "افتح VIP\nلتقديم هدايا حصرية";
-"Kicked out of the live room" = "طرد من غرفة المعيشة";
-"Giving an Exclusive gift will appeal to her" = "تقديم هدية حصرية سوف يروق لها";
-"Subscribe" = "يشترك";
-"Live Warning" = "تحذير مباشر";
-"Violation Reason: " = "سبب المخالفة:";
-"Warning Time: " = "وقت التحذير:";
-"Failed to get user information, please return and try again" = "فشل الحصول على معلومات المستخدم، يرجى العودة والمحاولة مرة أخرى";
-"Speaker On" = "مكبر الصوت قيد التشغيل";
-"Speaker Off" = "مكبر الصوت معطل";
-"She has hung up" = "لقد أغلقت الهاتف";
-"The other hung up the phone" = "والآخر أغلق الهاتف";
-"No answer" = "لا اجابة";
-"waiting for the other party to accept the video invitation..." = "في انتظار قبول الطرف الآخر لدعوة الفيديو...";
-"Invite you to a video call..." = "أدعوك إلى مكالمة فيديو...";
-"Camera must be on" = "يجب أن تكون الكاميرا قيد التشغيل";
-"Automatically answer for you in %@s" = "الرد عليك تلقائيًا خلال %@s";
-"Waiting to answer the phone..." = "في انتظار الرد على الهاتف...";
-"Waiting for %@ to answer the phone..." = "في انتظار %@ للرد على الهاتف...";
-"%@ is answering now..." = "%@ يقوم بالرد الآن...";
-"%@ turned off the camera" = "%@ قام بإيقاف تشغيل الكاميرا";
-"Recharge" = "تعبئة رصيد";
-"%@s Remaining" = "%@s المتبقي";
-"Open lucky blind-box" = "فتح الصندوق الأعمى المحظوظ";
-"End of call" = "نهاية المكالمة";
-"Bags" = "أكياس";
-"Hot" = "حار";
-"VIP" = "كبار الشخصيات";
-"The number of gifts cannot be less than 1" = "لا يمكن أن يقل عدد الهدايا عن 1";
-"Select the desired gift to unlock" = "اختر الهدية المطلوبة لفتحها";
-"Select object >" = "حدد كائن >";
-"It looks like there's nothing" = "يبدو أنه لا يوجد شيء";
-" Select %@ > " = " اختر %@ > ";
-"All Numbers" = "جميع الأرقام";
-"View detailed description >" = "عرض الوصف التفصيلي >";
-"Please select an object" = "الرجاء تحديد كائن";
-"Please select a gift" = " الرجاء اختيار هدية ";
-"Custom" = "مخصص";
-"Type a message…" = "اكتب رسالة...";
-"Hold to talk" = "أستمر بالضغط لتتحدث";
-"A maximum of 10 people can be @ one message" = "يمكن أن يصل عدد الرسالة الواحدة إلى 10 أشخاص كحد أقصى";
-"Move here to cancel" = "انتقل هنا للإلغاء";
-"Release to cancel" = "الإصدار للإلغاء";
-"The upper limit is reached" = "تم الوصول إلى الحد الأعلى";
-"Talk too short" = "التحدث باختصار شديد";
-"Trans" = "تران";
-"Translation" = "ترجمة";
-"Reply" = "رد";
-"Recent Gifts" = "الهدايا الأخيرة";
-"Tip:\"Favorite each other\" chat will be free" = "نصيحة: الدردشة \"التفضيل لبعضها البعض\" ستكون مجانية.";
-"Tip: Can't earn points if you follow each other~" = "نصيحة: لا يمكن كسب النقاط إذا كنتم تتابعون بعضكم البعض~";
-"Can't earn points if you follow each other~" = "لا يمكن كسب النقاط إذا كنتم تتابعون بعضكم البعض~";
-"You've got no favourite yet." = "ليس لديك مفضلة بعد.";
-"You've got no Be liked yet." = "ليس لديك أي إعجاب بعد.";
-"You've got no message yet." = "ليس لديك رسالة بعد.";
-"Public Chat Room" = "غرفة الدردشة العامة";
-"Online List" = "قائمة الانترنت";
-"Select @ Numbers" = "اختر @ الأرقام";
-"Click on the screen to view 15s" = "انقر على الشاشة لعرض 15 ثانية";
-"Already burned" = "احترقت بالفعل";
-"Load failed, return to retry" = "فشل التحميل، قم بالرجوع لإعادة المحاولة";
-"Click on the screen to play this video(Burn After Reading)" = "انقر على الشاشة لتشغيل هذا الفيديو (حرق بعد القراءة)";
-"Messages" = "رسائل";
-"Who like me" = "من مثلي";
-"Call" = "يتصل";
-"Allow %@ to send you notifications?" = "هل تسمح لـ %@ بإرسال إشعارات إليك؟";
-"Do you want to mark all messages as read?" = "هل تريد وضع علامة على كافة الرسائل كمقروءة؟";
-"New friends" = "اصدقاء جدد";
-"There's no record of the call yet" = "لا يوجد سجل للمكالمة بعد";
-"You've got no like yet." = "ليس لديك مثل بعد.";
-"Follow each other" = "اتبعوا بعضكم البعض";
-"[Photo]" = "[صورة]";
-"[Audio]" = "[صوتي]";
-"[Image]" = "[صورة]";
-"[Missed Call]" = "[مكالمة فائتة]";
-"[Voice Call]" = "[مكالمة صوتية]";
-"[Video Call]" = "[مكالمة فيديو]";
-"[Short Video]" = "[فيديو قصير]";
-"[Cupid messaging]" = "[رسائل كيوبيد]";
-"Sent Gift" = "الهدية المرسلة";
-"Receive Gift" = "تلقي الهدية";
-"[draft]%@" = "[مسودة]%@";
-"%@ Online" = "%@ متصل";
-"Messages not been replied here" = "لم يتم الرد على الرسائل هنا";
-"All" = "الجميع";
-"Intimate" = "حَمِيم";
-"Full" = "ممتلىء";
-"Need a gift to unlock" = "أحتاج إلى هدية لفتحها";
-"Burn After Reading" = "الحرق بعد القراءة";
-"Use Photo" = "استخدام الصورة";
-"Use Video" = "استخدام الفيديو";
-"Dialed calls" = "مكالمات تم الاتصال بها";
-"Received calls" = "المكالمات المستلمة";
-"Like&Chat" = "أعجبني ودردشة";
-"Quick Greeting" = "تحية سريعة";
-"Nope" = "لا";
-"Why don't you say hello to %@?" = "لماذا لا تقول مرحباً إلى %@؟";
-"her" = "هي";
-"him" = "هو";
-"reply" = "رد";
-"Publish Successful, Go to My Dynamics to view" = "تم النشر بنجاح، انتقل إلى ديناميكياتي للعرض";
-"cos upload failed" = "فشل تحميل كوس";
-"Video review in progress" = "جاري مراجعة الفيديو";
-"Comment on success" = "تعليق على النجاح";
-"The content cannot be empty!" = "لا يمكن أن يكون المحتوى فارغًا!";
-"Save successfully" = "تم الحفظ بنجاح";
-"There's no feed yet." = "لا يوجد تغذية بعد.";
-"Unpin from profile" = "إزالة التثبيت من الملف الشخصي";
-"Delete Post" = "حذف آخر";
-"Pin to profile" = "تثبيت في الملف الشخصي";
-"Your post has been pinned" = "تم تثبيت مشاركتك";
-"Your post has been Unpinned" = "لقد تم إلغاء تثبيت مشاركتك";
-"Don’t post content that induces others to send gifts or other money-related cintent." = "لا تنشر محتوى يحث الآخرين على إرسال هدايا أو أموال أخرى ذات صلة بالمال.";
-"What would you like to share with others? (Free)" = "ما الذي ترغب في مشاركته مع الآخرين؟ (مجاني)";
-"Are you sure you want to delete the video?" = "هل أنت متأكد أنك تريد حذف الفيديو؟";
-"Tips" = "نصائح";
-"Your post may be recommended as hashtag topic to other users. And its content must comply with current laws regulations and platform requirements which shall not contain:" = "قد تتم التوصية بمشاركتك كموضوع هاشتاج لمستخدمين آخرين. ويجب أن يتوافق محتواها مع القوانين واللوائح الحالية ومتطلبات النظام الأساسي والتي يجب ألا تحتوي على:";
-"1. Hate comments or rumors. \n2. Induce others to send gifts. \n3. Induce others to pay and trade on money. \n4. Nudity or sexual activity. \n5. Advertising information. \n6. Other contents prohibited by laws and administrative regulations." = "1. التعليقات المحقدة أو الشائعات. \n2. حث الآخرين على إرسال الهدايا. \n3. حث الآخرين على الدفع والتجارة بالمال. \n4. العري أو النشاط الجنسي. \n5. معلومات الإعلان. \n6. المحتويات الأخرى المحظورة بموجب القوانين واللوائح الإدارية.";
-"Video processing" = "معالجة الفيديو";
-"Comment" = "تعليق";
-"The other party has received your crush" = "لقد تلقى الطرف الآخر إعجابك";
-"Retake" = "إعادة الالتقاط";
-"Wanna publish an announcement ?" = "هل تريد نشر إعلان؟";
-"Please verification first" = "يرجى التحقق أولاً";
-"Random Video" = "فيديو عشوائي";
-"Searching for perfect matches. please be patient." = "البحث عن التطابقات المثالية. يرجى التحلي بالصبر.";
-"Random Video helps locating your matches online quickly. Random Videos are priced at 40 gold coins per minute and are paid for by the party calling the video." = "يساعد الفيديو العشوائي في تحديد موقع التطابقات الخاصة بك عبر الإنترنت بسرعة. يتم تسعير مقاطع الفيديو العشوائية بـ 40 عملة ذهبية في الدقيقة ويتم دفع ثمنها من قبل الطرف الذي يتصل بالفيديو.";
-"Tap to start video chatting" = "انقر لبدء محادثة الفيديو";
-"%@ chatting" = "%@ الدردشة";
-"Search" = "يبحث";
-"Reset" = "إعادة ضبط";
-"Age" = "عمر";
-"Search by UID" = "البحث عن طريق الهوية";
-"Can’t find~" = "لا يمكن العثور ~";
-"Please enter the query UID" = "الرجاء إدخال معرف الاستعلام";
-"Details" = "تفاصيل";
-"Today" = "اليوم";
-"Activity" = "نشاط";
-"Charm" = "سحر";
-"Weekly" = "أسبوعي";
-"Meet more friends" = "التعرف على المزيد من الأصدقاء";
-"Not yet~" = "ليس بعد ~";
-"System notification" = "إخطار النظام";
-"Upload Now" = "تحميل الآن";
-"Go to certify" = "اذهب إلى الشهادة";
-"Authentication is under reviewing" = "المصادقة قيد المراجعة";
-"Click to view" = "اضغط للعرض";
-"You've been barred from receiving calls" = "لقد تم منعك من تلقي المكالمات";
-"GO Now" = "اذهب الآن";
-"Maybe next time" = "ربما في المرة القادمة";
-"Camera On" = "الكاميرا قيد التشغيل";
-"Camera Off" = "الكاميرا معطلة";
-"Name" = "اسم";
-"Gender" = "جنس";
-"Birthday" = "عيد ميلاد";
-"Height" = "ارتفاع";
-"Weight" = "وزن";
-"City" = "مدينة";
-"About me" = "ْعَنِّي";
-"Male" = "ذكر";
-"Female" = "أنثى";
-"Retry After or Go to \"Feedback\" to contact us" = "أعد المحاولة لاحقًا أو انتقل إلى \"الملاحظات\" للاتصال بنا.";
-"just sent" = "تم الإرسال للتو";
-" coins in " = " نقود معدنية " ;
-"won " = "فاز ";
-"English" = "الإنجليزية";
-"+%@ points" = "+%@ نقاط";
-"Switch" = "مفتاح";
-"Beautify" = "تجميل";
-"He has hung up" = "لقد أنهى المكالمة";
-"Send" = "إرسال";
-"Chat" = "دردشة";
-"Follow" = "اتبعني";
-"Official" = "مكتبية";
-"Free" = "مجانية";
-"Crush" = "دقة قلب";
-"Contact Us" = "اتصل بنا";
-"Last Login" = "آخر تسجيل دخول";
-"busy" = "مشغول";
-"Online" = "الانترنت";
-"Photo" = "صور ";
-"Video" = "فيديو";
-"Click to change or delete photo." = "اضغط لتغيير أو حذف الصورة";
-"Not reaching the required level" = "لا تصل إلى المستوى المطلوب";
-"Gifts required for the photo" = "الهدايا المطلوبة للصورة";
-"Photo greeting" = "تحية الصور";
-"Don't want to go live now." = "لا أريد الذهاب للبث المباشر الآن";
-"Bombard" = "قنبلة";
-"Drop down to refresh" = "اسحب لأسفل للتحديث";
-"Release Refresh" = " الافراج عن التحديث ";
-"Refreshing" = " تحديث ";
-"Pull up to load more" = " سحب تحميل أكثر ";
-"No more data." = " لا مزيد من البيانات ";
-"Optional" = "اختياري";
-"Calls are cancelled" =  "تم إلغاء المكالمات";
-"The call has ended" = "انتهت المكالمة";
-"Call interruption" = "انقطاع المكالمة";
-"Matching now" = "المطابقة الآن";
-"[Automatic video] Receive video call incoming" = "[فيديو تلقائي] استلام مكالمة فيديو واردة";
-"[Invite you to a video call...]" = "[أدعوك لمكالمة فيديو...]";
-"[Invite you to a voice call...]" = "[أدعوك لمكالمة صوتية...]";
-"[Reply messages to get points]" = "[رد على الرسائل للحصول على نقاط]";
-"Quick greeting can only be sent to him once" = "يمكن إرسال التحية السريعة إليه مرة واحدة فقط";
-"Under time" = "تحت الوقت";
-"Any" = "أي";
-"Yes" = "نعم";
-"Nope" = "لا";
-"Opening failed" = "فشل الفتح";
-"Network busy!" = "الشبكة مشغولة!";
-"Live room exception" = "استثناء الغرفة المباشرة";
-"Delete Comment?" = "حذف التعليق؟";
-"Enter “Settings” and open “Location” permission to use function normally." = "أدخل” إعدادات “وافتح” موقع “الإذن لاستخدام الوظيفة بشكل طبيعي.";
-"json error" = "خطأ جسون";
-"News Feed" = "خط الأخبار";
-"The post has been deleted ~" = "تم حذف المنشور ~";
-"To set up a password, you need to verify the account, choose your verification method" = "لإعداد كلمة المرور ، يجب عليك التحقق من الحساب ، اختر طريقة التحقق الخاصة بك";
-"Verified by Phone" = "تم التحقق بواسطة الهاتف";
-"Verified by Email" = "تم التحقق عبر البريد الإلكتروني";
-"Increase：" = "يزيد:";
-"Decrease：" = "ينقص:";
-"Giving gifts 、making calls and sending paid messages can increase intimacy~" = "تقديم الهدايا وإجراء المكالمات وإرسال الرسائل المدفوعة يمكن أن يزيد من العلاقة الحميمة~";
-"1 coin = 1 intimacy" = "1 عملة = 1 علاقة حميمة";
-"If coins are not consumed within a certain period of time, the intimacy level will be reduced." = "إذا لم يتم استهلاك العملات المعدنية خلال فترة زمنية معينة، فسيتم تقليل مستوى العلاقة الحميمة.";
-"Can't use the function due to your lack of intimacy level." = "لا يمكنك استخدام الوظيفة بسبب افتقارك إلى مستوى الحميمية.";
-"Ask for" = "اسأل عن";
-"Enter Email Address" = "أدخل عنوان البريد الالكتروني";
-"Copy" = "نسخ";
-"or" = "أو .";
-"Send verification" = "إرسال التحقق";
-"Bind Mobile Phone succeed" = " ربط الهاتف الجوال ينجح";
-"Enter the phone code sent to" = "أدخل رمز الهاتف المرسل إلى";
-"Online Users" = "مستخدمو الإنترنت";
-"followed the anchor" = "اتبع المرساة";
-"View read receipts?" = "عرض إيصالات القراءة؟";
-"Mute" = "اصمت";
-"Muted" = "صامت";
-"Select mute duration" = "اختر مدة كتم الصوت";
-"days" = "أيام";
-"day" = "يوم";
-"Cirform" = "السيرك";
-"Mute success" = "نجاح كتم الصوت";
-"Are you sure you want to cancel the mute?" = "هل أنت متأكد أنك تريد إلغاء الصمت؟";
-"The mute has been lifted~" = "تم رفع الصمت~";
-"You have been muted" = "لقد تم كتم صوتك";
-"Say hi successfully~" = "قل مرحبا بنجاح ~";
-"Random" = "عشوائي";
-"Accept Video Match Call" = "قبول مكالمة مطابقة الفيديو";
-"Party" = "حفلة";
-"You are already in Party room" = "أنت موجود بالفعل في غرفة الحفلة";
-"Party room exception" = "استثناء غرفة الحفلات";
-"You were kicked out of the room" = "لقد تم طردك من الغرفة";
-"The room is closed, please go to another room" = "الغرفة مغلقة، يرجى الذهاب إلى غرفة أخرى";
-"Minimal" = "الحد الأدنى";
-"Quit" = "إنهاء";
-"Close" = "إغلاق";
-"Do you want to close the room? After closing the room, all users will be removed from the room." = "هل تريد إغلاق الغرفة؟ بعد إغلاق الغرفة، سيتم إزالة جميع المستخدمين من الغرفة.";
-"Party" = "حزب";
-"%@'s room" = "غرفة %@";
-"Welcome to my room" = "مرحبا بكم في غرفتي";
-"Account is restricted！" = "قيود الحساب";
-"On mic" = "على الميكروفون";
-"Under mic" = "تحت الميكروفون";
-"Lock" = "قفل";
-"Unlock" = "فتح";
-"Allow push notifications" = "السماح بإشعارات الدفع";
-"You don't miss out on chat messages when someone wants to chat with you." = "لا تفوت رسائل الدردشة عندما يريد شخص ما الدردشة معك.";
-"Please contact the host to turn on the mic" = "يرجى الاتصال بالمضيف لتشغيل الميكروفون";
-"Kick out" = "طرد";
-"Unmute" = "إلغاء كتم الصوت";
-"Kick off" = "انطلق";
-"Confirm to kick out the room?" = "أكيد طرد الغرفة؟";
-"Confirm to kick off the seat?" = "تأكيد طرد المقعد؟";
-"The seat is locked, click on the empty seat to play" = "المقعد مغلق، انقر على المقعد الفارغ للعب";
-"You were kicked off the seat" = "لقد تم طردك من المقعد";
-"unfollow Success" = "إلغاء المتابعة النجاح ";
-"follow Success" = "اتبع النجاح";
-"Notes" = "ملاحظات";
-"Start Live to work!" = "ابدأ العمل مباشرةً!";
-"Start Live" = "ابدأ البث الحي";
-"Top" = "قمة";
