@@ -58,7 +58,7 @@ class SubscriptionService {
 
       // Subscription product IDs
       const Set<String> _kSubscriptionIds = <String>{
-        'loungeplusweek_13',
+        'loyoo.weekly',
         'loyoo.monthly.com',
       };
 
@@ -162,14 +162,14 @@ class SubscriptionService {
           // Update membership status
           final membershipNotifier = MembershipNotifier(prefs);
           final now = DateTime.now();
-          final expiryDate = purchase.productID == 'loungeplusweek_13'
+          final expiryDate = purchase.productID == 'loyoo.weekly'
               ? now.add(const Duration(days: 7))
               : now.add(const Duration(days: 30));
               
           await membershipNotifier.updateSubscription(
             isSubscribed: true,
             expiryDate: expiryDate,
-            planType: purchase.productID == 'loungeplusweek_13' ? 'weekly' : 'monthly',
+            planType: purchase.productID == 'loyoo.weekly' ? 'weekly' : 'monthly',
           );
           
           // Mark this subscription as processed

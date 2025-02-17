@@ -187,7 +187,7 @@ class ApplePaymentService {
   }
 
   bool _isSubscriptionId(String productId) {
-    final subscriptionIds = ['loungeplusweek_13', 'loyoo.monthly.com'];
+    final subscriptionIds = ['loyoo.weekly', 'loyoo.monthly.com'];
     return subscriptionIds.contains(productId);
   }
 

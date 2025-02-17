@@ -178,7 +178,7 @@ class _SubscriptionPageState extends ConsumerState<SubscriptionPage> {
       {
         'title': 'Weekly',
         'price': '\$12.99/week',
-        'productId': 'loungeplusweek_13',
+        'productId': 'loyoo.weekly',
         'description': '7-day premium access',
       },
       {
