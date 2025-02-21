@@ -103,35 +103,35 @@ class _MessagePageState extends ConsumerState<MessagePage> {
             switch (characterId) {
               case 'home_assistant':
                 characterName = 'AI Assistant';
-                description = 'Your AI assistant, can answer any question';
+                description = 'Your AI assistant for general questions and tasks';
                 break;
               case 'home_tutor':
                 characterName = 'Learning Tutor';
-                description = 'Course guidance, knowledge Q&A, study planning';
-                break;
-              case 'home_career':
-                characterName = 'Career Advisor';
-                description = 'Career planning, resume optimization, interview tips';
-                break;
-              case 'home_life':
-                characterName = 'Life Assistant';
-                description = 'Daily advice, emotional counseling, life planning';
+                description = 'Help with studying and learning new skills';
                 break;
               case 'home_creative':
-                characterName = 'Creative Inspiration';
-                description = 'Brainstorming, creative design, artistic creation';
-                break;
-              case 'home_health':
-                characterName = 'Health Advisor';
-                description = 'Health consultation, dietary advice, exercise guidance';
+                characterName = 'Creative Assistant';
+                description = 'Help with creative writing and artistic ideas';
                 break;
               case 'home_travel':
-                characterName = 'Travel Planner';
-                description = 'Travel guides, itinerary planning, attraction recommendations';
+                characterName = 'Travel Assistant';
+                description = 'Travel tips and destination information';
+                break;
+              case 'home_entertainment':
+                characterName = 'Entertainment Guide';
+                description = 'Movie, music, and entertainment recommendations';
+                break;
+              case 'home_tech':
+                characterName = 'Tech Helper';
+                description = 'Technology and software assistance';
+                break;
+              case 'home_hobby':
+                characterName = 'Hobby Explorer';
+                description = 'Discover and learn about new hobbies';
                 break;
               default:
                 characterName = 'AI Assistant';
-                description = 'Your AI assistant, can answer any question';
+                description = 'Your AI assistant for general questions and tasks';
             }
             
             processedMessages.add({

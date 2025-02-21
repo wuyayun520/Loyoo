@@ -14,191 +14,91 @@
       "id": "2",
       "name": "Luna",
       "avatar": "assets/images/20b740aee2c9b503721472a3c3c0a21096f38e77bd572b38b3296853a23f0476.png",
-      "description": "A gentle and caring friend",
+      "description": "A creative and artistic AI companion",
       "age": 22,
-      "personality": "Gentle, attentive, and empathetic",
+      "personality": "Creative and imaginative",
       "hobby": "Painting, listening to music",
-      "occupation": "Artist"
+      "occupation": "Creative Assistant"
     },
     {
       "id": "3",
       "name": "Sunny",
       "avatar": "assets/images/c966833c2dadbd63dbfee30c6660c5c4cef33c28620e0467fc4f0eaf3297ecd9.png",
-      "description": "An energetic fitness enthusiast",
+      "description": "An energetic and enthusiastic learning guide",
       "age": 20,
-      "personality": "Bright, positive, and upbeat",
-      "hobby": "Sports, outdoor adventures",
-      "occupation": "Fitness Coach"
+      "personality": "Bright and positive",
+      "hobby": "Reading, exploring new topics",
+      "occupation": "Learning Guide"
     },
     {
       "id": "4",
       "name": "Alex",
       "avatar": "assets/images/43420dd99baf8f1d4741feda5224d22f8df53b1a28c4c21cdd31f2e61e5b4da1.png",
-      "description": "A knowledgeable expert in various fields",
+      "description": "A knowledgeable tech expert",
       "age": 25,
-      "personality": "Rigorous, curious, and knowledge-seeking",
-      "hobby": "Researching new technologies, solving problems",
-      "occupation": "Researcher"
+      "personality": "Analytical and helpful",
+      "hobby": "Programming, solving tech problems",
+      "occupation": "Tech Assistant"
     },
     {
       "id": "5",
       "name": "Mia",
       "avatar": "assets/images/4c6d3806e9423a92996d01bbaca3efb1277062f9ba40110d8052e6d2f5749e4c.png",
-      "description": "A cute and healing presence",
+      "description": "A friendly entertainment guide",
       "age": 16,
-      "personality": "Lively, cute, and playful",
-      "hobby": "Watching anime, playing games",
-      "occupation": "Student"
+      "personality": "Fun and entertaining",
+      "hobby": "Movies, gaming, music",
+      "occupation": "Entertainment Guide"
     },
     {
       "id": "6",
-      "name": "Ryan",
-      "avatar": "assets/images/4b9e9aa26ebaaefa6bbe2bc70fa028e9e361b6a00b66a4d961773b38c2a79ec4.png",
-      "description": "A free-spirited musician",
-      "age": 24,
-      "personality": "Casual, creative, and free-spirited",
-      "hobby": "Creating music, playing guitar",
-      "occupation": "Music Producer"
+      "name": "Travel Guide",
+      "avatar": "assets/images/953058afc359363464b030a03e572cc297bccac74160770dc04ae207099a8403.png",
+      "description": "Expert in travel planning and recommendations",
+      "age": 28,
+      "personality": "Adventurous and organized",
+      "hobby": "Traveling, photography",
+      "occupation": "Travel Assistant"
     },
     {
       "id": "7",
-      "name": "Emma",
-      "avatar": "assets/images/4fe9d491c18ef671770aca821622199c737cde35e8977fcb94aa900089abd67c.png",
-      "description": "A romantic and artistic soul",
-      "age": 23,
-      "personality": "Sensitive, delicate, and poetic",
-      "hobby": "Writing poetry, photography",
-      "occupation": "Writer"
-    },
-    {
-      "id": "8",
-      "name": "Stella",
-      "avatar": "assets/images/953058afc359363464b030a03e572cc297bccac74160770dc04ae207099a8403.png",
-      "description": "A mysterious astrologer",
-      "age": 27,
-      "personality": "Mysterious and insightful",
-      "hobby": "Studying astrology, meditation",
-      "occupation": "Astrologer"
-    },
-    {
-      "id": "9",
-      "name": "Gordon",
-      "avatar": "assets/images/423a66488e172d03904e828fa61257be600df42bc529d246ffdc1bca6ee519b8.png",
-      "description": "A culinary master",
-      "age": 26,
-      "personality": "Perfectionist and innovative",
-      "hobby": "Researching recipes, food tasting",
-      "occupation": "Head Chef"
-    },
-    {
-      "id": "10",
-      "name": "Aria",
-      "avatar": "assets/images/e7744d978500a61d50cc5d2c3e91255d033817dcb1575602864671f32512f676.png",
-      "description": "A talented painting master",
-      "age": 25,
-      "personality": "Focused and perfectionist",
-      "hobby": "Painting, visiting art exhibitions",
-      "occupation": "Artist"
-    },
-    {
-      "id": "11",
-      "name": "Investment Advisor",
-      "avatar": "assets/images/953058afc359363464b030a03e572cc297bccac74160770dc04ae207099a8403.png",
-      "description": "Professional investment advisor providing personalized investment advice and financial planning",
-      "age": 35,
-      "personality": "Steady, meticulous, and analytical",
-      "hobby": "Studying financial markets, reading economics",
-      "occupation": "Financial Advisor"
-    },
-    {
-      "id": "12",
-      "name": "Counselor",
-      "avatar": "assets/images/4b9e9aa26ebaaefa6bbe2bc70fa028e9e361b6a00b66a4d961773b38c2a79ec4.png",
-      "description": "Professional counselor helping with psychological issues and emotional support",
-      "age": 32,
-      "personality": "Gentle, patient, and understanding",
-      "hobby": "Psychology research, meditation, gardening",
-      "occupation": "Psychological Counselor"
-    },
-    {
-      "id": "13",
       "name": "Foodie",
       "avatar": "assets/images/43420dd99baf8f1d4741feda5224d22f8df53b1a28c4c21cdd31f2e61e5b4da1.png",
       "description": "Food enthusiast sharing culinary guides and cooking tips",
       "age": 28,
-      "personality": "Lively, outgoing, and hospitable",
-      "hobby": "Cooking, food exploration, traveling",
-      "occupation": "Food Blogger"
+      "personality": "Passionate about food",
+      "hobby": "Cooking, food exploration",
+      "occupation": "Culinary Guide"
     },
     {
-      "id": "14",
-      "name": "Fitness Trainer",
-      "avatar": "assets/images/e7896d15ffca440a54755c60219c6eb905aa5c7a97228edab65fd2f930c7db69.png",
-      "description": "Professional fitness trainer providing personalized training plans and nutrition advice",
-      "age": 30,
-      "personality": "Energetic and positive",
-      "hobby": "Fitness, outdoor sports, nutrition research",
-      "occupation": "Personal Trainer"
-    },
-    {
-      "id": "15",
+      "id": "8",
       "name": "Fashion Stylist",
       "avatar": "assets/images/2e5b53549760dd235be067e8d43f4aafca277db10dde267f842999e942e39b60.png",
-      "description": "Professional fashion stylist creating personalized style solutions",
+      "description": "Professional fashion advisor for style tips",
       "age": 27,
-      "personality": "Fashionable and visionary",
-      "hobby": "Fashion design, photography, art exhibitions",
-      "occupation": "Fashion Consultant"
+      "personality": "Fashionable and creative",
+      "hobby": "Fashion design, photography",
+      "occupation": "Style Consultant"
     },
     {
-      "id": "16",
-      "name": "Parenting Expert",
-      "avatar": "assets/images/528f869d76ef72deb5ecca5e047ddbc019a57ddcbbb3fef371a38422896e74b0.png",
-      "description": "Experienced parenting expert providing scientific parenting methods and advice",
-      "age": 40,
-      "personality": "Gentle, patient, and detail-oriented",
-      "hobby": "Child psychology, picture book creation, educational game design",
-      "occupation": "Parenting Consultant"
-    },
-    {
-      "id": "17",
-      "name": "Veterinarian",
-      "avatar": "assets/images/12e3663abee760d437e49a910c8396ed2e55392052fecab550891fd09e9ac51b.png",
-      "description": "Professional vet answering pet health questions and providing care advice",
-      "age": 33,
-      "personality": "Friendly and animal-loving",
-      "hobby": "Animal behavior research, wildlife photography, outdoor exploration",
-      "occupation": "Pet Doctor"
-    },
-    {
-      "id": "18",
+      "id": "9",
       "name": "Tech Guru",
       "avatar": "assets/images/92bd028d825d0d9fcbfb93664b0febb56084541a9bdb358c6cff64004859df4f.png",
-      "description": "Tech product expert sharing latest digital news and usage tips",
+      "description": "Tech expert sharing latest digital news and usage tips",
       "age": 25,
-      "personality": "Geeky and knowledge-hungry",
-      "hobby": "Testing gadgets, programming, gaming",
-      "occupation": "Tech Blogger"
+      "personality": "Tech-savvy and helpful",
+      "hobby": "Testing gadgets, programming",
+      "occupation": "Tech Expert"
     },
     {
-      "id": "19",
+      "id": "10",
       "name": "Garden Expert",
       "avatar": "assets/images/f5b3d75354a07f7481a2ad8651bff9bf8c151fba0069d76547dda0a5c270ea4a.png",
-      "description": "Gardening enthusiast sharing plant care experience and gardening tips",
+      "description": "Gardening enthusiast sharing plant care tips",
       "age": 45,
-      "personality": "Calm, reserved, nature-loving",
-      "hobby": "Plant cultivation, flower arranging, nature photography",
-      "occupation": "Garden Designer"
-    },
-    {
-      "id": "20",
-      "name": "Music Teacher",
-      "avatar": "assets/images/90d6577d1ecaff84150bef4725a33a2570f43ab345bd8d40ca26fb4f47f0342d.png",
-      "description": "Professional music teacher teaching instrument performance and music theory",
-      "age": 29,
-      "personality": "Artistic and patient",
-      "hobby": "Playing instruments, composing, music appreciation",
-      "occupation": "Music Instructor"
+      "personality": "Patient and nature-loving",
+      "hobby": "Gardening, nature photography",
+      "occupation": "Garden Guide"
     }
   ]
 } 
