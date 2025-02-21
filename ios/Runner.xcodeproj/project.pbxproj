@@ -394,7 +394,7 @@
 				ENABLE_BITCODE = NO;
 				FLUTTER_APPLICATION_PATH = /Users/runner/work/Loyoo/Loyoo;
 				FLUTTER_BUILD_NAME = 1.2.7;
-				FLUTTER_ROOT = "Users/runner/hostedtoolcache/flutter/3.27.3-stable/arm64";
+				FLUTTER_ROOT = "/Users/runner/hostedtoolcache/flutter/3.27.3-stable/arm64";
 				INFOPLIST_FILE = Runner/Info.plist;
 				INFOPLIST_KEY_CFBundleDisplayName = Loyoo;
 				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
@@ -543,7 +543,7 @@
 				ENABLE_BITCODE = NO;
 				FLUTTER_APPLICATION_PATH = /Users/runner/work/Loyoo/Loyoo;
 				FLUTTER_BUILD_NAME = 1.2.7;
-				FLUTTER_ROOT = "Users/runner/hostedtoolcache/flutter/3.27.3-stable/arm64";
+				FLUTTER_ROOT = "/Users/runner/hostedtoolcache/flutter/3.27.3-stable/arm64";
 				INFOPLIST_FILE = Runner/Info.plist;
 				INFOPLIST_KEY_CFBundleDisplayName = Loyoo;
 				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
@@ -582,7 +582,7 @@
 				ENABLE_BITCODE = NO;
 				FLUTTER_APPLICATION_PATH = /Users/runner/work/Loyoo/Loyoo;
 				FLUTTER_BUILD_NAME = 1.2.7;
-				FLUTTER_ROOT = "Users/runner/hostedtoolcache/flutter/3.27.3-stable/arm64";
+				FLUTTER_ROOT = "/Users/runner/hostedtoolcache/flutter/3.27.3-stable/arm64";
 				INFOPLIST_FILE = Runner/Info.plist;
 				INFOPLIST_KEY_CFBundleDisplayName = Loyoo;
 				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
