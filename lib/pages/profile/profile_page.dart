@@ -15,6 +15,7 @@ import 'widgets/user_info_card.dart';
 import 'privacy_policy_page.dart';
 import 'subscription_page.dart';
 import 'package:intl/intl.dart';
+import 'package:loyoo/pages/legal/eula_page.dart';
 
 class ProfilePage extends ConsumerStatefulWidget {
   const ProfilePage({super.key});
@@ -35,120 +36,105 @@ class _ProfilePageState extends ConsumerState<ProfilePage> {
 
   @override
   Widget build(BuildContext context) {
-    final balance = ref.watch(balanceProvider);
+    // 监听会员状态
     final membershipState = ref.watch(membershipProvider);
 
     return Scaffold(
       appBar: AppBar(
         title: const Text('Profile'),
       ),
-      body: ListView(
-        padding: const EdgeInsets.all(16.0),
-        children: [
-          const UserInfoCard(),
-          const SizedBox(height: 16),
-          Card(
-            elevation: 0,
-            child: ListTile(
-              leading: const Icon(Icons.account_balance_wallet),
-              title: const Text('Balance'),
-              trailing: const Icon(Icons.chevron_right),
-              onTap: () {
-                Navigator.of(context).push(
-                  MaterialPageRoute(
-                    builder: (context) => const RechargePage(),
-                  ),
-                );
-              },
+      body: _buildBody(membershipState),
+    );
+  }
+
+  Widget _buildBody(MembershipState membershipState) {
+    return ListView(
+      padding: const EdgeInsets.symmetric(vertical: 16),
+      children: [
+        _buildProfileCard(),
+        const SizedBox(height: 16),
+        _buildMenuSection([
+          _buildMenuItem(
+            icon: Icons.account_balance_wallet,
+            title: 'Balance',
+            onTap: () => Navigator.push(
+              context,
+              MaterialPageRoute(builder: (context) => const RechargePage()),
             ),
           ),
-          const SizedBox(height: 16),
-          Card(
-            elevation: 0,
-            child: ListTile(
-              leading: const Icon(Icons.star, color: Colors.blue),
-              title: const Text('Premium Membership'),
-              subtitle: Text(
-                membershipState.isValid 
-                    ? 'Valid until ${DateFormat('MMM dd, yyyy').format(membershipState.expiryDate!)}'
-                    : 'Unlock all features',
-              ),
-              trailing: membershipState.isValid
-                  ? Container(
-                      padding: const EdgeInsets.symmetric(
-                        horizontal: 12,
-                        vertical: 6,
-                      ),
-                      decoration: BoxDecoration(
-                        color: Colors.blue.withOpacity(0.1),
-                        borderRadius: BorderRadius.circular(16),
-                      ),
-                      child: Text(
-                        membershipState.planType == 'weekly' ? 'Weekly Plan' : 'Monthly Plan',
-                        style: const TextStyle(
-                          color: Colors.blue,
-                          fontWeight: FontWeight.bold,
-                        ),
-                      ),
-                    )
-                  : const Icon(Icons.chevron_right),
-              onTap: () {
-                Navigator.push(
-                  context,
-                  MaterialPageRoute(builder: (context) => const SubscriptionPage()),
-                );
-              },
+          _buildMenuItem(
+            icon: Icons.star,
+            title: 'Premium Membership',
+            subtitle: membershipState.isValid
+                ? 'Valid until ${DateFormat('MMM dd, yyyy').format(membershipState.expiryDate!)}'
+                : 'Unlock all features',
+            onTap: () => Navigator.push(
+              context,
+              MaterialPageRoute(builder: (context) => const SubscriptionPage()),
             ),
           ),
-          const SizedBox(height: 16),
-          Card(
-            elevation: 0,
-            child: Column(
-              children: [
-                ListTile(
-                  leading: const Icon(Icons.help_outline),
-                  title: const Text('Help & Feedback'),
-                  trailing: const Icon(Icons.chevron_right),
-                  onTap: () {
-                    Navigator.push(
-                      context,
-                      MaterialPageRoute(
-                        builder: (context) => const FeedbackPage(),
-                      ),
-                    );
-                  },
-                ),
-                ListTile(
-                  leading: const Icon(Icons.info_outline),
-                  title: const Text('About'),
-                  trailing: const Icon(Icons.chevron_right),
-                  onTap: () {
-                    Navigator.push(
-                      context,
-                      MaterialPageRoute(
-                        builder: (context) => const AboutPage(),
-                      ),
-                    );
-                  },
-                ),
-                ListTile(
-                  leading: const Icon(Icons.privacy_tip_outlined),
-                  title: const Text('Privacy Policy'),
-                  trailing: const Icon(Icons.chevron_right),
-                  onTap: () {
-                    Navigator.push(
-                      context,
-                      MaterialPageRoute(
-                        builder: (context) => const PrivacyPolicyPage(),
-                      ),
-                    );
-                  },
-                ),
-              ],
+        ]),
+        const SizedBox(height: 16),
+        _buildMenuSection([
+          _buildMenuItem(
+            icon: Icons.help_outline,
+            title: 'Help & Feedback',
+            onTap: () => Navigator.push(
+              context,
+              MaterialPageRoute(builder: (context) => const FeedbackPage()),
             ),
           ),
-        ],
-      ),
+          _buildMenuItem(
+            icon: Icons.info_outline,
+            title: 'About',
+            onTap: () => Navigator.push(
+              context,
+              MaterialPageRoute(builder: (context) => const AboutPage()),
+            ),
+          ),
+          _buildMenuItem(
+            icon: Icons.privacy_tip_outlined,
+            title: 'Privacy Policy',
+            onTap: () => Navigator.push(
+              context,
+              MaterialPageRoute(builder: (context) => const PrivacyPolicyPage()),
+            ),
+          ),
+          _buildMenuItem(
+            icon: Icons.description_outlined,
+            title: 'Terms of Use',
+            onTap: () => Navigator.push(
+              context,
+              MaterialPageRoute(builder: (context) => const EULAPage()),
+            ),
+          ),
+        ]),
+      ],
+    );
+  }
+
+  Widget _buildProfileCard() {
+    return const UserInfoCard();
+  }
+
+  Widget _buildMenuSection(List<Widget> children) {
+    return Column(
+      children: children,
+    );
+  }
+
+  Widget _buildMenuItem({
+    required IconData icon,
+    required String title,
+    String? subtitle,
+    required VoidCallback onTap,
+  }) {
+    return ListTile(
+      leading: Icon(icon),
+      title: Text(title),
+      subtitle: subtitle != null ? Text(subtitle) : null,
+      trailing: const Icon(Icons.chevron_right),
+      onTap: onTap,
     );
   }
 } 
