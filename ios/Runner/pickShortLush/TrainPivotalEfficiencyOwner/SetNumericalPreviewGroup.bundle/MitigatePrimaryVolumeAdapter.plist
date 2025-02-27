@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>finishCustomBufferAdapter</key>
+	<string>getOriginalParamImplement</string>
+	<key>keepSharedValueObserver</key>
+	<string>findCustomSampleCreator</string>
+	<key>pauseLocalToleranceInstance</key>
+	<string>stopAssociatedBufferCreator</string>
+	<key>setDelicateVariableType</key>
+	<string>getNewestSkewYStack</string>
+	<key>setHardCacheHelper</key>
+	<string>setEnabledMonsterCreator</string>
+	<key>setOtherResolverTarget</key>
+	<string>checkOriginalControllerCreator</string>
+	<key>touchPublicOriginCache</key>
+	<string>optimizeSynchronousGroupFilter</string>
+</dict>
+</plist>

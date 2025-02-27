@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>continueOpaqueNameDecorator</key>
+	<string>getPublicRoleInstance</string>
+	<key>keepMissedProgressBarInstance</key>
+	<string>getPrimaryRemainderTarget</string>
+	<key>renameSynchronousTagContainer</key>
+	<string>getAsynchronousPaddingReference</string>
+	<key>trainSustainableParameterCache</key>
+	<string>resizeFirstRightHandler</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checkRespectiveFrameDecorator</key>
+	<string>initializeRespectiveScenarioCreator</string>
+	<key>createUnsortedReplicaTarget</key>
+	<string>trainOriginalLeftTarget</string>
+	<key>getCartesianVariableList</key>
+	<string>escalateMissedSegmentInstance</string>
+	<key>reduceDiversifiedCatalystCollection</key>
+	<string>keepHierarchicalBufferFactory</string>
+	<key>setEphemeralTopBase</key>
+	<string>setIntuitiveBufferHandler</string>
+	<key>setOldNumberStack</key>
+	<string>stopExplicitIntensityAdapter</string>
+	<key>setTypicalAmortizationContainer</key>
+	<string>startRelationalBoxInstance</string>
+	<key>startDirectVariableBase</key>
+	<string>getCommonVariableGroup</string>
+</dict>
+</plist>

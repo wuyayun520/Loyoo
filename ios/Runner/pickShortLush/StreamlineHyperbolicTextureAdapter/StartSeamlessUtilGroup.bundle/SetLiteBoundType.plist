@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>getPublicSkewYExtension</key>
+	<string>skipNormalSpritePool</string>
+	<key>getSustainableSceneDecorator</key>
+	<string>restartOtherGraphManager</string>
+	<key>rotateCustomValueTarget</key>
+	<string>setAssociatedThresholdHandler</string>
+	<key>setHierarchicalAlphaReference</key>
+	<string>getSecondGramOwner</string>
+	<key>setNewestParamStack</key>
+	<string>quantizerOtherDurationHandler</string>
+	<key>startConcurrentSlashType</key>
+	<string>startGranularEdgeFilter</string>
+</dict>
+</plist>

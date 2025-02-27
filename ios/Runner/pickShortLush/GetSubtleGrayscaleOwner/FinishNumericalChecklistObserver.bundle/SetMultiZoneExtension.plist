@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accelerateUnactivatedHashObserver</key>
+	<string>setMutableRecursionList</string>
+	<key>endLargeCoordDelegate</key>
+	<string>prepareIntermediateOpacityCreator</string>
+	<key>freeEnabledOccasionCreator</key>
+	<string>checkComprehensiveFlagsObserver</string>
+	<key>replaceGlobalTagInstance</key>
+	<string>removeAssociatedVariableOwner</string>
+	<key>skipProtectedControllerExtension</key>
+	<string>setIntermediateTernaryDecorator</string>
+	<key>skipRapidOpacityManager</key>
+	<string>storeSecondNumberReference</string>
+</dict>
+</plist>

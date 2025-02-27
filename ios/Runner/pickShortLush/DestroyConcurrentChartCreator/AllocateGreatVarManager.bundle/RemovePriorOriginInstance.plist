@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cancelStandaloneValuePool</key>
+	<string>releaseOldBufferCreator</string>
+	<key>divideUnactivatedVariableManager</key>
+	<string>allocateCrucialDispatcherArray</string>
+	<key>getArithmeticGraphInstance</key>
+	<string>startElasticTimeObserver</string>
+	<key>pauseSubsequentStepList</key>
+	<string>multiplyBasicBoundTarget</string>
+	<key>resumeImmutableLoopDelegate</key>
+	<string>cancelKeyNameReference</string>
+	<key>retainSemanticColorOwner</key>
+	<string>resumeSignificantParameterManager</string>
+	<key>setAutoTaskList</key>
+	<string>setEphemeralBorderContainer</string>
+	<key>setDiversifiedRightType</key>
+	<string>setAccordionProvisionReference</string>
+	<key>setNextValueAdapter</key>
+	<string>storeStandaloneVariableOwner</string>
+	<key>setRespectiveDescentFactory</key>
+	<string>streamlineSortedEdgeList</string>
+</dict>
+</plist>

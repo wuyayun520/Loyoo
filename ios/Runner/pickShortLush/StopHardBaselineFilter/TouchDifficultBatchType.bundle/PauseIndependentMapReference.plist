@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>augmentMediocrePopupDelegate</key>
+	<string>setSortedOptionGroup</string>
+	<key>dropoutConcurrentResultManager</key>
+	<string>keepEphemeralFragmentCache</string>
+	<key>endConsultativeRotationCache</key>
+	<string>getStaticChallengeTarget</string>
+	<key>finishUnsortedValueTarget</key>
+	<string>getConcurrentPointCollection</string>
+	<key>renameTensorProgressBarInstance</key>
+	<string>prepareCustomVisibleCache</string>
+	<key>setEnabledSegmentManager</key>
+	<string>getAsynchronousFlagsAdapter</string>
+</dict>
+</plist>

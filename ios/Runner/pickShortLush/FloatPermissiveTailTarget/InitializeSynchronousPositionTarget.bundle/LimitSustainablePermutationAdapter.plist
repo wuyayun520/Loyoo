@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>encapsulateCurrentTimeExtension</key>
+	<string>drawStandaloneNumberHandler</string>
+	<key>fillExplicitIntensityAdapter</key>
+	<string>getStaticDetailManager</string>
+	<key>generateStaticHistogramObserver</key>
+	<string>endCriticalSkewXList</string>
+	<key>getElasticBottomFactory</key>
+	<string>setIntuitiveResultCreator</string>
+	<key>resetMissedSkewXProtocol</key>
+	<string>startGeometricSpriteHelper</string>
+	<key>resetPrevScalabilityContainer</key>
+	<string>getOriginalMenuDelegate</string>
+</dict>
+</plist>

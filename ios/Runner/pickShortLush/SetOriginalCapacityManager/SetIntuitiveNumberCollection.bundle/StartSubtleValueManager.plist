@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>getMutableScopeExtension</key>
+	<string>trainPriorMissionFilter</string>
+	<key>initializeLastSpritePool</key>
+	<string>provideDifficultPolygonArray</string>
+	<key>keepAdvancedModuleDecorator</key>
+	<string>setConsultativeAnimationAdapter</string>
+	<key>prepareDirectlyInstructionTarget</key>
+	<string>initializeReusableActivityManager</string>
+	<key>setConsultativeValueFactory</key>
+	<string>setUsedCardBase</string>
+	<key>skipSingleOriginAdapter</key>
+	<string>associatePrevBorderFilter</string>
+</dict>
+</plist>

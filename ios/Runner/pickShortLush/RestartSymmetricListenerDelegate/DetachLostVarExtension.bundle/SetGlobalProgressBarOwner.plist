@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>augmentLastButtonProtocol</key>
+	<string>mitigateUnsortedButtonAdapter</string>
+	<key>convertSingleFrameProtocol</key>
+	<string>endExplicitAssetInstance</string>
+	<key>getIgnoredSessionGroup</key>
+	<string>renameUniformTempleCache</string>
+	<key>getMutableAssetArray</key>
+	<string>revisitImmutableDescriptionType</string>
+	<key>initializeGlobalModuleHelper</key>
+	<string>lockSimilarBufferCollection</string>
+	<key>readGeometricVariableContainer</key>
+	<string>dismissSpecifyProvisionAdapter</string>
+</dict>
+</plist>

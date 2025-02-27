@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>getMutableReplicaStack</key>
+	<string>getSmallRectangleHelper</string>
+	<key>initializeRapidCycleDelegate</key>
+	<string>provideSmartClusterList</string>
+	<key>introspectReusableTextureCreator</key>
+	<string>getUnactivatedHashManager</string>
+	<key>multiplyOriginalBufferOwner</key>
+	<string>encapsulateActivatedGramHandler</string>
+	<key>prepareCustomizedValueOwner</key>
+	<string>getOpaqueUtilExtension</string>
+	<key>restartOldOptionDelegate</key>
+	<string>playEnabledMediaCollection</string>
+	<key>setGeometricColorStack</key>
+	<string>parseSecondAccessoryExtension</string>
+</dict>
+</plist>

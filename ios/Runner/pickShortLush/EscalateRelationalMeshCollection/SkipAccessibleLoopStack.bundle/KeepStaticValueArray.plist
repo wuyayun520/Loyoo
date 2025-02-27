@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>getDeclarativeParticleCache</key>
+	<string>getUsedVariableHelper</string>
+	<key>getRetainedValueReference</key>
+	<string>skipSemanticAllocatorFactory</string>
+	<key>refreshSmartParamHelper</key>
+	<string>getPermanentTailInstance</string>
+	<key>setIntermediateSkewYGroup</key>
+	<string>resumeOriginalLoopOwner</string>
+	<key>setSustainableDialogsExtension</key>
+	<string>setCurrentConstantInstance</string>
+</dict>
+</plist>

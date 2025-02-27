@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>initializeUniformProgressBarFilter</key>
+	<string>trainPrimaryParamOwner</string>
+	<key>quitSecondParameterDelegate</key>
+	<string>unlockCrudeCardList</string>
+	<key>resumeUniqueVariableBase</key>
+	<string>setDedicatedCacheBase</string>
+	<key>setArithmeticParameterFactory</key>
+	<string>computeEphemeralVarExtension</string>
+</dict>
+</plist>

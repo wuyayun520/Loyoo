@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cancelLostDetailHandler</key>
+	<string>cancelBeginnerSceneHelper</string>
+	<key>discoverStandaloneValueAdapter</key>
+	<string>getStandaloneMemberFactory</string>
+	<key>getUniformGridManager</key>
+	<string>getSophisticatedQueueContainer</string>
+	<key>quantizerCriticalGridCollection</key>
+	<string>stopExplicitVarOwner</string>
+	<key>reconcileCommonFormatProtocol</key>
+	<string>unscheduleOriginalChapterBase</string>
+	<key>restartSmartResolverManager</key>
+	<string>getSophisticatedObserverCache</string>
+	<key>setExplicitCatalystObserver</key>
+	<string>decoupleIgnoredRightCollection</string>
+</dict>
+</plist>

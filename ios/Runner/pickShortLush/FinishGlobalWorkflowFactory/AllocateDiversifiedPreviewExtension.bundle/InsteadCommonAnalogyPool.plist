@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocateAutoSkewXDelegate</key>
+	<string>drawEasyGraphReference</string>
+	<key>generatePermanentVarArray</key>
+	<string>clipSemanticUnaryExtension</string>
+	<key>limitSemanticTweakStack</key>
+	<string>resumeCrucialGateList</string>
+	<key>resetHardCenterTarget</key>
+	<string>setLiteReliabilityGroup</string>
+	<key>skipDiscardedSliderDecorator</key>
+	<string>restartReusableEntropyTarget</string>
+</dict>
+</plist>

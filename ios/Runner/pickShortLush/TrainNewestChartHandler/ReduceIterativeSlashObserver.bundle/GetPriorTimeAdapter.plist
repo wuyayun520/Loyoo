@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>discoverIgnoredTagGroup</key>
+	<string>setExplicitBoundPool</string>
+	<key>initializeStandalonePreviewHelper</key>
+	<string>allocateSharedMechanismDecorator</string>
+	<key>keepRetainedIndexList</key>
+	<string>getAccordionFormatFilter</string>
+	<key>optimizeSingleVarHelper</key>
+	<string>setEnabledVariableManager</string>
+	<key>prepareEasySceneReference</key>
+	<string>skipSortedScalePool</string>
+	<key>shearMainAspectDecorator</key>
+	<string>setReusableDimensionTarget</string>
+	<key>syncSymmetricValueStack</key>
+	<string>updateOpaqueBufferFilter</string>
+</dict>
+</plist>

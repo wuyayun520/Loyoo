@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>endDifficultSkewXImplement</key>
+	<string>cancelElasticBufferContainer</string>
+	<key>getBasicConvolutionAdapter</key>
+	<string>pauseIntermediatePreviewManager</string>
+	<key>getNextBufferOwner</key>
+	<string>preparePrevHeapBase</string>
+	<key>keepSortedScalabilityArray</key>
+	<string>prepareActivatedVariableHelper</string>
+	<key>resetBeginnerCapacityOwner</key>
+	<string>stopDirectlyGiftPool</string>
+	<key>startComprehensiveLatencyCache</key>
+	<string>stopLargeParameterCreator</string>
+</dict>
+</plist>

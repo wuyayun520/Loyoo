@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>endIndependentModulusReference</key>
+	<string>renameSymmetricLabelPool</string>
+	<key>markOldVariableTarget</key>
+	<string>setAsynchronousVariableAdapter</string>
+	<key>provideLocalSizeStack</key>
+	<string>differentiateCommonStampReference</string>
+	<key>provideResilientParamExtension</key>
+	<string>setImmutableConstantFactory</string>
+	<key>releaseDelicateRightFilter</key>
+	<string>trainAccordionHeadHandler</string>
+	<key>resumeMediumAmortizationInstance</key>
+	<string>quantizerBasicVisibleReference</string>
+	<key>setLargeIndexExtension</key>
+	<string>refreshCartesianAnchorReference</string>
+	<key>setOldParamInstance</key>
+	<string>resumeDirectlyMissionFactory</string>
+</dict>
+</plist>

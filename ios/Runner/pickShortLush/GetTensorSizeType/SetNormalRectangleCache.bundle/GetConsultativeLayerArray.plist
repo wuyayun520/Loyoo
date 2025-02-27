@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocateSmartOptimizerReference</key>
+	<string>setActivatedBrushHelper</string>
+	<key>embedCriticalLoopOwner</key>
+	<string>setSmartSignatureHelper</string>
+	<key>getCartesianResourceArray</key>
+	<string>pauseHardAssetImplement</string>
+	<key>getSynchronousConfigurationOwner</key>
+	<string>getLastPopupCollection</string>
+	<key>retrieveLiteConfigurationProtocol</key>
+	<string>resumeSmartTextureFactory</string>
+	<key>setGlobalSkewYDelegate</key>
+	<string>cancelOpaqueBottomImplement</string>
+	<key>setPublicTrianglesType</key>
+	<string>optimizeEphemeralComponentDelegate</string>
+	<key>streamlineOldTextureExtension</key>
+	<string>setEasyNavigationGroup</string>
+</dict>
+</plist>

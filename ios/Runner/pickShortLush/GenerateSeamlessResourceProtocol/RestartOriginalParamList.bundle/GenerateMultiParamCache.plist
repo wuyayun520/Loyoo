@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>discoverFirstScaleDecorator</key>
+	<string>setArithmeticScaleDelegate</string>
+	<key>getPermanentCompositionGroup</key>
+	<string>cancelElasticThreadGroup</string>
+	<key>pauseExplicitVarStack</key>
+	<string>finishMediumResourceBase</string>
+	<key>restartFirstBufferManager</key>
+	<string>setSubstantialStrengthFactory</string>
+	<key>seekPriorVariableManager</key>
+	<string>rectifyDirectInterfaceDecorator</string>
+	<key>touchIntermediateAlphaHandler</key>
+	<string>getFusedAxisHandler</string>
+</dict>
+</plist>

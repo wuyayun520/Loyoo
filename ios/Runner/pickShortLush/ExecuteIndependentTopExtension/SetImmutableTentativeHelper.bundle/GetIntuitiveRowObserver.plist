@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>combineGranularTempleExtension</key>
+	<string>setBackwardVariablePool</string>
+	<key>endSemanticGrainHandler</key>
+	<string>restartSingleProgressBarBase</string>
+	<key>finishMultiGraphExtension</key>
+	<string>getRapidTempleGroup</string>
+	<key>getPivotalTraversalReference</key>
+	<string>scheduleUnsortedTempleFactory</string>
+	<key>setSemanticDepthArray</key>
+	<string>getHyperbolicEquivalentDecorator</string>
+</dict>
+</plist>

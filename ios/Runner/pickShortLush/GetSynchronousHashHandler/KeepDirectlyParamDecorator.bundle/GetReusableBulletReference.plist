@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocateDedicatedRowInstance</key>
+	<string>pauseSharedTopHandler</string>
+	<key>cancelMultiBufferContainer</key>
+	<string>getEphemeralValueList</string>
+	<key>equalRobustInterfaceContainer</key>
+	<string>trainBasicSpineGroup</string>
+	<key>finishSimilarCenterArray</key>
+	<string>getSubsequentScopeFactory</string>
+	<key>getSecondValueDelegate</key>
+	<string>clearFirstVarFilter</string>
+	<key>parseNormalBufferImplement</key>
+	<string>getOriginalBufferStack</string>
+	<key>setDenseAssetFilter</key>
+	<string>skipDirectScopeArray</string>
+	<key>skipFirstFragmentsFilter</key>
+	<string>initializeHardScaleExtension</string>
+	<key>spinSemanticDeliveryProtocol</key>
+	<string>endSymmetricAllocatorDelegate</string>
+</dict>
+</plist>

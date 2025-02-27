@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>analyzeGranularResolverContainer</key>
+	<string>startBeginnerGrainContainer</string>
+	<key>cancelLocalCapacityCollection</key>
+	<string>generateRetainedRotationHelper</string>
+	<key>enumerateSmallMasterObserver</key>
+	<string>skipOriginalHeadInstance</string>
+	<key>getRequiredMasterList</key>
+	<string>extendConcurrentTitleCache</string>
+	<key>getResilientVarExtension</key>
+	<string>initializeGlobalNumberTarget</string>
+	<key>pauseRequiredTempleGroup</key>
+	<string>setActivatedMetadataObserver</string>
+	<key>setDenseDispatcherGroup</key>
+	<string>prepareCriticalEventProtocol</string>
+</dict>
+</plist>

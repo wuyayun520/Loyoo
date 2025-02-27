@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>getAccessibleParameterHandler</key>
+	<string>finishPrimaryAmortizationList</string>
+	<key>resetDirectlyBufferType</key>
+	<string>setSortedUtilCache</string>
+	<key>resumeHyperbolicFrameCollection</key>
+	<string>reducePrimaryScaleFactory</string>
+	<key>resumeSemanticUnaryAdapter</key>
+	<string>pausePublicActivityHelper</string>
+	<key>setSustainableCapsuleStack</key>
+	<string>removeSemanticPositionArray</string>
+</dict>
+</plist>

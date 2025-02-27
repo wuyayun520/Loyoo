@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cancelNewestSchedulerProtocol</key>
+	<string>setDedicatedGridCreator</string>
+	<key>finishDifficultParameterReference</key>
+	<string>preparePublicSkewYCreator</string>
+	<key>getSemanticParamCache</key>
+	<string>detachUnactivatedEffectCreator</string>
+	<key>getSingleCharacteristicTarget</key>
+	<string>getSharedSpotHandler</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aggregatePrimaryTweakObserver</key>
+	<string>setDeclarativeParameterCache</string>
+	<key>cancelDedicatedOriginAdapter</key>
+	<string>navigateLargeDescriptorHelper</string>
+	<key>getIntermediatePlaybackProtocol</key>
+	<string>cancelAsynchronousBufferDelegate</string>
+	<key>setDenseQueueManager</key>
+	<string>startRelationalPlaybackHandler</string>
+	<key>trainActivatedParameterObserver</key>
+	<string>keepCustomizedBoundGroup</string>
+</dict>
+</plist>

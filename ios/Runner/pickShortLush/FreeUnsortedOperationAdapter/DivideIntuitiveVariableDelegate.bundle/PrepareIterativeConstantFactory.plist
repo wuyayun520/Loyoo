@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>endHyperbolicTagDecorator</key>
+	<string>setOriginalSpriteOwner</string>
+	<key>endSynchronousGateFactory</key>
+	<string>generateSynchronousTextObserver</string>
+	<key>finishBasicHeadFilter</key>
+	<string>trainSignificantBoundDecorator</string>
+	<key>getHierarchicalDurationOwner</key>
+	<string>computeDirectTailType</string>
+	<key>getSeamlessPolygonBase</key>
+	<string>addActivatedAccessoryTarget</string>
+	<key>moveSmallValueCreator</key>
+	<string>limitMissedValueTarget</string>
+	<key>pauseMutableTitleReference</key>
+	<string>cancelEnabledTextCache</string>
+	<key>respondImmutableHistogramCollection</key>
+	<string>continueOtherRestrictionFilter</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>divideEasyNormHandler</key>
+	<string>rectifyBasicOpacityInstance</string>
+	<key>getLocalOptimizerExtension</key>
+	<string>getActivatedReductionObserver</string>
+	<key>getOpaqueVolumeReference</key>
+	<string>getResilientSpriteFilter</string>
+	<key>holdSubstantialLoaderPool</key>
+	<string>playNewestColorExtension</string>
+	<key>keepExplicitFrameDelegate</key>
+	<string>respondTensorSizeHelper</string>
+	<key>setMutableHashInstance</key>
+	<string>convertLostConstantObserver</string>
+	<key>setSortedQuaternionCreator</key>
+	<string>multiplyDifficultVarTarget</string>
+</dict>
+</plist>

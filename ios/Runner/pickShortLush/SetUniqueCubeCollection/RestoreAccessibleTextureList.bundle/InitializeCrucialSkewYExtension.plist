@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cancelAutoMetadataType</key>
+	<string>finishSharedAscentHandler</string>
+	<key>finishSeamlessOriginCache</key>
+	<string>calculateLastItemStack</string>
+	<key>getSeamlessRectangleTarget</key>
+	<string>keepPrismaticHashCache</string>
+	<key>initializeBeginnerRightExtension</key>
+	<string>setCrudeValueFilter</string>
+	<key>keepPermanentNumberContainer</key>
+	<string>finishCustomScopeContainer</string>
+	<key>optimizeRequiredGemStack</key>
+	<string>shearSymmetricBottomObserver</string>
+	<key>releaseFirstEdgeTarget</key>
+	<string>exitSubstantialScaleDecorator</string>
+	<key>setIterativeParamPool</key>
+	<string>retrievePrismaticIndexGroup</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>captureCartesianHistogramDelegate</key>
+	<string>eraseOtherSubpixelManager</string>
+	<key>clipPermanentGrayscaleTarget</key>
+	<string>prepareAutoLogarithmDelegate</string>
+	<key>releaseLiteAnimationTarget</key>
+	<string>readOpaqueBufferObserver</string>
+	<key>setAccordionCubeCache</key>
+	<string>prepareConcurrentSubpixelAdapter</string>
+	<key>setRespectiveOriginGroup</key>
+	<string>setAsynchronousSpriteAdapter</string>
+</dict>
+</plist>

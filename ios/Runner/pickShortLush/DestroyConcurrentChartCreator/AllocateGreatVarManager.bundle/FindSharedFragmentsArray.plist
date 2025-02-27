@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>augmentUniqueBorderAdapter</key>
+	<string>startHierarchicalResolverBase</string>
+	<key>checkSymmetricInterpolationHelper</key>
+	<string>getCustomizedScaleCollection</string>
+	<key>continueRequiredTrajectoryDecorator</key>
+	<string>multiplyHardSkirtCache</string>
+	<key>fillNextVariantManager</key>
+	<string>getFirstInformationStack</string>
+	<key>navigateIgnoredHeadReference</key>
+	<string>unscheduleNewestEqualizationHelper</string>
+	<key>setSynchronousToolHelper</key>
+	<string>mitigateEasyFragmentCache</string>
+</dict>
+</plist>

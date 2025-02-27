@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>analyzeCurrentGridDelegate</key>
+	<string>quantizationRobustResultDecorator</string>
+	<key>continueGranularTweakPool</key>
+	<string>skipLostEdgeCollection</string>
+	<key>equalSharedResultAdapter</key>
+	<string>eraseConcreteBufferCache</string>
+	<key>getMultiParamList</key>
+	<string>skipCrudeLabelCache</string>
+	<key>pushIndependentFlagsHelper</key>
+	<string>getProtectedSkirtTarget</string>
+	<key>resumeOldButtonHandler</key>
+	<string>restartEphemeralOptionCollection</string>
+	<key>setMutableSignaturePool</key>
+	<string>stopOriginalChallengeHandler</string>
+	<key>setOldStateImplement</key>
+	<string>prepareCustomizedMemberHelper</string>
+	<key>setPrevValueCreator</key>
+	<string>startPivotalCoordInstance</string>
+</dict>
+</plist>

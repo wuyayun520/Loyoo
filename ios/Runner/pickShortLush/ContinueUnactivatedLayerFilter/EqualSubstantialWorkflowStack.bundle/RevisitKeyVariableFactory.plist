@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>decouplePriorBoxCollection</key>
+	<string>keepGreatPositionDelegate</string>
+	<key>endEnabledSubpixelBase</key>
+	<string>endLocalVariablePool</string>
+	<key>initializeImmutableAscentArray</key>
+	<string>setLocalLayoutStack</string>
+	<key>navigateConcurrentMetricsAdapter</key>
+	<string>calculateGlobalOriginExtension</string>
+	<key>pauseProtectedInterfaceTarget</key>
+	<string>offsetArithmeticBufferStack</string>
+	<key>upgradeEnabledVariableHandler</key>
+	<string>appendUniformEvolutionArray</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>finishSynchronousGridCache</key>
+	<string>addSingleAnimationReference</string>
+	<key>pauseLostFeatureTarget</key>
+	<string>pauseKeySkinGroup</string>
+	<key>pausePermissiveVariableList</key>
+	<string>skipMainBorderBase</string>
+	<key>retrieveEuclideanObserverArray</key>
+	<string>startRobustBufferDelegate</string>
+	<key>setMainAscentExtension</key>
+	<string>setLiteGramBase</string>
+	<key>skipConcreteParamArray</key>
+	<string>getActivatedResolverStack</string>
+	<key>skipExplicitIntegrationHandler</key>
+	<string>spinOriginalHeroOwner</string>
+	<key>skipSophisticatedLeftProtocol</key>
+	<string>finishRequiredParticleDelegate</string>
+</dict>
+</plist>

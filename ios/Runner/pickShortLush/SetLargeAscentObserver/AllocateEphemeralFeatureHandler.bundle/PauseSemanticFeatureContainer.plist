@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>endArithmeticInstructionDecorator</key>
+	<string>setUniqueParticleBase</string>
+	<key>fillUnsortedResultStack</key>
+	<string>startMainChallengeHandler</string>
+	<key>releaseUniquePopupTarget</key>
+	<string>eraseNormalGramContainer</string>
+	<key>setPivotalFeatureContainer</key>
+	<string>finishUniformFlagsTarget</string>
+	<key>stopCommonBufferHandler</key>
+	<string>getGranularConfidentialityDelegate</string>
+</dict>
+</plist>

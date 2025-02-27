@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>freeEphemeralValueObserver</key>
+	<string>setLargeResilienceObserver</string>
+	<key>getLocalLabelFactory</key>
+	<string>clipAssociatedInstructionManager</string>
+	<key>prepareAccordionGraphicCreator</key>
+	<string>respondStandaloneSkewYInstance</string>
+	<key>setCustomizedTrajectoryArray</key>
+	<string>setOpaqueChallengeType</string>
+	<key>setDisplayableRowArray</key>
+	<string>skipFirstMapExtension</string>
+	<key>setElasticVolumeStack</key>
+	<string>getPriorStateStack</string>
+	<key>skipAsynchronousPopupDelegate</key>
+	<string>cancelBackwardSkewYCreator</string>
+	<key>trainPublicVideoFactory</key>
+	<string>quantizerMutableClusterStack</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>getDirectlyFeatureFilter</key>
+	<string>getIntuitiveCoordDelegate</string>
+	<key>requestIntermediateScaleCreator</key>
+	<string>makeAsynchronousParameterArray</string>
+	<key>rotateTypicalHeadCreator</key>
+	<string>cancelDenseReferenceOwner</string>
+	<key>syncSharedVariableExtension</key>
+	<string>setCurrentLeftTarget</string>
+</dict>
+</plist>

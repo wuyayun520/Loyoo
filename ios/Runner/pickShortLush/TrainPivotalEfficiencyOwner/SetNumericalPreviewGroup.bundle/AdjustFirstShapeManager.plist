@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compareDedicatedBufferGroup</key>
+	<string>setLostTextureImplement</string>
+	<key>extendDiscardedAccessoryInstance</key>
+	<string>stopFirstVarCache</string>
+	<key>getAccessibleBorderDelegate</key>
+	<string>cloneAssociatedMeshHandler</string>
+	<key>getDifficultNumberList</key>
+	<string>replaceCriticalFragmentsBase</string>
+	<key>getOldNodeProtocol</key>
+	<string>initializeLargeParameterManager</string>
+	<key>poolAutoTitleFactory</key>
+	<string>shearSharedParamCache</string>
+	<key>setLargeEffectExtension</key>
+	<string>startBeginnerRightHelper</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>extendSeamlessVisibleCreator</key>
+	<string>continueDiscardedFrameHandler</string>
+	<key>finishStandaloneGroupInstance</key>
+	<string>setLastRotationExtension</string>
+	<key>getGeometricRectangleCollection</key>
+	<string>setPublicResolverDecorator</string>
+	<key>quantizationSubsequentGrainFilter</key>
+	<string>setDirectSceneStack</string>
+	<key>setPermanentHistogramFilter</key>
+	<string>optimizeUnsortedFrameDelegate</string>
+	<key>setPriorMetricsDelegate</key>
+	<string>markDifficultFeatureFilter</string>
+	<key>trainLocalParameterFilter</key>
+	<string>setAutoContrastType</string>
+</dict>
+</plist>

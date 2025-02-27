@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>moveOpaqueArithmeticArray</key>
+	<string>keepOpaqueElementCache</string>
+	<key>pauseSustainableParamDelegate</key>
+	<string>locateDiscardedAllocatorArray</string>
+	<key>replaceProtectedBoundBase</key>
+	<string>finishIgnoredRotationContainer</string>
+	<key>resumeIterativeSliderObserver</key>
+	<string>setDisplayableElementImplement</string>
+	<key>writeResilientNumberHelper</key>
+	<string>stopStaticVarReference</string>
+</dict>
+</plist>

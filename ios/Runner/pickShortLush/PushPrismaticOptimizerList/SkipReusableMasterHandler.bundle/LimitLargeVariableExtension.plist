@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aggregateSemanticParameterProtocol</key>
+	<string>checkSecondHeapProtocol</string>
+	<key>cancelCurrentRoleContainer</key>
+	<string>getReusableSkirtDelegate</string>
+	<key>readDiscardedEffectOwner</key>
+	<string>getReusableListenerTarget</string>
+	<key>setAutoVarFilter</key>
+	<string>endLargeNavigationDecorator</string>
+	<key>setLiteVarProtocol</key>
+	<string>parseSecondTernaryPool</string>
+	<key>setRespectiveGiftPool</key>
+	<string>adjustSeamlessNumberObserver</string>
+	<key>startDiscardedVariableExtension</key>
+	<string>upgradeMediumPointHelper</string>
+	<key>syncCurrentBufferHandler</key>
+	<string>unlockUnactivatedUtilArray</string>
+</dict>
+</plist>

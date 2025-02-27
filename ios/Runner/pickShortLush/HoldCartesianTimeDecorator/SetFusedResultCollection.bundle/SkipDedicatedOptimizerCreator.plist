@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>getConcreteTangentFactory</key>
+	<string>setHardGrayscaleReference</string>
+	<key>getTypicalVarDecorator</key>
+	<string>skipAsynchronousTimelineGroup</string>
+	<key>limitBeginnerCursorInstance</key>
+	<string>resetPrevShapeReference</string>
+	<key>refreshDeclarativeChapterCreator</key>
+	<string>setTensorDocumentInstance</string>
+	<key>retrieveKeyScaleReference</key>
+	<string>lockSymmetricInterfaceManager</string>
+	<key>setPriorSpriteDecorator</key>
+	<string>setLiteSignFilter</string>
+	<key>setUnsortedEdgeContainer</key>
+	<string>stopOtherTextureType</string>
+	<key>stopNumericalDescriptionArray</key>
+	<string>displayNextVariableCreator</string>
+</dict>
+</plist>

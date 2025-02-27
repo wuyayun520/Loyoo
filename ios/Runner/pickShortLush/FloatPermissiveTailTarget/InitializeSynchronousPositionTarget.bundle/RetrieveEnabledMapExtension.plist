@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>divideBeginnerResolverExtension</key>
+	<string>setRobustDurationHelper</string>
+	<key>extendMissedVariableCache</key>
+	<string>skipCommonTagDelegate</string>
+	<key>getSpecifyColorGroup</key>
+	<string>continueDelicateCoordinatorHandler</string>
+	<key>keepDirectInitiatorsPool</key>
+	<string>keepNextEntropyList</string>
+	<key>unlockAdvancedStatusCollection</key>
+	<string>generateAutoGateFactory</string>
+</dict>
+</plist>

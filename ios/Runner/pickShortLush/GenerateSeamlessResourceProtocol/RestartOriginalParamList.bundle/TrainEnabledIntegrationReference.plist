@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>initializeRelationalVarAdapter</key>
+	<string>getDirectlyVariableFactory</string>
+	<key>setDeclarativeParamOwner</key>
+	<string>trainLocalLayerContainer</string>
+	<key>stopConsultativeVarDecorator</key>
+	<string>makeConsultativeTagProtocol</string>
+	<key>stopUniqueIntensityFactory</key>
+	<string>decoupleAccessibleRectangleAdapter</string>
+</dict>
+</plist>

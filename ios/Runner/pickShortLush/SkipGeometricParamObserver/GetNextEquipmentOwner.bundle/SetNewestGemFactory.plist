@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>getConsultativeViewDelegate</key>
+	<string>prepareDisparateCharacterAdapter</string>
+	<key>reflectArithmeticValuePool</key>
+	<string>getLastVariableDelegate</string>
+	<key>restartMissedContrastObserver</key>
+	<string>cancelNewestInterfaceHandler</string>
+	<key>skipDirectLayoutHandler</key>
+	<string>finishSortedValueDecorator</string>
+	<key>startSharedFormatCreator</key>
+	<string>pauseImmutableVectorDecorator</string>
+</dict>
+</plist>

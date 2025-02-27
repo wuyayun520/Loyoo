@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>getIndependentEventFilter</key>
+	<string>startComprehensiveScaleContainer</string>
+	<key>getTensorBufferArray</key>
+	<string>getPrimaryValueCollection</string>
+	<key>releaseGlobalBandwidthInstance</key>
+	<string>playAssociatedScaleList</string>
+	<key>setCartesianSoundImplement</key>
+	<string>spinLastNumberManager</string>
+	<key>setDenseImageImplement</key>
+	<string>discoverPublicParamFilter</string>
+	<key>setMediocreNameFactory</key>
+	<string>setDiversifiedVariableList</string>
+	<key>setPrimaryTraversalDelegate</key>
+	<string>restartLastSkewYInstance</string>
+	<key>stopDifficultButtonType</key>
+	<string>concatenateNumericalParticleCache</string>
+</dict>
+</plist>

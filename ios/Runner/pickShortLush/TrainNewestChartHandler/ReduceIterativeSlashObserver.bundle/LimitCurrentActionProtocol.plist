@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cancelAccordionMendObserver</key>
+	<string>prepareUnactivatedSceneFactory</string>
+	<key>finishEasyOriginManager</key>
+	<string>resumeCurrentHeadManager</string>
+	<key>setHyperbolicSlashManager</key>
+	<string>setRapidPreviewTarget</string>
+	<key>trainRapidInteractionType</key>
+	<string>prepareDiscardedVarType</string>
+</dict>
+</plist>

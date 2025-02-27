@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>decoupleGlobalTweakBase</key>
+	<string>transposeSmallStampManager</string>
+	<key>initializeTypicalGraphFilter</key>
+	<string>setCartesianBufferCache</string>
+	<key>prepareNumericalNumberExtension</key>
+	<string>accelerateUniqueArchitectureBase</string>
+	<key>quitGeometricVariableCreator</key>
+	<string>revisitSeamlessConstantType</string>
+	<key>rotateSecondRowDelegate</key>
+	<string>getLargeParameterManager</string>
+	<key>setSingleParamGroup</key>
+	<string>prepareRelationalHeapGroup</string>
+	<key>trainLocalChannelsCache</key>
+	<string>startIntuitiveEvolutionManager</string>
+</dict>
+</plist>

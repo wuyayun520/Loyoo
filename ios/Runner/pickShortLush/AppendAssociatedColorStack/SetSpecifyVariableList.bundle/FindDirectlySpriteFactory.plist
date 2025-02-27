@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accelerateSmallAssetDelegate</key>
+	<string>getCommonParticleStack</string>
+	<key>getElasticFrameStack</key>
+	<string>continueMainBufferContainer</string>
+	<key>getLargeShapeContainer</key>
+	<string>setPriorOriginPool</string>
+	<key>poolEnabledBaseObserver</key>
+	<string>skipSeamlessTempleStack</string>
+	<key>setAssociatedRestrictionList</key>
+	<string>pauseAsynchronousBandwidthAdapter</string>
+	<key>startArithmeticRotationArray</key>
+	<string>getLostIndexHelper</string>
+	<key>writeUsedPopupStack</key>
+	<string>fillBasicEffectInstance</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>computeHardRecursionFactory</key>
+	<string>pauseStaticLayoutArray</string>
+	<key>continueSimilarNodeHelper</key>
+	<string>compareSemanticTitleType</string>
+	<key>getArithmeticQueueReference</key>
+	<string>restoreBasicMetricsImplement</string>
+	<key>makeSpecifyLeftDelegate</key>
+	<string>setPrismaticConfidentialityCache</string>
+	<key>setBackwardParameterStack</key>
+	<string>upgradeAutoFeatureProtocol</string>
+</dict>
+</plist>

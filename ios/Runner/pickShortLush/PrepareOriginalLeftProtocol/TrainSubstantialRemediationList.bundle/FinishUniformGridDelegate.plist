@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>continueTensorVarReference</key>
+	<string>setMissedColorFilter</string>
+	<key>getCurrentLayerHandler</key>
+	<string>retainEasyMatrixOwner</string>
+	<key>pausePermanentTextureCreator</key>
+	<string>endUnactivatedSpriteCache</string>
+	<key>setMainEquivalentReference</key>
+	<string>startDiscardedResultImplement</string>
+	<key>upgradeFusedInformationHelper</key>
+	<string>writeNextRightTarget</string>
+	<key>writeCartesianInterpolationList</key>
+	<string>prepareSpecifyGrainProtocol</string>
+</dict>
+</plist>

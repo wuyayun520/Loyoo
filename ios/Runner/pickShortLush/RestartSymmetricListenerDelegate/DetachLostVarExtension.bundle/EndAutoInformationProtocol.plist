@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dissociateBasicParameterInstance</key>
+	<string>transposeFusedUnaryContainer</string>
+	<key>searchProtectedNumberGroup</key>
+	<string>getImmutableVariableAdapter</string>
+	<key>startIterativeAmortizationDecorator</key>
+	<string>reduceMediumConsumptionFactory</string>
+</dict>
+</plist>

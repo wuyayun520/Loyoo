@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>endArithmeticVarFactory</key>
+	<string>eraseCriticalVarBase</string>
+	<key>navigateRapidOriginType</key>
+	<string>setLostTailCreator</string>
+	<key>prepareOldBulletCreator</key>
+	<string>endRapidMenuExtension</string>
+	<key>releaseNormalScenarioDecorator</key>
+	<string>restartGeometricPreviewType</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adjustCustomSpineContainer</key>
+	<string>setHardNameReference</string>
+	<key>captureCustomBufferHelper</key>
+	<string>skipFusedSpriteStack</string>
+	<key>differentiateReusableBufferGroup</key>
+	<string>createDiscardedDisclaimerAdapter</string>
+	<key>parsePrimaryMobileCache</key>
+	<string>retrieveSharedColorFilter</string>
+	<key>restartAssociatedCursorBase</key>
+	<string>startRelationalNumberCache</string>
+	<key>seekCrudeOriginFactory</key>
+	<string>continueTensorVariableCollection</string>
+	<key>setPrismaticConfigurationList</key>
+	<string>setStandaloneChartInstance</string>
+	<key>setSustainablePreviewArray</key>
+	<string>initializeTensorNamePool</string>
+	<key>skipEnabledParameterBase</key>
+	<string>getHardValueFactory</string>
+</dict>
+</plist>

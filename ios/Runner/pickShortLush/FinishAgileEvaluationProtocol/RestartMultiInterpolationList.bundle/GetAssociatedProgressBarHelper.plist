@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>createPrimaryButtonInstance</key>
+	<string>keepBackwardDetailObserver</string>
+	<key>discoverResilientHeapType</key>
+	<string>insteadLastTentativeHandler</string>
+	<key>getSemanticButtonManager</key>
+	<string>startPrimaryResolverCollection</string>
+	<key>getUnsortedAscentOwner</key>
+	<string>endCriticalAmortizationReference</string>
+	<key>releaseRobustBandwidthArray</key>
+	<string>restartPrismaticContrastCreator</string>
+	<key>setEphemeralListenerImplement</key>
+	<string>setAsynchronousSineAdapter</string>
+	<key>setResilientScaleCache</key>
+	<string>introspectIgnoredVariableOwner</string>
+	<key>stopPrevHashAdapter</key>
+	<string>destroyGranularMeshHelper</string>
+	<key>visitExplicitTempleStack</key>
+	<string>finishAgileParamExtension</string>
+</dict>
+</plist>

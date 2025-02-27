@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>continueSignificantInfoDecorator</key>
+	<string>trainDiscardedItemGroup</string>
+	<key>convertAutoHeadHelper</key>
+	<string>setEasyValueImplement</string>
+	<key>getSimilarVarCollection</key>
+	<string>clearRapidMissionObserver</string>
+	<key>initializeOldMapProtocol</key>
+	<string>setBackwardNameAdapter</string>
+	<key>limitDifficultPlaybackHandler</key>
+	<string>findUsedParticleImplement</string>
+	<key>setCrucialViewPool</key>
+	<string>pauseConcurrentBufferProtocol</string>
+	<key>trainAutoPositionCreator</key>
+	<string>reconcileDirectNameHelper</string>
+</dict>
+</plist>

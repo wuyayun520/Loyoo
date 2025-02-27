@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>divideBeginnerInterfaceObserver</key>
+	<string>appendCustomizedParticleDecorator</string>
+	<key>getFirstOptimizerHandler</key>
+	<string>limitPrismaticNameFactory</string>
+	<key>getUniformRangeStack</key>
+	<string>endPrevNumberStack</string>
+	<key>setDiscardedConsumptionFactory</key>
+	<string>setIndependentNumberFilter</string>
+	<key>setRelationalSkewXCreator</key>
+	<string>cancelIntuitivePaddingReference</string>
+</dict>
+</plist>

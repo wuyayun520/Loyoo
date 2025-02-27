@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accelerateMainFragmentManager</key>
+	<string>getNewestTrianglesGroup</string>
+	<key>getPrimaryParameterContainer</key>
+	<string>getDeclarativeParameterArray</string>
+	<key>pauseMainTailContainer</key>
+	<string>startIterativeToleranceManager</string>
+	<key>prepareIndependentConsumptionGroup</key>
+	<string>pauseOtherRangeHandler</string>
+	<key>rectifyReusableProgressBarExtension</key>
+	<string>prepareLiteRotationBase</string>
+	<key>setPivotalBoundCreator</key>
+	<string>differentiateNormalTimeFilter</string>
+	<key>setSimilarNodeManager</key>
+	<string>eraseActivatedAssetAdapter</string>
+	<key>startSmallModelAdapter</key>
+	<string>getPublicHashInstance</string>
+	<key>undertakeMainRendererInstance</key>
+	<string>startSemanticTextExtension</string>
+</dict>
+</plist>

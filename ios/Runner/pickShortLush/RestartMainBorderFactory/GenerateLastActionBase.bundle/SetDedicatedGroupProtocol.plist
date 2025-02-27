@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>executeCustomMetadataList</key>
+	<string>animateAccessibleChannelsDecorator</string>
+	<key>getDeclarativePositionArray</key>
+	<string>initializeUnactivatedBufferProtocol</string>
+	<key>getDiscardedExponentExtension</key>
+	<string>getFirstHeadGroup</string>
+	<key>getMultiInteractionBase</key>
+	<string>syncOtherSoundCache</string>
+	<key>initializeNextGroupTarget</key>
+	<string>startAdvancedAllocatorType</string>
+	<key>keepStandaloneNumberCollection</key>
+	<string>removeRequiredLogarithmManager</string>
+	<key>readGlobalFormatHandler</key>
+	<string>wrapIterativeNumberList</string>
+	<key>resumeNextParticleOwner</key>
+	<string>skipUsedOpacityAdapter</string>
+</dict>
+</plist>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appendSharedRectHelper</key>
+	<string>skipGreatMatrixReference</string>
+	<key>discoverHardPermutationPool</key>
+	<string>captureGlobalInformationManager</string>
+	<key>endFusedChartHelper</key>
+	<string>keepPublicLayerFactory</string>
+</dict>
+</plist>

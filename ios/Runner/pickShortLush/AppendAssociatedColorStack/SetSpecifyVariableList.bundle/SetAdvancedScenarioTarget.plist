@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>createComprehensiveGridFactory</key>
+	<string>finishElasticEvolutionFactory</string>
+	<key>divideElasticSkinTarget</key>
+	<string>continueIterativeProfileManager</string>
+	<key>initializeFirstValueHandler</key>
+	<string>refreshSymmetricPositionFilter</string>
+	<key>initializeIgnoredCoordType</key>
+	<string>setOriginalSessionCreator</string>
+	<key>limitMediumLabelExtension</key>
+	<string>searchSynchronousMissionHelper</string>
+	<key>parseDifficultInitiativePool</key>
+	<string>restoreLiteSpriteImplement</string>
+	<key>restartAutoTopicType</key>
+	<string>trainCustomizedComponentHandler</string>
+	<key>setAutoScaleFactory</key>
+	<string>getLocalLatencyArray</string>
+	<key>skipCommonParameterPool</key>
+	<string>calculateDisplayableParamFilter</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>getOtherInteractionAdapter</key>
+	<string>setFirstHeadOwner</string>
+	<key>introspectIntermediateParamOwner</key>
+	<string>setCartesianTagOwner</string>
+	<key>multiplyLocalValueOwner</key>
+	<string>restartGranularTempleManager</string>
+	<key>pauseSortedCapacitiesCache</key>
+	<string>pushAsynchronousTempleDecorator</string>
+	<key>reconcileBasicElasticityManager</key>
+	<string>cancelCustomNormGroup</string>
+	<key>setCurrentChecklistExtension</key>
+	<string>keepRequiredZoneFilter</string>
+	<key>startNormalDepthFilter</key>
+	<string>visitBeginnerNameInstance</string>
+	<key>startSimilarButtonFactory</key>
+	<string>spinImmutableOpacityCreator</string>
+	<key>stopSemanticSkewXGroup</key>
+	<string>trainUnsortedTempleDelegate</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>endSimilarBufferFactory</key>
+	<string>discoverPrevOpacityType</string>
+	<key>equalDiscardedBufferHelper</key>
+	<string>getEnabledOptionPool</string>
+	<key>freeCustomBoundCache</key>
+	<string>mitigateCriticalBinaryList</string>
+	<key>getCustomBufferCreator</key>
+	<string>unlockDenseTagPool</string>
+	<key>resumePrismaticFrameCache</key>
+	<string>getEasyPreviewType</string>
+	<key>setHardReferenceReference</key>
+	<string>setConcurrentEventDecorator</string>
+	<key>setMainChartContainer</key>
+	<string>appendIntuitiveRestrictionStack</string>
+	<key>setSustainableMetadataCache</key>
+	<string>setDeclarativeGroupObserver</string>
+	<key>startPrimaryOccasionGroup</key>
+	<string>setMissedBottomDelegate</string>
+	<key>stopElasticMemberFilter</key>
+	<string>endGlobalSliderType</string>
+</dict>
+</plist>

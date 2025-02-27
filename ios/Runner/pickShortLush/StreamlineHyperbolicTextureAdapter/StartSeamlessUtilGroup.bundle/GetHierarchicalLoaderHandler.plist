@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>getOpaqueButtonCollection</key>
+	<string>dismissStaticParamArray</string>
+	<key>getSingleParamGroup</key>
+	<string>checkGlobalPolygonExtension</string>
+	<key>initializeSynchronousOptionFilter</key>
+	<string>provideEnabledChannelsArray</string>
+	<key>keepPermanentMetadataObserver</key>
+	<string>prepareDiscardedVariableGroup</string>
+	<key>setLargeModuleArray</key>
+	<string>pausePublicComponentAdapter</string>
+	<key>setTensorBinaryObserver</key>
+	<string>keepConcurrentTextureList</string>
+</dict>
+</plist>

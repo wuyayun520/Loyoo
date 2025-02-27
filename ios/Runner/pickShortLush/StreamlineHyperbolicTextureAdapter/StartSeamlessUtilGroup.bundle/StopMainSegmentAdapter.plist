@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checkSymmetricMetadataArray</key>
+	<string>clipBackwardSpineContainer</string>
+	<key>continueSmallAscentExtension</key>
+	<string>initializeDisplayableProjectCache</string>
+	<key>freeDirectMasterPool</key>
+	<string>fillAutoStampGroup</string>
+	<key>getActivatedPopupInstance</key>
+	<string>setEasyParamHandler</string>
+	<key>getConcurrentProvisionFilter</key>
+	<string>skipKeyEvolutionImplement</string>
+	<key>getMediocreParamFilter</key>
+	<string>unscheduleDisplayablePopupDecorator</string>
+	<key>getReusablePositionBase</key>
+	<string>finishAgileCoordList</string>
+	<key>showSubtleReductionBase</key>
+	<string>setSubsequentBottomReference</string>
+	<key>trainMainPointTarget</key>
+	<string>aggregatePrimaryHeapType</string>
+</dict>
+</plist>

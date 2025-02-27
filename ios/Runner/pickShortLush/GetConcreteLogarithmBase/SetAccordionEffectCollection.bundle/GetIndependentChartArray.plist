@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>locateArithmeticLayerArray</key>
+	<string>finishLitePointCreator</string>
+	<key>setConcurrentScaleExtension</key>
+	<string>setGreatVarInstance</string>
+	<key>setLastValueInstance</key>
+	<string>setUnsortedPopupFilter</string>
+	<key>setOpaqueSizeFactory</key>
+	<string>setExplicitGrainHelper</string>
+	<key>startRobustValueReference</key>
+	<string>setEphemeralLoopHelper</string>
+</dict>
+</plist>

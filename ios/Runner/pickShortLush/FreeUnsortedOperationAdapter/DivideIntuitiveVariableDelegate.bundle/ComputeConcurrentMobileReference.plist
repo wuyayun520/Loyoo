@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>continueEphemeralVarImplement</key>
+	<string>initializeNumericalStyleCollection</string>
+	<key>getHierarchicalProjectionStack</key>
+	<string>setConcurrentPreviewObserver</string>
+	<key>getPermissiveColorProtocol</key>
+	<string>prepareCriticalVarCache</string>
+	<key>introspectOpaqueRemainderImplement</key>
+	<string>getSubstantialConfidentialityHelper</string>
+	<key>restartDisparateLayoutTarget</key>
+	<string>stopIntuitiveCardType</string>
+</dict>
+</plist>

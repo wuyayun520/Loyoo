@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accelerateTensorTentativeManager</key>
+	<string>trainUnsortedTimelineCreator</string>
+	<key>augmentRetainedImpressionExtension</key>
+	<string>setSmallMetricsProtocol</string>
+	<key>getMultiChapterFilter</key>
+	<string>pauseLitePaddingImplement</string>
+	<key>getSmartMetadataContainer</key>
+	<string>prepareStandaloneProjectReference</string>
+	<key>quantizationResilientVideoCreator</key>
+	<string>setSeamlessMetricsManager</string>
+	<key>quitResilientPaddingStack</key>
+	<string>continueImmutableKernelImplement</string>
+	<key>setLostParameterReference</key>
+	<string>restartSustainableQueueStack</string>
+</dict>
+</plist>

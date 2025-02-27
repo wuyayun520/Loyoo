@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>computeSimilarBufferObserver</key>
+	<string>startMultiValueTarget</string>
+	<key>getDirectTopPool</key>
+	<string>limitStaticVarTarget</string>
+	<key>reflectSemanticSizeOwner</key>
+	<string>initializeMultiCenterArray</string>
+	<key>resetAutoGrayscaleHelper</key>
+	<string>getSimilarLeftStack</string>
+	<key>setCrucialScaleStack</key>
+	<string>shearDedicatedSessionBase</string>
+	<key>setGeometricBufferExtension</key>
+	<string>embraceGranularParamFactory</string>
+	<key>setGranularNameCreator</key>
+	<string>getDisparateValueType</string>
+	<key>setSynchronousEfficiencyDelegate</key>
+	<string>executeAsynchronousShaderAdapter</string>
+</dict>
+</plist>

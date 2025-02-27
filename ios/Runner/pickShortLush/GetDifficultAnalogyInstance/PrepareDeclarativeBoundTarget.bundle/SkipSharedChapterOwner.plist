@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>captureOtherNormTarget</key>
+	<string>getStaticVarHandler</string>
+	<key>getActivatedReductionContainer</key>
+	<string>skipMutableMultiplicationReference</string>
+	<key>releaseCustomLeftHandler</key>
+	<string>getMainBoxType</string>
+	<key>replaceUsedPetFilter</key>
+	<string>startNextBufferReference</string>
+	<key>setSubtleVarCollection</key>
+	<string>renameIgnoredNameTarget</string>
+</dict>
+</plist>

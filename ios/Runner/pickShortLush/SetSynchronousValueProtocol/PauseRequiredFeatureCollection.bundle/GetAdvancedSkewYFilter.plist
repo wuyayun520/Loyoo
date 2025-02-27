@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>convertAdvancedVariableObserver</key>
+	<string>setSortedTentativeDecorator</string>
+	<key>keepDiscardedVariableDecorator</key>
+	<string>setSharedVisibleManager</string>
+	<key>pauseUniformVariableOwner</key>
+	<string>executeIndependentTagDelegate</string>
+	<key>reconcileActivatedViewList</key>
+	<string>setCartesianGraphObserver</string>
+	<key>regulateOtherEventStack</key>
+	<string>getDifficultTopCollection</string>
+	<key>setBasicAnimationReference</key>
+	<string>finishSemanticSizeCache</string>
+	<key>unscheduleTypicalParameterList</key>
+	<string>getSecondSizeArray</string>
+</dict>
+</plist>

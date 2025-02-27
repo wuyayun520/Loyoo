@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>continuePermanentVectorPool</key>
+	<string>reduceCrudeStrengthDelegate</string>
+	<key>continueSharedFrameFilter</key>
+	<string>obtainGeometricToolCache</string>
+	<key>getCommonOptionDelegate</key>
+	<string>setPrismaticFeatureCollection</string>
+	<key>initializePrimaryBufferExtension</key>
+	<string>finishRobustEdgeList</string>
+	<key>setIntuitiveInfrastructureBase</key>
+	<string>initializeKeyNormDecorator</string>
+	<key>stopCriticalLogInstance</key>
+	<string>prepareOldTitleObserver</string>
+</dict>
+</plist>

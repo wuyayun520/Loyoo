@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cancelUnactivatedViewDelegate</key>
+	<string>resizeNumericalResilienceTarget</string>
+	<key>getDenseNameHandler</key>
+	<string>unscheduleUnsortedSceneArray</string>
+	<key>getKeyGraphBase</key>
+	<string>startLiteParamExtension</string>
+	<key>getNormalTraversalPool</key>
+	<string>restartMediocreIntegrityFactory</string>
+	<key>getPrimaryRectangleProtocol</key>
+	<string>setReusableDepthPool</string>
+</dict>
+</plist>

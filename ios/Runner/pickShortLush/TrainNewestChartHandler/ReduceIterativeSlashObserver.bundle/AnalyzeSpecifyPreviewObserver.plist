@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>decoupleDiscardedOperationContainer</key>
+	<string>holdSemanticUtilInstance</string>
+	<key>endSemanticProjectionCache</key>
+	<string>getUniformDescriptionPool</string>
+	<key>getOpaqueRectManager</key>
+	<string>finishAsynchronousCoordExtension</string>
+	<key>quantizerEasyNameList</key>
+	<string>trainAdvancedParameterImplement</string>
+	<key>setRelationalScenarioDecorator</key>
+	<string>searchRespectiveTopicHandler</string>
+	<key>storeSustainableTaskProtocol</key>
+	<string>setNextMatrixGroup</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>getResilientTextureArray</key>
+	<string>setIgnoredBufferDelegate</string>
+	<key>keepNextSoundGroup</key>
+	<string>pauseAssociatedPrecisionExtension</string>
+	<key>markUnactivatedGraphInstance</key>
+	<string>cloneSustainableScaleReference</string>
+	<key>optimizeUnactivatedHeadGroup</key>
+	<string>setPublicMatrixManager</string>
+	<key>unscheduleElasticTextureHandler</key>
+	<string>cancelPrimaryValueReference</string>
+	<key>updateCurrentStatusDecorator</key>
+	<string>finishPrimaryDialogsGroup</string>
+	<key>visitPublicLabelCollection</key>
+	<string>setEphemeralSpriteList</string>
+</dict>
+</plist>

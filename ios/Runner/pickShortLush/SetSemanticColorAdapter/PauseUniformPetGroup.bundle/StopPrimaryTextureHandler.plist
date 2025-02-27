@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cancelUnsortedVisibleFactory</key>
+	<string>trainDisparatePositionDecorator</string>
+	<key>getEasyScaleHandler</key>
+	<string>pauseLocalViewList</string>
+	<key>initializeSmartCoordHelper</key>
+	<string>stopElasticCurveFactory</string>
+	<key>pauseSustainableFeatureFactory</key>
+	<string>quitSemanticCoordCollection</string>
+	<key>stopHierarchicalNumberExtension</key>
+	<string>searchImmutableRoleType</string>
+</dict>
+</plist>

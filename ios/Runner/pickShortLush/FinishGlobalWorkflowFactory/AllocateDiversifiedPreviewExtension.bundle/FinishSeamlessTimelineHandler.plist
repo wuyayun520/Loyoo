@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cancelDirectBottomTarget</key>
+	<string>cancelDirectlyQuaternionTarget</string>
+	<key>destroyCustomStatusManager</key>
+	<string>prepareRespectiveCurveCache</string>
+	<key>prepareMutableChapterCache</key>
+	<string>startActivatedAnalogyPool</string>
+	<key>setRelationalEdgeTarget</key>
+	<string>setDirectDepthReference</string>
+	<key>stopProtectedFrameBase</key>
+	<string>getGranularVarArray</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>continueConcurrentFrameExtension</key>
+	<string>holdCustomizedBufferDelegate</string>
+	<key>getUniqueDataExtension</key>
+	<string>setLastVariableObserver</string>
+	<key>pauseEnabledBaseHelper</key>
+	<string>keepSmallRemediationPool</string>
+	<key>prepareExplicitTopGroup</key>
+	<string>differentiateSymmetricEdgePool</string>
+	<key>prepareSemanticTailHelper</key>
+	<string>setSortedUsageHandler</string>
+	<key>setDiscardedVisiblePool</key>
+	<string>startCurrentInfoBase</string>
+	<key>setEphemeralTrianglesOwner</key>
+	<string>checkPermissiveZoneAdapter</string>
+</dict>
+</plist>

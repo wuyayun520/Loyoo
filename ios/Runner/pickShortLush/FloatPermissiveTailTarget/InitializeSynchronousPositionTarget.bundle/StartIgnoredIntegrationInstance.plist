@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>getNormalRowDecorator</key>
+	<string>pauseHardParameterTarget</string>
+	<key>parsePriorCoordStack</key>
+	<string>createTensorQueueExtension</string>
+	<key>pauseSubtleMatrixCache</key>
+	<string>initializeDisparateBulletCreator</string>
+	<key>quitMissedProvisionHandler</key>
+	<string>finishNumericalScaleDelegate</string>
+	<key>restartIgnoredVariableFilter</key>
+	<string>setEphemeralVertexDelegate</string>
+	<key>restartSemanticMobileGroup</key>
+	<string>startDenseInterfaceImplement</string>
+	<key>setSynchronousCenterFactory</key>
+	<string>stopNewestNameArray</string>
+	<key>trainSpecifyTextureHandler</key>
+	<string>appendMutableMasterFilter</string>
+</dict>
+</plist>

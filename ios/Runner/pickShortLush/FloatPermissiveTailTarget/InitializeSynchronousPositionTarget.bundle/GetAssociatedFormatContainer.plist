@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>conformTensorActivityHelper</key>
+	<string>getNextLayerStack</string>
+	<key>finishHardRightDecorator</key>
+	<string>continueRequiredBatchProtocol</string>
+	<key>locateDirectTagCreator</key>
+	<string>finishStandaloneBottomPool</string>
+	<key>makeDedicatedUnaryType</key>
+	<string>setConcreteKernelManager</string>
+	<key>pauseArithmeticTrianglesAdapter</key>
+	<string>setMediocreMetricsInstance</string>
+	<key>releaseCommonConfigurationCreator</key>
+	<string>getUniformRendererImplement</string>
+	<key>removeDiscardedOperationImplement</key>
+	<string>limitUnactivatedGrainAdapter</string>
+	<key>setSimilarSkirtHandler</key>
+	<string>setIntuitiveContractionDelegate</string>
+</dict>
+</plist>

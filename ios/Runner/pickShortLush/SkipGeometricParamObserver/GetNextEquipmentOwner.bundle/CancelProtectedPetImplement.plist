@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cancelArithmeticChartGroup</key>
+	<string>trainTensorRotationManager</string>
+	<key>cloneArithmeticParamAdapter</key>
+	<string>transposeFirstSizePool</string>
+	<key>continueLargeValueAdapter</key>
+	<string>dropoutImmutableLabelReference</string>
+	<key>getAgileLoopType</key>
+	<string>getRetainedMendHandler</string>
+	<key>getBasicBaselineGroup</key>
+	<string>accelerateSortedPopupOwner</string>
+	<key>initializeSharedSkewYCollection</key>
+	<string>getMediumBufferExtension</string>
+	<key>spinIgnoredTextCollection</key>
+	<string>stopFusedLayerType</string>
+	<key>stopUniformThroughputArray</key>
+	<string>releaseHierarchicalTaxonomyTarget</string>
+</dict>
+</plist>

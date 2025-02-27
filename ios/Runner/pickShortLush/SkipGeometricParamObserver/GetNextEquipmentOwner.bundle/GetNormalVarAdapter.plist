@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>captureUniqueCatalystObserver</key>
+	<string>resumeCrudeEffectDelegate</string>
+	<key>getConcurrentPreviewAdapter</key>
+	<string>setSingleAmortizationCache</string>
+	<key>initializeSemanticModulusManager</key>
+	<string>getSubtleBufferManager</string>
+	<key>locateDenseKernelProtocol</key>
+	<string>skipDedicatedBinaryFilter</string>
+	<key>setDirectlyTitleDecorator</key>
+	<string>decoupleUnsortedModelFactory</string>
+	<key>shearSophisticatedGroupType</key>
+	<string>enhanceIntermediateLoopCollection</string>
+	<key>upgradeDiversifiedSizeList</key>
+	<string>finishBeginnerNodeImplement</string>
+	<key>wrapDeclarativeDetailHandler</key>
+	<string>setActivatedParticleHandler</string>
+</dict>
+</plist>

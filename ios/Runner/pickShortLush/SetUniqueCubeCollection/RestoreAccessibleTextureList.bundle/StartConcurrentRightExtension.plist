@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>augmentCustomizedFlagsCache</key>
+	<string>setNormalNodeManager</string>
+	<key>divideAdvancedSkewYFactory</key>
+	<string>prepareReusableTopDecorator</string>
+	<key>resizeDirectBufferHelper</key>
+	<string>executeIterativeInitiativeDecorator</string>
+	<key>retrieveHyperbolicConstantArray</key>
+	<string>setFirstDistinctionHandler</string>
+</dict>
+</plist>

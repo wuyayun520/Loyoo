@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>getExplicitGrainHelper</key>
+	<string>acceleratePrimaryTempleReference</string>
+	<key>keepIterativeValueManager</key>
+	<string>getPublicBufferCache</string>
+	<key>makeReusableValueStack</key>
+	<string>setOtherParameterFactory</string>
+	<key>prepareIntermediateCoordCache</key>
+	<string>getComprehensiveNumberManager</string>
+	<key>prepareProtectedParameterInstance</key>
+	<string>restartStandaloneUsageInstance</string>
+	<key>setIterativeRotationList</key>
+	<string>restartSimilarProgressBarDelegate</string>
+</dict>
+</plist>

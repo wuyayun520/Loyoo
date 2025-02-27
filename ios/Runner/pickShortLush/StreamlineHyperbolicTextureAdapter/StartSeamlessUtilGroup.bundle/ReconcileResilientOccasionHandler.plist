@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocateAsynchronousVariableTarget</key>
+	<string>getArithmeticVariableInstance</string>
+	<key>endSubtleNavigationHelper</key>
+	<string>poolSeamlessFormatManager</string>
+	<key>endSymmetricGraphBase</key>
+	<string>floatMultiCoordGroup</string>
+	<key>limitConcurrentParameterReference</key>
+	<string>getIntermediateBaselineStack</string>
+	<key>multiplyElasticGrainFilter</key>
+	<string>quantizationLiteParameterGroup</string>
+	<key>renameDiversifiedAssetType</key>
+	<string>finishNormalEffectGroup</string>
+	<key>startSharedScopeList</key>
+	<string>setIgnoredVariableHandler</string>
+	<key>trainRespectiveGroupStack</key>
+	<string>equalSynchronousHeadContainer</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>endHierarchicalNodeObserver</key>
+	<string>setGranularListenerStack</string>
+	<key>getEnabledOriginProtocol</key>
+	<string>getCriticalLoopImplement</string>
+	<key>getSymmetricViewManager</key>
+	<string>stopSortedSliderDecorator</string>
+	<key>getUnsortedAspectDecorator</key>
+	<string>setPriorTailCreator</string>
+	<key>stopNormalMenuGroup</key>
+	<string>getGlobalBufferContainer</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>computeStandaloneToleranceStack</key>
+	<string>getSubsequentCharacteristicFilter</string>
+	<key>endHardTitleDecorator</key>
+	<string>getPrimaryResultFactory</string>
+	<key>eraseRapidTailFilter</key>
+	<string>keepActivatedEvaluationTarget</string>
+	<key>markGlobalModuleHandler</key>
+	<string>setMultiSymbolHelper</string>
+	<key>setBeginnerToolCreator</key>
+	<string>getTensorSpecifierType</string>
+	<key>setLostRendererDecorator</key>
+	<string>stopDifficultMediaImplement</string>
+	<key>storeUniformCosineTarget</key>
+	<string>stopIntuitiveVisibleManager</string>
+</dict>
+</plist>

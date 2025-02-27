@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>discoverSortedOpacityList</key>
+	<string>getCustomImageList</string>
+	<key>embedStaticBoundObserver</key>
+	<string>setDiscardedTagList</string>
+	<key>endMutableOpacityManager</key>
+	<string>trainPrismaticTagObserver</string>
+	<key>findBeginnerFrameArray</key>
+	<string>finishLastIndexProtocol</string>
+	<key>locateGranularHeapReference</key>
+	<string>continueLocalAnimationObserver</string>
+	<key>scheduleSharedFeatureHandler</key>
+	<string>startMutableDescriptorCollection</string>
+</dict>
+</plist>

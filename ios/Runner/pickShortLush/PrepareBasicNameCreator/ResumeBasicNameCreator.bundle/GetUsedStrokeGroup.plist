@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>equalAssociatedIntegrationFilter</key>
+	<string>initializeTensorVectorReference</string>
+	<key>freePivotalValueFactory</key>
+	<string>setRespectiveBufferBase</string>
+	<key>getCustomSlashHandler</key>
+	<string>startUnsortedColorInstance</string>
+	<key>renameRelationalColorAdapter</key>
+	<string>releaseIntermediateVariableFilter</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cleanUniformVarImplement</key>
+	<string>cancelSemanticGroupHandler</string>
+	<key>discoverAssociatedVarObserver</key>
+	<string>initializeConcurrentLayoutHandler</string>
+	<key>getBasicObjectBase</key>
+	<string>getDedicatedTopOwner</string>
+	<key>holdOtherVarAdapter</key>
+	<string>getBeginnerReplicaContainer</string>
+	<key>setSemanticInfoCreator</key>
+	<string>setGranularBufferBase</string>
+	<key>setSubstantialFlagsInstance</key>
+	<string>renameGranularReductionManager</string>
+	<key>stopDifficultVarArray</key>
+	<string>getSymmetricVarType</string>
+	<key>trainDedicatedBottomHelper</key>
+	<string>showSeamlessMendReference</string>
+</dict>
+</plist>

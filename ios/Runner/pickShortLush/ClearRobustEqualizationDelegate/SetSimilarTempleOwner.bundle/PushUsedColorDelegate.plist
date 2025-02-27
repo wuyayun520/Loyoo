@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>analyzePermissiveIndexDelegate</key>
+	<string>getSemanticInfoDecorator</string>
+	<key>keepFirstTopicHelper</key>
+	<string>pauseLocalColorPool</string>
+	<key>limitEphemeralNumberCache</key>
+	<string>startExplicitDialogsCreator</string>
+	<key>navigateUsedSliderContainer</key>
+	<string>stopArithmeticZonePool</string>
+	<key>removeDiversifiedLoopOwner</key>
+	<string>getEuclideanModuleFilter</string>
+	<key>setMultiRightBase</key>
+	<string>keepCurrentValueFilter</string>
+	<key>setSmallResolverTarget</key>
+	<string>equalDirectRotationContainer</string>
+	<key>touchSymmetricTagCreator</key>
+	<string>setMultiPositionContainer</string>
+	<key>trainRespectiveMendInstance</key>
+	<string>getDifficultIndexManager</string>
+</dict>
+</plist>

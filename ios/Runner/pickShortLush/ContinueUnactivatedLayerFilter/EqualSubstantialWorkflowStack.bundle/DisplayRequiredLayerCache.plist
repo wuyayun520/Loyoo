@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appendRetainedColorContainer</key>
+	<string>multiplySymmetricMatrixFilter</string>
+	<key>getProtectedBufferHelper</key>
+	<string>startPublicResolverHelper</string>
+	<key>syncConcurrentSceneCollection</key>
+	<string>continueSmallSkewXCache</string>
+	<key>trainPrismaticBufferCollection</key>
+	<string>getAccessibleParameterPool</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>captureIgnoredBoundReference</key>
+	<string>getStaticAssetList</string>
+	<key>obtainCrudeActionOwner</key>
+	<string>getCrudeBufferOwner</string>
+	<key>reflectEasyBaseFactory</key>
+	<string>setGranularVarManager</string>
+	<key>resumeOtherScopeTarget</key>
+	<string>streamlineOldBottomContainer</string>
+	<key>setCrucialProgressBarCache</key>
+	<string>setTensorVarReference</string>
+	<key>setTypicalInfoAdapter</key>
+	<string>setRespectiveParamCreator</string>
+	<key>skipTypicalScenarioArray</key>
+	<string>continueDiversifiedReferenceOwner</string>
+</dict>
+</plist>

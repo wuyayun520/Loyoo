@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>getCriticalNumberArray</key>
+	<string>getEnabledLossType</string>
+	<key>getOldGridBase</key>
+	<string>cancelIterativeFeatureFactory</string>
+	<key>setNumericalPreviewCache</key>
+	<string>setUsedAxisType</string>
+	<key>trainIndependentResolverReference</key>
+	<string>endProtectedScaleContainer</string>
+</dict>
+</plist>

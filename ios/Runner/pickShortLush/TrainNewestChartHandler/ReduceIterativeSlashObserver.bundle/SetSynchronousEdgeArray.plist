@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>getDiscardedValueFactory</key>
+	<string>getEphemeralIndexCache</string>
+	<key>getElasticVarContainer</key>
+	<string>finishBackwardNumberGroup</string>
+	<key>getNextTimelineExtension</key>
+	<string>retrieveCrucialNameList</string>
+	<key>readUnsortedTopManager</key>
+	<string>getSimilarVarFilter</string>
+</dict>
+</plist>

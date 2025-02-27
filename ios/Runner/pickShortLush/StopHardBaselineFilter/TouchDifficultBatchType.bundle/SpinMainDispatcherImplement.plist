@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>continueDeclarativePriorityAdapter</key>
+	<string>convertGranularFlagsBase</string>
+	<key>endAssociatedControllerInstance</key>
+	<string>startElasticGrainHandler</string>
+	<key>getCustomizedTailCollection</key>
+	<string>setMediocreButtonObserver</string>
+	<key>seekEnabledCacheCache</key>
+	<string>getLostVarDelegate</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cancelRequiredSubpixelHandler</key>
+	<string>finishCustomBufferFactory</string>
+	<key>getRobustOptimizerManager</key>
+	<string>unlockAccessibleFragmentCreator</string>
+	<key>locateHierarchicalCoordPool</key>
+	<string>finishSymmetricLayerHandler</string>
+	<key>mitigatePivotalParamPool</key>
+	<string>getDiversifiedFrameArray</string>
+	<key>moveMutableBufferList</key>
+	<string>undertakeHyperbolicScopeList</string>
+	<key>setBasicBitrateReference</key>
+	<string>accelerateTypicalChannelsTarget</string>
+	<key>spinLostOptimizerHelper</key>
+	<string>setAdvancedMissionDelegate</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>endCrucialVariableObserver</key>
+	<string>endNextInfoOwner</string>
+	<key>endOldLayerCollection</key>
+	<string>setUnactivatedGrainInstance</string>
+	<key>finishKeyParamFilter</key>
+	<string>getGranularSchemaCache</string>
+	<key>resumeSubtleValueArray</key>
+	<string>getPrevOriginPool</string>
+	<key>setAccordionIntensityFactory</key>
+	<string>getEnabledShaderCache</string>
+	<key>setArithmeticQuaternionCache</key>
+	<string>getRapidCompositionFactory</string>
+</dict>
+</plist>

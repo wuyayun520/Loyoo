@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>continueMutableAudioExtension</key>
+	<string>initializeCustomTaskFilter</string>
+	<key>extendReusableParameterReference</key>
+	<string>setSignificantBehaviorOwner</string>
+	<key>getSynchronousGridAdapter</key>
+	<string>unlockMultiModelExtension</string>
+	<key>seekUniqueBufferHelper</key>
+	<string>skipActivatedModuleCollection</string>
+	<key>setDeclarativeRangePool</key>
+	<string>setBackwardImpactHandler</string>
+	<key>setGlobalColorFactory</key>
+	<string>setDeclarativeParameterInstance</string>
+</dict>
+</plist>

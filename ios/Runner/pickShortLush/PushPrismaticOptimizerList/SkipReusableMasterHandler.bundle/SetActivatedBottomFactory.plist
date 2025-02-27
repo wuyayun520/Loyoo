@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>finishSimilarVariableManager</key>
+	<string>initializeDenseItemDelegate</string>
+	<key>getAssociatedStatePool</key>
+	<string>stopPrevToolPool</string>
+	<key>pauseOtherTopBase</key>
+	<string>skipDeclarativeCenterProtocol</string>
+	<key>requestHardApertureProtocol</key>
+	<string>stopMultiParamCache</string>
+	<key>resumeHardTempleCollection</key>
+	<string>replaceRespectiveAllocatorPool</string>
+	<key>setAdvancedPointType</key>
+	<string>setNormalTraversalManager</string>
+	<key>setBackwardTagImplement</key>
+	<string>getSemanticVarDelegate</string>
+	<key>storeActivatedPolyfillDelegate</key>
+	<string>syncRespectiveVisibleTarget</string>
+	<key>trainElasticParamDelegate</key>
+	<string>startDeclarativeCacheGroup</string>
+</dict>
+</plist>

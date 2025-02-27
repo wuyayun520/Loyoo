@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cancelEasyMonsterDecorator</key>
+	<string>continueExplicitFlagsDecorator</string>
+	<key>getPermissiveValueManager</key>
+	<string>getIntermediateBorderList</string>
+	<key>keepStandaloneEventProtocol</key>
+	<string>computeSimilarSpriteCache</string>
+	<key>removeAdvancedParamFilter</key>
+	<string>generatePublicKernelCollection</string>
+	<key>setSecondAssetImplement</key>
+	<string>startEnabledActionBase</string>
+</dict>
+</plist>

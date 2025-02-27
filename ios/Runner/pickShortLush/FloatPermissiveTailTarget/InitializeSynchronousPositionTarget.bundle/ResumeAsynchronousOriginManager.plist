@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>initializeMediumValueObserver</key>
+	<string>executeHardRectList</string>
+	<key>playDifficultAnchorDelegate</key>
+	<string>endNewestDurationHandler</string>
+	<key>setDelicateRowInstance</key>
+	<string>initializeMultiTaxonomyManager</string>
+	<key>setUsedDepthObserver</key>
+	<string>getPrevOriginManager</string>
+</dict>
+</plist>

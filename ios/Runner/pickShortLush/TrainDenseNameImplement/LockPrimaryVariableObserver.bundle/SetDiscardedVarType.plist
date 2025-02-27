@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>continueDiscardedDescentHelper</key>
+	<string>setIgnoredAllocatorCreator</string>
+	<key>continueLiteNumberHelper</key>
+	<string>getCommonVariableHelper</string>
+	<key>getHierarchicalParamArray</key>
+	<string>setBeginnerContrastInstance</string>
+	<key>getPrimaryLoopTarget</key>
+	<string>endCommonBufferInstance</string>
+	<key>getResilientCenterPool</key>
+	<string>startConcretePolygonProtocol</string>
+	<key>setCartesianIndexImplement</key>
+	<string>setSemanticLeftStack</string>
+	<key>setDiversifiedPositionManager</key>
+	<string>stopUsedGraphDecorator</string>
+	<key>stopSemanticLatencyHelper</key>
+	<string>getSortedBehaviorDecorator</string>
+	<key>stopStandaloneSubpixelDecorator</key>
+	<string>trainConcreteDeliveryStack</string>
+</dict>
+</plist>

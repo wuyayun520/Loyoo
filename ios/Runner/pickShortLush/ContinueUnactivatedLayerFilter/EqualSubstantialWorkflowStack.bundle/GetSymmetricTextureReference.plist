@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>continuePermanentCoordDelegate</key>
+	<string>getUnactivatedInfoStack</string>
+	<key>destroyMainBatchFilter</key>
+	<string>destroyBackwardCoordHelper</string>
+	<key>getStaticProjectionOwner</key>
+	<string>pushSubtleVectorImplement</string>
+	<key>resumeAsynchronousGrayscaleFilter</key>
+	<string>startRobustThreadFactory</string>
+	<key>setFusedThroughputContainer</key>
+	<string>getPermanentNumberReference</string>
+	<key>setRequiredOpacityManager</key>
+	<string>stopAccordionContrastProtocol</string>
+	<key>spinComprehensiveVectorDecorator</key>
+	<string>embraceStandaloneMissionInstance</string>
+	<key>startNumericalEffectOwner</key>
+	<string>appendAssociatedTimeFactory</string>
+</dict>
+</plist>

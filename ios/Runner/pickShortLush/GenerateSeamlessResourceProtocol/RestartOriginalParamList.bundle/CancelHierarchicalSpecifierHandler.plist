@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>getMultiTextureImplement</key>
+	<string>setMutableFrameTarget</string>
+	<key>getNewestValueContainer</key>
+	<string>setHierarchicalVariableHandler</string>
+	<key>initializeFusedValueOwner</key>
+	<string>resumeSpecifyVisibleFactory</string>
+	<key>pauseDedicatedEquipmentStack</key>
+	<string>trainMutableTempleHandler</string>
+	<key>resizeSeamlessParameterContainer</key>
+	<string>holdRapidDescentFilter</string>
+	<key>setCriticalPositionPool</key>
+	<string>skipSynchronousParamCollection</string>
+	<key>setDifficultTempleContainer</key>
+	<string>cancelDirectTempleStack</string>
+	<key>setGlobalInteractionDelegate</key>
+	<string>setSmallMissionFactory</string>
+</dict>
+</plist>

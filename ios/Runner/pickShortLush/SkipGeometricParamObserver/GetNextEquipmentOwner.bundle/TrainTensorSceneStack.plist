@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>initializeNormalViewOwner</key>
+	<string>getPublicButtonImplement</string>
+	<key>prepareRetainedGemHelper</key>
+	<string>reflectIntermediateNameCollection</string>
+	<key>restartElasticHeapContainer</key>
+	<string>setLocalElasticityImplement</string>
+	<key>shearAutoNameDecorator</key>
+	<string>renameAutoZoneObserver</string>
+	<key>startSophisticatedDialogsManager</key>
+	<string>createRespectiveLeftHelper</string>
+</dict>
+</plist>

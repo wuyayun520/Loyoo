@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cloneConcurrentProjectionImplement</key>
+	<string>setRespectiveFeaturePool</string>
+	<key>endBasicAspectHandler</key>
+	<string>keepMainCenterInstance</string>
+	<key>getSecondToleranceGroup</key>
+	<string>mitigateSmallFeatureHandler</string>
+	<key>getTensorStyleObserver</key>
+	<string>getAccessibleProvisionStack</string>
+	<key>setAsynchronousTitleCache</key>
+	<string>getPriorVarReference</string>
+	<key>setDelicateInitiatorsGroup</key>
+	<string>setCustomRangeCollection</string>
+	<key>setReusableParameterProtocol</key>
+	<string>startBasicFrameStack</string>
+	<key>trainRequiredParamInstance</key>
+	<string>moveMediumBatchInstance</string>
+</dict>
+</plist>

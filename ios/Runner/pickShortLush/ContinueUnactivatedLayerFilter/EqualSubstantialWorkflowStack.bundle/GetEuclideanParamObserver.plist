@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>continueTypicalBufferHandler</key>
+	<string>keepCrucialEdgeReference</string>
+	<key>getDedicatedZoneTarget</key>
+	<string>keepSeamlessTopType</string>
+	<key>insteadTensorToolManager</key>
+	<string>getSecondVolumeFactory</string>
+	<key>setSynchronousQueueContainer</key>
+	<string>keepBackwardQueueHelper</string>
+</dict>
+</plist>

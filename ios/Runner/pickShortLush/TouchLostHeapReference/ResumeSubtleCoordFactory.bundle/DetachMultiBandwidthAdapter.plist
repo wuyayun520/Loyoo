@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cancelLastRowDelegate</key>
+	<string>pauseHierarchicalNormHelper</string>
+	<key>getNewestMissionExtension</key>
+	<string>skipHyperbolicZoneExtension</string>
+	<key>prepareIntuitiveOperationDelegate</key>
+	<string>seekHyperbolicInterpolationPool</string>
+	<key>setCommonProjectionDecorator</key>
+	<string>parseGlobalAssetObserver</string>
+	<key>setLiteVarInstance</key>
+	<string>poolTypicalVarArray</string>
+	<key>setPermanentVariantCollection</key>
+	<string>undertakeGreatDisclaimerFilter</string>
+</dict>
+</plist>

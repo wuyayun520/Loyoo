@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>getAsynchronousPolygonHandler</key>
+	<string>getOriginalPermutationAdapter</string>
+	<key>getMultiValueCollection</key>
+	<string>endHardZoneContainer</string>
+	<key>getSymmetricValueStack</key>
+	<string>resizeDiscardedParamExtension</string>
+	<key>initializeReusablePositionPool</key>
+	<string>stopRapidAnchorDecorator</string>
+	<key>keepMutableZonePool</key>
+	<string>setLastTempleObserver</string>
+	<key>pauseDeclarativeVarHandler</key>
+	<string>skipAssociatedContractionStack</string>
+	<key>prepareCrudeContrastArray</key>
+	<string>clearSmartRouteBase</string>
+	<key>setRapidInteractionExtension</key>
+	<string>skipPublicPermutationCache</string>
+</dict>
+</plist>

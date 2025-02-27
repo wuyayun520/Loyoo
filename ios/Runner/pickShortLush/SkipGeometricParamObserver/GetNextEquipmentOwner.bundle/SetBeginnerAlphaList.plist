@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cancelSingleConfigurationInstance</key>
+	<string>startNextSpriteHandler</string>
+	<key>drawBackwardParameterCache</key>
+	<string>syncLiteModelHandler</string>
+	<key>encapsulateLargeStrokeFactory</key>
+	<string>getActivatedValueReference</string>
+	<key>getDisparateIntegerInstance</key>
+	<string>renameSymmetricParamList</string>
+	<key>getHardValueGroup</key>
+	<string>replaceFirstRangeAdapter</string>
+	<key>makeCustomizedRecursionManager</key>
+	<string>keepLastCharacterGroup</string>
+	<key>reflectSharedNormCreator</key>
+	<string>setDeclarativeHashDelegate</string>
+	<key>resizeBasicHeadGroup</key>
+	<string>extendDisplayableReferenceInstance</string>
+	<key>setCustomizedTagDecorator</key>
+	<string>locatePrevVariableInstance</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>getSignificantVarPool</key>
+	<string>trainLiteIntegrationProtocol</string>
+	<key>initializeSymmetricQuaternionList</key>
+	<string>getConcurrentFragmentDecorator</string>
+	<key>optimizeDedicatedValueOwner</key>
+	<string>endUnsortedMechanismReference</string>
+	<key>resumeExplicitZoneReference</key>
+	<string>revisitGranularParamManager</string>
+	<key>setIterativeOptimizerManager</key>
+	<string>searchIterativeRowReference</string>
+</dict>
+</plist>

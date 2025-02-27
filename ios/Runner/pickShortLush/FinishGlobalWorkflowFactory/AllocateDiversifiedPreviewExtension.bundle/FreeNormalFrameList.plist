@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>continueMissedTextDelegate</key>
+	<string>mitigateUnsortedTaskGroup</string>
+	<key>exitNextFlagsImplement</key>
+	<string>syncExplicitReplicaBase</string>
+	<key>finishUnactivatedNodeStack</key>
+	<string>setAdvancedInformationFilter</string>
+	<key>getSubsequentBaseBase</key>
+	<string>getElasticActivityCache</string>
+	<key>syncUnactivatedAnchorList</key>
+	<string>dropoutAsynchronousEdgeFilter</string>
+	<key>trainSignificantTopFilter</key>
+	<string>finishLocalValueType</string>
+</dict>
+</plist>

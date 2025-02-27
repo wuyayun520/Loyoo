@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>endSortedProgressBarOwner</key>
+	<string>limitDedicatedHashHelper</string>
+	<key>floatMultiSessionHandler</key>
+	<string>checkRelationalBufferDecorator</string>
+	<key>getSimilarScaleInstance</key>
+	<string>getSpecifyHeadManager</string>
+	<key>getSortedExponentFactory</key>
+	<string>resizeCustomAscentType</string>
+	<key>prepareTensorInterfaceDelegate</key>
+	<string>equalNextVarCache</string>
+	<key>resetDedicatedQuaternionFactory</key>
+	<string>getCurrentVarTarget</string>
+	<key>restartEnabledIntegrityReference</key>
+	<string>setKeyMenuList</string>
+	<key>restartEphemeralSkewYCache</key>
+	<string>getUsedBottomType</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>endRelationalSkinTarget</key>
+	<string>setNextPetOwner</string>
+	<key>getPrismaticDataCollection</key>
+	<string>setGlobalSpriteOwner</string>
+	<key>markStandaloneSchemaAdapter</key>
+	<string>getDelicateBoundPool</string>
+	<key>pauseKeySlashReference</key>
+	<string>setStandaloneViewFactory</string>
+	<key>setBasicComponentExtension</key>
+	<string>setPrevDepthImplement</string>
+	<key>setLargeUsageFactory</key>
+	<string>continueOpaqueColorReference</string>
+	<key>setPrevSkewXObserver</key>
+	<string>writeEnabledCoordinatorReference</string>
+</dict>
+</plist>

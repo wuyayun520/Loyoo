@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checkPermanentTimelineObserver</key>
+	<string>getSemanticGraphOwner</string>
+	<key>finishTensorResilienceStack</key>
+	<string>captureOldParameterDelegate</string>
+	<key>retainStaticRowArray</key>
+	<string>undertakeActivatedDetailContainer</string>
+	<key>setGeometricCacheInstance</key>
+	<string>setLostDocumentReference</string>
+	<key>setPermissiveAspectInstance</key>
+	<string>setSortedModuleProtocol</string>
+	<key>setStaticWorkflowFilter</key>
+	<string>pauseSubsequentMobileHandler</string>
+	<key>skipUnsortedIndexDecorator</key>
+	<string>setStaticParameterTarget</string>
+	<key>startLitePolyfillExtension</key>
+	<string>getBackwardLeftCreator</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>computeSingleTopImplement</key>
+	<string>finishEuclideanTagHelper</string>
+	<key>makeMissedObserverHandler</key>
+	<string>setRequiredMenuStack</string>
+	<key>prepareMissedOptionHandler</key>
+	<string>continueSubstantialSoundGroup</string>
+	<key>setAccordionProgressBarStack</key>
+	<string>setSeamlessConstantDelegate</string>
+</dict>
+</plist>

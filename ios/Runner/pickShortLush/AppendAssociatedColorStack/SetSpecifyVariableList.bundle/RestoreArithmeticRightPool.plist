@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cancelEuclideanPreviewImplement</key>
+	<string>mitigateDirectlyBufferStack</string>
+	<key>continueBackwardFeatureInstance</key>
+	<string>continueSingleSoundHandler</string>
+	<key>endLargeOpacityReference</key>
+	<string>resetDifficultMetadataHelper</string>
+	<key>quitEnabledObserverList</key>
+	<string>renameGeometricMonsterAdapter</string>
+	<key>revisitDirectScaleCollection</key>
+	<string>setBackwardNameFilter</string>
+	<key>setConcurrentTrajectoryPool</key>
+	<string>obtainSimilarTailHelper</string>
+	<key>setIterativeIntegrityHelper</key>
+	<string>getEuclideanParameterTarget</string>
+	<key>setUnactivatedBufferImplement</key>
+	<string>getOtherArithmeticCache</string>
+	<key>showElasticConfigurationImplement</key>
+	<string>restartDedicatedLogType</string>
+	<key>spinMutableBoundTarget</key>
+	<string>embedPriorVolumeAdapter</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cleanLiteQueueHandler</key>
+	<string>getOldArithmeticType</string>
+	<key>dismissSmartIntensityGroup</key>
+	<string>setDirectlyTailHandler</string>
+	<key>prepareHardBufferObserver</key>
+	<string>getPrevNodeCache</string>
+	<key>prepareNormalVarStack</key>
+	<string>setArithmeticVarContainer</string>
+	<key>setDisplayableEvaluationReference</key>
+	<string>endPermissiveTempleContainer</string>
+</dict>
+</plist>

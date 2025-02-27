@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cancelIntermediateTrajectoryManager</key>
+	<string>getSingleDepthStack</string>
+	<key>endSharedSkewXCreator</key>
+	<string>freeUnactivatedRotationCache</string>
+	<key>getCurrentConfigurationHelper</key>
+	<string>finishDiscardedBufferHandler</string>
+	<key>getDirectlyNameContainer</key>
+	<string>finishLastIntensityObserver</string>
+	<key>getKeyDispatcherReference</key>
+	<string>getCrudeLayoutArray</string>
+	<key>getSymmetricScenarioInstance</key>
+	<string>getSortedActionExtension</string>
+	<key>moveLocalParamHandler</key>
+	<string>escalateMutableOpacityStack</string>
+	<key>setUnsortedInstructionList</key>
+	<string>calculateGreatParameterHandler</string>
+</dict>
+</plist>

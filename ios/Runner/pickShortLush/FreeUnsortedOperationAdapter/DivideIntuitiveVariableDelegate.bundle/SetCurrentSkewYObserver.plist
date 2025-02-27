@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>embedAssociatedNameManager</key>
+	<string>setCustomTopicOwner</string>
+	<key>getSeamlessClusterHelper</key>
+	<string>optimizeIntermediateWorkflowHandler</string>
+	<key>setEnabledMetadataDecorator</key>
+	<string>restartAutoOptimizerExtension</string>
+	<key>skipCartesianToolProtocol</key>
+	<string>decoupleUniqueObserverGroup</string>
+	<key>startAgileTempleDelegate</key>
+	<string>endImmutableQueueFilter</string>
+	<key>startCrudeMissionProtocol</key>
+	<string>freeEuclideanTempleFactory</string>
+	<key>trainGreatGrainOwner</key>
+	<string>streamlineSharedLayoutObserver</string>
+	<key>trainHardAccessoryInstance</key>
+	<string>stopPrimaryTempleTarget</string>
+</dict>
+</plist>

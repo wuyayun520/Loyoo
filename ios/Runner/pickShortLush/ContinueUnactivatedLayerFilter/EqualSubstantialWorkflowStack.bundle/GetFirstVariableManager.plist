@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>initializeRespectiveScaleDelegate</key>
+	<string>requestSharedGraphDelegate</string>
+	<key>resumeAdvancedMonsterContainer</key>
+	<string>setPrismaticFrameProtocol</string>
+	<key>setPrismaticAllocatorBase</key>
+	<string>getPriorSkewYArray</string>
+	<key>setReusableParamType</key>
+	<string>prepareRespectiveHeapCache</string>
+	<key>setUsedHashFilter</key>
+	<string>setSynchronousResourceStack</string>
+	<key>trainUsedScaleInstance</key>
+	<string>stopIntermediateRowGroup</string>
+</dict>
+</plist>

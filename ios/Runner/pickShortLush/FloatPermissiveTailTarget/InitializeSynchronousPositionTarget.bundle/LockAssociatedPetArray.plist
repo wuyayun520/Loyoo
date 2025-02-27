@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>getCriticalTopStack</key>
+	<string>poolMainLeftHandler</string>
+	<key>getUnactivatedColorExtension</key>
+	<string>restartEuclideanRowList</string>
+	<key>keepMutableParamManager</key>
+	<string>floatBasicRestrictionGroup</string>
+	<key>setDiscardedListenerStack</key>
+	<string>resumeRelationalScaleGroup</string>
+	<key>setReusableTagObserver</key>
+	<string>optimizeGlobalParamHandler</string>
+</dict>
+</plist>

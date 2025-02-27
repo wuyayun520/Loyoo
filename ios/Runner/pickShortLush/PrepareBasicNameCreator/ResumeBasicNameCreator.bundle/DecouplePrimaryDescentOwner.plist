@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatePermissiveVariableAdapter</key>
+	<string>retainRapidReductionObserver</string>
+	<key>escalateDedicatedPolyfillTarget</key>
+	<string>insteadBackwardDocumentDelegate</string>
+	<key>getDenseSoundDelegate</key>
+	<string>embraceDifficultDepthObserver</string>
+	<key>holdDisparateDataBase</key>
+	<string>setBackwardCaptionCache</string>
+	<key>restartSimilarConfigurationCache</key>
+	<string>keepDirectDescriptionReference</string>
+	<key>stopCommonTailTarget</key>
+	<string>getSmallParameterManager</string>
+	<key>syncResilientRangeObserver</key>
+	<string>setDenseCaptionGroup</string>
+</dict>
+</plist>

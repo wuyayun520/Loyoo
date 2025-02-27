@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>getAccessibleCapacityCollection</key>
+	<string>setDisplayableFeatureList</string>
+	<key>getOpaqueGemDelegate</key>
+	<string>setDiscardedSkirtCache</string>
+	<key>quitAutoPositionBase</key>
+	<string>setLastLeftHelper</string>
+	<key>reconcileSeamlessAllocatorList</key>
+	<string>setTensorParameterType</string>
+	<key>visitPermissiveIntegrityImplement</key>
+	<string>setCartesianBorderManager</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>endMediumAllocatorCreator</key>
+	<string>readBasicGridStack</string>
+	<key>eraseRequiredAmortizationHelper</key>
+	<string>getOldCardCollection</string>
+	<key>finishOpaqueBoxStack</key>
+	<string>insteadConcurrentGramReference</string>
+	<key>getSubtleModelInstance</key>
+	<string>finishDiscardedQueueDecorator</string>
+	<key>setDisparateParamArray</key>
+	<string>cancelDirectSymbolAdapter</string>
+	<key>setRetainedVariableFactory</key>
+	<string>executeGranularMechanismImplement</string>
+	<key>setSingleVideoGroup</key>
+	<string>quantizerMediocreRightHelper</string>
+	<key>trainArithmeticReplicaAdapter</key>
+	<string>getPrismaticBulletInstance</string>
+</dict>
+</plist>

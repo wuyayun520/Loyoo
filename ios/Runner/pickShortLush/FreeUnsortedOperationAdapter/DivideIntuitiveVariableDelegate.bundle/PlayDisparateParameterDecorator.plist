@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>createEphemeralParameterInstance</key>
+	<string>pauseCommonBottomBase</string>
+	<key>extendSharedBorderStack</key>
+	<string>setFusedValueHelper</string>
+	<key>getHyperbolicMeshPool</key>
+	<string>cancelPublicParamObserver</string>
+	<key>getMutableValueGroup</key>
+	<string>cancelUniqueAssetDelegate</string>
+	<key>initializeResilientResultCache</key>
+	<string>retrieveSemanticAllocatorGroup</string>
+	<key>pauseCommonParamManager</key>
+	<string>setDirectlyParamObserver</string>
+	<key>setProtectedBottomFilter</key>
+	<string>renameDiscardedFeatureAdapter</string>
+	<key>setUniqueGroupObserver</key>
+	<string>getSubtleBoundManager</string>
+</dict>
+</plist>

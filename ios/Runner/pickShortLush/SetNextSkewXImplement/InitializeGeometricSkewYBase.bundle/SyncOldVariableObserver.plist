@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>getReusableValueTarget</key>
+	<string>embraceSubsequentNodeList</string>
+	<key>locateStaticResolverExtension</key>
+	<string>findNormalOperationStack</string>
+	<key>resumeBackwardStampProtocol</key>
+	<string>showProtectedNumberGroup</string>
+	<key>resumeCustomMovementCreator</key>
+	<string>setStandaloneVariableAdapter</string>
+	<key>rotateSingleSceneGroup</key>
+	<string>initializeCurrentCoordOwner</string>
+	<key>skipLastMenuOwner</key>
+	<string>setRobustVarAdapter</string>
+	<key>stopIntuitiveVarDecorator</key>
+	<string>getGranularAscentDelegate</string>
+</dict>
+</plist>

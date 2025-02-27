@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animateCrudePlaybackDecorator</key>
+	<string>upgradeStandaloneLoopHelper</string>
+	<key>concatenateSortedZoneManager</key>
+	<string>restartCustomProjectionCollection</string>
+	<key>endRobustLoopList</key>
+	<string>aggregateAutoThroughputCache</string>
+	<key>getRetainedAnimationFilter</key>
+	<string>appendUnsortedParamType</string>
+</dict>
+</plist>

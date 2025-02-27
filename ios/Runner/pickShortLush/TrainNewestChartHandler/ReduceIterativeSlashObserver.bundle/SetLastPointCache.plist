@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>continueSharedScreenType</key>
+	<string>getOpaqueHeadDelegate</string>
+	<key>lockSemanticSizeBase</key>
+	<string>getBackwardOpacityExtension</string>
+	<key>pauseCartesianNavigationAdapter</key>
+	<string>cancelMissedGraphContainer</string>
+	<key>removePrismaticColorOwner</key>
+	<string>setSpecifyScaleList</string>
+	<key>setOriginalSpriteTarget</key>
+	<string>getSemanticInterpolationFactory</string>
+	<key>setUniformGrainReference</key>
+	<string>locateAutoClusterContainer</string>
+</dict>
+</plist>

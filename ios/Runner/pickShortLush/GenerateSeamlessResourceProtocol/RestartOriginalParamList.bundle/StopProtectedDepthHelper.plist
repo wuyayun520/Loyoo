@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cancelDenseCycleStack</key>
+	<string>initializePriorValueArray</string>
+	<key>getDedicatedInfoFactory</key>
+	<string>prepareNumericalVisibleStack</string>
+	<key>getNextRendererCreator</key>
+	<string>scheduleDisplayableSkewYImplement</string>
+	<key>getRequiredConstantAdapter</key>
+	<string>skipNextCoordCollection</string>
+	<key>optimizeAdvancedNavigationBase</key>
+	<string>continueConcurrentParameterTarget</string>
+	<key>rectifyIntermediateParameterTarget</key>
+	<string>setNewestBorderGroup</string>
+	<key>releasePermissiveChapterType</key>
+	<string>getAgileGroupObserver</string>
+	<key>setAutoMemberBase</key>
+	<string>trainNextThreadOwner</string>
+	<key>startPermissiveIntensityImplement</key>
+	<string>searchRespectiveMonsterImplement</string>
+</dict>
+</plist>

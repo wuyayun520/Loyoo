@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>getLiteArithmeticTarget</key>
+	<string>setLargeNumberArray</string>
+	<key>keepDirectCenterDelegate</key>
+	<string>getAutoVariableCollection</string>
+	<key>poolSmallKernelCache</key>
+	<string>setEasyBoundCreator</string>
+	<key>restartSemanticConstantFilter</key>
+	<string>getDelicateResultReference</string>
+	<key>shearProtectedGateFactory</key>
+	<string>showEnabledCenterDelegate</string>
+</dict>
+</plist>

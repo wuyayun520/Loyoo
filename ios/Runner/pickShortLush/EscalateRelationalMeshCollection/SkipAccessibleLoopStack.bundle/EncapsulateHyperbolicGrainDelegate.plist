@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>exitDelicateFrameReference</key>
+	<string>setEphemeralVarDecorator</string>
+	<key>fillEuclideanPreviewReference</key>
+	<string>prepareRelationalUnaryGroup</string>
+	<key>getCustomSizeExtension</key>
+	<string>getBasicVarCreator</string>
+	<key>provideBackwardSizePool</key>
+	<string>cancelIterativeParticleExtension</string>
+	<key>setRobustEfficiencyHelper</key>
+	<string>getGeometricLayerHelper</string>
+</dict>
+</plist>

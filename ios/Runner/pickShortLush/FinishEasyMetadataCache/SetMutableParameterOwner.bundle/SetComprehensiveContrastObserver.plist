@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>getAccordionCatalystHelper</key>
+	<string>discoverDeclarativeOriginHandler</string>
+	<key>getOriginalParticleHandler</key>
+	<string>stopSharedBoundInstance</string>
+	<key>getSeamlessParamOwner</key>
+	<string>revisitSmartUtilAdapter</string>
+	<key>pauseLostBorderOwner</key>
+	<string>setKeyFeatureOwner</string>
+	<key>setCustomizedParamImplement</key>
+	<string>getBeginnerClusterCache</string>
+	<key>trainIntuitiveProjectionCollection</key>
+	<string>setArithmeticBufferFactory</string>
+	<key>updateIterativeValueContainer</key>
+	<string>allocateRobustLeftBase</string>
+</dict>
+</plist>

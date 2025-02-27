@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>getDisplayableAspectInstance</key>
+	<string>setDenseAnchorHelper</string>
+	<key>getGeometricValueDecorator</key>
+	<string>setOriginalTitleObserver</string>
+	<key>limitTypicalTextureList</key>
+	<string>getEnabledVariableCollection</string>
+	<key>lockEuclideanHashImplement</key>
+	<string>getOriginalPreviewExtension</string>
+	<key>regulateDenseViewType</key>
+	<string>skipAutoLayoutPool</string>
+	<key>resetAccordionTextureDecorator</key>
+	<string>getExplicitGraphHelper</string>
+	<key>respondPivotalSizeFactory</key>
+	<string>setAutoReplicaHandler</string>
+	<key>setGranularPlaybackImplement</key>
+	<string>mitigateEnabledChannelsAdapter</string>
+	<key>startSecondMendExtension</key>
+	<string>touchSmartEqualizationCache</string>
+</dict>
+</plist>

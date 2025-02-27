@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>destroyBasicWorkflowExtension</key>
+	<string>skipArithmeticCaptionHandler</string>
+	<key>getCommonTextureCollection</key>
+	<string>pauseConcurrentParameterAdapter</string>
+	<key>getKeyModulusArray</key>
+	<string>createMultiCoordFilter</string>
+	<key>keepCurrentStepType</key>
+	<string>setCrucialChartDecorator</string>
+	<key>makeAutoInterpolationArray</key>
+	<string>releaseDisparateRotationFilter</string>
+	<key>parseRetainedOriginGroup</key>
+	<string>insteadSustainableTentativeList</string>
+	<key>quantizationSubtleTweakBase</key>
+	<string>setLargeRightTarget</string>
+	<key>setActivatedEffectStack</key>
+	<string>keepAgileCardDecorator</string>
+	<key>transposePermissiveEquipmentPool</key>
+	<string>getBackwardEffectTarget</string>
+</dict>
+</plist>

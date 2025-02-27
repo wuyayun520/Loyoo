@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>combineCrudeTailTarget</key>
+	<string>pushExplicitCoordinatorInstance</string>
+	<key>quantizerPrevIndexHandler</key>
+	<string>getMissedNavigationList</string>
+	<key>releaseDeclarativeAnchorReference</key>
+	<string>finishDenseNumberHelper</string>
+	<key>renameExplicitRightInstance</key>
+	<string>setSustainableParamExtension</string>
+	<key>searchDiscardedViewCreator</key>
+	<string>addLostInitiatorsArray</string>
+	<key>setLastVariableType</key>
+	<string>embraceReusableResolverDelegate</string>
+	<key>showSmallConfigurationTarget</key>
+	<string>trainDisplayableEdgeManager</string>
+	<key>stopDisplayableEqualizationAdapter</key>
+	<string>regulatePrevProgressBarInstance</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>eraseResilientArchitectureFilter</key>
+	<string>stopDeclarativeEdgeAdapter</string>
+	<key>finishUnactivatedPriorityPool</key>
+	<string>getProtectedScenarioContainer</string>
+	<key>setArithmeticEfficiencyArray</key>
+	<string>setSingleVarReference</string>
+	<key>startRespectiveThroughputFilter</key>
+	<string>aggregatePrevNumberExtension</string>
+	<key>trainEuclideanSchedulerFactory</key>
+	<string>setDeclarativeHeapFactory</string>
+</dict>
+</plist>

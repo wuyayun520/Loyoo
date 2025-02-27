@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>extendBasicPetDecorator</key>
+	<string>setArithmeticVarObserver</string>
+	<key>revisitPivotalSkewYDecorator</key>
+	<string>setSymmetricValueHelper</string>
+	<key>rotateProtectedViewHandler</key>
+	<string>setUniqueObserverArray</string>
+	<key>setCustomPolyfillCollection</key>
+	<string>keepGranularMatrixTarget</string>
+	<key>setElasticSliderHandler</key>
+	<string>getDifficultControllerHandler</string>
+	<key>setRobustSizeBase</key>
+	<string>renameNumericalValueInstance</string>
+	<key>setSimilarVariableArray</key>
+	<string>dissociateTypicalStyleType</string>
+</dict>
+</plist>

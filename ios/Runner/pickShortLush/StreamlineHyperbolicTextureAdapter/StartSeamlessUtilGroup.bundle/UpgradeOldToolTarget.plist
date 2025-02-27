@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accelerateLargeVariableFactory</key>
+	<string>setDirectlyActivityCreator</string>
+	<key>continueUnsortedBufferManager</key>
+	<string>setEnabledInterpolationReference</string>
+	<key>keepRobustTailCache</key>
+	<string>getSmartHeadBase</string>
+	<key>prepareAutoScaleHelper</key>
+	<string>detachSecondParameterGroup</string>
+	<key>setDiscardedBottomHelper</key>
+	<string>getGranularBufferContainer</string>
+	<key>setSemanticSceneDelegate</key>
+	<string>holdPivotalPopupCache</string>
+	<key>skipDenseParameterCreator</key>
+	<string>getAccessibleRestrictionFilter</string>
+	<key>stopFusedCurveReference</key>
+	<string>resumePrimaryEventOwner</string>
+	<key>wrapRequiredApertureStack</key>
+	<string>trainHardResourceFilter</string>
+</dict>
+</plist>

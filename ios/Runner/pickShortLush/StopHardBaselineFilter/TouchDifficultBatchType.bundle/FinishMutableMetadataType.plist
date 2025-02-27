@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>generateIgnoredTraversalStack</key>
+	<string>cancelImmutableAspectManager</string>
+	<key>rotateFirstOpacityList</key>
+	<string>pauseDeclarativeFrameFilter</string>
+</dict>
+</plist>

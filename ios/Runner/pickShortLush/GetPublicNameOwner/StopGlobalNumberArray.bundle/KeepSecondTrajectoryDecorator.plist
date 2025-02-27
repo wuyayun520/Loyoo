@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>calculateDiscardedBatchExtension</key>
+	<string>setResilientScopeCreator</string>
+	<key>combineStaticBufferInstance</key>
+	<string>endGranularParamBase</string>
+	<key>endTensorSlashCollection</key>
+	<string>setSharedThroughputImplement</string>
+	<key>equalOpaqueSkinDecorator</key>
+	<string>requestSignificantEvaluationCache</string>
+	<key>finishPrevPrecisionBase</key>
+	<string>getRequiredRangeManager</string>
+	<key>prepareSharedTagList</key>
+	<string>stopOriginalParamImplement</string>
+	<key>trainFirstIntensityBase</key>
+	<string>setCustomAudioOwner</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>combineElasticCaptionInstance</key>
+	<string>getCartesianNumberFilter</string>
+	<key>pauseFirstMovementInstance</key>
+	<string>continueFirstRowManager</string>
+	<key>setPublicEquipmentBase</key>
+	<string>reduceOpaqueDetailPool</string>
+	<key>setUniformParameterProtocol</key>
+	<string>getUnsortedBufferReference</string>
+	<key>skipDisparateSkewXDelegate</key>
+	<string>getStaticFlagsExtension</string>
+</dict>
+</plist>

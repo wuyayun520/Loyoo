@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>embedImmutableBufferFilter</key>
+	<string>keepKeyParameterDecorator</string>
+	<key>getPrimaryNameList</key>
+	<string>pauseRetainedNumberReference</string>
+	<key>mitigateTypicalHashManager</key>
+	<string>searchDiscardedOptimizerExtension</string>
+	<key>restartSubsequentBufferDecorator</key>
+	<string>setSustainableParticleTarget</string>
+	<key>setGranularChallengeInstance</key>
+	<string>getOtherMediaList</string>
+	<key>stopCustomBufferExtension</key>
+	<string>endRobustNumberOwner</string>
+</dict>
+</plist>

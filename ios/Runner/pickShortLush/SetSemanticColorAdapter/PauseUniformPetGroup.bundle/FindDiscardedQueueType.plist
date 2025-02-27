@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cleanCustomizedDescentFactory</key>
+	<string>clipCrudeParamObserver</string>
+	<key>getArithmeticEquivalentStack</key>
+	<string>decoupleSemanticNumberBase</string>
+	<key>getDelicateBufferCreator</key>
+	<string>writeRetainedHeadProtocol</string>
+	<key>initializeGranularScaleOwner</key>
+	<string>moveTensorRightDelegate</string>
+	<key>restartAccessibleParamType</key>
+	<string>showIntermediateSizeList</string>
+	<key>setAccordionModulusCache</key>
+	<string>differentiateMultiSceneObserver</string>
+	<key>setEuclideanParamDelegate</key>
+	<string>getHierarchicalToolExtension</string>
+	<key>trainOldResolverExtension</key>
+	<string>createTensorSpecifierDelegate</string>
+</dict>
+</plist>

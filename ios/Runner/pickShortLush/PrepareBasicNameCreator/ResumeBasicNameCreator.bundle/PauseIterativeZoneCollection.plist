@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>augmentOldTopStack</key>
+	<string>cancelGreatProjectionImplement</string>
+	<key>finishLargeBufferStack</key>
+	<string>finishSimilarDepthHelper</string>
+	<key>getSortedValueContainer</key>
+	<string>setSynchronousCenterType</string>
+	<key>getSpecifyChecklistCache</key>
+	<string>resumeSemanticTailPool</string>
+	<key>initializeStaticDepthBase</key>
+	<string>setIndependentTrajectoryManager</string>
+	<key>resumeGeometricParameterObserver</key>
+	<string>generateHierarchicalFeatureHandler</string>
+	<key>retainConcreteVarCache</key>
+	<string>cancelGeometricItemCollection</string>
+	<key>setRespectiveBufferProtocol</key>
+	<string>getIgnoredResolverTarget</string>
+	<key>stopTypicalCharacterHandler</key>
+	<string>detachSynchronousParamReference</string>
+</dict>
+</plist>

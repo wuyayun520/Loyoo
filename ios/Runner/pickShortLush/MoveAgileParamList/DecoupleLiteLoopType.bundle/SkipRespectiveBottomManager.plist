@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>initializeMissedVariableOwner</key>
+	<string>setFirstParameterPool</string>
+	<key>prepareAutoRotationCache</key>
+	<string>getDisplayableTagDelegate</string>
+	<key>prepareNormalAllocatorHandler</key>
+	<string>setOriginalScalabilityReference</string>
+	<key>setDirectLeftFilter</key>
+	<string>skipPivotalScenarioReference</string>
+</dict>
+</plist>

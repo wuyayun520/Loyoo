@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capturePermissiveLogHandler</key>
+	<string>prepareSortedTemplePool</string>
+	<key>cloneSmallVarOwner</key>
+	<string>getMultiGraphOwner</string>
+	<key>compareLiteNumberPool</key>
+	<string>refreshAssociatedValueFilter</string>
+	<key>limitSeamlessActionCollection</key>
+	<string>prepareMultiLeftDelegate</string>
+	<key>resumeSecondHistogramAdapter</key>
+	<string>skipPrevBufferHandler</string>
+</dict>
+</plist>

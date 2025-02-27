@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatePublicBufferExtension</key>
+	<string>shearLargeTopCache</string>
+	<key>continueDirectlyResultFactory</key>
+	<string>getGlobalTopOwner</string>
+	<key>getReusableMechanismCache</key>
+	<string>keepExplicitParameterObserver</string>
+	<key>restartStaticBufferCollection</key>
+	<string>setDirectImpressionInstance</string>
+	<key>revisitPivotalMaterialDelegate</key>
+	<string>discoverAdvancedMediaCache</string>
+	<key>setDisparateBufferArray</key>
+	<string>continueSmallParameterStack</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>endRelationalAllocatorOwner</key>
+	<string>resizeAgileLoopOwner</string>
+	<key>getDisplayableGraphFilter</key>
+	<string>createPermanentBorderCreator</string>
+	<key>setDirectlyMonsterFilter</key>
+	<string>getCustomizedValueCreator</string>
+	<key>setKeySpecifierCache</key>
+	<string>pausePrimaryMovementArray</string>
+</dict>
+</plist>

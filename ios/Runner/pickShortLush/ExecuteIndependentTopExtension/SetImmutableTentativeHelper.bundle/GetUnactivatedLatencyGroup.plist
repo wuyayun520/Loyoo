@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appendCartesianLayerCache</key>
+	<string>getHyperbolicInterpolationCache</string>
+	<key>getKeyMechanismBase</key>
+	<string>getMainGrainTarget</string>
+	<key>getOpaqueOriginCache</key>
+	<string>requestStandaloneColorCache</string>
+	<key>keepSpecifyNumberGroup</key>
+	<string>setNewestCoordCache</string>
+	<key>stopSubstantialTextImplement</key>
+	<string>getLiteVariableCache</string>
+</dict>
+</plist>

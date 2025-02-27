@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>continuePermanentChannelsCollection</key>
+	<string>initializeSharedTimelineGroup</string>
+	<key>finishDenseThroughputList</key>
+	<string>analyzeBasicVarPool</string>
+	<key>getBeginnerVarContainer</key>
+	<string>getDirectlyTailCache</string>
+	<key>resumeRapidFormatFactory</key>
+	<string>findSecondCharacterList</string>
+	<key>setEnabledStepProtocol</key>
+	<string>moveSortedStrokeDecorator</string>
+	<key>trainPermissiveColorDelegate</key>
+	<string>initializeFusedVarPool</string>
+</dict>
+</plist>

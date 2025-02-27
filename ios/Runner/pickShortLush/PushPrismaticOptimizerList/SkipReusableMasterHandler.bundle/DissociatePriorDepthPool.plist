@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>clearLostTextCache</key>
+	<string>updateGranularSchemaCreator</string>
+	<key>parsePublicNumberHelper</key>
+	<string>startNextDepthContainer</string>
+	<key>setLiteLoaderHandler</key>
+	<string>setBasicGridInstance</string>
+	<key>setPivotalZoneStack</key>
+	<string>initializeOpaqueLoopGroup</string>
+</dict>
+</plist>

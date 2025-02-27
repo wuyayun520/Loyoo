@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>differentiateCustomBaselineDelegate</key>
+	<string>continueStaticZoneArray</string>
+	<key>drawIntuitiveAllocatorCollection</key>
+	<string>reflectOriginalVariableType</string>
+	<key>getCommonFormatCache</key>
+	<string>prepareMutableChannelsHelper</string>
+	<key>multiplyDeclarativeGraphBase</key>
+	<string>resumeRequiredConfidentialityOwner</string>
+	<key>restartKeyParameterList</key>
+	<string>prepareSignificantPaddingType</string>
+	<key>setBeginnerNumberBase</key>
+	<string>pauseDenseVarProtocol</string>
+	<key>trainEphemeralVarObserver</key>
+	<string>rotateSortedSubpixelObserver</string>
+</dict>
+</plist>

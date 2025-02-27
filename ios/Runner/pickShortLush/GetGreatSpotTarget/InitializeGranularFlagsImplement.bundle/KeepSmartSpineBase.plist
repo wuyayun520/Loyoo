@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cancelMainSymbolFactory</key>
+	<string>getBasicAllocatorType</string>
+	<key>getOriginalFormatInstance</key>
+	<string>finishTensorOperationExtension</string>
+	<key>keepOtherCycleList</key>
+	<string>restartSignificantQueueInstance</string>
+	<key>parseSignificantPolygonOwner</key>
+	<string>setActivatedKernelPool</string>
+	<key>quantizationAutoDescriptionBase</key>
+	<string>getCurrentExponentExtension</string>
+	<key>regulateOldTrajectoryBase</key>
+	<string>resumeSecondNameArray</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>captureAutoParameterStack</key>
+	<string>exitMutableParamInstance</string>
+	<key>enhanceRapidLoopDelegate</key>
+	<string>retrieveImmutableVarContainer</string>
+	<key>getMutableParamObserver</key>
+	<string>finishElasticVarBase</string>
+	<key>setOldDepthGroup</key>
+	<string>setAdvancedCharacteristicFilter</string>
+	<key>unscheduleLargeVisibleFilter</key>
+	<string>poolMultiSineBase</string>
+</dict>
+</plist>

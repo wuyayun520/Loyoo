@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>getBackwardVariableExtension</key>
+	<string>keepUniqueVarContainer</string>
+	<key>quantizationSmallGrainCollection</key>
+	<string>startDifficultParamDelegate</string>
+	<key>startLocalCurveType</key>
+	<string>prepareIntuitiveMatrixObserver</string>
+	<key>trainNewestAmortizationProtocol</key>
+	<string>getLargeBufferManager</string>
+</dict>
+</plist>

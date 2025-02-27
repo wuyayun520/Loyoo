@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>endPrimaryConfigurationType</key>
+	<string>setHierarchicalEffectDecorator</string>
+	<key>endSemanticEventDelegate</key>
+	<string>setProtectedStyleFactory</string>
+	<key>initializeConsultativePlaybackType</key>
+	<string>continueHardBaseAdapter</string>
+	<key>pauseOldMetadataManager</key>
+	<string>animateEnabledImpressionCreator</string>
+	<key>rectifyCustomizedFlagsFilter</key>
+	<string>getRapidLayoutProtocol</string>
+	<key>reduceDedicatedParticleTarget</key>
+	<string>pauseCrudeStyleList</string>
+	<key>setPrevTagStack</key>
+	<string>syncGeometricObjectBase</string>
+	<key>setSortedFrameFilter</key>
+	<string>regulateGlobalResultBase</string>
+	<key>skipOpaqueButtonFilter</key>
+	<string>reconcileNormalBorderFilter</string>
+</dict>
+</plist>

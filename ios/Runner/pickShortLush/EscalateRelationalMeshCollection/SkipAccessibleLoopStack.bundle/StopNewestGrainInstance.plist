@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>encapsulateOldStateProtocol</key>
+	<string>getSemanticCycleContainer</string>
+	<key>finishDirectVarPool</key>
+	<string>cancelTensorTagDelegate</string>
+	<key>getDiscardedEdgeDelegate</key>
+	<string>unlockLargeProvisionPool</string>
+	<key>getOldNameCreator</key>
+	<string>resumeCartesianIndicatorInstance</string>
+	<key>seekAgileViewCache</key>
+	<string>getOldTempleCollection</string>
+	<key>setFusedEfficiencyDelegate</key>
+	<string>initializeGeometricTopicFilter</string>
+</dict>
+</plist>

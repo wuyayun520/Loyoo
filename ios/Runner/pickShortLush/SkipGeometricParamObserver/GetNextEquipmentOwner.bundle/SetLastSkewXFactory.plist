@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>reconcileUniqueValueExtension</key>
+	<string>getReusableVarArray</string>
+	<key>resumeUnsortedVarContainer</key>
+	<string>requestAssociatedViewDelegate</string>
+	<key>setDirectLoaderDecorator</key>
+	<string>enumerateOtherGraphicDelegate</string>
+	<key>setExplicitRemainderReference</key>
+	<string>setDirectMaterialType</string>
+	<key>shearUniformColorAdapter</key>
+	<string>setStaticRectList</string>
+	<key>skipCrudeTagReference</key>
+	<string>continueIndependentTopArray</string>
+	<key>trainLargeBorderDecorator</key>
+	<string>checkArithmeticBoundOwner</string>
+</dict>
+</plist>

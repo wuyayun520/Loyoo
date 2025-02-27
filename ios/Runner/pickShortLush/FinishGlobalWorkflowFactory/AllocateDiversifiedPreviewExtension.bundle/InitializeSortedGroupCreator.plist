@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>escalateCustomizedBorderTarget</key>
+	<string>storeLiteBulletFactory</string>
+	<key>prepareGranularLayerFactory</key>
+	<string>getRetainedMobileFactory</string>
+	<key>setPivotalIndexFactory</key>
+	<string>setConcurrentPositionManager</string>
+	<key>startBeginnerFlagsTarget</key>
+	<string>getCrucialCoordPool</string>
+	<key>startIntermediateInstructionType</key>
+	<string>setOtherCursorObserver</string>
+	<key>transposeTypicalGraphImplement</key>
+	<string>startOtherOpacityPool</string>
+	<key>visitRespectiveVarInstance</key>
+	<string>setHardVariableCollection</string>
+</dict>
+</plist>

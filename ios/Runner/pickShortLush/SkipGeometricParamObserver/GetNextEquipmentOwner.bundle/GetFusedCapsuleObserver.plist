@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>createSecondParameterType</key>
+	<string>setCrudeTailStack</string>
+	<key>endMultiStatusCreator</key>
+	<string>generateArithmeticIndexCreator</string>
+	<key>endSubtlePlateFilter</key>
+	<string>getUniformConstantStack</string>
+	<key>getEphemeralVariableBase</key>
+	<string>getNewestVarStack</string>
+	<key>getIgnoredViewFactory</key>
+	<string>reconcileOriginalLossTarget</string>
+	<key>getPrismaticParticleTarget</key>
+	<string>searchBeginnerPreviewBase</string>
+	<key>getUsedValueCollection</key>
+	<string>setPrimaryModelDelegate</string>
+	<key>releaseSubtleTextureStack</key>
+	<string>generateSingleMetadataOwner</string>
+</dict>
+</plist>

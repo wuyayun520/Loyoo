@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cancelImmutableBufferImplement</key>
+	<string>fillFirstSubpixelHelper</string>
+	<key>cleanRequiredParamDelegate</key>
+	<string>allocateUnsortedVisibleInstance</string>
+	<key>getDedicatedLeftPool</key>
+	<string>setPrevEntropyManager</string>
+	<key>releaseImmutableMechanismHandler</key>
+	<string>getIterativeDescentContainer</string>
+	<key>rotateAgileRangeAdapter</key>
+	<string>getSingleStepType</string>
+	<key>setSignificantBufferInstance</key>
+	<string>endDeclarativeBufferType</string>
+	<key>setUnactivatedIntensityBase</key>
+	<string>dropoutSynchronousSkewYObserver</string>
+	<key>skipCustomConvolutionGroup</key>
+	<string>regulateMediocreGroupAdapter</string>
+	<key>skipUnactivatedTemplePool</key>
+	<string>endConcretePolyfillImplement</string>
+	<key>touchPermanentOperationContainer</key>
+	<string>endResilientGemCache</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>analyzeSignificantVectorFilter</key>
+	<string>locateOpaqueVarHelper</string>
+	<key>getCartesianMissionDecorator</key>
+	<string>setStandaloneInformationList</string>
+	<key>getHardBaselineProtocol</key>
+	<string>getSemanticMediaExtension</string>
+	<key>pauseFirstResultCreator</key>
+	<string>touchRetainedBoundHandler</string>
+	<key>prepareSophisticatedContractionPool</key>
+	<string>endResilientFlagsGroup</string>
+	<key>resumeIgnoredLatencyCreator</key>
+	<string>scheduleOldPositionFilter</string>
+	<key>skipSpecifyOriginReference</key>
+	<string>setOtherResultList</string>
+	<key>startDiversifiedMeshGroup</key>
+	<string>setSingleMemberOwner</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocateImmutableRemediationType</key>
+	<string>stopRelationalOriginArray</string>
+	<key>enumerateSubsequentEquivalentStack</key>
+	<string>searchNumericalPlaybackCache</string>
+	<key>getConcurrentGrainBase</key>
+	<string>quitEnabledValueCache</string>
+	<key>getDiscardedFeatureCreator</key>
+	<string>startHierarchicalInterfaceExtension</string>
+	<key>getFusedOperationCreator</key>
+	<string>pauseKeyMediaGroup</string>
+	<key>retainNewestMatrixArray</key>
+	<string>getNewestPointManager</string>
+	<key>setTypicalRectCollection</key>
+	<string>setPrevParameterDecorator</string>
+	<key>transposeLiteContractionContainer</key>
+	<string>finishSmartCurveOwner</string>
+</dict>
+</plist>

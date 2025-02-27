@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>convertMultiScalabilityDelegate</key>
+	<string>getSortedTagCreator</string>
+	<key>getAssociatedVariableReference</key>
+	<string>pausePrevElasticityStack</string>
+	<key>getDirectlyDescriptionCreator</key>
+	<string>setGlobalStepReference</string>
+	<key>getMultiNumberType</key>
+	<string>cancelOtherRowPool</string>
+	<key>getUsedNodeDecorator</key>
+	<string>convertRelationalEffectBase</string>
+	<key>prepareAccordionParamList</key>
+	<string>endUsedSizeObserver</string>
+	<key>skipDiscardedCapacitiesList</key>
+	<string>resumeUsedParameterHelper</string>
+</dict>
+</plist>

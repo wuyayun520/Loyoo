@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>analyzeRequiredNameList</key>
+	<string>stopOpaqueSpriteDelegate</string>
+	<key>cancelUniqueVectorInstance</key>
+	<string>combineDenseNumberArray</string>
+	<key>continueAccessiblePopupAdapter</key>
+	<string>visitHardColorOwner</string>
+	<key>getLostHashDelegate</key>
+	<string>offsetPriorBaseCreator</string>
+	<key>mitigateConcurrentParameterObserver</key>
+	<string>searchIndependentCompositionManager</string>
+	<key>setSharedViewTarget</key>
+	<string>startUnsortedSizeAdapter</string>
+	<key>setSmartEvolutionCache</key>
+	<string>scheduleNewestDepthObserver</string>
+</dict>
+</plist>

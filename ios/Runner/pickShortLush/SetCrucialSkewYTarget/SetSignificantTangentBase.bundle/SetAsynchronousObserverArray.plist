@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>addCustomBoundCreator</key>
+	<string>setPriorDepthReference</string>
+	<key>computeDisplayableMusicTarget</key>
+	<string>syncOldInstructionCollection</string>
+	<key>getStaticSkewXCreator</key>
+	<string>getPermissiveScaleImplement</string>
+	<key>keepCustomCenterProtocol</key>
+	<string>setTensorInstructionReference</string>
+	<key>setNextAspectDelegate</key>
+	<string>setPriorProjectDecorator</string>
+</dict>
+</plist>

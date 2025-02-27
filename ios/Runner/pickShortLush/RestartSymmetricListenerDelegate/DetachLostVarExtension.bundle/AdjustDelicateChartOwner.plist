@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>getConsultativeLossExtension</key>
+	<string>initializeBeginnerOriginFilter</string>
+	<key>navigateMediumTrajectoryReference</key>
+	<string>pauseRapidHeadList</string>
+	<key>offsetSingleVariableOwner</key>
+	<string>trainNumericalVarPool</string>
+	<key>resetAsynchronousStateInstance</key>
+	<string>unscheduleIterativeBufferCache</string>
+	<key>setCustomizedStyleDelegate</key>
+	<string>prepareAssociatedSignContainer</string>
+	<key>trainOtherVariableImplement</key>
+	<string>computeOtherAmortizationInstance</string>
+	<key>undertakeBeginnerBufferDelegate</key>
+	<string>getMediumEventStack</string>
+</dict>
+</plist>

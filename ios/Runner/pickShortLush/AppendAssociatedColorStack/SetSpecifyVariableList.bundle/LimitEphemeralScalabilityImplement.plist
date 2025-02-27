@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>getNumericalMechanismHelper</key>
+	<string>keepOtherBufferFactory</string>
+	<key>getSecondHashDelegate</key>
+	<string>dissociateProtectedParamOwner</string>
+	<key>getSmallBoundBase</key>
+	<string>setCustomizedPopupDecorator</string>
+	<key>limitSynchronousLayoutExtension</key>
+	<string>restartMediocreVolumeProtocol</string>
+	<key>setHierarchicalEventTarget</key>
+	<string>cancelCartesianParameterContainer</string>
+	<key>setImmutableDescriptionList</key>
+	<string>setNextFrameHandler</string>
+	<key>setPriorMonsterOwner</key>
+	<string>getStandaloneVolumeArray</string>
+</dict>
+</plist>

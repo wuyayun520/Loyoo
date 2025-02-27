@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animateCriticalRecursionContainer</key>
+	<string>displayFirstTempleHelper</string>
+	<key>getOpaqueSkirtManager</key>
+	<string>endOtherPetExtension</string>
+	<key>setRequiredGiftGroup</key>
+	<string>findFirstTechniqueList</string>
+</dict>
+</plist>

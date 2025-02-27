@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>captureEuclideanSceneCache</key>
+	<string>startPriorLoopExtension</string>
+	<key>equalRetainedUtilManager</key>
+	<string>setGlobalMechanismInstance</string>
+	<key>getBeginnerQueueOwner</key>
+	<string>reduceSustainableLayerDelegate</string>
+	<key>getCurrentScreenExtension</key>
+	<string>visitAccessibleResultList</string>
+	<key>getSecondSchemaStack</key>
+	<string>getDedicatedVectorManager</string>
+	<key>initializeTypicalSkewYCollection</key>
+	<string>stopSmartTempleTarget</string>
+	<key>setMultiVarDecorator</key>
+	<string>restartCommonVarFilter</string>
+</dict>
+</plist>

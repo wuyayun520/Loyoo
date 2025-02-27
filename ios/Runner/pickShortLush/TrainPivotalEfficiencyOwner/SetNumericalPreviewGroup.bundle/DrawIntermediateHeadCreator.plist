@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>calculateDisparateSpriteAdapter</key>
+	<string>setNormalHeadCache</string>
+	<key>getSecondActionGroup</key>
+	<string>getEnabledParamTarget</string>
+	<key>stopEphemeralFeatureProtocol</key>
+	<string>readOtherParamObserver</string>
+</dict>
+</plist>

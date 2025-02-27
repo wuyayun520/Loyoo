@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>drawHyperbolicSizeHandler</key>
+	<string>getPermanentProvisionFactory</string>
+	<key>freeUniqueBufferManager</key>
+	<string>combineAccessibleOccasionFilter</string>
+	<key>getSignificantEquipmentArray</key>
+	<string>setAccessiblePaddingDelegate</string>
+	<key>pauseDisparateBufferGroup</key>
+	<string>replaceSmallRendererArray</string>
+	<key>restartAutoAmortizationProtocol</key>
+	<string>resumeNumericalComponentCreator</string>
+	<key>scheduleRobustVarType</key>
+	<string>setPrevSpriteCreator</string>
+	<key>setConcurrentSignHandler</key>
+	<string>calculateMultiLossCache</string>
+	<key>skipCrucialCoordCollection</key>
+	<string>setAdvancedBorderAdapter</string>
+</dict>
+</plist>

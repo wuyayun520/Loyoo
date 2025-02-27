@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>acceleratePermissiveTempleCache</key>
+	<string>setUnactivatedBottomDelegate</string>
+	<key>getDenseMetricsInstance</key>
+	<string>poolMutableLoopBase</string>
+	<key>getMediocreCatalystTarget</key>
+	<string>cancelRetainedRightList</string>
+	<key>playEphemeralNameHandler</key>
+	<string>setIterativeFeatureObserver</string>
+	<key>setSignificantNodeProtocol</key>
+	<string>computeKeyResultTarget</string>
+</dict>
+</plist>

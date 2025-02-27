@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>continueReusableOperationFactory</key>
+	<string>getSortedStyleCache</string>
+	<key>discoverSortedCoordArray</key>
+	<string>getSubtleLeftFactory</string>
+	<key>extendPermanentRightGroup</key>
+	<string>playDirectlyRouteGroup</string>
+	<key>finishSingleShaderReference</key>
+	<string>setRetainedResilienceCache</string>
+	<key>getIndependentPositionManager</key>
+	<string>getBeginnerMenuCreator</string>
+	<key>introspectDisparateElementPool</key>
+	<string>getDelicateMemberInstance</string>
+	<key>limitAgileMenuDelegate</key>
+	<string>setExplicitPositionHandler</string>
+	<key>prepareSingleInteractionOwner</key>
+	<string>animateSortedColorPool</string>
+	<key>setGeometricTextureGroup</key>
+	<string>searchBeginnerSpriteHandler</string>
+</dict>
+</plist>

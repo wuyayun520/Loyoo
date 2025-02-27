@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animateDiversifiedInitiatorsPool</key>
+	<string>wrapGranularCoordAdapter</string>
+	<key>resumeDedicatedSpriteManager</key>
+	<string>reconcilePivotalParamPool</string>
+</dict>
+</plist>

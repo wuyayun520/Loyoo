@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compareAdvancedSchedulerManager</key>
+	<string>getPrimaryCapacitiesPool</string>
+	<key>createDelicateIndexFactory</key>
+	<string>resumeDenseWorkflowCreator</string>
+	<key>destroyElasticTopicTarget</key>
+	<string>restartPublicUsageCollection</string>
+	<key>getCartesianParticleFactory</key>
+	<string>markImmutableTempleFilter</string>
+	<key>initializeEuclideanBufferCollection</key>
+	<string>calculateLostParameterStack</string>
+	<key>keepProtectedSceneCollection</key>
+	<string>stopAgileMetricsStack</string>
+	<key>makeAgileGridContainer</key>
+	<string>syncLastVideoContainer</string>
+</dict>
+</plist>

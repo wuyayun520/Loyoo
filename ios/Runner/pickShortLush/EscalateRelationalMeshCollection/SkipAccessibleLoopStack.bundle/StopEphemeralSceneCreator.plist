@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concatenateBackwardSlashFactory</key>
+	<string>setBasicOriginCollection</string>
+	<key>enumerateStaticRoleManager</key>
+	<string>replacePivotalModelManager</string>
+	<key>parsePriorRightHandler</key>
+	<string>analyzeLostLayerGroup</string>
+	<key>readRequiredMultiplicationOwner</key>
+	<string>getPublicToolPool</string>
+	<key>setBackwardCoordDelegate</key>
+	<string>displaySecondToolExtension</string>
+	<key>setStandaloneParameterContainer</key>
+	<string>associateUniqueMediaGroup</string>
+</dict>
+</plist>

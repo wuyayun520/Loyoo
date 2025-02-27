@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>endRetainedNameFactory</key>
+	<string>showHyperbolicAudioDelegate</string>
+	<key>getCommonControllerCreator</key>
+	<string>prepareRespectiveSpriteCollection</string>
+	<key>initializeGreatValueTarget</key>
+	<string>resumeUsedTopImplement</string>
+	<key>pauseExplicitVisibleDecorator</key>
+	<string>getUniqueDurationFactory</string>
+	<key>prepareActivatedVarAdapter</key>
+	<string>getOldImpressionList</string>
+	<key>setRelationalAspectCollection</key>
+	<string>stopDirectMaterialCreator</string>
+	<key>startUnsortedNavigationProtocol</key>
+	<string>getRapidMaterialExtension</string>
+</dict>
+</plist>

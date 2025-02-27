@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cancelCommonBufferManager</key>
+	<string>clearMutableVisibleManager</string>
+	<key>cloneLostFormatArray</key>
+	<string>getReusableSessionCollection</string>
+	<key>endExplicitTempleHelper</key>
+	<string>setRespectiveCharacteristicHandler</string>
+	<key>getAssociatedArchitectureDelegate</key>
+	<string>resumeCommonNodeObserver</string>
+	<key>getDisplayableRotationType</key>
+	<string>skipMediocreSineInstance</string>
+	<key>getGreatSymbolInstance</key>
+	<string>getSignificantTechniqueReference</string>
+	<key>prepareBasicNumberList</key>
+	<string>finishTypicalTagTarget</string>
+	<key>setSortedParamBase</key>
+	<string>wrapElasticParamStack</string>
+	<key>skipProtectedTempleHandler</key>
+	<string>replaceSemanticDispatcherBase</string>
+</dict>
+</plist>

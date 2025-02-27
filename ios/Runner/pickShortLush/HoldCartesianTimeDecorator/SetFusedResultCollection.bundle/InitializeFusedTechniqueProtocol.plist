@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>analyzeFusedCenterCreator</key>
+	<string>retrieveCriticalLossInstance</string>
+	<key>createMissedStrokeDecorator</key>
+	<string>setRequiredLeftCollection</string>
+	<key>endIgnoredSubpixelStack</key>
+	<string>moveIntuitiveHeapArray</string>
+	<key>getRapidValueCollection</key>
+	<string>appendConcreteMenuAdapter</string>
+	<key>initializeIgnoredNormTarget</key>
+	<string>setCurrentScaleType</string>
+	<key>provideSynchronousValueCreator</key>
+	<string>setHardBoundOwner</string>
+	<key>trainBeginnerDescentProtocol</key>
+	<string>getMediocreSymbolCreator</string>
+</dict>
+</plist>

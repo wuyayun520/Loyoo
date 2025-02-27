@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>embedAccessibleNodeCreator</key>
+	<string>getSeamlessSampleObserver</string>
+	<key>endActivatedFeatureDelegate</key>
+	<string>trainResilientInterfaceCache</string>
+	<key>getDifficultDescriptorType</key>
+	<string>getSortedMenuFactory</string>
+	<key>restartAdvancedNumberExtension</key>
+	<string>transposeDenseMatrixImplement</string>
+	<key>setImmutableNameArray</key>
+	<string>renameSubstantialSegmentFactory</string>
+	<key>setSeamlessPopupInstance</key>
+	<string>parseSeamlessFormatFilter</string>
+	<key>stopSpecifyUsageProtocol</key>
+	<string>pauseOldOccasionStack</string>
+	<key>updateTensorSceneObserver</key>
+	<string>destroyPivotalFragmentInstance</string>
+</dict>
+</plist>

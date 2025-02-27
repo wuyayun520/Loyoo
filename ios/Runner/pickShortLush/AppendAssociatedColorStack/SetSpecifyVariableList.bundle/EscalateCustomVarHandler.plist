@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>calculateCartesianFrameHelper</key>
+	<string>drawRapidVarBase</string>
+	<key>getNextCertificateFactory</key>
+	<string>trainBeginnerEvaluationInstance</string>
+	<key>setEnabledLeftContainer</key>
+	<string>pausePrevDescentObserver</string>
+	<key>stopConcurrentResolverCreator</key>
+	<string>getLiteColorInstance</string>
+</dict>
+</plist>

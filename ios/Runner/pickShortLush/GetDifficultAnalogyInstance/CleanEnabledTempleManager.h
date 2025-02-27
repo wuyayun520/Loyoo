@@ -1,0 +1,18 @@
+#import "ClearAccessibleDataProtocol.h"
+#import "PrepareAccessibleVariableTarget.h"
+
+#import <UIKit/UIKit.h>
+
+NS_ASSUME_NONNULL_BEGIN
+
+@interface CleanEnabledTempleManager : NSObject
+
+
+- (void) divideSemanticVarStack;
+
+- (void) seekGlobalValueList;
+
+@end
+
+NS_ASSUME_NONNULL_END
+        

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>augmentSignificantLatencyHelper</key>
+	<string>skipMutableHashReference</string>
+	<key>continueAsynchronousTopHelper</key>
+	<string>stopDifficultConfigurationHandler</string>
+	<key>finishPriorEffectCollection</key>
+	<string>getAutoAlphaCreator</string>
+	<key>getGranularBufferInstance</key>
+	<string>makeBasicSkewYDecorator</string>
+	<key>keepConcreteTempleCreator</key>
+	<string>moveSpecifySpriteExtension</string>
+	<key>navigateMissedBoundExtension</key>
+	<string>trainUnactivatedVisibleCollection</string>
+	<key>setBeginnerUtilObserver</key>
+	<string>cancelOriginalTextureFilter</string>
+	<key>setNewestTitleReference</key>
+	<string>setGeometricCharacteristicFactory</string>
+	<key>trainDisplayableDescriptorDecorator</key>
+	<string>skipGeometricTopType</string>
+</dict>
+</plist>

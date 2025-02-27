@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>finishCustomPointCollection</key>
+	<string>getUsedTagList</string>
+	<key>prepareConcreteBorderDelegate</key>
+	<string>setDirectCompositionReference</string>
+	<key>setCustomizedBufferOwner</key>
+	<string>setDedicatedParameterTarget</string>
+	<key>syncOldParamDelegate</key>
+	<string>stopRequiredSkewXExtension</string>
+</dict>
+</plist>

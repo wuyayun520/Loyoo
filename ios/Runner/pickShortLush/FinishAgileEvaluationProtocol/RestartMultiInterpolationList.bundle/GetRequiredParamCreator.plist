@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>conformLastVariableStack</key>
+	<string>allocateRequiredValueHelper</string>
+	<key>continueEnabledDeliveryObserver</key>
+	<string>setSymmetricConstantManager</string>
+	<key>endRequiredGraphicInstance</key>
+	<string>exitSemanticSpriteExtension</string>
+	<key>getEphemeralThreadCache</key>
+	<string>enumerateLocalPrecisionReference</string>
+	<key>limitAssociatedIntensityCreator</key>
+	<string>cancelSemanticNumberPool</string>
+	<key>prepareBasicParamPool</key>
+	<string>getDirectParamHandler</string>
+	<key>resumeArithmeticCertificateHelper</key>
+	<string>pauseStandaloneParameterInstance</string>
+	<key>setIgnoredTexturePool</key>
+	<string>endAsynchronousNumberImplement</string>
+	<key>setPublicRotationObserver</key>
+	<string>setHierarchicalCoordInstance</string>
+</dict>
+</plist>

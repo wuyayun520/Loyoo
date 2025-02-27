@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cancelIgnoredTitleFilter</key>
+	<string>setDirectMenuTarget</string>
+	<key>endCriticalStrengthPool</key>
+	<string>startDeclarativeMenuHelper</string>
+	<key>getGlobalPopupStack</key>
+	<string>setArithmeticSizeDecorator</string>
+	<key>getMissedVariableBase</key>
+	<string>getAdvancedTraversalCollection</string>
+	<key>locateLostOriginOwner</key>
+	<string>setMissedInfrastructureDelegate</string>
+	<key>renameCurrentHistogramBase</key>
+	<string>endFusedColorStack</string>
+	<key>setIterativeTailCreator</key>
+	<string>retainSmallLoopStack</string>
+	<key>shearLiteAllocatorArray</key>
+	<string>releaseCustomizedScenePool</string>
+	<key>visitSmallGrainInstance</key>
+	<string>getSmallVolumeFilter</string>
+</dict>
+</plist>

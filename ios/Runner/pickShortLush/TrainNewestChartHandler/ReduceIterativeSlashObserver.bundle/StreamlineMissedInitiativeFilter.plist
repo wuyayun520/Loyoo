@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>insteadPivotalComponentType</key>
+	<string>writeOtherChannelsFilter</string>
+	<key>makeTensorCoordCreator</key>
+	<string>pauseDirectlyCurveDelegate</string>
+	<key>removeProtectedVariableProtocol</key>
+	<string>startIgnoredEdgeHelper</string>
+	<key>resetHyperbolicNumberOwner</key>
+	<string>initializeCustomPrecisionStack</string>
+	<key>unscheduleBackwardDataExtension</key>
+	<string>transposeBasicControllerContainer</string>
+</dict>
+</plist>

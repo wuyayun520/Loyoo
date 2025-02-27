@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cancelPrimaryMetadataFactory</key>
+	<string>getIntermediateVarHelper</string>
+	<key>finishGlobalVarContainer</key>
+	<string>setOtherPolygonContainer</string>
+	<key>getAccordionCenterBase</key>
+	<string>trainNormalChartList</string>
+	<key>poolSingleAccessoryOwner</key>
+	<string>resumeAutoHeadReference</string>
+	<key>prepareEasySliderExtension</key>
+	<string>scheduleAdvancedSpotReference</string>
+	<key>reduceDiscardedLayoutObserver</key>
+	<string>trainElasticCenterPool</string>
+	<key>startSubstantialCycleFactory</key>
+	<string>startRespectiveDispatcherContainer</string>
+</dict>
+</plist>

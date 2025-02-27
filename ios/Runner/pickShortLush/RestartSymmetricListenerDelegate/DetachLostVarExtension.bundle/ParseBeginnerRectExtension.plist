@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>discoverFusedProjectFactory</key>
+	<string>getFirstTextInstance</string>
+	<key>embraceMediumScreenManager</key>
+	<string>getIndependentLayoutHandler</string>
+	<key>enumerateConsultativeBaselineFilter</key>
+	<string>keepMultiFrameHandler</string>
+	<key>finishSignificantTextCreator</key>
+	<string>resumeCurrentFeatureObserver</string>
+	<key>setGeometricCompositionInstance</key>
+	<string>analyzeMediocreNotationReference</string>
+	<key>startAdvancedRestrictionBase</key>
+	<string>setFirstFeatureType</string>
+</dict>
+</plist>

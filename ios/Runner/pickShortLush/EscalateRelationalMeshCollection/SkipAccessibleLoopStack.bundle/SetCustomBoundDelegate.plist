@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>offsetIndependentHashInstance</key>
+	<string>setSemanticNumberHandler</string>
+	<key>setCrudeToleranceAdapter</key>
+	<string>setRapidOpacityHandler</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cancelCommonConfidentialityCache</key>
+	<string>setLocalFormatCache</string>
+	<key>getSemanticSkewXHandler</key>
+	<string>endTypicalResilienceArray</string>
+	<key>getStaticFragmentFactory</key>
+	<string>setMainPetDecorator</string>
+	<key>getUniqueOriginDelegate</key>
+	<string>mitigateRetainedValueOwner</string>
+	<key>resizeSemanticRendererHandler</key>
+	<string>getResilientStepOwner</string>
+	<key>restartMutableSizeFilter</key>
+	<string>restartTypicalContrastInstance</string>
+	<key>setSmallConstantCollection</key>
+	<string>initializeHardResultBase</string>
+	<key>stopSignificantTextureInstance</key>
+	<string>setIterativeEvaluationManager</string>
+</dict>
+</plist>

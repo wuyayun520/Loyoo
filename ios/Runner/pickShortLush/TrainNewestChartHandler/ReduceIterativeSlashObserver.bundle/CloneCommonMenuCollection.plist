@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appendIterativeNumberHandler</key>
+	<string>checkNormalChecklistCache</string>
+	<key>exitAdvancedEventHelper</key>
+	<string>finishOpaqueLeftExtension</string>
+	<key>getCartesianRectangleHelper</key>
+	<string>resumeNextLayoutReference</string>
+	<key>limitEasyOptionAdapter</key>
+	<string>calculateLiteCenterContainer</string>
+	<key>multiplySharedParameterReference</key>
+	<string>getStandaloneVariantObserver</string>
+	<key>pauseCrudeVariableList</key>
+	<string>replaceBeginnerValueImplement</string>
+	<key>revisitCrudeDescriptionDecorator</key>
+	<string>unscheduleTensorBoundOwner</string>
+	<key>upgradeComprehensiveVarProtocol</key>
+	<string>setDeclarativeValueFilter</string>
+</dict>
+</plist>

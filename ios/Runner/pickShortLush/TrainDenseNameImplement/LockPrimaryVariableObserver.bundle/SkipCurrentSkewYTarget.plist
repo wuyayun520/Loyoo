@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>finishUniformBufferDecorator</key>
+	<string>getSharedVariableInstance</string>
+	<key>getSignificantPointGroup</key>
+	<string>getImmutableFrameFactory</string>
+	<key>reconcileRetainedViewReference</key>
+	<string>respondComprehensiveItemTarget</string>
+	<key>removeSignificantParticleOwner</key>
+	<string>reconcileEnabledHistogramDelegate</string>
+	<key>restartPermissiveFragmentProtocol</key>
+	<string>prepareHardToleranceType</string>
+	<key>setDenseChallengeDelegate</key>
+	<string>upgradeSignificantValueImplement</string>
+	<key>trainSemanticRangeFactory</key>
+	<string>skipRelationalUtilList</string>
+</dict>
+</plist>

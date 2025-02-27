@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>endDiscardedTitleFactory</key>
+	<string>renameEphemeralValueHelper</string>
+	<key>eraseGlobalFlagsFilter</key>
+	<string>replaceCrucialQueuePool</string>
+	<key>getEuclideanVisibleImplement</key>
+	<string>releaseGeometricTechniqueImplement</string>
+	<key>keepUnactivatedResultGroup</key>
+	<string>lockAccordionBufferOwner</string>
+	<key>rectifyDenseNumberArray</key>
+	<string>keepSmartReductionArray</string>
+	<key>setAgileOpacityObserver</key>
+	<string>getUniqueDepthImplement</string>
+	<key>wrapBackwardBoundContainer</key>
+	<string>continuePrevVariableExtension</string>
+</dict>
+</plist>

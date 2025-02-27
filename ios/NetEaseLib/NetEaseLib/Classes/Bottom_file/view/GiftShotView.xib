@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="19529" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_1" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="19519"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="System colors in document resources" minToolsVersion="11.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="GiftShotView">
+            <connections>
+                <outlet property="phenomenonImageView" destination="GE1-AE-NGA" id="TYs-jy-9Ze"/>
+                <outlet property="giftLabel" destination="lI3-tR-iNR" id="HQv-eW-zUU"/>
+            </connections>
+        </placeholder>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="VIj-oS-qTU" clearsContextBeforeDrawing="NO">
+            <rect key="frame" x="0.0" y="0.0" width="337.6" height="149.3"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <stackView contentMode="TopLeft" distribution="fillProportionally" translatesAutoresizingMaskIntoConstraints="NO" id="MXW-l1-yeF">
+                    <rect key="frame" x="-7" y="-5" width="269.4" height="118.5"/>
+                    <subviews>
+                        <imageView userInteractionEnabled="NO" contentMode="TopLeft" horizontalCompressionResistancePriority="250" verticalCompressionResistancePriority="250" image="data_image" highlightedImage="1242-2208" translatesAutoresizingMaskIntoConstraints="NO" id="GE1-AE-NGA" clearsContextBeforeDrawing="NO">
+                            <rect key="frame" x="157.8" y="-1.2" width="137.3" height="118.5"/>
+                        </imageView>
+                        <label opaque="NO" userInteractionEnabled="NO" contentMode="scaleAspectFit" verticalHuggingPriority="290" text="gift in" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="lI3-tR-iNR" clipsSubviews="NO" autoresizesSubviews="NO" numberOfLines="9" enabled="NO" highlighted="YES">
+                            <rect key="frame" x="4.6" y="8.7" width="137.3" height="118.5"/>
+                            <fontDescription key="fontDescription" type="system" pointSize="25"/>
+                            <color key="textColor" red="0.05958300791779657" green="1" blue="0.96390348691883637" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                            <nil key="highlightedColor"/>
+                        </label>
+                    </subviews>
+                </stackView>
+            </subviews>
+            <viewLayoutGuide key="safeArea" id="AFq-WR-qeT"/>
+            <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+            <constraints>
+                <constraint firstItem="AFq-WR-qeT" firstAttribute="trailing" secondItem="MXW-l1-yeF" secondAttribute="trailing" constant="4" id="NHi-G8-rG2"/>
+                <constraint firstItem="MXW-l1-yeF" firstAttribute="top" secondItem="VIj-oS-qTU" secondAttribute="top" constant="4" id="Gwu-FC-GFj"/>
+                <constraint firstAttribute="bottom" secondItem="MXW-l1-yeF" secondAttribute="bottom" id="Xkm-Ta-I1h"/>
+                <constraint firstItem="MXW-l1-yeF" firstAttribute="leading" secondItem="AFq-WR-qeT" secondAttribute="leading" constant="5" id="RJp-ui-Hys"/>
+            </constraints>
+            <nil key="simulatedTopBarMetrics"/>
+            <nil key="simulatedBottomBarMetrics"/>
+            <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+            <point key="canvasLocation" x="-26.415965419341983" y="-409.68687747662824"/>
+        </view>
+    </objects>
+    <resources>
+        <image name="data_image" width="135.7" height="125.4"/>
+        <image name="1242-2208" width="135.7" height="125.4"/>
+        <systemColor name="systemBackgroundColor">
+            <color white="1" alpha="0.95963105386348563" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+        </systemColor>
+    </resources>
+</document>

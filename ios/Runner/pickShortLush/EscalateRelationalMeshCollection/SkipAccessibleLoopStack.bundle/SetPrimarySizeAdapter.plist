@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>endPermanentRemediationImplement</key>
+	<string>setPermanentDialogsHandler</string>
+	<key>finishEnabledBufferStack</key>
+	<string>skipMultiOperationDelegate</string>
+	<key>poolEphemeralValueInstance</key>
+	<string>setIntuitivePopupManager</string>
+	<key>provideGlobalImageAdapter</key>
+	<string>keepAccessibleTopList</string>
+	<key>resumeBackwardSizeProtocol</key>
+	<string>aggregateDirectlyBufferCollection</string>
+	<key>setDirectCacheReference</key>
+	<string>getBackwardVariantExtension</string>
+	<key>setSignificantSlashDelegate</key>
+	<string>scheduleSmallRectangleAdapter</string>
+	<key>stopEphemeralDepthFactory</key>
+	<string>getUniqueDurationCreator</string>
+	<key>stopSemanticResultFactory</key>
+	<string>checkSubtleRightCache</string>
+</dict>
+</plist>

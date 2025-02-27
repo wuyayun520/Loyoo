@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>getRelationalGraphTarget</key>
+	<string>dismissStandaloneParameterObserver</string>
+	<key>getSubsequentDialogsFactory</key>
+	<string>trainBeginnerGridPool</string>
+	<key>prepareAssociatedQueueBase</key>
+	<string>insteadBeginnerVariantObserver</string>
+	<key>resizeAgileInterfaceOwner</key>
+	<string>setAgileInteractionHandler</string>
+	<key>restartDenseBufferImplement</key>
+	<string>setCommonControllerInstance</string>
+</dict>
+</plist>

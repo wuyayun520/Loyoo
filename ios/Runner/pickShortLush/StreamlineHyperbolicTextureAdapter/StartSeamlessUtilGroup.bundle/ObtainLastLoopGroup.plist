@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>continueGlobalThreadType</key>
+	<string>pauseIndependentVariableBase</string>
+	<key>findNextRendererBase</key>
+	<string>multiplyPublicBehaviorFactory</string>
+	<key>finishActivatedConfigurationBase</key>
+	<string>trainRequiredNumberFactory</string>
+	<key>setDirectlyGrainFilter</key>
+	<string>cancelStandaloneMatrixObserver</string>
+	<key>trainUnactivatedEventType</key>
+	<string>comparePermissiveQueueHandler</string>
+</dict>
+</plist>

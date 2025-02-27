@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>continueFusedResolverStack</key>
+	<string>concatenateUsedLabelDecorator</string>
+	<key>generateDiscardedGramDelegate</key>
+	<string>clearLargeStrokeInstance</string>
+	<key>getAssociatedCardCache</key>
+	<string>getDeclarativeZoneContainer</string>
+	<key>getDiscardedParameterManager</key>
+	<string>aggregateCartesianParamObserver</string>
+	<key>getRespectiveBoundCollection</key>
+	<string>resumeSortedVarInstance</string>
+	<key>getSustainableIntegerManager</key>
+	<string>prepareCustomizedGridDelegate</string>
+	<key>stopHardVariableFilter</key>
+	<string>getAccessibleEvaluationProtocol</string>
+	<key>streamlineMediumValueHelper</key>
+	<string>quitDiscardedVariableList</string>
+</dict>
+</plist>

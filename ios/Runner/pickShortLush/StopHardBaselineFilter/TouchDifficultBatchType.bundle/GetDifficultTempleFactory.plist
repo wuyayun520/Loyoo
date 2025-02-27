@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cancelCartesianGrainFilter</key>
+	<string>setExplicitStyleProtocol</string>
+	<key>prepareBackwardTagGroup</key>
+	<string>keepOldLabelProtocol</string>
+	<key>reflectTensorColorDelegate</key>
+	<string>setCrudeConfigurationStack</string>
+	<key>setAssociatedEfficiencyProtocol</key>
+	<string>trainSignificantChallengeCollection</string>
+	<key>setDisplayableInfrastructureCache</key>
+	<string>setPermissiveLatencyFactory</string>
+	<key>setIgnoredHeadStack</key>
+	<string>continueOpaqueContrastManager</string>
+	<key>setSmallMeshHelper</key>
+	<string>setMutableOriginDelegate</string>
+	<key>showGlobalElementExtension</key>
+	<string>startMultiContractionProtocol</string>
+</dict>
+</plist>

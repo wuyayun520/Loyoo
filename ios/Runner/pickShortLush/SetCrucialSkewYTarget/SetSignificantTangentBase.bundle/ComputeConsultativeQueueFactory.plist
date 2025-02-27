@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>finishCrudeMenuContainer</key>
+	<string>clearArithmeticValueFilter</string>
+	<key>readFirstOptimizerTarget</key>
+	<string>setElasticDepthType</string>
+	<key>setDiscardedChapterArray</key>
+	<string>reduceRequiredBufferManager</string>
+	<key>setHierarchicalParamStack</key>
+	<string>cancelStandaloneProgressBarOwner</string>
+	<key>setSortedApertureDecorator</key>
+	<string>resumePrevDistinctionCache</string>
+	<key>setSustainableRotationOwner</key>
+	<string>setExplicitSlashAdapter</string>
+</dict>
+</plist>

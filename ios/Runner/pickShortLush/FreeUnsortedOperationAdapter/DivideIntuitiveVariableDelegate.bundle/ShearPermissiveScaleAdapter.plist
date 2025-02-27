@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>continueEuclideanBufferCollection</key>
+	<string>makeStaticFrameFactory</string>
+	<key>navigateImmutableValueCreator</key>
+	<string>startKeyMomentumCreator</string>
+	<key>setSortedEffectStack</key>
+	<string>reconcileLocalUsageCache</string>
+	<key>setSubsequentColorCollection</key>
+	<string>mitigateSubsequentCoordBase</string>
+	<key>startAgileChapterStack</key>
+	<string>getExplicitNumberDecorator</string>
+</dict>
+</plist>

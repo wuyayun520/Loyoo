@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>endCustomizedModelObserver</key>
+	<string>endMediocreTopAdapter</string>
+	<key>finishNextBufferObserver</key>
+	<string>setMissedContrastStack</string>
+	<key>reconcileSymmetricDescentHelper</key>
+	<string>allocateResilientQueuePool</string>
+	<key>restartIndependentLabelType</key>
+	<string>augmentAccessibleParamObserver</string>
+	<key>skipUsedOptimizerDelegate</key>
+	<string>finishGranularQueueDelegate</string>
+</dict>
+</plist>

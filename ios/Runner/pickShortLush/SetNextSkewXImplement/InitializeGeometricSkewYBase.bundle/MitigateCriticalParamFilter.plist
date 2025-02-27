@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>displayUniformInformationHandler</key>
+	<string>restartRespectiveEventDelegate</string>
+	<key>getIgnoredMonsterGroup</key>
+	<string>getMutableVarArray</string>
+	<key>pauseDifficultCatalystManager</key>
+	<string>continueReusableInfrastructureList</string>
+	<key>resumeStandaloneDepthOwner</key>
+	<string>prepareDeclarativeMovementGroup</string>
+	<key>setSharedCenterProtocol</key>
+	<string>resumeDirectTempleInstance</string>
+	<key>setUnsortedParameterDecorator</key>
+	<string>startCustomDistinctionContainer</string>
+	<key>trainOldDepthBase</key>
+	<string>finishAutoAmortizationAdapter</string>
+	<key>trainSemanticSampleExtension</key>
+	<string>restartSubstantialVarAdapter</string>
+</dict>
+</plist>

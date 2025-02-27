@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aggregateSmartBufferHandler</key>
+	<string>optimizeSmallAmortizationGroup</string>
+	<key>captureEasyScopeGroup</key>
+	<string>continueActivatedButtonHelper</string>
+	<key>equalTypicalShapeManager</key>
+	<string>getDiscardedVarHandler</string>
+	<key>getSeamlessSubpixelInstance</key>
+	<string>resumeIterativeVariableBase</string>
+	<key>keepGlobalEffectImplement</key>
+	<string>getHyperbolicChapterObserver</string>
+	<key>prepareDeclarativeFragmentsHandler</key>
+	<string>pauseCustomizedFrameExtension</string>
+	<key>prepareSemanticBufferObserver</key>
+	<string>setCrudeSkewXPool</string>
+	<key>skipMediocreBottomHandler</key>
+	<string>unlockPermissivePopupHelper</string>
+	<key>startStandaloneGateList</key>
+	<string>skipPrevButtonFilter</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>findPermissiveGroupArray</key>
+	<string>trainHierarchicalParameterAdapter</string>
+	<key>optimizeReusableNodeDelegate</key>
+	<string>multiplyAutoVariableList</string>
+	<key>setAccessibleReductionFactory</key>
+	<string>poolRetainedBufferManager</string>
+	<key>setMainContractionImplement</key>
+	<string>touchImmutableDialogsDelegate</string>
+	<key>setRobustPlateBase</key>
+	<string>setDelicateResultInstance</string>
+</dict>
+</plist>

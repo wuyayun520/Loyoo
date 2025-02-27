@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compareRespectiveBufferPool</key>
+	<string>setArithmeticEdgeCache</string>
+	<key>continueTensorFeatureHelper</key>
+	<string>setGeometricBufferType</string>
+	<key>resumeGreatViewOwner</key>
+	<string>optimizeDenseViewPool</string>
+	<key>setProtectedZoneProtocol</key>
+	<string>wrapRobustFragmentsArray</string>
+</dict>
+</plist>

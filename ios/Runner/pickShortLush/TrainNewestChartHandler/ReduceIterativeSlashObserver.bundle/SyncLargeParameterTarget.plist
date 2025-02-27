@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>continueDirectLayoutPool</key>
+	<string>checkPublicPriorityContainer</string>
+	<key>endStandaloneNumberBase</key>
+	<string>getOpaqueLatencyFactory</string>
+	<key>getCriticalTitleProtocol</key>
+	<string>initializeAccordionCoordInstance</string>
+	<key>makeDirectlyConfigurationObserver</key>
+	<string>setOldTimelineOwner</string>
+	<key>pauseReusablePositionDelegate</key>
+	<string>storeHyperbolicIntegerFactory</string>
+	<key>prepareAdvancedViewBase</key>
+	<string>prepareLostAlphaCollection</string>
+	<key>setIndependentCoordCreator</key>
+	<string>getGranularLayoutAdapter</string>
+	<key>setRequiredSessionOwner</key>
+	<string>checkImmutableQueueManager</string>
+	<key>trainConcurrentHeadHelper</key>
+	<string>makeSmallUsageOwner</string>
+</dict>
+</plist>

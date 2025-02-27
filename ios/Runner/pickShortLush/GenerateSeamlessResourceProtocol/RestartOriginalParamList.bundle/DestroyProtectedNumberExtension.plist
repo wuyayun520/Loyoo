@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>getArithmeticResourceCollection</key>
+	<string>startUsedFlagsFactory</string>
+	<key>getMainTailExtension</key>
+	<string>keepConcurrentInterpolationCache</string>
+	<key>getUniqueIndexPool</key>
+	<string>replaceSemanticVariableObserver</string>
+	<key>initializeEuclideanRotationList</key>
+	<string>setRespectiveIndexImplement</string>
+	<key>searchSmallRoleTarget</key>
+	<string>poolUsedBulletInstance</string>
+	<key>setBasicSkewXCollection</key>
+	<string>setSemanticLoopList</string>
+	<key>setConcurrentPreviewInstance</key>
+	<string>findPrismaticSliderCollection</string>
+	<key>setCurrentTextType</key>
+	<string>exitIntermediateHeadOwner</string>
+</dict>
+</plist>

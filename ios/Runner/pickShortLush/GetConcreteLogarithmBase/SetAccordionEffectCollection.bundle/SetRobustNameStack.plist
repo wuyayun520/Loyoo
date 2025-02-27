@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>captureSecondNavigationHelper</key>
+	<string>setDiscardedBorderAdapter</string>
+	<key>concatenateNextNameDecorator</key>
+	<string>setDirectRendererDecorator</string>
+	<key>getDeclarativeRightDelegate</key>
+	<string>resumeOldBufferAdapter</string>
+	<key>quantizerConcreteDisclaimerHandler</key>
+	<string>getMediumEquivalentObserver</string>
+	<key>refreshActivatedDescriptionInstance</key>
+	<string>getNextCacheExtension</string>
+	<key>restartDedicatedTextureList</key>
+	<string>setDirectStyleHandler</string>
+	<key>searchCrucialParameterHandler</key>
+	<string>introspectIntuitiveButtonImplement</string>
+	<key>skipMissedLoaderHelper</key>
+	<string>resumeAccessiblePrecisionAdapter</string>
+</dict>
+</plist>

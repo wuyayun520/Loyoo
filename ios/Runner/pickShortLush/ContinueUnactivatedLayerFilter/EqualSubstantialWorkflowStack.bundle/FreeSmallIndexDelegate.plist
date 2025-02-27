@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>analyzeResilientGraphAdapter</key>
+	<string>pauseDeclarativeBottomStack</string>
+	<key>endSharedLayoutInstance</key>
+	<string>getOpaqueRestrictionManager</string>
+	<key>getImmutableMasterPool</key>
+	<string>finishAsynchronousShaderFactory</string>
+	<key>pausePriorTailExtension</key>
+	<string>quantizationIntuitiveVisibleGroup</string>
+	<key>setBasicBufferContainer</key>
+	<string>resetMainTernaryContainer</string>
+	<key>unscheduleDifficultBrushFactory</key>
+	<string>cancelAssociatedScreenHelper</string>
+</dict>
+</plist>

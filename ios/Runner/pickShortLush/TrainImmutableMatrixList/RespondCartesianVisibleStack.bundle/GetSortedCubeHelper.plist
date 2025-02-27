@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>initializeMainNumberDelegate</key>
+	<string>revisitSingleVarObserver</string>
+	<key>pauseIntermediateBufferTarget</key>
+	<string>getImmutableBottomStack</string>
+	<key>reconcileExplicitDescriptionList</key>
+	<string>restartSemanticMechanismFilter</string>
+	<key>resumeBeginnerCharacterTarget</key>
+	<string>aggregateDiversifiedSegmentTarget</string>
+	<key>retainPermissiveNumberExtension</key>
+	<string>getLostChapterCache</string>
+	<key>setFirstDocumentStack</key>
+	<string>startUnsortedVideoPool</string>
+	<key>setGranularSpriteOwner</key>
+	<string>conformSynchronousComponentList</string>
+	<key>skipLocalPopupCreator</key>
+	<string>refreshRespectiveDataImplement</string>
+	<key>stopGranularCapacitiesFilter</key>
+	<string>setEnabledChartObserver</string>
+	<key>visitKeyUsageAdapter</key>
+	<string>insteadArithmeticStrokeType</string>
+</dict>
+</plist>

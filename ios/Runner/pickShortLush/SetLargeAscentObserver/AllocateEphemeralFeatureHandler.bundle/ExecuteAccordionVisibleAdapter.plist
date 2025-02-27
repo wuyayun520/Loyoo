@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>addHardTagFactory</key>
+	<string>escalateUnactivatedValueManager</string>
+	<key>cancelFusedAmortizationFactory</key>
+	<string>setAdvancedValueDelegate</string>
+	<key>continuePermanentScaleContainer</key>
+	<string>quantizerIntermediateSlashHelper</string>
+	<key>drawImmutablePositionGroup</key>
+	<string>equalSubtleTentativeTarget</string>
+	<key>getImmutableSineCreator</key>
+	<string>stopSymmetricParamCache</string>
+	<key>keepEphemeralTempleFactory</key>
+	<string>setPrimaryTempleFactory</string>
+	<key>navigateSubsequentGridList</key>
+	<string>accelerateArithmeticLeftFilter</string>
+	<key>setFusedFlagsProtocol</key>
+	<string>eraseAssociatedPopupBase</string>
+</dict>
+</plist>

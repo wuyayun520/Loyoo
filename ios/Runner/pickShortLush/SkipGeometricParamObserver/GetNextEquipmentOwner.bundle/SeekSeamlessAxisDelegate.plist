@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>calculateIntuitiveFlagsObserver</key>
+	<string>getUnactivatedReductionDecorator</string>
+	<key>getSharedSceneAdapter</key>
+	<string>visitSemanticVolumeDecorator</string>
+	<key>searchPrevLeftContainer</key>
+	<string>holdExplicitSceneCreator</string>
+	<key>stopConcurrentDescriptionReference</key>
+	<string>seekSubsequentHeadDelegate</string>
+</dict>
+</plist>

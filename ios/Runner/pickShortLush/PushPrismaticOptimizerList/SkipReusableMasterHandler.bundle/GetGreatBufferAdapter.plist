@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>decoupleCustomizedVarHandler</key>
+	<string>setRequiredMetadataOwner</string>
+	<key>enhanceDedicatedEvaluationHandler</key>
+	<string>adjustEasySliderProtocol</string>
+	<key>pauseNormalAllocatorPool</key>
+	<string>cancelDifficultSliderTarget</string>
+	<key>reduceConcurrentVarReference</key>
+	<string>stopCommonValueList</string>
+	<key>setDeclarativeFragmentsBase</key>
+	<string>pauseLocalCenterPool</string>
+	<key>setPrevVertexFilter</key>
+	<string>keepDisplayableEntropyGroup</string>
+	<key>startDiscardedTagList</key>
+	<string>pauseMissedHeroFilter</string>
+	<key>stopOldCurveObserver</key>
+	<string>initializeRequiredParamProtocol</string>
+</dict>
+</plist>

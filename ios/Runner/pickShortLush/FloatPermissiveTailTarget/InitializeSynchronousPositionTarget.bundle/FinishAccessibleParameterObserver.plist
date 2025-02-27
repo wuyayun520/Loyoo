@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>getAssociatedDialogsDelegate</key>
+	<string>finishPrimaryDepthManager</string>
+	<key>getHyperbolicChannelsInstance</key>
+	<string>preparePermanentResolverArray</string>
+	<key>lockDifficultResourceObserver</key>
+	<string>prepareDisparateEventBase</string>
+	<key>pauseOriginalBoundImplement</key>
+	<string>escalateExplicitValueGroup</string>
+	<key>reducePivotalVolumeAdapter</key>
+	<string>seekDisparateGraphHandler</string>
+	<key>refreshNextTopicInstance</key>
+	<string>getUniqueInterfaceFactory</string>
+	<key>setAssociatedIndicatorArray</key>
+	<string>getHardTopTarget</string>
+	<key>touchDeclarativeFrameCache</key>
+	<string>drawLargeLayoutCreator</string>
+</dict>
+</plist>

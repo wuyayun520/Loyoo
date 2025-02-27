@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>endMissedBufferContainer</key>
+	<string>quitEphemeralViewInstance</string>
+	<key>getUnsortedParticleContainer</key>
+	<string>setGranularBoundFactory</string>
+	<key>initializeIntermediatePositionBase</key>
+	<string>getFusedChartHandler</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>captureSharedLatencyExtension</key>
+	<string>skipSubsequentHashContainer</string>
+	<key>finishPivotalBufferFilter</key>
+	<string>getUnactivatedSessionList</string>
+	<key>provideUniqueTrajectoryHelper</key>
+	<string>restartPublicResultArray</string>
+	<key>setDelicateQueueDecorator</key>
+	<string>setLiteStateFactory</string>
+	<key>setIterativeTailManager</key>
+	<string>finishGranularParamTarget</string>
+	<key>setSpecifyImpressionHelper</key>
+	<string>setPrismaticValueGroup</string>
+	<key>streamlineComprehensiveBufferTarget</key>
+	<string>movePublicFragmentFilter</string>
+</dict>
+</plist>

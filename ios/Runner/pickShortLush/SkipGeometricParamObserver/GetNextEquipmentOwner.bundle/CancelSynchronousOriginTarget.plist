@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>analyzeExplicitGroupCollection</key>
+	<string>writeSemanticOriginObserver</string>
+	<key>cancelActivatedUsageReference</key>
+	<string>cancelPublicOperationHandler</string>
+	<key>conformSpecifyHashAdapter</key>
+	<string>endMissedCompositionOwner</string>
+	<key>endDiscardedMasterBase</key>
+	<string>cleanMultiNumberCreator</string>
+	<key>executeBackwardRowStack</key>
+	<string>markSeamlessOriginCreator</string>
+	<key>getSustainableContractionPool</key>
+	<string>finishGlobalNumberHelper</string>
+	<key>initializeTypicalSpriteHelper</key>
+	<string>getDiversifiedValueGroup</string>
+	<key>setNextPlateObserver</key>
+	<string>setEphemeralHeadHelper</string>
+</dict>
+</plist>

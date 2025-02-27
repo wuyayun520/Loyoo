@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>freeAccordionSubpixelBase</key>
+	<string>getDirectMusicBase</string>
+	<key>getNewestTextureBase</key>
+	<string>setBasicDescriptionDecorator</string>
+	<key>keepLastBufferExtension</key>
+	<string>initializeSemanticDialogsFactory</string>
+	<key>setStaticSessionFactory</key>
+	<string>trainLiteValueList</string>
+</dict>
+</plist>

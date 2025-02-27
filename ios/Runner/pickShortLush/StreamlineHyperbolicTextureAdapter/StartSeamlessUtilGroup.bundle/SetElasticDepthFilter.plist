@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cancelFusedValueReference</key>
+	<string>getSmartCacheCache</string>
+	<key>dissociateEnabledOpacityStack</key>
+	<string>startStaticVectorManager</string>
+	<key>finishDirectTitleHelper</key>
+	<string>setMainSkewXType</string>
+	<key>quitEnabledObjectFactory</key>
+	<string>obtainBasicCoordGroup</string>
+	<key>setMissedCertificateInstance</key>
+	<string>captureSpecifyPositionHandler</string>
+</dict>
+</plist>

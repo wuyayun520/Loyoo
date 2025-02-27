@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dissociateLargeCapsuleCache</key>
+	<string>setAssociatedPreviewAdapter</string>
+	<key>finishSynchronousValueCache</key>
+	<string>prepareMainPositionTarget</string>
+	<key>getBasicNameReference</key>
+	<string>setDirectVarGroup</string>
+	<key>getIntermediateLabelGroup</key>
+	<string>trainPivotalCenterList</string>
+	<key>getPermissiveTailInstance</key>
+	<string>getSmartShapeBase</string>
+	<key>getProtectedChartAdapter</key>
+	<string>setDiscardedViewGroup</string>
+	<key>releaseCustomizedNumberFactory</key>
+	<string>setHardTextureContainer</string>
+	<key>stopOldParameterHelper</key>
+	<string>setIntermediateSpecifierPool</string>
+</dict>
+</plist>

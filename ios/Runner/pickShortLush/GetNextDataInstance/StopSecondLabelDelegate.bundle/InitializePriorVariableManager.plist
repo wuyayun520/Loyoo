@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dissociateTensorConsumptionAdapter</key>
+	<string>endAssociatedVectorGroup</string>
+	<key>encapsulateOldParamCreator</key>
+	<string>trainMissedValueProtocol</string>
+	<key>getImmutableStyleReference</key>
+	<string>initializeDirectlyBatchExtension</string>
+	<key>getPriorLatencyDecorator</key>
+	<string>getSpecifyTextList</string>
+	<key>prepareDenseScalabilityFactory</key>
+	<string>cancelRobustLabelOwner</string>
+	<key>setHyperbolicIntensityCache</key>
+	<string>retainCrudeEffectCollection</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>finishSemanticNumberDelegate</key>
+	<string>getAssociatedStampManager</string>
+	<key>setIntermediateParameterOwner</key>
+	<string>markRapidPositionTarget</string>
+	<key>setIterativeDescriptionOwner</key>
+	<string>initializeMainSchemaOwner</string>
+	<key>shearStandaloneDistinctionArray</key>
+	<string>trainSortedBandwidthInstance</string>
+	<key>trainElasticDepthHelper</key>
+	<string>endUsedRestrictionOwner</string>
+	<key>trainExplicitFrameHandler</key>
+	<string>restartRetainedMovementDecorator</string>
+	<key>writeStaticTentativeCreator</key>
+	<string>searchNumericalVarStack</string>
+</dict>
+</plist>

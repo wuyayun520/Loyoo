@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>getMediumSchemaTarget</key>
+	<string>getBackwardBoundHelper</string>
+	<key>getPriorResultDecorator</key>
+	<string>trainPublicColorCreator</string>
+	<key>getSortedUtilDecorator</key>
+	<string>seekSubsequentAllocatorCreator</string>
+	<key>makePermissiveSchemaManager</key>
+	<string>setSmartVariableDelegate</string>
+	<key>prepareIterativeLogExtension</key>
+	<string>setPivotalCenterDelegate</string>
+	<key>resumeNormalTopBase</key>
+	<string>extendUnactivatedParamImplement</string>
+	<key>setConsultativeDescriptionArray</key>
+	<string>getDifficultAnalogyFilter</string>
+	<key>stopBackwardReliabilityFactory</key>
+	<string>introspectNumericalGraphType</string>
+</dict>
+</plist>

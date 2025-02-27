@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appendDedicatedSpecifierFactory</key>
+	<string>skipFusedSizeDelegate</string>
+	<key>continueNormalSkewXDelegate</key>
+	<string>restartAdvancedCapacitiesDecorator</string>
+	<key>destroyEnabledHeapDelegate</key>
+	<string>streamlineDenseBitrateCache</string>
+	<key>mitigateTypicalValueType</key>
+	<string>setTensorMechanismPool</string>
+	<key>setMultiSizeOwner</key>
+	<string>retainAdvancedSkewYHandler</string>
+	<key>setMutableTopCollection</key>
+	<string>reflectPriorOpacityHelper</string>
+</dict>
+</plist>

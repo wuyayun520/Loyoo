@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>clipNormalRemainderDelegate</key>
+	<string>obtainOpaqueVisibleHelper</string>
+	<key>getBackwardNumberFactory</key>
+	<string>trainFirstViewGroup</string>
+	<key>getDifficultSpotManager</key>
+	<string>continueBackwardSubpixelManager</string>
+	<key>getSubsequentTempleHelper</key>
+	<string>startStaticTimelineDelegate</string>
+	<key>insteadLastMemberCreator</key>
+	<string>setPermanentAnalogyObserver</string>
+	<key>markSubstantialCaptionOwner</key>
+	<string>touchCrucialVertexReference</string>
+	<key>setDeclarativeParameterTarget</key>
+	<string>getPermanentBufferImplement</string>
+	<key>stopDedicatedSliderCache</key>
+	<string>fillMutableTailStack</string>
+</dict>
+</plist>

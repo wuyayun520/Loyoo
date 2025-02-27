@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>analyzePrismaticVisibleHelper</key>
+	<string>getIntuitiveParamBase</string>
+	<key>checkGranularDepthReference</key>
+	<string>cleanDiscardedLayoutBase</string>
+	<key>getEnabledOpacityContainer</key>
+	<string>startNextTailContainer</string>
+	<key>getNextContractionObserver</key>
+	<string>setBeginnerResolverReference</string>
+	<key>getUnactivatedBufferStack</key>
+	<string>reflectPriorRangeReference</string>
+	<key>offsetEasyValueHelper</key>
+	<string>finishDeclarativeOpacityDelegate</string>
+	<key>setIntuitiveColorGroup</key>
+	<string>setPriorMonsterFactory</string>
+	<key>skipHardTempleDelegate</key>
+	<string>updateConsultativeVariableImplement</string>
+</dict>
+</plist>

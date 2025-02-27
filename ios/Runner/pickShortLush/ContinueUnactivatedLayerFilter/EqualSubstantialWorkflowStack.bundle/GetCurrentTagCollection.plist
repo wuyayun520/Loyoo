@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>getImmutableSliderHandler</key>
+	<string>rotateSemanticVariableBase</string>
+	<key>markPrimarySkewXFilter</key>
+	<string>quantizerImmutableVariableCreator</string>
+	<key>pauseComprehensiveInterfaceProtocol</key>
+	<string>resumeSortedSliderFilter</string>
+	<key>resumeExplicitFlagsManager</key>
+	<string>appendUnsortedPolygonStack</string>
+</dict>
+</plist>

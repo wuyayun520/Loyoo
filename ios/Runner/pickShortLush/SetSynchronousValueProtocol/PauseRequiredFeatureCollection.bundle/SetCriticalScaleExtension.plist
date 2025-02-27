@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>destroySpecifyRowCreator</key>
+	<string>stopArithmeticLayerObserver</string>
+	<key>endCriticalBufferDelegate</key>
+	<string>stopNewestBoundDecorator</string>
+	<key>finishPublicTraversalInstance</key>
+	<string>getHierarchicalOpacityCache</string>
+	<key>getLastProgressBarImplement</key>
+	<string>skipSmartNotationHandler</string>
+	<key>initializePermanentProvisionOwner</key>
+	<string>setNextProvisionArray</string>
+	<key>introspectIntuitiveLayerAdapter</key>
+	<string>getMissedScaleReference</string>
+	<key>quantizationAgileMetadataPool</key>
+	<string>animateSubtleSliderImplement</string>
+	<key>restartReusableSliderStack</key>
+	<string>getMediumMovementFactory</string>
+	<key>setAutoRendererExtension</key>
+	<string>floatHierarchicalCacheExtension</string>
+	<key>setRapidConsumptionHandler</key>
+	<string>setCriticalListenerGroup</string>
+</dict>
+</plist>

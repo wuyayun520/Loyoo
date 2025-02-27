@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adjustSemanticAspectAdapter</key>
+	<string>setCustomizedCharacteristicManager</string>
+	<key>associateEuclideanSkewYType</key>
+	<string>holdSemanticBoundDelegate</string>
+	<key>convertUniqueNumberObserver</key>
+	<string>trainNumericalTagHelper</string>
+	<key>getDisplayableParticleImplement</key>
+	<string>setLostCatalystObserver</string>
+	<key>initializeSmartCaptionFilter</key>
+	<string>finishAccessibleDimensionImplement</string>
+	<key>restartPermanentEqualizationCache</key>
+	<string>optimizeBeginnerInstructionPool</string>
+	<key>startPrimaryInterfaceOwner</key>
+	<string>pauseMissedPointImplement</string>
+</dict>
+</plist>

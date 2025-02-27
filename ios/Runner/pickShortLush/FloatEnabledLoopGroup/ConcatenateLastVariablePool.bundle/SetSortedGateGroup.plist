@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accelerateLiteInteractionFilter</key>
+	<string>getLocalSceneList</string>
+	<key>cancelCriticalInterpolationList</key>
+	<string>pauseIntermediateParameterDelegate</string>
+	<key>compareSecondToleranceStack</key>
+	<string>getAccordionTagType</string>
+	<key>computeBeginnerGraphCollection</key>
+	<string>resetSortedMeshManager</string>
+	<key>continueExplicitBufferFilter</key>
+	<string>spinHardDescriptorHandler</string>
+	<key>getLostVarTarget</key>
+	<string>seekDiversifiedSkinContainer</string>
+	<key>lockRapidCertificateDelegate</key>
+	<string>pushBasicGridDelegate</string>
+	<key>renameDiscardedValueExtension</key>
+	<string>limitSeamlessTopicOwner</string>
+	<key>restartFirstPolyfillHandler</key>
+	<string>getSmallNumberFilter</string>
+	<key>setPrimarySceneExtension</key>
+	<string>getCrudeCharacteristicTarget</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>continueCrucialCycleDecorator</key>
+	<string>setBeginnerValueInstance</string>
+	<key>drawBeginnerTopCache</key>
+	<string>clearPermanentAllocatorCollection</string>
+	<key>getHyperbolicHeadBase</key>
+	<string>embraceExplicitParamObserver</string>
+	<key>initializeSingleEdgeHandler</key>
+	<string>getLargeDisclaimerExtension</string>
+	<key>searchEphemeralTextHandler</key>
+	<string>restartSubsequentParamObserver</string>
+	<key>startResilientOriginManager</key>
+	<string>getBeginnerSkewYBase</string>
+</dict>
+</plist>

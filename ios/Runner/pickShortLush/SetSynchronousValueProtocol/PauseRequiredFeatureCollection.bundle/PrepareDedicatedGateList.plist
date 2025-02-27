@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>getConcurrentZoneGroup</key>
+	<string>resumeSubsequentVariableHelper</string>
+	<key>getEnabledBufferPool</key>
+	<string>mitigateUnactivatedEffectFactory</string>
+	<key>getIntuitiveVariableDecorator</key>
+	<string>eraseNumericalEdgeReference</string>
+	<key>initializeNewestBoundReference</key>
+	<string>generateIndependentCenterHandler</string>
+	<key>keepExplicitNumberDecorator</key>
+	<string>continueNormalAssetCache</string>
+	<key>setSophisticatedParameterInstance</key>
+	<string>conformSemanticNodeProtocol</string>
+	<key>startComprehensiveHeapTarget</key>
+	<string>getSharedQueueArray</string>
+	<key>startStandaloneOperationObserver</key>
+	<string>trainDisplayableNumberBase</string>
+</dict>
+</plist>

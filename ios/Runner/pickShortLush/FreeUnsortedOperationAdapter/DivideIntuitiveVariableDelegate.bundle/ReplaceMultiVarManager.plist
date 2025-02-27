@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>holdSubtleBottomFilter</key>
+	<string>readBackwardVarFilter</string>
+	<key>prepareAdvancedMechanismGroup</key>
+	<string>skipNewestBufferFilter</string>
+	<key>restartOtherValueManager</key>
+	<string>setSemanticGrayscaleExtension</string>
+	<key>setBackwardMonsterGroup</key>
+	<string>playUnsortedCharacterCache</string>
+	<key>shearCustomReliabilityDecorator</key>
+	<string>resetSynchronousParameterArray</string>
+</dict>
+</plist>

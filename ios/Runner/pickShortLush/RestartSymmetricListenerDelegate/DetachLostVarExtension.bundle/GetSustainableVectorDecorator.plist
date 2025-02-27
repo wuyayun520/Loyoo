@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>differentiateMainValueHandler</key>
+	<string>skipPrismaticChallengeHandler</string>
+	<key>dropoutMissedButtonFactory</key>
+	<string>poolLocalGroupTarget</string>
+	<key>endOtherTrajectoryArray</key>
+	<string>continueRequiredBufferInstance</string>
+	<key>obtainUniqueParamCache</key>
+	<string>limitNumericalCardFilter</string>
+	<key>prepareFusedQueueArray</key>
+	<string>setHardSliderReference</string>
+	<key>quitSmartInstructionGroup</key>
+	<string>destroyGlobalCoordImplement</string>
+	<key>seekBeginnerScalabilityFactory</key>
+	<string>resumeNewestSoundTarget</string>
+</dict>
+</plist>

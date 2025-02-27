@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cancelIndependentVariableCollection</key>
+	<string>getPermanentCacheTarget</string>
+	<key>keepRespectiveDepthFilter</key>
+	<string>drawNormalLayoutFilter</string>
+	<key>showDisparateFragmentType</key>
+	<string>setDisparatePreviewExtension</string>
+	<key>startOpaqueTempleDelegate</key>
+	<string>revisitUniformPositionHandler</string>
+</dict>
+</plist>

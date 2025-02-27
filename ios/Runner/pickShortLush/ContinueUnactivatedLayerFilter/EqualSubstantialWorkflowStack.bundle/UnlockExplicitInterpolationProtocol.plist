@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>continuePrismaticAspectGroup</key>
+	<string>spinOldSkewYList</string>
+	<key>embedUnactivatedTextureHandler</key>
+	<string>skipGlobalGroupProtocol</string>
+	<key>finishSubsequentTextureProtocol</key>
+	<string>setSubsequentNameExtension</string>
+	<key>initializePermissiveCoordinatorList</key>
+	<string>executeOriginalQueueManager</string>
+	<key>keepSecondDispatcherArray</key>
+	<string>continueMutableRestrictionHandler</string>
+	<key>restartComprehensiveCatalystFactory</key>
+	<string>setCustomizedOpacityArray</string>
+	<key>restartTensorRemediationStack</key>
+	<string>stopDiversifiedValueBase</string>
+	<key>setRapidBatchCollection</key>
+	<string>destroyCommonInterfaceCache</string>
+</dict>
+</plist>

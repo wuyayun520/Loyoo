@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>destroyEnabledOptimizerType</key>
+	<string>trainResilientThreadArray</string>
+	<key>endSignificantLayoutGroup</key>
+	<string>rotateResilientBoxCreator</string>
+	<key>getRequiredActivityGroup</key>
+	<string>initializeLostParamCreator</string>
+	<key>setCustomMetadataFactory</key>
+	<string>restartEuclideanKernelArray</string>
+	<key>trainSubstantialApertureCollection</key>
+	<string>continueStaticSymbolGroup</string>
+</dict>
+</plist>

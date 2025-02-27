@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>generateProtectedMovementInstance</key>
+	<string>getCustomEquipmentInstance</string>
+	<key>getDisplayableValueDelegate</key>
+	<string>dismissMissedChartList</string>
+	<key>getGreatCubeFactory</key>
+	<string>trainImmutableParameterType</string>
+	<key>getMediumIntegerArray</key>
+	<string>stopEnabledMaterialType</string>
+	<key>getSingleTextureTarget</key>
+	<string>dismissRetainedRangeHelper</string>
+	<key>respondPrimaryStampContainer</key>
+	<string>prepareUnsortedScaleHandler</string>
+	<key>setEnabledChapterType</key>
+	<string>startComprehensiveVariableHandler</string>
+	<key>skipSubtleInteractionFactory</key>
+	<string>getSmallValueProtocol</string>
+	<key>startCustomizedTopBase</key>
+	<string>quantizerSmartNumberTarget</string>
+	<key>startMultiFlagsStack</key>
+	<string>getMediumAxisGroup</string>
+</dict>
+</plist>

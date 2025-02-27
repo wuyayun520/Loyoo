@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cancelStandaloneRendererPool</key>
+	<string>wrapCrudeLoopManager</string>
+	<key>compareDeclarativeMetadataType</key>
+	<string>finishSubtleQueueHelper</string>
+	<key>continueEnabledVectorList</key>
+	<string>finishSpecifyRightList</string>
+	<key>continuePrimaryContrastFactory</key>
+	<string>getRelationalFrameContainer</string>
+	<key>getReusableVisibleFactory</key>
+	<string>getAccessibleRemediationExtension</string>
+	<key>keepSmallVarDelegate</key>
+	<string>startAccessibleScaleList</string>
+	<key>prepareConcurrentViewAdapter</key>
+	<string>endFusedCapsuleObserver</string>
+	<key>restartDeclarativeGraphicInstance</key>
+	<string>setSignificantMetadataHelper</string>
+</dict>
+</plist>

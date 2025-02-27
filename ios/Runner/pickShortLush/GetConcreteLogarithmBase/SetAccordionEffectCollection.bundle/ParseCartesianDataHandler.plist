@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cancelTensorSchedulerGroup</key>
+	<string>trainEuclideanMatrixStack</string>
+	<key>continueStandaloneValueCache</key>
+	<string>pauseMissedValueHelper</string>
+	<key>getSeamlessParamHelper</key>
+	<string>dropoutFusedTrianglesProtocol</string>
+	<key>pauseLastElementContainer</key>
+	<string>allocateGranularInteractionDelegate</string>
+	<key>restartResilientCatalystPool</key>
+	<string>dissociateDenseRendererFilter</string>
+	<key>undertakeRapidValueHelper</key>
+	<string>getElasticTempleOwner</string>
+</dict>
+</plist>

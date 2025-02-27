@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cloneAssociatedBufferCreator</key>
+	<string>setRelationalConfigurationCreator</string>
+	<key>getExplicitPrecisionType</key>
+	<string>skipDeclarativeThreadInstance</string>
+	<key>getOriginalProjectionDecorator</key>
+	<string>displayArithmeticNodeInstance</string>
+	<key>getSemanticBufferList</key>
+	<string>addSemanticSoundFactory</string>
+	<key>keepResilientAllocatorList</key>
+	<string>getBasicEdgeObserver</string>
+	<key>setGranularValuePool</key>
+	<string>prepareElasticIntegrityFactory</string>
+</dict>
+</plist>

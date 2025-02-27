@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocateGlobalContrastType</key>
+	<string>endSignificantParamManager</string>
+	<key>continueExplicitNodeDecorator</key>
+	<string>skipStandaloneColorHelper</string>
+	<key>restartUnactivatedSkirtAdapter</key>
+	<string>skipUnsortedParamObserver</string>
+	<key>setBackwardCenterCache</key>
+	<string>setNewestDocumentArray</string>
+	<key>setHardMemberStack</key>
+	<string>navigateConsultativeMemberArray</string>
+	<key>setPermanentBufferDecorator</key>
+	<string>setCustomizedLoopType</string>
+</dict>
+</plist>

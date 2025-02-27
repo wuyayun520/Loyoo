@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accelerateStaticViewCache</key>
+	<string>getGeometricBorderDelegate</string>
+	<key>setAutoQueueArray</key>
+	<string>quantizerCustomBandwidthExtension</string>
+	<key>setDisplayableStyleGroup</key>
+	<string>continueAccessibleResolverInstance</string>
+	<key>showRetainedHeadCollection</key>
+	<string>writeMutableParamAdapter</string>
+	<key>startDisparateVisibleDecorator</key>
+	<string>keepUsedCapacityProtocol</string>
+</dict>
+</plist>

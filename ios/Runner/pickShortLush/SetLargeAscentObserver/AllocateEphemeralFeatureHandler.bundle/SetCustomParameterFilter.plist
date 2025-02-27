@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adjustSubtleMetadataHandler</key>
+	<string>getAgileVariableContainer</string>
+	<key>checkSharedNameAdapter</key>
+	<string>getActivatedEquipmentHelper</string>
+	<key>enumeratePublicBottomReference</key>
+	<string>pauseComprehensiveNameFactory</string>
+	<key>getStaticDepthArray</key>
+	<string>createReusableLoopExtension</string>
+	<key>keepDirectPreviewList</key>
+	<string>keepNumericalGridPool</string>
+	<key>provideLostTempleProtocol</key>
+	<string>setKeyDetailDecorator</string>
+	<key>setAdvancedVarPool</key>
+	<string>setPrevVariableCache</string>
+	<key>setDenseConsumptionStack</key>
+	<string>resumeMainVarTarget</string>
+	<key>setOtherMeshManager</key>
+	<string>resumeMediumIndexTarget</string>
+</dict>
+</plist>

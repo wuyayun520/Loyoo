@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cancelSynchronousSampleCache</key>
+	<string>getEnabledStyleCache</string>
+	<key>cancelUsedOriginDelegate</key>
+	<string>keepOpaqueVariableType</string>
+	<key>getOriginalVarManager</key>
+	<string>divideCriticalEventCreator</string>
+	<key>keepOpaqueInfrastructureCache</key>
+	<string>getDelicateChartDelegate</string>
+	<key>prepareSmallIntensityImplement</key>
+	<string>getHierarchicalLatencyCollection</string>
+	<key>resetSubsequentCharacterImplement</key>
+	<string>calculateIgnoredColorPool</string>
+</dict>
+</plist>

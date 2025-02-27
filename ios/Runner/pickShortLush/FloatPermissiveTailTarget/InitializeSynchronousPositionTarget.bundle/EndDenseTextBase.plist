@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>initializeCrudeStepFactory</key>
+	<string>cancelDiversifiedSpotStack</string>
+	<key>initializeSignificantEdgeCreator</key>
+	<string>discoverSemanticHeapDecorator</string>
+	<key>keepTensorEdgeAdapter</key>
+	<string>stopMediumBaselineCache</string>
+	<key>obtainIterativeIndicatorTarget</key>
+	<string>getTensorSceneImplement</string>
+	<key>setEasyVarDecorator</key>
+	<string>reconcileDirectlyValueCreator</string>
+</dict>
+</plist>

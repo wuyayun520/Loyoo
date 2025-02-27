@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="19529" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_1" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="19519"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="System colors in document resources" minToolsVersion="11.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="BeyondPointHeightView">
+            <connections>
+                <outlet property="viewLabel" destination="ojq-SI-9jG" id="nd6-oQ-L94"/>
+                <outlet property="compartmentButton" destination="tR0-j3-Cox" id="w0m-eP-nfd"/>
+                <outlet property="partnerLabel" destination="XYI-Er-5mM" id="Nkd-nb-DxM"/>
+            </connections>
+        </placeholder>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="XDl-k9-Ncu">
+            <rect key="frame" x="0.0" y="0.0" width="530.6" height="103.3"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <label userInteractionEnabled="NO" contentMode="scaleToFill" horizontalCompressionResistancePriority="250" verticalCompressionResistancePriority="250" text="content tap of view" textAlignment="right" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="ojq-SI-9jG" numberOfLines="9">
+                    <rect key="frame" x="131.9" y="-4" width="130.9" height="87.5"/>
+                    <fontDescription key="fontDescription" type="system" pointSize="13"/>
+                    <nil key="textColor"/>
+                    <nil key="highlightedColor"/>
+                </label>
+                <label userInteractionEnabled="NO" contentMode="bottomLeft" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="part confirm change type view page" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="XYI-Er-5mM" clearsContextBeforeDrawing="NO" clipsSubviews="NO" numberOfLines="9" enabled="NO" highlighted="YES">
+                    <rect key="frame" x="4" y="2" width="130.9" height="87.5"/>
+                    <fontDescription key="fontDescription" type="system" pointSize="9"/>
+                    <nil key="textColor"/>
+                    <nil key="highlightedColor"/>
+                </label>
+                <button contentMode="center" horizontalHuggingPriority="1000" verticalHuggingPriority="991" horizontalCompressionResistancePriority="1000" verticalCompressionResistancePriority="1000" contentHorizontalAlignment="leading" contentVerticalAlignment="bottom" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="tR0-j3-Cox" clipsSubviews="NO">
+                    <rect key="frame" x="242" y="5" width="214.5" height="87.5"/>
+                    <inset key="imageEdgeInsets" minX="0.0" minY="0.0" maxX="2.2250738585072014e-308" maxY="0.0"/>
+                    <state key="normal" title="data view will model info" image="frame_length_picture">
+                        <color key="titleColor" red="0.20801110280944236" green="0.80216241688474088" blue="0.37149053971082963" alpha="0.87483083322322849" colorSpace="custom" customColorSpace="sRGB"/>
+                    </state>
+                    <state key="disabled" title="to with view view" image="equal_observe_pic">
+                        <color key="titleColor" red="0.3251827794589793" green="0.95862888884743896" blue="0.63769983603668184" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                    </state>
+                    <state key="highlighted" title="sign following content record in" image="object_picture">
+                        <color key="titleColor" red="0.1167636465" green="1" blue="0.1985451956" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                    </state>
+                </button>
+            </subviews>
+            <viewLayoutGuide key="safeArea" id="QwK-uG-8S4"/>
+            <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+            <constraints>
+                <constraint firstItem="ojq-SI-9jG" firstAttribute="leading" secondItem="QwK-uG-8S4" secondAttribute="leading" constant="1" id="YGx-IT-4dn"/>
+                <constraint firstItem="QwK-uG-8S4" firstAttribute="trailing" secondItem="tR0-j3-Cox" secondAttribute="trailing" constant="5" id="WyV-Ff-B3j"/>
+                <constraint firstItem="ojq-SI-9jG" firstAttribute="top" secondItem="XDl-k9-Ncu" secondAttribute="top" constant="5" id="O54-gK-0Bx"/>
+                <constraint firstAttribute="bottom" secondItem="ojq-SI-9jG" secondAttribute="bottom" constant="7" id="hku-sD-MAi"/>
+                <constraint firstAttribute="bottom" secondItem="tR0-j3-Cox" secondAttribute="bottom" constant="5" id="zpy-qj-i4t"/>
+                <constraint firstItem="XYI-Er-5mM" firstAttribute="top" secondItem="XDl-k9-Ncu" secondAttribute="top" constant="4" id="r1x-kW-4Nc"/>
+                <constraint firstItem="tR0-j3-Cox" firstAttribute="top" secondItem="XDl-k9-Ncu" secondAttribute="top" constant="6" id="RmP-z5-G5J"/>
+                <constraint firstItem="tR0-j3-Cox" firstAttribute="leading" secondItem="XYI-Er-5mM" secondAttribute="trailing" constant="6" id="Mpe-Tq-OhQ"/>
+                <constraint firstAttribute="bottom" secondItem="XYI-Er-5mM" secondAttribute="bottom" constant="2" id="xcE-KW-aFI"/>
+                <constraint firstItem="ojq-SI-9jG" firstAttribute="width" secondItem="XYI-Er-5mM" secondAttribute="width" id="OJ6-9k-dlI" constant="5"/>
+                <constraint firstItem="XYI-Er-5mM" firstAttribute="leading" secondItem="ojq-SI-9jG" secondAttribute="trailing" constant="5" id="H9U-m0-H4b"/>
+            </constraints>
+            <nil key="simulatedTopBarMetrics"/>
+            <nil key="simulatedBottomBarMetrics"/>
+            <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+            <point key="canvasLocation" x="187.272430051072" y="-209.78987424634000"/>
+        </view>
+    </objects>
+    <resources>
+        <image name="frame_length_picture" width="64.6" height="73.5"/>
+        <image name="object_picture" width="64.6" height="73.5"/>
+        <image name="equal_observe_pic" width="64.6" height="73.5"/>
+        <systemColor name="systemBackgroundColor">
+            <color white="1" alpha="0.9424348997632371" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+        </systemColor>
+    </resources>
+</document>

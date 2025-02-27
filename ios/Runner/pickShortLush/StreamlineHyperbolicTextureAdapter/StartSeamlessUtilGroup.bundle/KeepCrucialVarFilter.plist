@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>getAssociatedEdgeManager</key>
+	<string>poolOriginalBufferFactory</string>
+	<key>keepLastTweakStack</key>
+	<string>playMutableFlagsPool</string>
+	<key>obtainMutableIntensityProtocol</key>
+	<string>setHyperbolicVarArray</string>
+	<key>skipTypicalParamOwner</key>
+	<string>getResilientScaleCache</string>
+</dict>
+</plist>

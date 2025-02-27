@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>prepareLastCurveArray</key>
+	<string>keepGreatParameterExtension</string>
+	<key>releaseDifficultEdgeExtension</key>
+	<string>getCommonScaleExtension</string>
+	<key>releaseLostMemberArray</key>
+	<string>moveHyperbolicInterfaceArray</string>
+	<key>resetCartesianToleranceFactory</key>
+	<string>getUniformRangeReference</string>
+	<key>respondBackwardIndexExtension</key>
+	<string>resumeRobustConfigurationAdapter</string>
+	<key>resumeComprehensiveTopicFilter</key>
+	<string>getDedicatedResolverHandler</string>
+	<key>rotateMissedLeftGroup</key>
+	<string>skipImmutableInterfaceFactory</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>computePermissiveSubpixelImplement</key>
+	<string>combineDiscardedMatrixManager</string>
+	<key>finishDeclarativeParamInstance</key>
+	<string>dropoutTensorTweakProtocol</string>
+	<key>initializeLostListenerOwner</key>
+	<string>keepAutoFragmentPool</string>
+	<key>setIterativeVolumeInstance</key>
+	<string>mitigateImmutableSpotCollection</string>
+	<key>setSymmetricScaleTarget</key>
+	<string>rotateConsultativeAllocatorAdapter</string>
+	<key>skipUniformSegmentType</key>
+	<string>appendEuclideanLeftAdapter</string>
+	<key>stopEnabledRightBase</key>
+	<string>setPrismaticEdgeArray</string>
+</dict>
+</plist>

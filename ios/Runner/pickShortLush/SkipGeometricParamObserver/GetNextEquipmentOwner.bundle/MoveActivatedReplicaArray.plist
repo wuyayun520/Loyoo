@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>drawMutableMenuFilter</key>
+	<string>prepareSharedParameterHandler</string>
+	<key>getCriticalCubeTarget</key>
+	<string>generateRequiredNumberExtension</string>
+	<key>initializeConcreteGridManager</key>
+	<string>skipUniformPaddingBase</string>
+	<key>playSharedTailBase</key>
+	<string>setLocalViewTarget</string>
+	<key>resumeCommonChartObserver</key>
+	<string>initializeAgileInteractionOwner</string>
+	<key>setOtherReliabilityOwner</key>
+	<string>setAsynchronousParameterObserver</string>
+	<key>setPrismaticInstructionAdapter</key>
+	<string>restartCartesianToleranceFilter</string>
+	<key>setUnactivatedSkewXTarget</key>
+	<string>continueRapidEntropyBase</string>
+	<key>setUnsortedRectangleManager</key>
+	<string>getHyperbolicCoordStack</string>
+</dict>
+</plist>

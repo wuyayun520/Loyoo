@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>limitSemanticStepCache</key>
+	<string>trainLargeParameterInstance</string>
+	<key>pauseDiscardedGridFactory</key>
+	<string>readDisparateBoundCollection</string>
+	<key>poolResilientMendAdapter</key>
+	<string>skipActivatedCertificateProtocol</string>
+	<key>setDisplayableValueTarget</key>
+	<string>skipSignificantVarManager</string>
+</dict>
+</plist>

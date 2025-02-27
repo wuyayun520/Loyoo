@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cancelKeyRemediationPool</key>
+	<string>setCommonDepthPool</string>
+	<key>cancelTensorTopicManager</key>
+	<string>keepSymmetricDepthCache</string>
+	<key>endFusedSpineCache</key>
+	<string>getUniformResolverObserver</string>
+	<key>freeSymmetricValueManager</key>
+	<string>setSophisticatedDescriptionOwner</string>
+	<key>getComprehensiveObjectHandler</key>
+	<string>getMainDisclaimerManager</string>
+	<key>getGranularTextType</key>
+	<string>getLocalEventArray</string>
+	<key>pauseGeometricUtilType</key>
+	<string>rectifyNumericalValuePool</string>
+	<key>playSophisticatedExponentCache</key>
+	<string>endUsedPopupHelper</string>
+	<key>searchCriticalMonsterCollection</key>
+	<string>continueSustainableGroupTarget</string>
+</dict>
+</plist>

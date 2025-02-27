@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>getAsynchronousValueHelper</key>
+	<string>getPermissiveRotationManager</string>
+	<key>initializeOldDepthFilter</key>
+	<string>getFusedEffectHelper</string>
+	<key>pauseFirstSampleImplement</key>
+	<string>captureProtectedChecklistCollection</string>
+	<key>reflectSubstantialScreenObserver</key>
+	<string>addEphemeralStrokeTarget</string>
+</dict>
+</plist>

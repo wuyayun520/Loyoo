@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>getSubtleSpriteList</key>
+	<string>setPrimaryAudioList</string>
+	<key>prepareSubsequentTitleDelegate</key>
+	<string>removeExplicitAxisBase</string>
+	<key>resumePublicImpactHandler</key>
+	<string>getExplicitGridCreator</string>
+	<key>setMediumVariableHandler</key>
+	<string>holdDedicatedNotationFactory</string>
+	<key>skipNewestStrengthCollection</key>
+	<string>trainUniqueSceneInstance</string>
+	<key>stopBackwardHeadBase</key>
+	<string>endDisplayableHeroInstance</string>
+	<key>wrapMissedRowBase</key>
+	<string>startNewestValueCache</string>
+</dict>
+</plist>

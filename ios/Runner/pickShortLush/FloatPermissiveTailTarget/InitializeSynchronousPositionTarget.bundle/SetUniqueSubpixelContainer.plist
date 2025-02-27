@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>endDeclarativeCompositionProtocol</key>
+	<string>getUniqueDescriptionProtocol</string>
+	<key>getDeclarativeNodeBase</key>
+	<string>poolReusableFlagsDelegate</string>
+	<key>getOpaqueTimelineDecorator</key>
+	<string>dismissSemanticNameCreator</string>
+	<key>startSynchronousInstructionGroup</key>
+	<string>differentiateEasyBufferCache</string>
+	<key>updateAccessibleParameterType</key>
+	<string>setMainNumberProtocol</string>
+</dict>
+</plist>

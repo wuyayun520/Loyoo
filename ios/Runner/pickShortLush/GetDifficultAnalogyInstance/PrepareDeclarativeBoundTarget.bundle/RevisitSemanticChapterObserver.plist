@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>augmentGeometricBufferCollection</key>
+	<string>setUniformParamGroup</string>
+	<key>continuePrismaticElementStack</key>
+	<string>floatCurrentVarHelper</string>
+	<key>getAssociatedIndexDelegate</key>
+	<string>renameEnabledRendererImplement</string>
+	<key>moveSharedArchitectureAdapter</key>
+	<string>trainGlobalEdgeStack</string>
+	<key>seekSubtleFrameExtension</key>
+	<string>eraseIntuitiveEquivalentDelegate</string>
+	<key>stopEuclideanValueExtension</key>
+	<string>resumeRelationalBaselineAdapter</string>
+	<key>wrapSingleColorStack</key>
+	<string>clearCartesianSkewYBase</string>
+</dict>
+</plist>

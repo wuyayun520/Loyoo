@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>getReusableLayerFactory</key>
+	<string>continueMutableDepthArray</string>
+	<key>reconcileHardContrastCollection</key>
+	<string>generateSophisticatedRendererPool</string>
+	<key>setArithmeticUtilPool</key>
+	<string>rotatePermissiveVariableExtension</string>
+	<key>setCrudeImpactOwner</key>
+	<string>dropoutDirectHashCreator</string>
+</dict>
+</plist>

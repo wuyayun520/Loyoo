@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>finishSharedButtonCache</key>
+	<string>continueIndependentTextureBase</string>
+	<key>keepMultiFeatureAdapter</key>
+	<string>pauseIntuitiveScalePool</string>
+	<key>readDisplayableCenterStack</key>
+	<string>initializeBasicBufferInstance</string>
+	<key>setIntermediateAssetDelegate</key>
+	<string>getDirectTimeFactory</string>
+	<key>setReusableProjectCreator</key>
+	<string>continueMutableScaleAdapter</string>
+	<key>setSophisticatedRowPool</key>
+	<string>getAdvancedParameterGroup</string>
+</dict>
+</plist>

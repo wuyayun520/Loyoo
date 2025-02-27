@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>endHardEqualizationStack</key>
+	<string>getMutableParameterContainer</string>
+	<key>getCustomizedLatencyStack</key>
+	<string>clearDeclarativeValueImplement</string>
+	<key>initializeGlobalHashContainer</key>
+	<string>keepHardFrameDecorator</string>
+	<key>keepOldLabelTarget</key>
+	<string>searchBeginnerTentativeOwner</string>
+	<key>parseBasicValueObserver</key>
+	<string>releasePrismaticMatrixExtension</string>
+	<key>skipIntermediateBufferExtension</key>
+	<string>skipRelationalProvisionHandler</string>
+	<key>startAsynchronousPreviewDelegate</key>
+	<string>unscheduleLostPopupFilter</string>
+	<key>startUniformHashStack</key>
+	<string>setBeginnerEdgeDelegate</string>
+	<key>storeSimilarIntegerManager</key>
+	<string>getCriticalHeadContainer</string>
+</dict>
+</plist>

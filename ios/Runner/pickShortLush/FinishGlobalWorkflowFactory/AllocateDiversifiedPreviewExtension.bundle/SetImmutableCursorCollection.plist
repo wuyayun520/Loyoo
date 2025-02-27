@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cancelAsynchronousImpactDecorator</key>
+	<string>setUniqueScaleTarget</string>
+	<key>prepareCustomizedFragmentsFilter</key>
+	<string>combineAutoRecursionHelper</string>
+	<key>setSmallConvolutionExtension</key>
+	<string>setHierarchicalGemHandler</string>
+	<key>trainRespectiveBoundHandler</key>
+	<string>restartConsultativeNumberBase</string>
+</dict>
+</plist>

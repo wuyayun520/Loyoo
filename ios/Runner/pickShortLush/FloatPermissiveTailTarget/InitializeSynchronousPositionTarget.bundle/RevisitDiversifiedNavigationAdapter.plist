@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>getBeginnerScaleDelegate</key>
+	<string>setFusedGraphFilter</string>
+	<key>mitigateLocalGroupFilter</key>
+	<string>continueCustomRowDecorator</string>
+	<key>resumePermanentMemberCreator</key>
+	<string>continueSmallContrastType</string>
+	<key>setPriorEdgeImplement</key>
+	<string>getFusedZoneArray</string>
+	<key>setSymmetricVariableArray</key>
+	<string>removePublicParamDecorator</string>
+	<key>startDirectEffectExtension</key>
+	<string>setIgnoredDescriptionStack</string>
+	<key>unschedulePivotalVectorArray</key>
+	<string>startConsultativeAudioTarget</string>
+	<key>upgradeAutoTailBase</key>
+	<string>setIntuitiveQueueCache</string>
+</dict>
+</plist>

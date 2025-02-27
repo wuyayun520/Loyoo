@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appendBackwardTempleContainer</key>
+	<string>startAutoParameterType</string>
+	<key>continueSecondVariableType</key>
+	<string>setStaticTextStack</string>
+	<key>finishSimilarRightArray</key>
+	<string>setLiteEvaluationHelper</string>
+	<key>setCustomLayerTarget</key>
+	<string>getSortedVarArray</string>
+	<key>setOldMenuFactory</key>
+	<string>augmentResilientFlagsObserver</string>
+	<key>setSpecifyGraphCollection</key>
+	<string>destroySemanticElasticityFilter</string>
+	<key>setSubsequentBoundExtension</key>
+	<string>getIgnoredConfigurationExtension</string>
+</dict>
+</plist>

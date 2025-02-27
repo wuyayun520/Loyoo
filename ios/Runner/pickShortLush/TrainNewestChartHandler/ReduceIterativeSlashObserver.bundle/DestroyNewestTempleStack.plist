@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>prepareRespectivePointHelper</key>
+	<string>associateBackwardInterfaceInstance</string>
+	<key>skipBasicGrainReference</key>
+	<string>getResilientParamPool</string>
+	<key>skipDisplayableThreadAdapter</key>
+	<string>quitUnactivatedProfileStack</string>
+	<key>visitMissedBatchHelper</key>
+	<string>skipMultiCenterExtension</string>
+</dict>
+</plist>

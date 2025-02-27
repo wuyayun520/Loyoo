@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cancelOldTweakManager</key>
+	<string>enhancePermanentLossArray</string>
+	<key>getGlobalSkewYManager</key>
+	<string>stopImmutableCatalystDelegate</string>
+	<key>poolTensorVolumeExtension</key>
+	<string>initializeIgnoredCacheObserver</string>
+	<key>setAsynchronousParamCreator</key>
+	<string>continueSymmetricOpacityGroup</string>
+	<key>startDifficultSceneContainer</key>
+	<string>keepLocalVariableDecorator</string>
+</dict>
+</plist>

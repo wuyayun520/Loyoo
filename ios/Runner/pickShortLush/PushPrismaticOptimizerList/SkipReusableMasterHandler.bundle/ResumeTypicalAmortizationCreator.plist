@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>getPublicVarFactory</key>
+	<string>markResilientSpriteContainer</string>
+	<key>getRelationalResilienceInstance</key>
+	<string>keepDiscardedNumberHandler</string>
+	<key>removeRelationalGrainProtocol</key>
+	<string>getTensorUtilObserver</string>
+	<key>resumeTensorTraversalImplement</key>
+	<string>setArithmeticNumberObserver</string>
+	<key>setPivotalFrameArray</key>
+	<string>getSymmetricFrameObserver</string>
+	<key>setSubtleScalabilityObserver</key>
+	<string>initializePrimaryReferenceDelegate</string>
+	<key>startNextPermutationFactory</key>
+	<string>getLiteParameterPool</string>
+	<key>trainRespectiveSpecifierAdapter</key>
+	<string>obtainExplicitIntensityPool</string>
+</dict>
+</plist>

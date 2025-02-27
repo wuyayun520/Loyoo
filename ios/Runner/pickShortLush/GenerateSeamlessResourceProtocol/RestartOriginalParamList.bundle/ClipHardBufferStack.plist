@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>continueDisplayableSignHelper</key>
+	<string>prepareHardValueManager</string>
+	<key>resumeFusedMenuList</key>
+	<string>resumeDiscardedBottomList</string>
+	<key>seekFusedRemainderFilter</key>
+	<string>setUnsortedScaleExtension</string>
+	<key>stopPermissiveExponentOwner</key>
+	<string>trainAssociatedRotationDelegate</string>
+	<key>writeMainConfigurationContainer</key>
+	<string>getEnabledHeadCache</string>
+</dict>
+</plist>

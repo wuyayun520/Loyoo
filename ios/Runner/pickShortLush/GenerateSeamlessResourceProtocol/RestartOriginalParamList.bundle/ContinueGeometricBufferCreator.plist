@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>clearCriticalGramFilter</key>
+	<string>pauseRelationalShaderCollection</string>
+	<key>initializeLocalMatrixList</key>
+	<string>getHardPriorityArray</string>
+	<key>obtainCustomObserverCreator</key>
+	<string>cleanHyperbolicFlagsBase</string>
+	<key>pauseResilientTagProtocol</key>
+	<string>continueStaticTailPool</string>
+	<key>setMutableDetailManager</key>
+	<string>setSustainableSymbolHandler</string>
+	<key>touchPermissiveUtilManager</key>
+	<string>captureNormalParameterBase</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associateGlobalPopupFactory</key>
+	<string>getDedicatedPlaybackObserver</string>
+	<key>cancelPermanentCoordCollection</key>
+	<string>cloneBasicUtilGroup</string>
+	<key>getKeyViewDelegate</key>
+	<string>stopPivotalSkewXImplement</string>
+	<key>getUnsortedMemberOwner</key>
+	<string>trainPermissiveTagTarget</string>
+	<key>readRobustAspectDelegate</key>
+	<string>keepCurrentValueStack</string>
+	<key>restartFusedRestrictionFilter</key>
+	<string>setStandaloneValueType</string>
+	<key>searchEnabledMissionType</key>
+	<string>startAutoGateType</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cancelCrudeModuleFactory</key>
+	<string>getIgnoredConfigurationExtension</string>
+	<key>clipCustomizedApertureCollection</key>
+	<string>setConcurrentNavigationExtension</string>
+	<key>getIgnoredGridList</key>
+	<string>reflectLastIntegerCache</string>
+	<key>restoreMissedVolumeManager</key>
+	<string>finishPrevTailExtension</string>
+	<key>setEasyGiftHandler</key>
+	<string>setConsultativeResourceDelegate</string>
+	<key>startSynchronousValueHelper</key>
+	<string>refreshHierarchicalSkewYGroup</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>divideDirectBufferDelegate</key>
+	<string>enumerateSimilarTagPool</string>
+	<key>getCartesianRestrictionCollection</key>
+	<string>offsetTensorTempleArray</string>
+	<key>getTensorConvolutionCreator</key>
+	<string>skipIntuitiveRightBase</string>
+	<key>getUsedReductionExtension</key>
+	<string>skipUsedVectorManager</string>
+	<key>initializeLargeVolumeObserver</key>
+	<string>getSmallCoordCreator</string>
+	<key>stopAsynchronousVisibleTarget</key>
+	<string>getActivatedParameterDelegate</string>
+	<key>updateLiteBufferGroup</key>
+	<string>startRetainedTempleInstance</string>
+</dict>
+</plist>

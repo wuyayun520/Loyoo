@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fillIndependentBrushArray</key>
+	<string>endIntuitiveElementCollection</string>
+	<key>getRequiredVarDecorator</key>
+	<string>augmentPrevSpotGroup</string>
+	<key>prepareSymmetricViewInstance</key>
+	<string>getLocalGroupTarget</string>
+	<key>undertakeIntermediateAssetObserver</key>
+	<string>setLocalAssetDelegate</string>
+	<key>updateOldTextureObserver</key>
+	<string>displaySemanticIndexHelper</string>
+</dict>
+</plist>

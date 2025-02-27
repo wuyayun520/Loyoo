@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>convertTensorCharacterReference</key>
+	<string>scheduleMainSampleCollection</string>
+	<key>equalBackwardBaselineStack</key>
+	<string>finishUsedParamCache</string>
+	<key>getDenseGiftFactory</key>
+	<string>stopDedicatedCharacterObserver</string>
+	<key>getIterativeSliderHelper</key>
+	<string>setResilientThreadArray</string>
+	<key>initializeSharedVarStack</key>
+	<string>pauseEphemeralDurationFactory</string>
+	<key>prepareTensorVarHelper</key>
+	<string>setMultiTaxonomyBase</string>
+	<key>resumeConsultativeVisibleHelper</key>
+	<string>setCustomIndexDelegate</string>
+	<key>setSortedBandwidthImplement</key>
+	<string>prepareDirectParameterFilter</string>
+</dict>
+</plist>

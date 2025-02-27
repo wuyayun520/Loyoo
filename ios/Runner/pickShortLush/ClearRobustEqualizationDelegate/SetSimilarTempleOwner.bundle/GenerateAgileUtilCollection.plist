@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>initializeFirstSceneExtension</key>
+	<string>stopPublicVectorExtension</string>
+	<key>poolCriticalGrainCreator</key>
+	<string>getSortedCursorFactory</string>
+	<key>searchTensorPolyfillHandler</key>
+	<string>detachSingleButtonAdapter</string>
+	<key>setHierarchicalEdgeOwner</key>
+	<string>retrieveDelicateMenuAdapter</string>
+	<key>setSubsequentConfigurationStack</key>
+	<string>limitSemanticTopicFactory</string>
+	<key>trainGeometricDurationDelegate</key>
+	<string>endImmutableFeatureHelper</string>
+</dict>
+</plist>

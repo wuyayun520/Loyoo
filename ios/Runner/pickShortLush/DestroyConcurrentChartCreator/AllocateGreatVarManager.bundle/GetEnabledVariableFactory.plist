@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>getDedicatedParamArray</key>
+	<string>provideRetainedChecklistCollection</string>
+	<key>getRelationalParameterBase</key>
+	<string>getEuclideanSpriteFilter</string>
+	<key>insteadOriginalVarFilter</key>
+	<string>initializeMutableColorHandler</string>
+	<key>pauseStaticVarBase</key>
+	<string>dismissReusableMonsterOwner</string>
+	<key>setAgileTextureBase</key>
+	<string>displayPrevRectanglePool</string>
+	<key>skipSignificantBoundArray</key>
+	<string>getBasicSampleCollection</string>
+</dict>
+</plist>

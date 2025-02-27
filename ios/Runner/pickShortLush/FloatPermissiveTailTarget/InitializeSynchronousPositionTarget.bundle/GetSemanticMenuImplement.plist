@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>getCustomizedVisibleFactory</key>
+	<string>prepareStandaloneGridType</string>
+	<key>getSingleParameterList</key>
+	<string>getMediocreSpecifierInstance</string>
+	<key>keepSignificantScenarioHandler</key>
+	<string>mitigateKeyNumberPool</string>
+	<key>releaseFusedParamList</key>
+	<string>getOldChapterDelegate</string>
+</dict>
+</plist>

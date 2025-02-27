@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cleanSortedSpriteOwner</key>
+	<string>setPrevIndexFilter</string>
+	<key>endMainVarDecorator</key>
+	<string>setImmutableHashStack</string>
+	<key>resumePermanentVarCollection</key>
+	<string>setGlobalShaderReference</string>
+	<key>setLastZoneArray</key>
+	<string>getNormalPolygonProtocol</string>
+	<key>skipIndependentGrainCreator</key>
+	<string>unlockPrismaticShapePool</string>
+	<key>skipUnsortedEffectDecorator</key>
+	<string>restartOtherValueManager</string>
+</dict>
+</plist>

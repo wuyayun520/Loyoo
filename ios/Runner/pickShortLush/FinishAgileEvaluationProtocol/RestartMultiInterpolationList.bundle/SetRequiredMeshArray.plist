@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>enhanceUsedEdgeCache</key>
+	<string>skipOriginalBitrateReference</string>
+	<key>equalCrudeConfidentialityDelegate</key>
+	<string>optimizeLargeDeliveryContainer</string>
+	<key>getIntuitiveStatusReference</key>
+	<string>setEuclideanFrameFilter</string>
+	<key>rotateDirectTailFactory</key>
+	<string>skipStaticSkewYPool</string>
+	<key>skipRespectiveBaselineHelper</key>
+	<string>setNextDescriptionProtocol</string>
+	<key>transposeSubstantialOperationList</key>
+	<string>setSubsequentInterfacePool</string>
+</dict>
+</plist>

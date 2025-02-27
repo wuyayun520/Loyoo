@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>freeSimilarZonePool</key>
+	<string>showCrudeParameterCreator</string>
+	<key>getDiscardedQueueInstance</key>
+	<string>removeSymmetricVariableBase</string>
+	<key>getEasyQueueExtension</key>
+	<string>setOriginalValueObserver</string>
+	<key>getSeamlessThroughputHandler</key>
+	<string>pushIterativeAnchorOwner</string>
+	<key>initializeSpecifyFeatureExtension</key>
+	<string>setDedicatedOptionExtension</string>
+	<key>pauseNewestAlphaExtension</key>
+	<string>setSubtleParamHandler</string>
+	<key>setFirstDepthContainer</key>
+	<string>skipIgnoredItemCollection</string>
+	<key>setSharedDepthTarget</key>
+	<string>skipSeamlessStateCreator</string>
+	<key>stopSecondBatchDelegate</key>
+	<string>retainOriginalFlagsArray</string>
+</dict>
+</plist>

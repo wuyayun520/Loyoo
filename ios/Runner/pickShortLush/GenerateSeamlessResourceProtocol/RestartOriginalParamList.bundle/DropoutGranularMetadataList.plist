@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>augmentExplicitUtilDelegate</key>
+	<string>continueAutoPositionFactory</string>
+	<key>cancelLostBottomObserver</key>
+	<string>getExplicitBufferFilter</string>
+	<key>detachOldBitrateGroup</key>
+	<string>getCurrentReplicaPool</string>
+	<key>prepareReusableVariableDecorator</key>
+	<string>insteadPriorChannelsHelper</string>
+	<key>removeStandaloneObserverFactory</key>
+	<string>getAgileStyleList</string>
+	<key>setSynchronousObjectReference</key>
+	<string>keepDisplayableValueCache</string>
+	<key>setUniqueTopAdapter</key>
+	<string>lockOriginalVarDelegate</string>
+</dict>
+</plist>

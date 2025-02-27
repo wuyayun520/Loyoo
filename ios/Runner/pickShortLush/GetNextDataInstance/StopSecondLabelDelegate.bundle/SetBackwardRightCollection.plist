@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animateSortedRotationGroup</key>
+	<string>skipBackwardCenterHandler</string>
+	<key>clipLocalResultContainer</key>
+	<string>restartSharedTimeStack</string>
+	<key>getElasticHeadCollection</key>
+	<string>analyzeStaticParameterContainer</string>
+	<key>setRelationalStyleBase</key>
+	<string>getIgnoredVisibleFactory</string>
+</dict>
+</plist>

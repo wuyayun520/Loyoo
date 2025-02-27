@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>calculateDisplayableVarObserver</key>
+	<string>getKeyValueCreator</string>
+	<key>computeCrudeConfigurationHelper</key>
+	<string>endReusableWorkflowManager</string>
+	<key>continueActivatedNameHandler</key>
+	<string>preparePermanentParamHandler</string>
+	<key>getSimilarBufferHelper</key>
+	<string>setDisplayableInitiativeFilter</string>
+	<key>initializeEuclideanPriorityFilter</key>
+	<string>setDeclarativeRouteDecorator</string>
+	<key>markRapidColorFilter</key>
+	<string>setMissedUtilDecorator</string>
+	<key>pauseHierarchicalTraversalCache</key>
+	<string>exitCurrentMasterHelper</string>
+	<key>renameConcurrentNumberReference</key>
+	<string>dissociateEuclideanHashDecorator</string>
+</dict>
+</plist>

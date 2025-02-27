@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocateAccessibleLatencyTarget</key>
+	<string>resumeGreatAnimationList</string>
+	<key>setCustomVectorHelper</key>
+	<string>getUsedTaskFilter</string>
+	<key>setLastOperationManager</key>
+	<string>restartCartesianEdgeArray</string>
+	<key>trainMainDispatcherList</key>
+	<string>calculateSynchronousSkewYPool</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>getAccessibleNodeCreator</key>
+	<string>initializeStandaloneMasterBase</string>
+	<key>getStandaloneImageReference</key>
+	<string>pauseCustomIndexFactory</string>
+	<key>restartReusableVariableType</key>
+	<string>rotateFirstVolumeReference</string>
+	<key>setActivatedAspectDecorator</key>
+	<string>trainDiscardedBufferContainer</string>
+	<key>trainPrevIndexCreator</key>
+	<string>insteadUniqueTagHelper</string>
+	<key>updateMediumMendType</key>
+	<string>allocateLostDepthContainer</string>
+</dict>
+</plist>

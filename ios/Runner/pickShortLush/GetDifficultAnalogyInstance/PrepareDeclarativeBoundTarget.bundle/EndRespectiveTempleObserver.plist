@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>createSimilarBoundList</key>
+	<string>skipSemanticCenterCollection</string>
+	<key>endRobustQuaternionInstance</key>
+	<string>getStaticReplicaFilter</string>
+	<key>locateGlobalElementProtocol</key>
+	<string>setDiscardedSlashImplement</string>
+	<key>setEnabledEfficiencyExtension</key>
+	<string>endAdvancedParamArray</string>
+	<key>stopNextValueReference</key>
+	<string>getProtectedTempleFilter</string>
+</dict>
+</plist>

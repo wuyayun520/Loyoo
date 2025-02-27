@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>embraceDedicatedParamPool</key>
+	<string>getConcurrentLossDelegate</string>
+	<key>getAsynchronousNodeTarget</key>
+	<string>getSecondDepthReference</string>
+	<key>initializeTensorDepthCreator</key>
+	<string>setSubtleTailFactory</string>
+	<key>keepFirstVariableFactory</key>
+	<string>getImmutableHeapGroup</string>
+	<key>pauseEuclideanCoordCollection</key>
+	<string>pushSustainableSignGroup</string>
+	<key>replacePrismaticActivityContainer</key>
+	<string>pauseProtectedBatchContainer</string>
+	<key>respondGranularSceneContainer</key>
+	<string>keepIntuitiveValueImplement</string>
+	<key>setStaticCenterType</key>
+	<string>setHyperbolicThresholdImplement</string>
+	<key>spinGranularHeadExtension</key>
+	<string>keepKeyParticleList</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>getEnabledVarOwner</key>
+	<string>keepElasticParameterCollection</string>
+	<key>getMainHeadHandler</key>
+	<string>eraseIterativeBufferImplement</string>
+	<key>pauseOtherBaselineArray</key>
+	<string>initializeMissedRotationCollection</string>
+	<key>prepareEasyMatrixPool</key>
+	<string>retainResilientRotationCache</string>
+	<key>setReusableParameterImplement</key>
+	<string>adjustSharedResultObserver</string>
+	<key>trainEphemeralPreviewCreator</key>
+	<string>getImmutableSkewYObserver</string>
+	<key>updateMediumCoordList</key>
+	<string>getDisplayableRightHandler</string>
+</dict>
+</plist>

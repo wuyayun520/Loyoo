@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animateUniqueBatchList</key>
+	<string>scheduleSubtleBufferObserver</string>
+	<key>continueLiteEdgeHandler</key>
+	<string>setGeometricChapterFactory</string>
+	<key>keepLostFlagsStack</key>
+	<string>setLargeRangeHelper</string>
+	<key>prepareConcurrentValueHelper</key>
+	<string>getNextMenuInstance</string>
+	<key>prepareElasticVariableGroup</key>
+	<string>setFirstConvolutionHelper</string>
+	<key>prepareResilientCubeHandler</key>
+	<string>getMainOptionCreator</string>
+	<key>pushNumericalScaleImplement</key>
+	<string>prepareProtectedShaderList</string>
+	<key>stopLastScaleBase</key>
+	<string>skipSecondScaleProtocol</string>
+</dict>
+</plist>

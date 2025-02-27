@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>continueCustomNumberHandler</key>
+	<string>getGranularImpressionBase</string>
+	<key>finishSpecifyParameterDecorator</key>
+	<string>setSeamlessDescentArray</string>
+	<key>getBackwardVisibleTarget</key>
+	<string>clipPrevScaleBase</string>
+	<key>getRetainedPositionFactory</key>
+	<string>poolDisplayableControllerExtension</string>
+	<key>prepareHyperbolicKernelCache</key>
+	<string>combineMainGateHandler</string>
+	<key>resumeSortedTernaryDecorator</key>
+	<string>differentiateSymmetricFormatAdapter</string>
+	<key>resumeTensorGraphType</key>
+	<string>getEnabledDetailExtension</string>
+	<key>searchMainOpacityHandler</key>
+	<string>setFusedChartInstance</string>
+</dict>
+</plist>

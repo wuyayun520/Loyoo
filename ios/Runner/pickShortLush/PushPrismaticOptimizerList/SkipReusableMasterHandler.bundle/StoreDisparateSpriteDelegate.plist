@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>equalMissedUtilPool</key>
+	<string>getCurrentTailBase</string>
+	<key>getMediocreEdgeGroup</key>
+	<string>removeHierarchicalResolverCache</string>
+	<key>initializeGlobalPositionReference</key>
+	<string>restoreIntermediateSlashReference</string>
+	<key>prepareMultiVariantTarget</key>
+	<string>restartRobustEvolutionDecorator</string>
+	<key>skipSecondSpriteDelegate</key>
+	<string>escalateHardVarCollection</string>
+</dict>
+</plist>

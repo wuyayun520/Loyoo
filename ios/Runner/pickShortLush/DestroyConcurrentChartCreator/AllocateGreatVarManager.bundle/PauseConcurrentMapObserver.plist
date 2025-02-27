@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animateBeginnerFrameGroup</key>
+	<string>insteadPriorScenarioObserver</string>
+	<key>equalRequiredTextureFactory</key>
+	<string>clipSeamlessHistogramExtension</string>
+	<key>prepareExplicitArchitectureProtocol</key>
+	<string>differentiateSmallVectorContainer</string>
+	<key>setCrudeRowProtocol</key>
+	<string>setSmartDispatcherFactory</string>
+	<key>setPriorHeroFilter</key>
+	<string>setPublicParameterObserver</string>
+	<key>storeHardStrokeExtension</key>
+	<string>cleanEphemeralRectGroup</string>
+	<key>unscheduleIgnoredBulletAdapter</key>
+	<string>endOpaqueFlagsCollection</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>enhanceCustomParamManager</key>
+	<string>parseMutableVariableManager</string>
+	<key>getAdvancedSkirtGroup</key>
+	<string>getStandaloneVariableContainer</string>
+	<key>getAsynchronousSizePool</key>
+	<string>getDisplayablePopupStack</string>
+	<key>parseDirectDepthExtension</key>
+	<string>locateStandaloneDescriptionHandler</string>
+	<key>reconcileGeometricInformationPool</key>
+	<string>getMutableVisibleAdapter</string>
+	<key>resumeSymmetricEdgeCollection</key>
+	<string>retrieveEuclideanQueueList</string>
+	<key>setResilientIntegrationArray</key>
+	<string>setStaticRemediationStack</string>
+</dict>
+</plist>

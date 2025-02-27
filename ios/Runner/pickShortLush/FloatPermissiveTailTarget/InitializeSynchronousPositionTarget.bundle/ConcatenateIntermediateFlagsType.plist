@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>freeBackwardPermutationProtocol</key>
+	<string>setNormalVariableExtension</string>
+	<key>generateMissedComponentCache</key>
+	<string>resumeUniqueEdgeDecorator</string>
+	<key>pauseDiscardedTextHelper</key>
+	<string>renameGlobalInfoType</string>
+	<key>prepareDisparateMendHelper</key>
+	<string>quantizerSemanticVarType</string>
+	<key>setSymmetricTopPool</key>
+	<string>setSymmetricComponentArray</string>
+	<key>setUniformVarFactory</key>
+	<string>syncSemanticParamType</string>
+</dict>
+</plist>

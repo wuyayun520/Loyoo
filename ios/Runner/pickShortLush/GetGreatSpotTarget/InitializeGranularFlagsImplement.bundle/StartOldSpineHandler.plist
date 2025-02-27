@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cancelSubsequentFrameDelegate</key>
+	<string>getUsedResilienceDecorator</string>
+	<key>getDisplayableEffectProtocol</key>
+	<string>enhanceSortedLayerStack</string>
+	<key>getHierarchicalHistogramContainer</key>
+	<string>setSeamlessValueCreator</string>
+	<key>getProtectedNumberOwner</key>
+	<string>readLastRightType</string>
+	<key>reduceUnactivatedTopGroup</key>
+	<string>cancelLargeIntensityCache</string>
+	<key>setFirstSpineFactory</key>
+	<string>getLiteFrameHelper</string>
+</dict>
+</plist>

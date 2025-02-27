@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>insteadRetainedChannelsHelper</key>
+	<string>reduceStaticVarHelper</string>
+	<key>keepNumericalVariableReference</key>
+	<string>adjustLiteParamType</string>
+	<key>pauseDirectShapeManager</key>
+	<string>moveCrucialNumberStack</string>
+	<key>prepareSpecifyHeadImplement</key>
+	<string>getPriorInformationArray</string>
+	<key>retainRelationalTopHelper</key>
+	<string>undertakePivotalChannelsReference</string>
+	<key>stopSubtleStrengthPool</key>
+	<string>setAgileParameterList</string>
+</dict>
+</plist>

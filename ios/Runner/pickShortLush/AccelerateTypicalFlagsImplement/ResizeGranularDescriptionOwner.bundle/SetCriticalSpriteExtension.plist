@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>addSynchronousOpacityHandler</key>
+	<string>prepareBasicPositionCreator</string>
+	<key>computeNextCursorCreator</key>
+	<string>getSimilarLeftManager</string>
+	<key>getAccessibleLabelContainer</key>
+	<string>provideSecondMasterArray</string>
+	<key>getIgnoredScenarioContainer</key>
+	<string>endSubstantialSpriteStack</string>
+	<key>getNumericalResolverCache</key>
+	<string>multiplyDiscardedValueDecorator</string>
+	<key>getRespectiveAssetInstance</key>
+	<string>cancelSemanticBottomHandler</string>
+	<key>keepPrevNumberObserver</key>
+	<string>getFusedPolyfillList</string>
+	<key>resumeSubtleBottomHandler</key>
+	<string>eraseArithmeticUnaryExtension</string>
+	<key>setAccordionSkewXFactory</key>
+	<string>continueDiscardedPreviewList</string>
+	<key>startIntuitiveZonePool</key>
+	<string>initializeMultiTopicManager</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>endRetainedSceneImplement</key>
+	<string>trainUniqueInfoDelegate</string>
+	<key>getSortedVariableOwner</key>
+	<string>embedSemanticFragmentsHelper</string>
+	<key>initializeSeamlessProgressBarStack</key>
+	<string>skipSmartSchemaAdapter</string>
+	<key>keepLostCycleType</key>
+	<string>replaceMissedParticleImplement</string>
+	<key>restartRequiredPolygonBase</key>
+	<string>quantizerSignificantTempleObserver</string>
+</dict>
+</plist>

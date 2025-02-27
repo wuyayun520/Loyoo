@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>detachMainGroupManager</key>
+	<string>dropoutDirectFormatHelper</string>
+	<key>getNormalTailDelegate</key>
+	<string>getDiversifiedCardCollection</string>
+	<key>getPriorBufferObserver</key>
+	<string>trainSpecifyGraphManager</string>
+	<key>obtainLargeTextureExtension</key>
+	<string>stopUsedParameterGroup</string>
+	<key>pauseCartesianEquipmentInstance</key>
+	<string>executeProtectedTempleAdapter</string>
+	<key>resumeRequiredScaleArray</key>
+	<string>makeStaticFrameBase</string>
+</dict>
+</plist>

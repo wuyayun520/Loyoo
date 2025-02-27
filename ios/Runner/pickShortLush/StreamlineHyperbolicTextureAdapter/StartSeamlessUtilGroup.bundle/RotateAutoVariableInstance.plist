@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>enhanceResilientScaleTarget</key>
+	<string>setStandaloneTextureObserver</string>
+	<key>getAccordionBufferCreator</key>
+	<string>setDisplayableChartPool</string>
+	<key>getCustomizedTempleHelper</key>
+	<string>setCrucialGridManager</string>
+	<key>getSynchronousCertificateCollection</key>
+	<string>trainStaticParamFactory</string>
+	<key>prepareBeginnerEfficiencyHandler</key>
+	<string>setCrucialBufferOwner</string>
+	<key>resumeNextParameterFilter</key>
+	<string>setPermanentHashHandler</string>
+</dict>
+</plist>

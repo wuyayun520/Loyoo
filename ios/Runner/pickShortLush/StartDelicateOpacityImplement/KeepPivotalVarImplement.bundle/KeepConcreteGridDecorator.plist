@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>generateFusedCenterDecorator</key>
+	<string>startLostFrameObserver</string>
+	<key>getOldGrayscaleExtension</key>
+	<string>prepareSingleGrainFilter</string>
+	<key>initializeCurrentEdgeArray</key>
+	<string>getIntuitiveMetadataInstance</string>
+	<key>scheduleEuclideanTempleDecorator</key>
+	<string>skipPivotalResolverStack</string>
+	<key>stopAccordionMeshReference</key>
+	<string>startConcreteParamObserver</string>
+</dict>
+</plist>

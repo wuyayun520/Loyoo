@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cancelOldIndexObserver</key>
+	<string>setEphemeralRotationType</string>
+	<key>equalHierarchicalInfoHelper</key>
+	<string>stopSemanticCenterStack</string>
+	<key>getNewestFeatureContainer</key>
+	<string>restartNormalEdgeList</string>
+	<key>setActivatedAllocatorBase</key>
+	<string>getDisparateValueManager</string>
+</dict>
+</plist>

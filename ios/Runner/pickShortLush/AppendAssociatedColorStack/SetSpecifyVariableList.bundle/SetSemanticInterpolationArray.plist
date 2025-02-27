@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>calculateActivatedBufferCache</key>
+	<string>initializeReusableTemplePool</string>
+	<key>getLargeIndexPool</key>
+	<string>unlockSustainableZoneReference</string>
+	<key>getMediumLeftCache</key>
+	<string>limitIndependentFeatureStack</string>
+	<key>setSpecifyTempleObserver</key>
+	<string>unscheduleEphemeralPolygonObserver</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>continueIterativeSizeImplement</key>
+	<string>getPriorParticleCreator</string>
+	<key>embedDiversifiedSizeGroup</key>
+	<string>getSharedNumberExtension</string>
+	<key>endDirectlyRemainderArray</key>
+	<string>keepCurrentRowArray</string>
+	<key>finishCartesianReferenceObserver</key>
+	<string>pauseEnabledVectorExtension</string>
+	<key>initializeMediumLabelCache</key>
+	<string>initializePrevProvisionFilter</string>
+	<key>releaseOldComponentHandler</key>
+	<string>setStandaloneParamObserver</string>
+	<key>setDiversifiedEdgeTarget</key>
+	<string>prepareSharedObjectDelegate</string>
+</dict>
+</plist>

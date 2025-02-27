@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>getActivatedQueueArray</key>
+	<string>getCustomScaleExtension</string>
+	<key>getDenseIndexFilter</key>
+	<string>eraseIntuitiveNotationInstance</string>
+	<key>getFirstOptimizerCache</key>
+	<string>setDirectlyScenarioDecorator</string>
+	<key>getFirstStepExtension</key>
+	<string>parseMediumChartDecorator</string>
+	<key>pauseCriticalNormInstance</key>
+	<string>initializeSimilarTempleHelper</string>
+	<key>pauseOldFeatureOwner</key>
+	<string>setImmutableOriginStack</string>
+	<key>setMultiHeadHandler</key>
+	<string>setAdvancedGridStack</string>
+	<key>setUsedViewObserver</key>
+	<string>cancelUnactivatedHeadStack</string>
+</dict>
+</plist>

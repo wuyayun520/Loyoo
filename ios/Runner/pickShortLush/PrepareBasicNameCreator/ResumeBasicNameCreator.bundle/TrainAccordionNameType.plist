@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>divideImmutableFlagsList</key>
+	<string>dropoutIgnoredDimensionFilter</string>
+	<key>enumerateDenseConfigurationHandler</key>
+	<string>stopStaticProvisionCollection</string>
+	<key>getHardRectExtension</key>
+	<string>cancelOtherUtilCollection</string>
+	<key>limitProtectedNumberManager</key>
+	<string>streamlineDiscardedLayoutGroup</string>
+	<key>restartFirstFrameArray</key>
+	<string>trainKeyTrajectoryType</string>
+	<key>setMutableConstantGroup</key>
+	<string>writeLostEdgeManager</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>executeDedicatedControllerExtension</key>
+	<string>restartAgileLayoutAdapter</string>
+	<key>getSemanticEntropyCache</key>
+	<string>initializeLocalRowHelper</string>
+	<key>initializeLocalVariableObserver</key>
+	<string>finishSymmetricMenuObserver</string>
+	<key>initializeMediocreRemainderAdapter</key>
+	<string>finishSortedVariableDecorator</string>
+	<key>keepRetainedInfoReference</key>
+	<string>resumeResilientMomentumHelper</string>
+	<key>prepareBeginnerTempleAdapter</key>
+	<string>resumeMutableQueueGroup</string>
+	<key>setLiteLayoutCache</key>
+	<string>searchPrevRotationDelegate</string>
+	<key>stopIntuitiveMeshProtocol</key>
+	<string>pauseDelicateQueueContainer</string>
+	<key>unlockDelicateHeadObserver</key>
+	<string>decoupleConcurrentLoopOwner</string>
+</dict>
+</plist>

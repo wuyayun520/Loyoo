@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocateUnsortedNumberTarget</key>
+	<string>initializeSymmetricParticleManager</string>
+	<key>generateCustomizedGraphContainer</key>
+	<string>unlockCartesianScreenDelegate</string>
+	<key>getTensorOperationManager</key>
+	<string>resetProtectedBufferOwner</string>
+	<key>introspectRespectiveGrainDecorator</key>
+	<string>setArithmeticTimeReference</string>
+	<key>keepConsultativeOperationObserver</key>
+	<string>pauseRelationalColorDelegate</string>
+	<key>restoreDeclarativeSliderCreator</key>
+	<string>resetEnabledConstantList</string>
+	<key>setCustomPrecisionStack</key>
+	<string>cancelAutoBoxAdapter</string>
+	<key>setNumericalMobileFactory</key>
+	<string>setOriginalSizePool</string>
+	<key>skipBasicAssetGroup</key>
+	<string>setTensorTextAdapter</string>
+</dict>
+</plist>

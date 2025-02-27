@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>createMediumCatalystGroup</key>
+	<string>visitLargeBufferArray</string>
+	<key>getSharedBoundList</key>
+	<string>getDenseSubpixelDecorator</string>
+	<key>getUnsortedControllerImplement</key>
+	<string>getCriticalBufferArray</string>
+	<key>initializeResilientPreviewStack</key>
+	<string>initializeGreatMenuCollection</string>
+	<key>setDisparateProgressBarBase</key>
+	<string>setSharedLayoutOwner</string>
+	<key>startAdvancedSkewXPool</key>
+	<string>syncDedicatedVariableReference</string>
+</dict>
+</plist>

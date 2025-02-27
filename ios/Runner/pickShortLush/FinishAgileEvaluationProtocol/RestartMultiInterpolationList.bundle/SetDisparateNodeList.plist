@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>captureHardNumberFactory</key>
+	<string>setImmutableTextureGroup</string>
+	<key>compareDeclarativeParamFactory</key>
+	<string>endDirectlySoundFactory</string>
+	<key>endRobustHashArray</key>
+	<string>provideNumericalNumberProtocol</string>
+	<key>finishPublicFeatureImplement</key>
+	<string>getNormalInteractionProtocol</string>
+	<key>getDisplayableDispatcherHelper</key>
+	<string>setDenseDescriptionList</string>
+	<key>setAutoDistinctionObserver</key>
+	<string>getAutoDepthGroup</string>
+	<key>startBackwardGrainProtocol</key>
+	<string>executeDisplayableParamCollection</string>
+	<key>visitLocalStepStack</key>
+	<string>setDisplayableResultDecorator</string>
+</dict>
+</plist>

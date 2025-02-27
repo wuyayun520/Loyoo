@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>calculateBasicAnchorInstance</key>
+	<string>setBeginnerLayoutHelper</string>
+	<key>dropoutAccessibleGrainOwner</key>
+	<string>getSimilarEdgeTarget</string>
+	<key>generateSemanticButtonCache</key>
+	<string>initializeActivatedReplicaTarget</string>
+	<key>getSemanticTraversalManager</key>
+	<string>restartCustomizedHeroFactory</string>
+	<key>pauseLastBorderCollection</key>
+	<string>findTypicalCosineExtension</string>
+	<key>prepareNumericalAnchorFactory</key>
+	<string>getLastHeadCache</string>
+	<key>setBasicSkirtHelper</key>
+	<string>compareImmutableParamTarget</string>
+	<key>setOpaqueDispatcherReference</key>
+	<string>setPriorQueueTarget</string>
+	<key>updateSmartTaskCreator</key>
+	<string>getMissedNumberHelper</string>
+</dict>
+</plist>

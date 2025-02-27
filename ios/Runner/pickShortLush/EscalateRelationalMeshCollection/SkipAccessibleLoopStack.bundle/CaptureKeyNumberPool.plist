@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>continueLastCycleManager</key>
+	<string>continueHierarchicalResultHelper</string>
+	<key>getPermanentScaleReference</key>
+	<string>getStandaloneEvaluationHelper</string>
+	<key>parseIgnoredRendererArray</key>
+	<string>getIntuitiveCharacteristicOwner</string>
+	<key>setAccordionAudioCreator</key>
+	<string>setCurrentRotationAdapter</string>
+	<key>setHyperbolicLatencyStack</key>
+	<string>cloneMainBufferHandler</string>
+	<key>setNewestFeatureFactory</key>
+	<string>regulateRespectiveVarArray</string>
+	<key>skipCriticalGraphicInstance</key>
+	<string>getSharedTentativeFilter</string>
+</dict>
+</plist>

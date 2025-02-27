@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aggregateSemanticVariableGroup</key>
+	<string>setIntermediateLayerType</string>
+	<key>getMutableVariableBase</key>
+	<string>retrieveRetainedVariableCache</string>
+	<key>getUniqueSignBase</key>
+	<string>divideGlobalElementExtension</string>
+	<key>parseKeyObserverGroup</key>
+	<string>lockCriticalRestrictionExtension</string>
+	<key>setEuclideanTopFactory</key>
+	<string>endGreatShapeCreator</string>
+	<key>setPublicNumberFactory</key>
+	<string>setIntuitiveGridHelper</string>
+	<key>startConsultativeVariableBase</key>
+	<string>drawSortedAmortizationCache</string>
+</dict>
+</plist>

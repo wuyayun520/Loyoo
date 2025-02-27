@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocateSemanticBoundManager</key>
+	<string>cancelNewestBufferDecorator</string>
+	<key>getFusedVariableOwner</key>
+	<string>setNumericalVarAdapter</string>
+	<key>getGlobalProfileImplement</key>
+	<string>resumeLostValueCache</string>
+	<key>getNextAssetStack</key>
+	<string>getDeclarativeOpacityObserver</string>
+	<key>initializeRequiredTempleStack</key>
+	<string>skipEuclideanFormatDecorator</string>
+	<key>setSecondMissionExtension</key>
+	<string>exitPrismaticProgressBarAdapter</string>
+</dict>
+</plist>

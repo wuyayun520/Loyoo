@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appendHardHeroList</key>
+	<string>embraceUsedSpriteType</string>
+	<key>getUnactivatedStatePool</key>
+	<string>cancelSortedRotationInstance</string>
+	<key>initializeGreatStyleProtocol</key>
+	<string>setSemanticCoordCollection</string>
+	<key>setElasticSpriteInstance</key>
+	<string>initializeSignificantBufferFactory</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associateCrudeMechanismInstance</key>
+	<string>limitSemanticParameterDelegate</string>
+	<key>clipLargeBufferInstance</key>
+	<string>stopSingleTentativeFactory</string>
+	<key>setArithmeticResolverProtocol</key>
+	<string>setDenseAccessoryManager</string>
+	<key>setHyperbolicOriginCache</key>
+	<string>cancelAsynchronousLayerBase</string>
+	<key>setIntuitivePriorityManager</key>
+	<string>displayOldArithmeticDecorator</string>
+	<key>setIterativeScaleHandler</key>
+	<string>getBeginnerConfidentialityImplement</string>
+	<key>setUsedNodeGroup</key>
+	<string>cancelOldNavigationManager</string>
+	<key>startGeometricBoundProtocol</key>
+	<string>unlockMediocreCenterProtocol</string>
+	<key>trainSubsequentOperationDecorator</key>
+	<string>cleanUnactivatedRightDecorator</string>
+</dict>
+</plist>

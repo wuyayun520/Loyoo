@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accelerateRapidNodeContainer</key>
+	<string>setOpaqueTopicExtension</string>
+	<key>getPrevPopupStack</key>
+	<string>updateDirectFeatureOwner</string>
+	<key>playKeyBatchGroup</key>
+	<string>restartReusableBufferArray</string>
+	<key>resumeReusableCenterOwner</key>
+	<string>getFirstPointStack</string>
+	<key>setBeginnerScaleHandler</key>
+	<string>quantizationSynchronousSpriteArray</string>
+</dict>
+</plist>

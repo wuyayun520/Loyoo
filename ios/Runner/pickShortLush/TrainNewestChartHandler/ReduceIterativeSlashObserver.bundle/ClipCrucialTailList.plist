@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>continueCriticalBufferAdapter</key>
+	<string>endProtectedSizeDelegate</string>
+	<key>dismissExplicitDispatcherObserver</key>
+	<string>setLargeUtilManager</string>
+	<key>getConcurrentNodeReference</key>
+	<string>setMainResolverAdapter</string>
+	<key>getGeometricTagFilter</key>
+	<string>getPermissivePositionDecorator</string>
+	<key>initializeRequiredBufferDelegate</key>
+	<string>getComprehensiveBandwidthGroup</string>
+	<key>prepareRespectiveNumberAdapter</key>
+	<string>getIntuitiveTailTarget</string>
+	<key>retrieveHardInfoPool</key>
+	<string>getCurrentTextureCache</string>
+	<key>startMainRowManager</key>
+	<string>resumeStaticConsumptionArray</string>
+	<key>trainArithmeticOriginFactory</key>
+	<string>setDiversifiedRecursionAdapter</string>
+</dict>
+</plist>

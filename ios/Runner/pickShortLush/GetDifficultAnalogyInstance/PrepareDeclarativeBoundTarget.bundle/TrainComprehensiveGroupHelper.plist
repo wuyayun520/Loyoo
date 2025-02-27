@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adjustRetainedSpriteTarget</key>
+	<string>setMutableBaseOwner</string>
+	<key>getConcreteInterpolationGroup</key>
+	<string>prepareUsedDocumentDecorator</string>
+	<key>initializeDifficultSignatureCache</key>
+	<string>dismissOldParamReference</string>
+	<key>resumeDelicateInterfaceContainer</key>
+	<string>startSemanticFrameCreator</string>
+	<key>resumeLostStyleContainer</key>
+	<string>setStandaloneAnimationHandler</string>
+	<key>setDiscardedRemainderCreator</key>
+	<string>trainAutoNumberHelper</string>
+	<key>startMediocreBufferTarget</key>
+	<string>setSophisticatedPreviewDecorator</string>
+</dict>
+</plist>

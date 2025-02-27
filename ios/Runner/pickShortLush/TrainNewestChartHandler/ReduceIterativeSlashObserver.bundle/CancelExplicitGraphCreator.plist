@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>endImmutableInterpolationStack</key>
+	<string>setAdvancedChallengeExtension</string>
+	<key>getCriticalSizeStack</key>
+	<string>restartNewestRendererInstance</string>
+	<key>getIntermediateOptionArray</key>
+	<string>startPrimaryFeatureManager</string>
+	<key>getPivotalBufferAdapter</key>
+	<string>offsetMainParamImplement</string>
+	<key>setAccordionSchemaArray</key>
+	<string>getMissedMetricsAdapter</string>
+	<key>setRobustTempleAdapter</key>
+	<string>addSemanticLabelExtension</string>
+	<key>undertakeCriticalVariableBase</key>
+	<string>readUniformConsumptionList</string>
+</dict>
+</plist>

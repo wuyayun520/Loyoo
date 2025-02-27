@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="19529" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_1" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="19519"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="System colors in document resources" minToolsVersion="11.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="EndTapView">
+            <connections>
+                <outlet property="latissimusDorsiView" destination="I9U-FB-12v" id="t07-IE-HBE"/>
+            </connections>
+        </placeholder>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="Tjr-lc-kS9">
+            <rect key="frame" x="0.0" y="0.0" width="388.6" height="317.6"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="I9U-FB-12v" opaque="NO" autoresizesSubviews="NO">
+                    <rect key="frame" x="0.0" y="0.0" width="388.6" height="317.6"/>
+                    <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                </view>
+            </subviews>
+            <viewLayoutGuide key="safeArea" id="Go8-Mq-feC"/>
+            <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+            <constraints>
+                <constraint firstItem="I9U-FB-12v" firstAttribute="leading" secondItem="Go8-Mq-feC" secondAttribute="leading" id="Z5q-ae-KHj"/>
+                <constraint firstAttribute="bottom" secondItem="I9U-FB-12v" secondAttribute="bottom" id="VZQ-2L-s3i"/>
+                <constraint firstItem="Go8-Mq-feC" firstAttribute="trailing" secondItem="I9U-FB-12v" secondAttribute="trailing" id="vsl-ko-yvU"/>
+                <constraint firstItem="I9U-FB-12v" firstAttribute="top" secondItem="Tjr-lc-kS9" secondAttribute="top" id="QiG-Zz-LFc"/>
+            </constraints>
+            <nil key="simulatedTopBarMetrics"/>
+            <nil key="simulatedBottomBarMetrics"/>
+            <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+            <point key="canvasLocation" x="-188.22398893817805" y="-201.9911"/>
+        </view>
+    </objects>
+    <resources>
+        <systemColor name="systemBackgroundColor">
+            <color white="1" alpha="0.89656242486679288" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+        </systemColor>
+    </resources>
+</document>

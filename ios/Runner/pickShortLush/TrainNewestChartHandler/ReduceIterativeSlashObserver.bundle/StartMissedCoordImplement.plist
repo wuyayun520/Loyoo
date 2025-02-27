@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>finishImmutableBufferArray</key>
+	<string>trainBeginnerGrainList</string>
+	<key>finishIterativeEfficiencyTarget</key>
+	<string>setTensorCenterAdapter</string>
+	<key>getDenseEdgeArray</key>
+	<string>seekMissedGrainHandler</string>
+	<key>getDisplayableVarTarget</key>
+	<string>clearOldResolverList</string>
+	<key>getUniqueFragmentGroup</key>
+	<string>insteadPrevActionObserver</string>
+	<key>quitDenseBoxImplement</key>
+	<string>prepareTypicalGroupArray</string>
+	<key>setSubtleTopicImplement</key>
+	<string>resumeDensePositionList</string>
+</dict>
+</plist>

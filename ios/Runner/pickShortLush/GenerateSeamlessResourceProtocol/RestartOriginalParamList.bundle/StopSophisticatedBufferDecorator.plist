@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dissociateAdvancedMovementManager</key>
+	<string>setRetainedStyleDelegate</string>
+	<key>getCommonVariableFilter</key>
+	<string>skipTensorInterfaceObserver</string>
+	<key>getSeamlessSliderArray</key>
+	<string>createBackwardModelFilter</string>
+	<key>resetMissedLabelStack</key>
+	<string>getAccessibleChapterInstance</string>
+	<key>restartIntuitiveBufferProtocol</key>
+	<string>keepGeometricSkewXReference</string>
+	<key>restartPivotalSizeExtension</key>
+	<string>keepUnsortedSceneCache</string>
+	<key>restartSemanticPreviewBase</key>
+	<string>reflectLastBufferBase</string>
+</dict>
+</plist>

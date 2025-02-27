@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>getMainTextureManager</key>
+	<string>pauseUniformOriginHelper</string>
+	<key>getRespectiveVisibleFactory</key>
+	<string>removeSynchronousInterfaceFilter</string>
+	<key>insteadGranularCubePool</key>
+	<string>quantizerMultiDisclaimerCollection</string>
+	<key>restartDiscardedVarReference</key>
+	<string>revisitTensorLoopFilter</string>
+	<key>restartSemanticUtilHelper</key>
+	<string>setTypicalVariableCreator</string>
+	<key>stopBasicTopicContainer</key>
+	<string>readStandaloneLeftInstance</string>
+</dict>
+</plist>

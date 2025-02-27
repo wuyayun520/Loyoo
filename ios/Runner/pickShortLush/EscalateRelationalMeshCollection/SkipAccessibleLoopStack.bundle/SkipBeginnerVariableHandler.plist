@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>continueMutableParticleExtension</key>
+	<string>retainNextIntensityExtension</string>
+	<key>getBackwardPetGroup</key>
+	<string>createCurrentPriorityDecorator</string>
+	<key>getCriticalRightTarget</key>
+	<string>showSmallReliabilityDecorator</string>
+	<key>getOriginalReductionOwner</key>
+	<string>pauseAsynchronousBufferContainer</string>
+	<key>prepareAccordionParamContainer</key>
+	<string>setConsultativeQueueObserver</string>
+	<key>searchUsedGraphStack</key>
+	<string>setSortedParamHandler</string>
+	<key>showNumericalExponentHandler</key>
+	<string>resumeKeyImageCreator</string>
+	<key>touchDirectSubpixelFilter</key>
+	<string>getMediocreSessionFactory</string>
+	<key>wrapIgnoredVariableHelper</key>
+	<string>setNormalVariableStack</string>
+</dict>
+</plist>

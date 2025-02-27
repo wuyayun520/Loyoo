@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>initializeSemanticBufferExtension</key>
+	<string>stopDirectValueProtocol</string>
+	<key>keepSemanticSpineGroup</key>
+	<string>keepNormalVariableImplement</string>
+	<key>parseSmallVarDecorator</key>
+	<string>setEasyReplicaBase</string>
+	<key>reduceRelationalFlagsPool</key>
+	<string>setUsedGrayscaleOwner</string>
+	<key>reduceSeamlessRowFilter</key>
+	<string>setNextTextProtocol</string>
+	<key>unlockDisplayableNameDelegate</key>
+	<string>getConcurrentGraphCollection</string>
+	<key>wrapAccessibleGrainStack</key>
+	<string>getImmutableHeadStack</string>
+</dict>
+</plist>

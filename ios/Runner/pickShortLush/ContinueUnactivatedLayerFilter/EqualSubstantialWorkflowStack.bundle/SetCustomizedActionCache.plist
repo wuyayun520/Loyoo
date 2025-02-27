@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>addSemanticRectangleObserver</key>
+	<string>stopMutableIndexPool</string>
+	<key>generateSeamlessVariableFactory</key>
+	<string>skipArithmeticContrastHelper</string>
+	<key>getAutoSceneManager</key>
+	<string>pauseOtherLatencyInstance</string>
+	<key>getCrucialStyleManager</key>
+	<string>getLastGraphExtension</string>
+	<key>keepIntermediateLoopCache</key>
+	<string>analyzeAdvancedCoordinatorAdapter</string>
+	<key>resumeLocalCenterManager</key>
+	<string>getDelicateSkinReference</string>
+	<key>skipHierarchicalParameterAdapter</key>
+	<string>skipGreatVarObserver</string>
+	<key>startBackwardVariableImplement</key>
+	<string>getOriginalTangentCreator</string>
+</dict>
+</plist>

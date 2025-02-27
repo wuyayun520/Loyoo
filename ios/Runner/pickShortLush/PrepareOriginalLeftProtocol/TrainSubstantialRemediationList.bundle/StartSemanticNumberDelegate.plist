@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>initializeSeamlessOpacityList</key>
+	<string>keepOldLoopInstance</string>
+	<key>keepOriginalSpriteExtension</key>
+	<string>encapsulateSubsequentEdgeDecorator</string>
+	<key>resumeCartesianVariableCollection</key>
+	<string>setDedicatedEvaluationImplement</string>
+	<key>setImmutableChapterReference</key>
+	<string>setMediumLoopImplement</string>
+	<key>undertakeNormalVariableReference</key>
+	<string>setLargeMenuContainer</string>
+</dict>
+</plist>

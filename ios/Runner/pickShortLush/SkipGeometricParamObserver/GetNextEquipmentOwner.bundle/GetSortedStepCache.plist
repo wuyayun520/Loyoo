@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>endSymmetricViewCache</key>
+	<string>exitUnactivatedReferencePool</string>
+	<key>getPermanentCoordList</key>
+	<string>cloneUnactivatedBufferGroup</string>
+	<key>initializeCustomOriginManager</key>
+	<string>setAccordionGrayscaleFilter</string>
+	<key>provideSubsequentPositionFilter</key>
+	<string>stopAccessibleMobileManager</string>
+	<key>restoreSignificantMetadataHelper</key>
+	<string>prepareDiversifiedOptionBase</string>
+	<key>showConcurrentSignatureDecorator</key>
+	<string>setLostTailList</string>
+</dict>
+</plist>

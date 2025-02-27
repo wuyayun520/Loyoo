@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concatenateSymmetricFlagsTarget</key>
+	<string>setDeclarativeNumberCache</string>
+	<key>getBasicNumberCache</key>
+	<string>getReusableMenuType</string>
+	<key>navigateSharedVariableAdapter</key>
+	<string>holdHardSliderCollection</string>
+	<key>revisitElasticCoordPool</key>
+	<string>setMultiModelDecorator</string>
+	<key>setAdvancedLabelFilter</key>
+	<string>revisitCartesianLeftDelegate</string>
+	<key>setRelationalNameFilter</key>
+	<string>augmentMultiBufferArray</string>
+	<key>setSubstantialCapacityReference</key>
+	<string>stopSubstantialLayerOwner</string>
+</dict>
+</plist>

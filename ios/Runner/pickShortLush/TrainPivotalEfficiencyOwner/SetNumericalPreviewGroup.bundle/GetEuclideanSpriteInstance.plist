@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cleanRetainedSpriteCache</key>
+	<string>setDisplayableTempleContainer</string>
+	<key>embraceNextFrameStack</key>
+	<string>getConcurrentValueHelper</string>
+	<key>floatLocalHeroCache</key>
+	<string>skipStandaloneToleranceGroup</string>
+	<key>getLiteVarDelegate</key>
+	<string>setCartesianRotationFactory</string>
+	<key>keepDirectlySizeGroup</key>
+	<string>getLastAllocatorDecorator</string>
+	<key>stopSharedParameterHandler</key>
+	<string>getMediumChartHelper</string>
+</dict>
+</plist>

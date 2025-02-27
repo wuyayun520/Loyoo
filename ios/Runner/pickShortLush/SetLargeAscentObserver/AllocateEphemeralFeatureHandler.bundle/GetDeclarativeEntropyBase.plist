@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>embedNextGrainType</key>
+	<string>getProtectedHeadOwner</string>
+	<key>getCartesianModuleDelegate</key>
+	<string>dissociateConcurrentTernaryDelegate</string>
+	<key>getDiscardedFormatExtension</key>
+	<string>getUniqueTechniqueInstance</string>
+	<key>keepIterativeLoopArray</key>
+	<string>dissociateSingleTextCache</string>
+	<key>limitLocalLayerPool</key>
+	<string>preparePermissiveHeapCollection</string>
+	<key>quantizationHardExponentGroup</key>
+	<string>getGlobalDepthDecorator</string>
+	<key>stopRapidSignatureFactory</key>
+	<string>getSpecifyTopType</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>keepPriorBoundExtension</key>
+	<string>keepSharedFeatureCollection</string>
+	<key>obtainRetainedLayoutHelper</key>
+	<string>displayUnactivatedBufferHandler</string>
+	<key>setPermanentFlagsFactory</key>
+	<string>resumeSymmetricRotationHandler</string>
+	<key>streamlineDisplayableStylePool</key>
+	<string>resumePublicCoordinatorImplement</string>
+	<key>transposeUniqueNameDelegate</key>
+	<string>setReusableViewTarget</string>
+	<key>undertakeSubtleTernaryManager</key>
+	<string>getImmutablePreviewDecorator</string>
+</dict>
+</plist>

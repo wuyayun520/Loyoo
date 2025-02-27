@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>getCartesianRightObserver</key>
+	<string>getArithmeticRotationArray</string>
+	<key>getCurrentScaleHandler</key>
+	<string>setAsynchronousViewFactory</string>
+	<key>pauseSignificantAudioContainer</key>
+	<string>getGlobalTitleManager</string>
+	<key>resumeBeginnerLayerProtocol</key>
+	<string>insteadOtherBufferBase</string>
+	<key>setDeclarativeShaderCreator</key>
+	<string>syncPublicSkewYBase</string>
+	<key>setRequiredParticleReference</key>
+	<string>getRequiredEdgeReference</string>
+	<key>setSymmetricIntensityObserver</key>
+	<string>fillDifficultGridFactory</string>
+	<key>stopFusedTagExtension</key>
+	<string>continueSimilarParameterHelper</string>
+	<key>visitSymmetricVarInstance</key>
+	<string>trainBeginnerTempleDecorator</string>
+</dict>
+</plist>

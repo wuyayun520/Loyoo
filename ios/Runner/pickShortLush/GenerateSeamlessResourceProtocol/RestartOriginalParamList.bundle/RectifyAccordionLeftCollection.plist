@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>divideAutoAudioHandler</key>
+	<string>startDedicatedParamArray</string>
+	<key>makeOriginalTangentList</key>
+	<string>skipConcurrentDepthExtension</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>captureMutableValueImplement</key>
+	<string>getNormalStrengthType</string>
+	<key>escalateLastProvisionBase</key>
+	<string>setNewestCatalystObserver</string>
+	<key>getDirectlySizeFactory</key>
+	<string>showSignificantBufferManager</string>
+	<key>getFusedActionArray</key>
+	<string>skipKeyGateHelper</string>
+	<key>getRetainedValueProtocol</key>
+	<string>setEnabledSkewYHandler</string>
+	<key>resumeActivatedPopupStack</key>
+	<string>getRobustViewAdapter</string>
+	<key>setCriticalScaleAdapter</key>
+	<string>insteadSortedNumberFactory</string>
+	<key>setGlobalFlagsReference</key>
+	<string>convertAssociatedClusterStack</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>getDisplayableCapacitiesGroup</key>
+	<string>cancelUniqueRotationCache</string>
+	<key>pauseSmartRemainderGroup</key>
+	<string>reconcileSortedButtonCollection</string>
+	<key>restartPriorValueType</key>
+	<string>captureResilientCenterDecorator</string>
+	<key>setNewestInfrastructureDecorator</key>
+	<string>setFirstUtilAdapter</string>
+	<key>setStaticBottomBase</key>
+	<string>setEnabledOptionCache</string>
+	<key>skipProtectedDataPool</key>
+	<string>getAdvancedPolyfillCache</string>
+	<key>trainCustomHeadCache</key>
+	<string>getPermissiveMomentumStack</string>
+	<key>trainSeamlessSizeList</key>
+	<string>setMissedBufferExtension</string>
+</dict>
+</plist>

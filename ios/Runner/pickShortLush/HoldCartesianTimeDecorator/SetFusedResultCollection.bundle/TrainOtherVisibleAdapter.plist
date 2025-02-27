@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associateResilientResultDecorator</key>
+	<string>setElasticFrameCreator</string>
+	<key>cancelAsynchronousScopeFilter</key>
+	<string>pausePrevVisibleContainer</string>
+	<key>encapsulateBeginnerRowDelegate</key>
+	<string>setPermissiveDurationGroup</string>
+	<key>getDifficultGroupHandler</key>
+	<string>stopDedicatedElementManager</string>
+	<key>getSortedZoneStack</key>
+	<string>setSpecifyParameterFilter</string>
+	<key>revisitSubtleDispatcherImplement</key>
+	<string>endAssociatedBoxArray</string>
+	<key>setIntuitiveRendererOwner</key>
+	<string>getStaticBufferCollection</string>
+</dict>
+</plist>

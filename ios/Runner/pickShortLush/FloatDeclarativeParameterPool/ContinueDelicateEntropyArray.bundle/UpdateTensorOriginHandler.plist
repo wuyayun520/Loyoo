@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocateSmartMasterCollection</key>
+	<string>getGreatDescentExtension</string>
+	<key>getEasyLayoutExtension</key>
+	<string>reflectHierarchicalHeapFilter</string>
+	<key>getRapidContractionContainer</key>
+	<string>limitCommonTitleImplement</string>
+	<key>getRetainedValueManager</key>
+	<string>concatenateSmallSkewYCache</string>
+	<key>limitSemanticParamImplement</key>
+	<string>setSortedBufferFilter</string>
+	<key>undertakeDenseBorderInstance</key>
+	<string>setUsedPositionCollection</string>
+</dict>
+</plist>

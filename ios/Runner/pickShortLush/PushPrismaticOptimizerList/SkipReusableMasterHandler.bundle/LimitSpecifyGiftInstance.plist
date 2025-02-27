@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cancelNextAllocatorObserver</key>
+	<string>dismissGreatNumberManager</string>
+	<key>clearStaticParamHandler</key>
+	<string>setOpaqueEffectFilter</string>
+	<key>dissociateLiteTweakTarget</key>
+	<string>setAccessibleValueDelegate</string>
+	<key>initializeLastImpressionInstance</key>
+	<string>pauseCurrentVarFactory</string>
+	<key>respondMainGraphProtocol</key>
+	<string>trainHierarchicalVisibleList</string>
+	<key>setCrudeSpriteDelegate</key>
+	<string>generateRapidMeshOwner</string>
+	<key>setRequiredEvaluationBase</key>
+	<string>pausePrimaryClusterCache</string>
+	<key>showCustomBehaviorInstance</key>
+	<string>associateSignificantShapeArray</string>
+	<key>skipRespectiveLoopCollection</key>
+	<string>eraseStandaloneSizeObserver</string>
+</dict>
+</plist>

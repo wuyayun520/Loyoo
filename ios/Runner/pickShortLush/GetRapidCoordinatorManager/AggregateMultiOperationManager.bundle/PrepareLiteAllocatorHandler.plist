@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cleanAgileParameterBase</key>
+	<string>setEphemeralValuePool</string>
+	<key>getSemanticCenterManager</key>
+	<string>initializePrismaticNumberFactory</string>
+	<key>pauseIterativeVisibleContainer</key>
+	<string>initializeSpecifyBufferObserver</string>
+	<key>unlockDeclarativeNodeObserver</key>
+	<string>prepareGeometricSchemaDecorator</string>
+</dict>
+</plist>

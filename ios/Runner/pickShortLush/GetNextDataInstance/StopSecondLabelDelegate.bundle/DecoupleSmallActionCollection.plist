@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocateBackwardElasticityFilter</key>
+	<string>initializeBackwardActivityContainer</string>
+	<key>cancelTensorValueContainer</key>
+	<string>skipSmallBufferManager</string>
+	<key>dissociateSemanticVarHandler</key>
+	<string>prepareLostValueManager</string>
+	<key>endGlobalNumberReference</key>
+	<string>searchMediocreMetadataFilter</string>
+	<key>pauseTypicalObjectContainer</key>
+	<string>getRespectiveCapsuleAdapter</string>
+	<key>prepareSingleAspectReference</key>
+	<string>skipAgileSkewYCache</string>
+	<key>releaseDeclarativeRowOwner</key>
+	<string>setEuclideanParameterTarget</string>
+	<key>setExplicitAccessoryCache</key>
+	<string>requestSignificantVariableArray</string>
+	<key>storeAdvancedSubpixelHelper</key>
+	<string>setGlobalIntensityHandler</string>
+</dict>
+</plist>

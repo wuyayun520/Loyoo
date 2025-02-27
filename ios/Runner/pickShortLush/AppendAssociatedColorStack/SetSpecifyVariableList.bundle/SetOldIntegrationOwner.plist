@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>multiplySemanticBufferAdapter</key>
+	<string>unlockSpecifyParticleFactory</string>
+	<key>prepareEnabledLoopContainer</key>
+	<string>keepPrimaryGraphicOwner</string>
+	<key>prepareSymmetricVarImplement</key>
+	<string>dismissDenseGraphicBase</string>
+	<key>releaseMainCoordContainer</key>
+	<string>getSynchronousOpacityPool</string>
+	<key>setCurrentParticleArray</key>
+	<string>transposeIntuitiveNodeImplement</string>
+</dict>
+</plist>

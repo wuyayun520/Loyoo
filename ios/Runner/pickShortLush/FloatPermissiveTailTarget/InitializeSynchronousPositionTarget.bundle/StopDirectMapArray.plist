@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>clipMissedValueFactory</key>
+	<string>getLiteOptimizerCreator</string>
+	<key>finishSmallViewObserver</key>
+	<string>cancelAdvancedProfileBase</string>
+	<key>reconcileStandaloneBufferManager</key>
+	<string>getLastInformationContainer</string>
+	<key>requestDelicateVariableTarget</key>
+	<string>analyzeIntermediateImpactDelegate</string>
+	<key>stopCrucialProjectProtocol</key>
+	<string>setConsultativeResolverManager</string>
+</dict>
+</plist>

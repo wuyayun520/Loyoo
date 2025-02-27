@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cancelDiscardedBottomTarget</key>
+	<string>getCrucialTweakOwner</string>
+	<key>getAutoParamHandler</key>
+	<string>getImmutableScaleInstance</string>
+	<key>getCommonLeftInstance</key>
+	<string>setPrimaryProjectFactory</string>
+	<key>getGeometricResultList</key>
+	<string>startDeclarativeAlphaReference</string>
+</dict>
+</plist>

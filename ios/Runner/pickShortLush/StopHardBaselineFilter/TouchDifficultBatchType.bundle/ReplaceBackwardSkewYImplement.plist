@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>extendDifficultImpressionHandler</key>
+	<string>skipSemanticFrameReference</string>
+	<key>getMultiVarProtocol</key>
+	<string>cancelFusedVarFactory</string>
+	<key>getTensorUtilImplement</key>
+	<string>cancelProtectedValueImplement</string>
+	<key>keepSubsequentBorderHelper</key>
+	<string>generateDisplayableVectorGroup</string>
+	<key>setAdvancedMeshList</key>
+	<string>stopExplicitTweakDelegate</string>
+</dict>
+</plist>

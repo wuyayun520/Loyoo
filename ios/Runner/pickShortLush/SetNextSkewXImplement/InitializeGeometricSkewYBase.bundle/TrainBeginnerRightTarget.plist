@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cancelCartesianFrameFilter</key>
+	<string>keepSimilarBorderReference</string>
+	<key>getFirstTweakDelegate</key>
+	<string>setSeamlessSkewYInstance</string>
+	<key>getStandaloneEdgeAdapter</key>
+	<string>mitigateSubsequentParamCache</string>
+	<key>obtainSymmetricTopManager</key>
+	<string>getConsultativeOptionFactory</string>
+	<key>quitSeamlessGiftAdapter</key>
+	<string>dropoutSpecifyBufferType</string>
+</dict>
+</plist>

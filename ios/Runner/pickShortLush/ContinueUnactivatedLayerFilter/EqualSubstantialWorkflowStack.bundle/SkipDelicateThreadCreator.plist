@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checkSustainableRowImplement</key>
+	<string>setRespectiveDeliveryGroup</string>
+	<key>embedLastPreviewImplement</key>
+	<string>pauseOldHeadHelper</string>
+	<key>initializeRapidTailExtension</key>
+	<string>continueUnsortedResultStack</string>
+	<key>prepareAgileSkewYStack</key>
+	<string>setUsedMechanismAdapter</string>
+	<key>quitCustomizedMatrixBase</key>
+	<string>startStaticDescriptionTarget</string>
+</dict>
+</plist>

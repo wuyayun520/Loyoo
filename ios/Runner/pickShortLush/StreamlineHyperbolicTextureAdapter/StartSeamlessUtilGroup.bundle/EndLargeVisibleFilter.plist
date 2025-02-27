@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cloneSophisticatedVarPool</key>
+	<string>initializeIntermediateQueueBase</string>
+	<key>getSecondColorFactory</key>
+	<string>insteadOldGrainAdapter</string>
+	<key>setLostBottomType</key>
+	<string>setGlobalVariableAdapter</string>
+	<key>trainDiscardedTweakHelper</key>
+	<string>resumeSmallControllerTarget</string>
+	<key>trainMediocreSliderHelper</key>
+	<string>getSmartPetHelper</string>
+</dict>
+</plist>

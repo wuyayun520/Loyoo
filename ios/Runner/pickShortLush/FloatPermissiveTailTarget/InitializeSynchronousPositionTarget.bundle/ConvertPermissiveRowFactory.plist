@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>augmentMediocreResultFactory</key>
+	<string>cloneAssociatedNumberHelper</string>
+	<key>getConcurrentDurationFactory</key>
+	<string>makeSemanticHeadList</string>
+	<key>getMainScalePool</key>
+	<string>appendProtectedSceneFilter</string>
+	<key>playSharedScaleFilter</key>
+	<string>setDiscardedCharacteristicOwner</string>
+	<key>resumeNormalBottomTarget</key>
+	<string>initializeDisparateCurveReference</string>
+	<key>setGreatSkewXReference</key>
+	<string>keepCriticalBehaviorDelegate</string>
+	<key>startCustomBufferStack</key>
+	<string>finishSymmetricTraversalCreator</string>
+</dict>
+</plist>

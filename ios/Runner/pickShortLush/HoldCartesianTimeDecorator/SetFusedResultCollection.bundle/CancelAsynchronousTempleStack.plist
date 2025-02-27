@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>addGlobalStepArray</key>
+	<string>setUniformCosineArray</string>
+	<key>addUsedUnaryHandler</key>
+	<string>optimizeBackwardBorderArray</string>
+	<key>cancelIntermediateScreenPool</key>
+	<string>floatSmallParameterObserver</string>
+	<key>floatArithmeticBufferType</key>
+	<string>respondIntuitiveReferenceTarget</string>
+	<key>getHierarchicalAspectBase</key>
+	<string>requestSignificantNumberDelegate</string>
+	<key>getSophisticatedBufferTarget</key>
+	<string>resumeRequiredParameterObserver</string>
+	<key>introspectPivotalSlashAdapter</key>
+	<string>startRespectiveInterfaceOwner</string>
+	<key>setGreatParamAdapter</key>
+	<string>reconcileCriticalNumberFilter</string>
+	<key>setLastDescriptorCache</key>
+	<string>setElasticHeadCreator</string>
+	<key>setUniqueNameFactory</key>
+	<string>initializeUsedPositionPool</string>
+</dict>
+</plist>

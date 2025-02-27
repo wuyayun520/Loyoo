@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>parseNormalParticleHandler</key>
+	<string>setEphemeralUtilProtocol</string>
+	<key>pauseRequiredCardBase</key>
+	<string>createCurrentGraphImplement</string>
+	<key>pauseSubsequentActivityCollection</key>
+	<string>divideSignificantRendererReference</string>
+	<key>pushSortedDescriptorGroup</key>
+	<string>prepareAssociatedScreenCreator</string>
+	<key>restartSingleConfigurationImplement</key>
+	<string>captureSharedBufferDecorator</string>
+	<key>seekHyperbolicIndexInstance</key>
+	<string>setSemanticTailStack</string>
+	<key>setOriginalHeadBase</key>
+	<string>skipBackwardColorDecorator</string>
+	<key>setUniformBufferFilter</key>
+	<string>preparePublicHeadProtocol</string>
+	<key>startCriticalDepthProtocol</key>
+	<string>getIntuitiveVertexArray</string>
+</dict>
+</plist>

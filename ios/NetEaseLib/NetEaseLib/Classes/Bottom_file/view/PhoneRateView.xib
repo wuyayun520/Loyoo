@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="19529" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_1" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="19519"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="System colors in document resources" minToolsVersion="11.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="PhoneRateView">
+            <connections>
+                <outlet property="crossheadButton" destination="Dt6-4E-bDP" id="hGR-xg-hwn"/>
+                <outlet property="ofButton" destination="vSy-z3-oZK" id="lJO-AY-43n"/>
+            </connections>
+        </placeholder>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="L2i-gb-BGt">
+            <rect key="frame" x="0.0" y="0.0" width="561.8" height="140.8"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <button contentMode="bottomLeft" horizontalCompressionResistancePriority="250" verticalCompressionResistancePriority="250" contentHorizontalAlignment="leading" contentVerticalAlignment="fill" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Dt6-4E-bDP" autoresizesSubviews="NO">
+                    <rect key="frame" x="230" y="1" width="266.8" height="107.3"/>
+                    <inset key="imageEdgeInsets" minX="0.0" minY="0.0" maxX="2.2250738585072014e-308" maxY="0.0"/>
+                    <state key="normal" title="except gift" image="visualisation_img">
+                        <color key="titleColor" red="0.29175799303593371" green="1" blue="0.22642940769333456" alpha="0.98721211924666993" colorSpace="custom" customColorSpace="sRGB"/>
+                    </state>
+                    <state key="disabled" title="label list" image="visualisation_img">
+                        <color key="titleColor" red="0.33774049805624884" green="0.86767750005254213" blue="0.63733400087760414" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                    </state>
+                    <state key="selected" title="gift" image="want_plus_image">
+                        <color key="titleColor" red="0.23984320494371814" green="0.99877128117234498" blue="0.90717425252837075" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                    </state>
+                </button>
+                <button contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" contentHorizontalAlignment="left" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="vSy-z3-oZK">
+                    <rect key="frame" x="0" y="3" width="225.8" height="107.3"/>
+                    <inset key="imageEdgeInsets" minX="0.0" minY="0.0" maxX="2.2250738585072014e-308" maxY="0.0"/>
+                    <state key="normal" title="out view" image="snap_img">
+                        <color key="titleColor" red="0.0" green="1" blue="0.12544046804686607" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                    </state>
+                    <state key="selected" title="cell start size" image="visualisation_img">
+                        <color key="titleColor" red="0.394796696" green="0.83161484770000005" blue="0.75892637900000004" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                    </state>
+                </button>
+            </subviews>
+            <viewLayoutGuide key="safeArea" id="fTJ-Cd-jcA"/>
+            <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+            <constraints>
+                <constraint firstItem="Dt6-4E-bDP" firstAttribute="top" secondItem="L2i-gb-BGt" secondAttribute="top" constant="2" id="MPq-OA-ZwX"/>
+                <constraint firstItem="vSy-z3-oZK" firstAttribute="top" secondItem="L2i-gb-BGt" secondAttribute="top" constant="2" id="f01-xi-tiX"/>
+                <constraint firstItem="vSy-z3-oZK" firstAttribute="leading" secondItem="Dt6-4E-bDP" secondAttribute="trailing" constant="5" id="dax-Zn-SDr"/>
+                <constraint firstAttribute="bottom" secondItem="Dt6-4E-bDP" secondAttribute="bottom" constant="6" id="Uro-HL-RVQ"/>
+                <constraint firstItem="Dt6-4E-bDP" firstAttribute="leading" secondItem="fTJ-Cd-jcA" secondAttribute="leading" id="MFc-y9-jNe"/>
+                <constraint firstAttribute="bottom" secondItem="vSy-z3-oZK" secondAttribute="bottom" constant="7" id="qeM-9r-U7v"/>
+                <constraint firstItem="fTJ-Cd-jcA" firstAttribute="trailing" secondItem="vSy-z3-oZK" secondAttribute="trailing" constant="5" id="KAI-9Z-1jb"/>
+            </constraints>
+            <nil key="simulatedTopBarMetrics"/>
+            <nil key="simulatedBottomBarMetrics"/>
+            <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+            <point key="canvasLocation" x="206.83061255363265" y="-184.26262975867012"/>
+        </view>
+    </objects>
+    <resources>
+        <image name="snap_img" width="56.1" height="75.2"/>
+        <image name="visualisation_img" width="56.1" height="75.2"/>
+        <image name="want_plus_image" width="56.1" height="75.2"/>
+        <systemColor name="systemBackgroundColor">
+            <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+        </systemColor>
+    </resources>
+</document>

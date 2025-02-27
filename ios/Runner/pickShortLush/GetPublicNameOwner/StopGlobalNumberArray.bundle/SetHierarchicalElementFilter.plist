@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cancelDedicatedNumberDelegate</key>
+	<string>setLastResultType</string>
+	<key>executeKeyPreviewType</key>
+	<string>setMainWorkflowProtocol</string>
+	<key>getUsedTempleInstance</key>
+	<string>pauseCurrentHashContainer</string>
+	<key>setDisparateDispatcherContainer</key>
+	<string>setCommonSizeExtension</string>
+	<key>setOriginalUnaryImplement</key>
+	<string>setLargeDepthCache</string>
+	<key>setPrimaryViewCreator</key>
+	<string>getEnabledValuePool</string>
+	<key>transposeTypicalTailFactory</key>
+	<string>getCrucialItemDecorator</string>
+</dict>
+</plist>

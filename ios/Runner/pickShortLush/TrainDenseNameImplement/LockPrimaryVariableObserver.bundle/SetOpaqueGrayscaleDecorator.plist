@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animateCommonTagList</key>
+	<string>embedReusableLoopProtocol</string>
+	<key>getMutableVarObserver</key>
+	<string>continueConcreteCacheProtocol</string>
+	<key>initializeOldBufferStack</key>
+	<string>requestIntermediateShapePool</string>
+	<key>markSemanticScalabilityDecorator</key>
+	<string>obtainSemanticVarFactory</string>
+	<key>pauseMediumEdgeFilter</key>
+	<string>stopGranularProgressBarDecorator</string>
+	<key>pauseUniqueMetadataObserver</key>
+	<string>combineSmartDataType</string>
+	<key>quitUniquePetHandler</key>
+	<string>prepareSmartScaleExtension</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>getSimilarTextureImplement</key>
+	<string>startUsedRecursionOwner</string>
+	<key>releaseSingleBorderGroup</key>
+	<string>stopKeyBufferCache</string>
+	<key>restartImmutableCoordImplement</key>
+	<string>setSimilarTopObserver</string>
+	<key>resumeDisplayableBufferArray</key>
+	<string>setDisplayableSizeOwner</string>
+	<key>unscheduleLostVarPool</key>
+	<string>setSubstantialVarStack</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>initializeLocalInstructionImplement</key>
+	<string>setUnsortedAllocatorStack</string>
+	<key>poolSpecifySizeImplement</key>
+	<string>updateRetainedIndexPool</string>
+	<key>setGlobalValueOwner</key>
+	<string>keepLocalVariableTarget</string>
+	<key>skipRespectiveIndexManager</key>
+	<string>convertSmartVarCollection</string>
+	<key>syncIterativeConfigurationContainer</key>
+	<string>continueTypicalTextDelegate</string>
+	<key>trainOtherAscentCache</key>
+	<string>continuePrimaryGrainOwner</string>
+</dict>
+</plist>

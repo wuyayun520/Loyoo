@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associateCurrentThresholdManager</key>
+	<string>provideLargeStrengthManager</string>
+	<key>continueUniformFrameObserver</key>
+	<string>getNextCacheAdapter</string>
+	<key>destroyOtherModulusHelper</key>
+	<string>readMediocreReferenceArray</string>
+	<key>extendDedicatedRowAdapter</key>
+	<string>compareCustomMultiplicationArray</string>
+	<key>getUnactivatedHeadGroup</key>
+	<string>setStandaloneSymbolHelper</string>
+	<key>optimizeElasticCacheBase</key>
+	<string>cancelSymmetricTimeStack</string>
+	<key>replaceElasticInteractionAdapter</key>
+	<string>pauseMediocreLogHandler</string>
+	<key>restartDenseValueCollection</key>
+	<string>setConcurrentTernaryAdapter</string>
+	<key>resumeUnactivatedNodeCreator</key>
+	<string>divideLitePositionCache</string>
+</dict>
+</plist>

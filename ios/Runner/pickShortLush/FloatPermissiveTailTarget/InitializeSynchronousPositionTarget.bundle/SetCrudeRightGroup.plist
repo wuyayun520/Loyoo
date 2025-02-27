@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>extendReusableRowGroup</key>
+	<string>keepLastMenuProtocol</string>
+	<key>retrieveCurrentIntensityCollection</key>
+	<string>cancelEnabledVariantList</string>
+	<key>setEnabledParameterCreator</key>
+	<string>insteadLocalColorExtension</string>
+	<key>setOtherStyleBase</key>
+	<string>conformFusedVariableCache</string>
+	<key>streamlineDifficultVariableManager</key>
+	<string>encapsulateUnsortedBufferStack</string>
+	<key>touchHardStyleDelegate</key>
+	<string>getHierarchicalModuleCreator</string>
+</dict>
+</plist>

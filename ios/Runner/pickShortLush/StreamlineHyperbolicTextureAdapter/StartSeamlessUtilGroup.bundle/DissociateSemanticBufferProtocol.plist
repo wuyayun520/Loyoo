@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>finishSeamlessEqualizationFactory</key>
+	<string>setEphemeralLabelCache</string>
+	<key>getMultiGroupHelper</key>
+	<string>getDeclarativeRestrictionFactory</string>
+	<key>getStandaloneGrainCreator</key>
+	<string>resetEnabledIndexManager</string>
+	<key>markDisparateParamCreator</key>
+	<string>setEphemeralTechniqueInstance</string>
+	<key>setDirectSignatureContainer</key>
+	<string>endSubsequentAllocatorCreator</string>
+	<key>startAssociatedCapacitiesCreator</key>
+	<string>getGeometricQueueFilter</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capturePrimaryAspectBase</key>
+	<string>stopDirectPositionGroup</string>
+	<key>drawSignificantSkewYImplement</key>
+	<string>calculateRelationalTopFilter</string>
+	<key>restartSingleAllocatorTarget</key>
+	<string>resumeReusableVariableManager</string>
+	<key>setCommonRestrictionType</key>
+	<string>introspectPermanentValueHelper</string>
+	<key>setLostUsageCache</key>
+	<string>renameIndependentParticleType</string>
+	<key>setMultiBottomTarget</key>
+	<string>getLiteHeadBase</string>
+	<key>setSymmetricMovementManager</key>
+	<string>replaceCrucialEdgeInstance</string>
+	<key>trainDiversifiedTopicGroup</key>
+	<string>trainUsedParamArray</string>
+</dict>
+</plist>

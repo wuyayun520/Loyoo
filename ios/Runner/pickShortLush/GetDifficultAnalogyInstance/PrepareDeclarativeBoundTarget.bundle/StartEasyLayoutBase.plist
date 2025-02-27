@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cancelSymmetricRecursionContainer</key>
+	<string>skipAccessibleEdgeCache</string>
+	<key>floatRobustValueCache</key>
+	<string>respondBasicVisibleArray</string>
+	<key>pauseFusedParameterFactory</key>
+	<string>finishDiversifiedAudioProtocol</string>
+	<key>provideAdvancedBorderFilter</key>
+	<string>setIterativeVarContainer</string>
+</dict>
+</plist>

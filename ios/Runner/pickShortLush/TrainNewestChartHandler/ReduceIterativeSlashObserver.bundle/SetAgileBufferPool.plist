@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>endAutoPositionObserver</key>
+	<string>setDirectSchedulerCache</string>
+	<key>finishCriticalUsageManager</key>
+	<string>endIndependentSizeInstance</string>
+	<key>getDedicatedLeftInstance</key>
+	<string>keepDenseValueCache</string>
+	<key>getSubsequentVariableHelper</key>
+	<string>setBackwardIndexList</string>
+	<key>quitDisparateDistinctionBase</key>
+	<string>getSymmetricQueueExtension</string>
+	<key>setHyperbolicIntegrationCache</key>
+	<string>getSmallBufferTarget</string>
+</dict>
+</plist>

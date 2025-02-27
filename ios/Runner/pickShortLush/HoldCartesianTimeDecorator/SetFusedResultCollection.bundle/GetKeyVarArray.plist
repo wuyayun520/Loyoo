@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>continueEnabledGroupExtension</key>
+	<string>setDeclarativeConstantTarget</string>
+	<key>getCartesianReplicaFactory</key>
+	<string>setRobustDispatcherManager</string>
+	<key>getCriticalGrainAdapter</key>
+	<string>skipSustainableMetadataDelegate</string>
+	<key>getRobustTimelineOwner</key>
+	<string>discoverDiscardedVertexDelegate</string>
+	<key>offsetDirectMechanismOwner</key>
+	<string>setUnsortedSpriteAdapter</string>
+	<key>prepareHyperbolicValueDelegate</key>
+	<string>touchFirstColorContainer</string>
+	<key>resumeCommonChapterType</key>
+	<string>setHyperbolicFeatureImplement</string>
+</dict>
+</plist>

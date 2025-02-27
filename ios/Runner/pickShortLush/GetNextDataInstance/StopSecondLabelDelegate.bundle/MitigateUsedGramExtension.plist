@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cancelIntermediateExponentObserver</key>
+	<string>addConcurrentDeliveryDelegate</string>
+	<key>cancelMutableAnimationObserver</key>
+	<string>startCurrentRowExtension</string>
+	<key>getAccordionIndicatorManager</key>
+	<string>setAssociatedBandwidthTarget</string>
+	<key>getGranularBufferList</key>
+	<string>setLastSkewXFactory</string>
+	<key>keepKeyBottomTarget</key>
+	<string>reconcileSubsequentParamExtension</string>
+	<key>markIndependentEvolutionArray</key>
+	<string>cancelPrevThroughputObserver</string>
+	<key>restartPriorVariantCreator</key>
+	<string>setAccordionIntegrityDelegate</string>
+	<key>startSpecifyMenuContainer</key>
+	<string>finishLostMenuOwner</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checkNormalZoneHandler</key>
+	<string>getNumericalZoneInstance</string>
+	<key>endDisplayableEdgeExtension</key>
+	<string>setOldValueHandler</string>
+	<key>getFusedVariableOwner</key>
+	<string>continueDisplayableBottomGroup</string>
+	<key>moveDifficultParameterManager</key>
+	<string>startPrismaticFlagsHandler</string>
+	<key>prepareCrucialEvaluationDelegate</key>
+	<string>restoreDenseTextContainer</string>
+	<key>setAssociatedFlagsReference</key>
+	<string>continueUniformScaleInstance</string>
+</dict>
+</plist>

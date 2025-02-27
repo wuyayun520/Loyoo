@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>conformLostReductionBase</key>
+	<string>setSemanticAnalogyList</string>
+	<key>getCrucialLabelHandler</key>
+	<string>getRetainedNameDecorator</string>
+	<key>getEasyIndexCreator</key>
+	<string>initializeRespectiveParamCreator</string>
+	<key>initializeAsynchronousParamAdapter</key>
+	<string>parseLiteValueAdapter</string>
+	<key>keepPermissiveContrastFilter</key>
+	<string>setCrudeRecursionInstance</string>
+	<key>pauseBeginnerVarFactory</key>
+	<string>provideOldMobileCreator</string>
+	<key>restartRapidObjectPool</key>
+	<string>multiplyLastBoundGroup</string>
+	<key>seekPrimaryMomentumCreator</key>
+	<string>cancelSmartSliderDecorator</string>
+	<key>setPrismaticTaxonomyDelegate</key>
+	<string>readGranularParticleDecorator</string>
+</dict>
+</plist>

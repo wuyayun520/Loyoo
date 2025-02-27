@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>decoupleSynchronousVolumeContainer</key>
+	<string>restartDiversifiedSlashHandler</string>
+	<key>enhanceMutableStrengthCache</key>
+	<string>getPermanentSkewXHelper</string>
+	<key>setGlobalScaleReference</key>
+	<string>initializeCommonTweakCache</string>
+	<key>setPrismaticParamStack</key>
+	<string>respondStaticDescentObserver</string>
+</dict>
+</plist>

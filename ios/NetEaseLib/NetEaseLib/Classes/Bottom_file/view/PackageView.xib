@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="19529" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_1" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="19519"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="System colors in document resources" minToolsVersion="11.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="PackageView">
+            <connections>
+                <outlet property="rowImageView" destination="Lca-jU-C9m" id="X4K-Zl-XnP"/>
+                <outlet property="textLabel" destination="G92-rD-EIl" id="sIw-r2-v1v"/>
+            </connections>
+        </placeholder>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="YRS-qa-Zr5" clipsSubviews="NO">
+            <rect key="frame" x="0.0" y="0.0" width="138.3" height="163.9"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <label opaque="NO" userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="pad path view with after" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="G92-rD-EIl" hidden="YES" clipsSubviews="NO" numberOfLines="9">
+                    <rect key="frame" x="-3" y="11" width="119.1" height="19.2"/>
+                    <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                    <nil key="textColor"/>
+                    <nil key="highlightedColor"/>
+                </label>
+                <imageView clipsSubviews="NO" userInteractionEnabled="NO" contentMode="topRight" horizontalCompressionResistancePriority="250" verticalCompressionResistancePriority="250" image="session_pic" highlightedImage="inside_img" translatesAutoresizingMaskIntoConstraints="NO" id="Lca-jU-C9m" clearsContextBeforeDrawing="NO">
+                    <rect key="frame" x="1" y="22.5" width="119.1" height="96.3"/>
+                </imageView>
+            </subviews>
+            <viewLayoutGuide key="safeArea" id="nMC-um-XM6"/>
+            <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+            <constraints>
+                <constraint firstItem="nMC-um-XM6" firstAttribute="bottom" secondItem="Lca-jU-C9m" secondAttribute="bottom" constant="7" id="rgO-Iz-VaX"/>
+                <constraint firstAttribute="trailing" secondItem="G92-rD-EIl" secondAttribute="trailing" constant="4" id="h8N-cw-rsM"/>
+                <constraint firstItem="G92-rD-EIl" firstAttribute="leading" secondItem="nMC-um-XM6" secondAttribute="leading" id="hCI-Tj-scs"/>
+                <constraint firstItem="Lca-jU-C9m" firstAttribute="leading" secondItem="nMC-um-XM6" secondAttribute="leading" constant="4" id="cFM-MC-YtR"/>
+                <constraint firstItem="G92-rD-EIl" firstAttribute="top" secondItem="YRS-qa-Zr5" secondAttribute="top" constant="7" id="LXA-11-1A4"/>
+                <constraint firstItem="nMC-um-XM6" firstAttribute="trailing" secondItem="Lca-jU-C9m" secondAttribute="trailing" constant="6" id="tx5-Uw-oD1"/>
+                <constraint firstItem="Lca-jU-C9m" firstAttribute="top" secondItem="G92-rD-EIl" secondAttribute="bottom" constant="2" id="pJf-Lu-ALK"/>
+            </constraints>
+            <nil key="simulatedTopBarMetrics"/>
+            <nil key="simulatedBottomBarMetrics"/>
+            <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+            <point key="canvasLocation" x="-71.047216774831480" y="-181.65631311829131"/>
+        </view>
+    </objects>
+    <resources>
+        <image name="session_pic" width="125.6" height="115.5"/>
+        <image name="inside_img" width="125.6" height="115.5"/>
+        <systemColor name="systemBackgroundColor">
+            <color white="1" alpha="0.82514067467180013" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+        </systemColor>
+    </resources>
+</document>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>continueSynchronousVariableStack</key>
+	<string>generateDirectlyParamAdapter</string>
+	<key>getSmallBufferFilter</key>
+	<string>cancelHierarchicalFormatHandler</string>
+	<key>getTypicalTitleAdapter</key>
+	<string>endPivotalEvaluationCreator</string>
+	<key>keepHierarchicalInitiatorsExtension</key>
+	<string>setLostPositionCache</string>
+	<key>makeElasticBufferObserver</key>
+	<string>keepSortedBufferOwner</string>
+	<key>retainPermanentVarHelper</key>
+	<string>getDisplayableMenuBase</string>
+	<key>setLocalZoneHelper</key>
+	<string>setStandaloneBufferPool</string>
+	<key>upgradeAccessibleNameFilter</key>
+	<string>resizeDeclarativeTextureAdapter</string>
+</dict>
+</plist>

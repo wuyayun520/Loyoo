@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>displayPrevIntensityContainer</key>
+	<string>finishConcurrentHeadContainer</string>
+	<key>getExplicitVariableDecorator</key>
+	<string>dismissDiscardedVarImplement</string>
+	<key>getRespectiveBoundBase</key>
+	<string>seekIterativeViewStack</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appendHierarchicalVariableHandler</key>
+	<string>setArithmeticDescriptionHandler</string>
+	<key>convertRespectivePositionCollection</key>
+	<string>getCurrentCoordPool</string>
+	<key>createFusedLoopAdapter</key>
+	<string>getHardColorType</string>
+	<key>floatStaticConsumptionExtension</key>
+	<string>prepareCustomTopPool</string>
+	<key>getEasyQuaternionType</key>
+	<string>getTensorPositionGroup</string>
+	<key>getMultiMetadataContainer</key>
+	<string>freeRequiredIntegrationManager</string>
+	<key>getOldRendererImplement</key>
+	<string>setIntuitiveBufferFilter</string>
+	<key>setSynchronousStrengthInstance</key>
+	<string>upgradeEphemeralPolyfillBase</string>
+	<key>stopStaticQueueCache</key>
+	<string>getIgnoredOriginPool</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>endPivotalVarBase</key>
+	<string>combineDedicatedCoordReference</string>
+	<key>generateAssociatedVisibleImplement</key>
+	<string>finishUsedVarContainer</string>
+	<key>getFusedBaseExtension</key>
+	<string>setLargeParameterHelper</string>
+	<key>getPivotalActivityCache</key>
+	<string>setRobustTernaryTarget</string>
+	<key>pauseElasticConvolutionProtocol</key>
+	<string>getStandaloneNodeReference</string>
+	<key>resetUnsortedHeapDecorator</key>
+	<string>resumeSharedReplicaTarget</string>
+	<key>restartFusedVectorPool</key>
+	<string>reflectSubtleSkewXCreator</string>
+</dict>
+</plist>

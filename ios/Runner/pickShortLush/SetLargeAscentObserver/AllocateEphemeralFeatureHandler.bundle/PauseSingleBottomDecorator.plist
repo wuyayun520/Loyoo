@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>getNumericalAssetHandler</key>
+	<string>getConcreteHeadCollection</string>
+	<key>setSharedValueFilter</key>
+	<string>cloneAsynchronousParameterAdapter</string>
+	<key>setSubtleGroupManager</key>
+	<string>getSharedParamTarget</string>
+	<key>startStaticPositionTarget</key>
+	<string>getSmallParamDecorator</string>
+</dict>
+</plist>

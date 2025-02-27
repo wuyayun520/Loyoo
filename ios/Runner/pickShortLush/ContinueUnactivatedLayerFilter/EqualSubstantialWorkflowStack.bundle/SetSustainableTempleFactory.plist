@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>combineDenseLoopDelegate</key>
+	<string>holdEnabledTentativeObserver</string>
+	<key>getCurrentAudioOwner</key>
+	<string>setIgnoredObjectPool</string>
+	<key>renameUnsortedNumberHandler</key>
+	<string>setSpecifyDescriptionStack</string>
+	<key>restartEphemeralBottomHelper</key>
+	<string>getCrucialSizeType</string>
+</dict>
+</plist>

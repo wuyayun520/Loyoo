@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>finishTypicalNameFactory</key>
+	<string>keepEphemeralChapterTarget</string>
+	<key>getMutableTagHandler</key>
+	<string>resizeOldParamImplement</string>
+	<key>getPrimaryIndexManager</key>
+	<string>visitConcreteRotationCollection</string>
+	<key>restartSmallEqualizationStack</key>
+	<string>replacePermanentIntensityHandler</string>
+	<key>skipDifficultNumberFilter</key>
+	<string>cancelLargeOriginObserver</string>
+</dict>
+</plist>

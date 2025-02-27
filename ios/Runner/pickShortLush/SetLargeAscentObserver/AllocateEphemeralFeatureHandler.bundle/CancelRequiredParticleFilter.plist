@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associateConcurrentSchemaInstance</key>
+	<string>startDifficultScaleHelper</string>
+	<key>createPermissiveBufferManager</key>
+	<string>stopKeyBufferArray</string>
+	<key>endPrimaryHashArray</key>
+	<string>calculateGreatAmortizationInstance</string>
+	<key>extendDenseCertificateTarget</key>
+	<string>convertSemanticParamStack</string>
+	<key>initializeConcreteLayoutType</key>
+	<string>escalateSharedParticleHelper</string>
+	<key>mitigateUsedTempleCollection</key>
+	<string>poolRespectiveStrengthHandler</string>
+	<key>setCrucialStylePool</key>
+	<string>restartPrevInterfaceArray</string>
+	<key>setRobustResourceType</key>
+	<string>restartResilientIndexStack</string>
+	<key>skipAgileOriginHelper</key>
+	<string>setConcreteResilienceHandler</string>
+</dict>
+</plist>

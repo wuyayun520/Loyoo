@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>limitRequiredAnalogyDecorator</key>
+	<string>getSharedDimensionTarget</string>
+	<key>respondSharedValueHelper</key>
+	<string>continueCommonIndexCollection</string>
+	<key>resumeLocalSpineList</key>
+	<string>finishMutableDescentCache</string>
+	<key>trainSecondVarList</key>
+	<string>finishProtectedValueObserver</string>
+	<key>wrapFirstBoundPool</key>
+	<string>getPriorVariableFilter</string>
+</dict>
+</plist>

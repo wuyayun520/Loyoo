@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>endCurrentEdgeHelper</key>
+	<string>resumeProtectedScaleOwner</string>
+	<key>insteadEnabledLabelType</key>
+	<string>getNewestOptimizerDecorator</string>
+	<key>quantizationProtectedGrainExtension</key>
+	<string>respondCurrentScaleHandler</string>
+	<key>setHardVarExtension</key>
+	<string>getOpaqueGroupArray</string>
+	<key>skipCurrentQuaternionBase</key>
+	<string>prepareGlobalNumberManager</string>
+</dict>
+</plist>

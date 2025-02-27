@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>addRequiredIndexType</key>
+	<string>setMainVisibleDecorator</string>
+	<key>cancelUnsortedObjectStack</key>
+	<string>trainBackwardViewContainer</string>
+	<key>finishEnabledToleranceCache</key>
+	<string>conformConcreteBorderList</string>
+	<key>getEuclideanRangeAdapter</key>
+	<string>pauseAsynchronousParamContainer</string>
+	<key>getLostDisclaimerList</key>
+	<string>pauseSynchronousParameterManager</string>
+	<key>initializeSimilarTailHandler</key>
+	<string>pauseConsultativePolyfillBase</string>
+	<key>startEnabledConfigurationReference</key>
+	<string>restartConsultativeSizeFilter</string>
+</dict>
+</plist>

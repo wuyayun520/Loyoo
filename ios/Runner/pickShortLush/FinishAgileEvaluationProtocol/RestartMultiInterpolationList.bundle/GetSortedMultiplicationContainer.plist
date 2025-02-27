@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>drawSymmetricSignImplement</key>
+	<string>resumeSpecifyVarObserver</string>
+	<key>getHardRectOwner</key>
+	<string>getSpecifyMatrixExtension</string>
+	<key>prepareDisplayableHeadImplement</key>
+	<string>getStandaloneEventStack</string>
+	<key>restartDirectlyViewExtension</key>
+	<string>stopDeclarativeVariableImplement</string>
+	<key>seekUniformHeadCreator</key>
+	<string>continueRobustControllerList</string>
+	<key>setSemanticPopupArray</key>
+	<string>unlockRetainedValueHandler</string>
+	<key>startUniformGateContainer</key>
+	<string>setCartesianAllocatorObserver</string>
+	<key>stopCriticalViewDelegate</key>
+	<string>pauseAccessibleExponentExtension</string>
+</dict>
+</plist>

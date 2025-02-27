@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>getLocalAssetCreator</key>
+	<string>setEasyAllocatorDelegate</string>
+	<key>getTensorHeadDecorator</key>
+	<string>skipCrudeChartHelper</string>
+	<key>pauseFusedEntropyHandler</key>
+	<string>restartLostBufferArray</string>
+	<key>trainEuclideanBufferManager</key>
+	<string>getBackwardBufferExtension</string>
+	<key>trainHardNumberImplement</key>
+	<string>animateRespectiveExponentArray</string>
+</dict>
+</plist>

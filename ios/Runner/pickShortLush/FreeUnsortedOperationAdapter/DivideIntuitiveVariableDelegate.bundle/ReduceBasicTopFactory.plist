@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>continueSingleTempleCollection</key>
+	<string>clearPublicFeatureGroup</string>
+	<key>extendLargeNotationArray</key>
+	<string>limitArithmeticBufferImplement</string>
+	<key>getGlobalLatencyImplement</key>
+	<string>getLocalSkewYExtension</string>
+	<key>getLostOperationImplement</key>
+	<string>getIntuitiveVariantHelper</string>
+	<key>offsetIgnoredFlagsDelegate</key>
+	<string>revisitOldTentativeDelegate</string>
+	<key>prepareHierarchicalEqualizationPool</key>
+	<string>analyzeAccessibleVarExtension</string>
+	<key>pushSophisticatedMobileTarget</key>
+	<string>moveEnabledParameterFilter</string>
+</dict>
+</plist>

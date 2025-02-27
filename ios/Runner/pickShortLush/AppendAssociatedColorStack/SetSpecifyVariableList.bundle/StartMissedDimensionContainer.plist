@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>continueSharedFlagsHelper</key>
+	<string>updateAsynchronousNumberBase</string>
+	<key>continueSignificantTopPool</key>
+	<string>setSingleDescentPool</string>
+	<key>introspectPermanentIndexManager</key>
+	<string>pushUnactivatedModuleDelegate</string>
+	<key>parseAsynchronousPositionFilter</key>
+	<string>allocateUnactivatedChartCollection</string>
+	<key>poolUnsortedMechanismManager</key>
+	<string>prepareCurrentCoordTarget</string>
+	<key>regulateSmallNameGroup</key>
+	<string>drawStaticEquivalentCollection</string>
+	<key>startActivatedTimelineReference</key>
+	<string>getSustainableScaleTarget</string>
+	<key>startMultiTitleDecorator</key>
+	<string>executeSemanticTempleManager</string>
+	<key>startReusableCenterGroup</key>
+	<string>setRetainedParticleFactory</string>
+</dict>
+</plist>

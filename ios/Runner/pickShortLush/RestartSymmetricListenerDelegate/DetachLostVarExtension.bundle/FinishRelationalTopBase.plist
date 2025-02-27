@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cancelSeamlessDepthPool</key>
+	<string>preparePermanentLoaderExtension</string>
+	<key>continueDiscardedRangeGroup</key>
+	<string>finishKeyScalabilityReference</string>
+	<key>equalTensorDepthTarget</key>
+	<string>keepIgnoredSkirtProtocol</string>
+	<key>finishLocalPositionReference</key>
+	<string>getSemanticValueFilter</string>
+	<key>getEuclideanVariableInstance</key>
+	<string>skipBasicBottomInstance</string>
+	<key>getMediumFrameExtension</key>
+	<string>mitigateMediocreDepthCache</string>
+	<key>getResilientHeadFilter</key>
+	<string>getSymmetricThresholdAdapter</string>
+	<key>keepOtherIntensityAdapter</key>
+	<string>finishSynchronousCurveFilter</string>
+	<key>prepareMediocreValueFactory</key>
+	<string>setRapidParameterExtension</string>
+</dict>
+</plist>

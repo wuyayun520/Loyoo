@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>clearAssociatedZoneHelper</key>
+	<string>skipBackwardValueCollection</string>
+	<key>embraceSymmetricTextInstance</key>
+	<string>keepDiscardedNumberGroup</string>
+	<key>holdElasticParamGroup</key>
+	<string>getLastModuleInstance</string>
+	<key>initializeMainPopupArray</key>
+	<string>transposeBeginnerInteractionCache</string>
+	<key>pauseCommonLatencyReference</key>
+	<string>stopEphemeralMultiplicationInstance</string>
+	<key>preparePriorCoordinatorTarget</key>
+	<string>locateCurrentCapacitiesStack</string>
+	<key>resumeActivatedModuleArray</key>
+	<string>getBeginnerSliderObserver</string>
+	<key>resumeActivatedTextObserver</key>
+	<string>setSignificantIndexStack</string>
+	<key>stopGranularPopupInstance</key>
+	<string>stopMutableCenterDelegate</string>
+</dict>
+</plist>

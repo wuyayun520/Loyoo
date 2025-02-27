@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cancelIterativeRightCache</key>
+	<string>resumeElasticHistogramHelper</string>
+	<key>clearAgileResilienceCache</key>
+	<string>resumeRelationalPopupDelegate</string>
+	<key>finishCartesianVarHelper</key>
+	<string>setDenseHeapBase</string>
+	<key>initializeDiscardedEdgeBase</key>
+	<string>setPrimaryBinaryBase</string>
+	<key>initializeSecondResultAdapter</key>
+	<string>finishPrimaryScreenImplement</string>
+	<key>keepResilientMediaFilter</key>
+	<string>getSemanticLatencyBase</string>
+	<key>setSustainableSkinCache</key>
+	<string>moveAutoGraphHandler</string>
+	<key>setUnactivatedIntensityHandler</key>
+	<string>getCriticalVariableObserver</string>
+	<key>skipCrudeRowManager</key>
+	<string>startPrimaryButtonHandler</string>
+</dict>
+</plist>

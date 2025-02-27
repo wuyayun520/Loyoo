@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>getTensorNumberImplement</key>
+	<string>cancelUnactivatedLayerBase</string>
+	<key>initializeFusedBufferPool</key>
+	<string>adjustTensorNameType</string>
+	<key>keepSustainableCurveImplement</key>
+	<string>replaceMediumInterfaceImplement</string>
+	<key>resumeResilientBitratePool</key>
+	<string>setPivotalQueueDelegate</string>
+	<key>resumeSubtleParticleHandler</key>
+	<string>releaseLargeQueueTarget</string>
+</dict>
+</plist>

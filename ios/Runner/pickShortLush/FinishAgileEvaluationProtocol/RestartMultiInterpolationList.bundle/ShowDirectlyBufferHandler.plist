@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>getOtherLoopFilter</key>
+	<string>restartProtectedValuePool</string>
+	<key>getStandaloneVarImplement</key>
+	<string>getRequiredEffectContainer</string>
+	<key>initializeStaticVariableHandler</key>
+	<string>keepBeginnerTweakExtension</string>
+	<key>multiplyCrudeEdgePool</key>
+	<string>setFirstEdgeDelegate</string>
+	<key>setPermissiveArchitectureInstance</key>
+	<string>enhanceMutableSineStack</string>
+	<key>skipGreatMetricsOwner</key>
+	<string>getSynchronousInitiativeReference</string>
+	<key>storeSharedCenterDelegate</key>
+	<string>getStaticCosineDecorator</string>
+</dict>
+</plist>

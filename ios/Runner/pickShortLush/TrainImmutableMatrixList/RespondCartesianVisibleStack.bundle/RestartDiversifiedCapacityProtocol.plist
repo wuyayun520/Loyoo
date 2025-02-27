@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>destroySingleOriginImplement</key>
+	<string>setSemanticBoundDelegate</string>
+	<key>endRespectiveTailCache</key>
+	<string>getMediumPolyfillManager</string>
+	<key>fillDisplayableAxisDelegate</key>
+	<string>concatenateCommonModuleHandler</string>
+	<key>getExplicitOriginManager</key>
+	<string>getDenseInfrastructureArray</string>
+	<key>resumeBackwardTempleManager</key>
+	<string>reduceProtectedSceneOwner</string>
+	<key>setResilientAxisList</key>
+	<string>pauseActivatedValuePool</string>
+	<key>startGlobalTextTarget</key>
+	<string>keepRelationalChapterGroup</string>
+	<key>trainDisplayableGridFactory</key>
+	<string>obtainTypicalValueDelegate</string>
+</dict>
+</plist>

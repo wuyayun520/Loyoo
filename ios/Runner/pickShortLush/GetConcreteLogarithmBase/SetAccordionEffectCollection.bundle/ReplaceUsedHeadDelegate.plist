@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concatenatePermanentBufferHandler</key>
+	<string>playActivatedCoordDecorator</string>
+	<key>extendRelationalVisibleFactory</key>
+	<string>setHardModuleHandler</string>
+	<key>keepOriginalOpacityCollection</key>
+	<string>obtainAssociatedAllocatorGroup</string>
+	<key>resumeDisparateBoundCollection</key>
+	<string>initializeRequiredCycleDelegate</string>
+</dict>
+</plist>

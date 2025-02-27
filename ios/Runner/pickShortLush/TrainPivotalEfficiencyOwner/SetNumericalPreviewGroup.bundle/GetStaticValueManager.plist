@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>getCrudeParameterExtension</key>
+	<string>skipMutableStyleType</string>
+	<key>getLostModuleExtension</key>
+	<string>holdOtherMapBase</string>
+	<key>upgradeBasicVarFactory</key>
+	<string>trainSortedEventArray</string>
+</dict>
+</plist>

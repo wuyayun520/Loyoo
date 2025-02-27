@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checkTypicalLayoutBase</key>
+	<string>setPermanentLayoutInstance</string>
+	<key>freeUsedInformationBase</key>
+	<string>mitigateDiversifiedBaselineManager</string>
+	<key>getDirectlyVarFactory</key>
+	<string>finishNextDistinctionProtocol</string>
+	<key>getSignificantLayerCache</key>
+	<string>clipRequiredSizeStack</string>
+	<key>getSignificantViewTarget</key>
+	<string>cleanNextTraversalFactory</string>
+	<key>initializeHardSceneTarget</key>
+	<string>locateEnabledAssetType</string>
+	<key>keepIntermediateGrainReference</key>
+	<string>setRapidFrameOwner</string>
+	<key>trainMediocreVertexGroup</key>
+	<string>syncDisparateBatchBase</string>
+	<key>updateLocalBehaviorExtension</key>
+	<string>setLostVarReference</string>
+</dict>
+</plist>

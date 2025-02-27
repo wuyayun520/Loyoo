@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>finishMultiChecklistDelegate</key>
+	<string>setHardTempleFilter</string>
+	<key>initializeEasyBufferCache</key>
+	<string>getOriginalCompositionDecorator</string>
+	<key>keepRequiredParameterCache</key>
+	<string>startArithmeticAllocatorCollection</string>
+	<key>pauseAdvancedCenterFactory</key>
+	<string>generateSortedNumberFactory</string>
+	<key>restartFirstShaderAdapter</key>
+	<string>getRetainedCharacterArray</string>
+	<key>resumeIndependentValueFactory</key>
+	<string>getRetainedOperationCollection</string>
+	<key>setSignificantParamContainer</key>
+	<string>trainSpecifyFrameHelper</string>
+	<key>trainSecondConfigurationTarget</key>
+	<string>finishMainTextureList</string>
+	<key>wrapDeclarativeTailBase</key>
+	<string>getAccordionTopicPool</string>
+	<key>wrapLastSizeDecorator</key>
+	<string>getDiscardedRotationPool</string>
+</dict>
+</plist>

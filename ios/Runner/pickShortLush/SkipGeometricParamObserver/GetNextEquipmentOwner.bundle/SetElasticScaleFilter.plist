@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>endLastMissionStack</key>
+	<string>setLiteVectorManager</string>
+	<key>endRequiredInteractionDelegate</key>
+	<string>keepStaticVariableProtocol</string>
+	<key>getRequiredFeatureProtocol</key>
+	<string>detachSortedParticleHandler</string>
+	<key>restartIterativeProvisionInstance</key>
+	<string>setResilientCenterCreator</string>
+	<key>setDirectlySkewXProtocol</key>
+	<string>introspectDenseResolverImplement</string>
+	<key>setHierarchicalIndexGroup</key>
+	<string>generateSharedEdgeProtocol</string>
+	<key>setPermanentNumberCreator</key>
+	<string>finishUniquePriorityReference</string>
+	<key>setProtectedAssetManager</key>
+	<string>continueAsynchronousCoordCache</string>
+</dict>
+</plist>

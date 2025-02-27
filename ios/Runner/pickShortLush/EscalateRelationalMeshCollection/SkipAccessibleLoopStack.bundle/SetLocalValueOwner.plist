@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cleanOpaqueStampCreator</key>
+	<string>setDirectLayerList</string>
+	<key>drawIterativeRectProtocol</key>
+	<string>setDirectlyPositionType</string>
+	<key>executeEnabledMissionPool</key>
+	<string>locateRobustCoordContainer</string>
+	<key>getDifficultSessionReference</key>
+	<string>skipAccordionParamPool</string>
+	<key>initializeOldEdgeFactory</key>
+	<string>getHardTentativeOwner</string>
+	<key>preparePrimarySceneDelegate</key>
+	<string>pauseTensorToleranceDelegate</string>
+	<key>setActivatedLogObserver</key>
+	<string>pauseLastBufferOwner</string>
+	<key>setGeometricParamCache</key>
+	<string>poolUnsortedOperationFactory</string>
+</dict>
+</plist>

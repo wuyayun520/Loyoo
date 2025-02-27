@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>readImmutableBufferGroup</key>
+	<string>setEphemeralTopicContainer</string>
+	<key>resumeBasicReliabilityGroup</key>
+	<string>prepareLostGrainPool</string>
+	<key>stopActivatedEvaluationType</key>
+	<string>prepareCurrentLeftExtension</string>
+	<key>stopMediocreBorderFilter</key>
+	<string>skipGeometricNumberList</string>
+</dict>
+</plist>

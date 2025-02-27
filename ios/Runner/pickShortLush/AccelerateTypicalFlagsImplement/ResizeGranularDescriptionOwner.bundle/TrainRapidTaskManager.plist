@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocateAsynchronousValueFactory</key>
+	<string>getReusableLoaderFactory</string>
+	<key>endHyperbolicResultManager</key>
+	<string>trainHierarchicalObjectHelper</string>
+	<key>getMultiSizeInstance</key>
+	<string>getLastProvisionContainer</string>
+	<key>resumeIntermediateButtonProtocol</key>
+	<string>keepFirstPreviewStack</string>
+	<key>shearTensorSchemaTarget</key>
+	<string>restartIntuitiveNumberOwner</string>
+</dict>
+</plist>

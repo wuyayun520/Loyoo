@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>generateCommonDataPool</key>
+	<string>setSimilarFlagsHelper</string>
+	<key>restartPermanentParameterHelper</key>
+	<string>cleanEuclideanFeatureGroup</string>
+	<key>startSmallGridGroup</key>
+	<string>initializeSmallZoneCollection</string>
+	<key>unscheduleGlobalBulletList</key>
+	<string>finishUnsortedMenuCreator</string>
+</dict>
+</plist>

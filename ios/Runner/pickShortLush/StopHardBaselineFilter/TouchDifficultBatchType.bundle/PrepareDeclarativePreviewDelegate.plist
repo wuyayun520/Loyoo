@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>prepareConcurrentStepTarget</key>
+	<string>resumePermissiveDescriptorManager</string>
+	<key>restartSymmetricVarStack</key>
+	<string>cancelIntermediateConstantList</string>
+	<key>resumeUniqueValueAdapter</key>
+	<string>getIterativeAllocatorCreator</string>
+	<key>setBackwardListenerExtension</key>
+	<string>startCommonSymbolType</string>
+	<key>setSimilarConfigurationProtocol</key>
+	<string>getEphemeralIndexHandler</string>
+</dict>
+</plist>

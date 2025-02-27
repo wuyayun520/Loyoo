@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>clipRespectiveLayoutDelegate</key>
+	<string>rotateEphemeralInteractionExtension</string>
+	<key>finishCurrentResolverOwner</key>
+	<string>getIndependentNotationBase</string>
+	<key>getTypicalNumberStack</key>
+	<string>skipAgileParamArray</string>
+	<key>setLiteValueCreator</key>
+	<string>keepConcreteFeatureDelegate</string>
+	<key>setOpaqueCenterHandler</key>
+	<string>getIntermediateOptionStack</string>
+	<key>skipTypicalVariableCreator</key>
+	<string>resumeDisplayableBufferHandler</string>
+	<key>updateBackwardPreviewObserver</key>
+	<string>getSophisticatedRemediationOwner</string>
+</dict>
+</plist>

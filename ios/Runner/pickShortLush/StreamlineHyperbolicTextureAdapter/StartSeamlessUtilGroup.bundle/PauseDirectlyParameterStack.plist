@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cancelOpaqueBandwidthTarget</key>
+	<string>setOriginalShaderArray</string>
+	<key>clipUniqueLoopList</key>
+	<string>executeSingleScenarioManager</string>
+	<key>initializeFusedPreviewFilter</key>
+	<string>restartOldFeatureContainer</string>
+	<key>reflectGeometricAccessoryBase</key>
+	<string>accelerateBackwardProjectionTarget</string>
+	<key>setUniformAllocatorObserver</key>
+	<string>setPrimaryLogExtension</string>
+	<key>unscheduleUsedVisibleFilter</key>
+	<string>resumeLostRestrictionReference</string>
+</dict>
+</plist>

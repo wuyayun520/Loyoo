@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>finishLastMenuStack</key>
+	<string>setLiteVarDecorator</string>
+	<key>getMissedScaleImplement</key>
+	<string>initializeSingleTentativeManager</string>
+	<key>getUsedReductionDecorator</key>
+	<string>getEnabledVisibleManager</string>
+	<key>setDirectlyTextHandler</key>
+	<string>getDiscardedGrainPool</string>
+	<key>setLiteListenerList</key>
+	<string>showIndependentBorderList</string>
+</dict>
+</plist>

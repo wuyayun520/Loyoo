@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>finishLocalVariableFilter</key>
+	<string>refreshNormalHeapDelegate</string>
+	<key>finishOpaqueParamBase</key>
+	<string>transposeMediumConfigurationFilter</string>
+	<key>prepareRetainedBorderCollection</key>
+	<string>getIntuitiveCycleInstance</string>
+	<key>setDiscardedCaptionPool</key>
+	<string>continueActivatedSoundPool</string>
+	<key>skipSeamlessResolverPool</key>
+	<string>setCrudeParticleFilter</string>
+</dict>
+</plist>

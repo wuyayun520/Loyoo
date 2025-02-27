@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checkEnabledTempleDecorator</key>
+	<string>prepareRelationalSchemaExtension</string>
+	<key>getDifficultThresholdInstance</key>
+	<string>accelerateSortedRendererAdapter</string>
+	<key>getHardBottomBase</key>
+	<string>getSynchronousSpriteCache</string>
+	<key>markOriginalBufferAdapter</key>
+	<string>quantizerImmutableCatalystAdapter</string>
+	<key>optimizeRequiredGrayscaleObserver</key>
+	<string>setAccordionInfrastructureFilter</string>
+	<key>quantizationTensorValueHandler</key>
+	<string>findMultiValueObserver</string>
+	<key>quantizerPermissiveVariableCreator</key>
+	<string>captureReusableFrameList</string>
+	<key>skipDiversifiedSkewXType</key>
+	<string>skipImmutableFrameBase</string>
+</dict>
+</plist>

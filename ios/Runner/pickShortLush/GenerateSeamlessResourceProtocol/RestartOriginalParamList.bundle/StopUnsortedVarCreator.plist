@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animateMediumIndexFilter</key>
+	<string>equalProtectedDepthObserver</string>
+	<key>appendMainOriginCollection</key>
+	<string>continueSmartBoundFilter</string>
+	<key>finishStandaloneConstantGroup</key>
+	<string>playFirstRowCache</string>
+	<key>getRetainedSkewXHandler</key>
+	<string>finishSortedPermutationHandler</string>
+	<key>keepSmallConfigurationBase</key>
+	<string>setPrismaticSymbolObserver</string>
+	<key>keepSymmetricBufferPool</key>
+	<string>skipExplicitToolBase</string>
+	<key>lockSubsequentNumberList</key>
+	<string>calculateDedicatedLoaderList</string>
+	<key>trainIntuitiveButtonCreator</key>
+	<string>stopSeamlessNumberList</string>
+</dict>
+</plist>

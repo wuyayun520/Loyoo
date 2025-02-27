@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>clipRespectiveSubpixelPool</key>
+	<string>initializeSmallLoopHelper</string>
+	<key>getNormalCompositionContainer</key>
+	<string>initializeAssociatedTailStack</string>
+	<key>setStaticConvolutionImplement</key>
+	<string>seekRequiredCenterCollection</string>
+</dict>
+</plist>

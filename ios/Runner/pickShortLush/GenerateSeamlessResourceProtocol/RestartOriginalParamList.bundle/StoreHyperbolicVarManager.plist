@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dropoutLargeGraphAdapter</key>
+	<string>startRequiredVarBase</string>
+	<key>getLostDescriptionDecorator</key>
+	<string>prepareFusedParamObserver</string>
+	<key>initializeCrucialSkewYObserver</key>
+	<string>holdStandaloneDialogsObserver</string>
+	<key>keepDirectFlagsGroup</key>
+	<string>getAssociatedBufferCache</string>
+	<key>pauseKeyCompositionDecorator</key>
+	<string>getRequiredTempleFactory</string>
+	<key>setConsultativeTitleType</key>
+	<string>getPriorInfrastructureManager</string>
+	<key>setMultiIndicatorDelegate</key>
+	<string>trainNormalNumberReference</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>conformGeometricPreviewObserver</key>
+	<string>restartFusedBufferCollection</string>
+	<key>divideSignificantSizeDelegate</key>
+	<string>setSharedPreviewType</string>
+	<key>escalateAdvancedLayerTarget</key>
+	<string>enumerateDifficultStyleStack</string>
+	<key>getPriorZoneList</key>
+	<string>lockTypicalRowAdapter</string>
+	<key>limitSynchronousBufferFactory</key>
+	<string>pauseSubstantialTextureStack</string>
+	<key>pauseConsultativeItemTarget</key>
+	<string>eraseCurrentExponentFactory</string>
+	<key>setGranularSizeHelper</key>
+	<string>setSemanticTernaryTarget</string>
+	<key>startResilientParamContainer</key>
+	<string>pauseElasticScalabilityDecorator</string>
+	<key>stopLiteResultContainer</key>
+	<string>setDiversifiedFrameDecorator</string>
+</dict>
+</plist>

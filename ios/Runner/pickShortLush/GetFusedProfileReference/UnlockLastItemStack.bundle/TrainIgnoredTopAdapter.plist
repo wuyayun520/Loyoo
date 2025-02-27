@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>getOldFlagsType</key>
+	<string>skipNormalSliderDelegate</string>
+	<key>initializeIgnoredEdgeCollection</key>
+	<string>releaseBackwardLoopType</string>
+	<key>limitImmutableGrainHandler</key>
+	<string>getSmartDescriptionStack</string>
+	<key>lockAsynchronousTailHandler</key>
+	<string>escalateNumericalBrushContainer</string>
+	<key>setSemanticProgressBarExtension</key>
+	<string>scheduleMediocreTagCreator</string>
+	<key>setSustainableLoopFilter</key>
+	<string>getRobustBaseDelegate</string>
+	<key>stopElasticScreenArray</key>
+	<string>clipMultiVisibleHandler</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cancelAdvancedObjectHandler</key>
+	<string>extendMultiFrameDelegate</string>
+	<key>enhanceGeometricBufferCreator</key>
+	<string>touchAccessibleEdgeDelegate</string>
+	<key>finishGlobalParamFilter</key>
+	<string>embedGreatArithmeticDecorator</string>
+	<key>getMissedOriginCache</key>
+	<string>startNewestEdgeDecorator</string>
+	<key>getSustainableMaterialExtension</key>
+	<string>poolOtherVarImplement</string>
+	<key>initializeRobustLeftStack</key>
+	<string>associateDeclarativeZoneFilter</string>
+	<key>quantizerUsedChartOwner</key>
+	<string>keepDenseValueFactory</string>
+	<key>setSemanticTempleGroup</key>
+	<string>prepareSmartVarExtension</string>
+	<key>syncCustomTextureOwner</key>
+	<string>introspectDenseResourceDecorator</string>
+</dict>
+</plist>

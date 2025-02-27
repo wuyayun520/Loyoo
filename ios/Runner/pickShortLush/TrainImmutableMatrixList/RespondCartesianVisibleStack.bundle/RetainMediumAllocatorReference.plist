@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>continueCustomReferenceGroup</key>
+	<string>getDirectlyAllocatorCreator</string>
+	<key>setResilientInterfaceGroup</key>
+	<string>resumeProtectedPrecisionHandler</string>
+	<key>stopRequiredGrainProtocol</key>
+	<string>startBeginnerSizeHelper</string>
+</dict>
+</plist>

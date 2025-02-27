@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>displayIgnoredSchemaFilter</key>
+	<string>setCartesianAxisHandler</string>
+	<key>finishOldNumberFactory</key>
+	<string>initializeAccessibleParamFactory</string>
+	<key>getPriorGrainGroup</key>
+	<string>pauseConcreteTempleReference</string>
+	<key>getSemanticInfoCreator</key>
+	<string>rectifyBackwardTempleManager</string>
+	<key>prepareIntermediateContrastArray</key>
+	<string>setReusableMissionInstance</string>
+	<key>searchActivatedNumberFactory</key>
+	<string>holdDisparateConsumptionPool</string>
+	<key>setCriticalAspectFilter</key>
+	<string>keepFusedUsageHandler</string>
+	<key>setRetainedValueProtocol</key>
+	<string>revisitGranularBoundOwner</string>
+</dict>
+</plist>

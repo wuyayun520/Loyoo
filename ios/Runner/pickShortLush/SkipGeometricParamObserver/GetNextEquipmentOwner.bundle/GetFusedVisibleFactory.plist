@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>captureNormalSegmentPool</key>
+	<string>reflectAutoNodeFactory</string>
+	<key>finishAsynchronousResourceInstance</key>
+	<string>visitRelationalUtilHelper</string>
+	<key>finishRelationalModuleManager</key>
+	<string>startReusableStyleCollection</string>
+	<key>getConcurrentPreviewReference</key>
+	<string>setPivotalBoundManager</string>
+	<key>getDirectTempleFilter</key>
+	<string>endDiscardedBinaryFactory</string>
+	<key>setRobustImpressionGroup</key>
+	<string>setUnsortedCoordHelper</string>
+	<key>setSynchronousParamList</key>
+	<string>restartSinglePolygonType</string>
+	<key>shearAsynchronousParameterOwner</key>
+	<string>finishAccordionVarCollection</string>
+	<key>stopIndependentBaseStack</key>
+	<string>initializePriorValueImplement</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>endDisplayablePermutationDelegate</key>
+	<string>getCriticalOpacityDecorator</string>
+	<key>getMultiVideoFactory</key>
+	<string>parseNormalLayoutArray</string>
+	<key>getSmallArchitectureType</key>
+	<string>trainCustomOpacityProtocol</string>
+	<key>locatePublicColorTarget</key>
+	<string>getCustomizedVisibleFactory</string>
+	<key>requestLiteVisibleCreator</key>
+	<string>getSortedCoordImplement</string>
+	<key>setDenseIntegrityTarget</key>
+	<string>endPrevBorderExtension</string>
+	<key>setSeamlessGraphGroup</key>
+	<string>setRespectiveInteractionFactory</string>
+	<key>touchDeclarativeRouteOwner</key>
+	<string>trainBasicChartList</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>captureSingleAllocatorDelegate</key>
+	<string>skipComprehensiveAnchorHandler</string>
+	<key>computeArithmeticVariableHelper</key>
+	<string>setMediocreSignatureHandler</string>
+	<key>exitAutoSizeProtocol</key>
+	<string>getRelationalTraversalCreator</string>
+	<key>initializeRequiredRotationHelper</key>
+	<string>analyzeOtherProjectInstance</string>
+	<key>preparePermissiveRowCreator</key>
+	<string>trainHardLayerList</string>
+	<key>setDeclarativeSkinList</key>
+	<string>continueGreatParameterProtocol</string>
+	<key>setSemanticZoneFactory</key>
+	<string>renameHyperbolicVectorCreator</string>
+	<key>skipOtherRendererArray</key>
+	<string>mitigateSubsequentObjectOwner</string>
+</dict>
+</plist>

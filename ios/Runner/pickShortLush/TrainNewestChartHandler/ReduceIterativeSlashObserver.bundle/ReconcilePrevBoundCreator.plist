@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>displaySubsequentChannelsBase</key>
+	<string>initializeNormalResourceHelper</string>
+	<key>keepDedicatedChecklistPool</key>
+	<string>streamlineBasicMetadataArray</string>
+	<key>prepareSignificantMissionType</key>
+	<string>getOriginalAnimationCache</string>
+	<key>setStaticAspectPool</key>
+	<string>convertDiversifiedHeadGroup</string>
+	<key>stopSmartTextHandler</key>
+	<string>initializeDiversifiedResultGroup</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>continueAdvancedNumberCreator</key>
+	<string>setCurrentBufferReference</string>
+	<key>discoverDirectlyParamInstance</key>
+	<string>startDirectNumberHelper</string>
+	<key>displaySharedVarBase</key>
+	<string>setAccessibleInterpolationFactory</string>
+	<key>restartLostMenuHelper</key>
+	<string>checkConcurrentProfileAdapter</string>
+	<key>setImmutableAnalogyOwner</key>
+	<string>cancelAgileVisibleOwner</string>
+</dict>
+</plist>

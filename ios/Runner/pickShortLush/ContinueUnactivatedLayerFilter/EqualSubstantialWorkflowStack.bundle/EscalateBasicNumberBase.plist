@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatePriorFragmentsContainer</key>
+	<string>getBasicVariableStack</string>
+	<key>cloneGreatParticleReference</key>
+	<string>retrieveCustomizedSoundTarget</string>
+	<key>continueConcurrentIntegerManager</key>
+	<string>getSmallQuaternionList</string>
+	<key>dropoutElasticComponentExtension</key>
+	<string>setAutoVariantObserver</string>
+	<key>getDirectTextureGroup</key>
+	<string>cancelConcreteStatusObserver</string>
+	<key>getResilientReplicaArray</key>
+	<string>skipSubsequentPreviewProtocol</string>
+	<key>introspectFirstControllerHandler</key>
+	<string>initializeDenseParamGroup</string>
+</dict>
+</plist>

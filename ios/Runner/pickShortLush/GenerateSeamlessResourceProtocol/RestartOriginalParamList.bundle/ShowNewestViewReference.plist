@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>embedExplicitSceneAdapter</key>
+	<string>keepMissedVertexDelegate</string>
+	<key>getNextEfficiencyProtocol</key>
+	<string>quantizerCriticalProjectObserver</string>
+	<key>getRelationalParamFactory</key>
+	<string>setUnsortedValuePool</string>
+	<key>getSharedRotationDecorator</key>
+	<string>finishSingleSkewYAdapter</string>
+	<key>restartIndependentFragmentReference</key>
+	<string>navigateStandaloneIntensityGroup</string>
+	<key>setLiteNumberManager</key>
+	<string>startDiscardedHeadDecorator</string>
+	<key>showElasticMetricsObserver</key>
+	<string>setGlobalScaleBase</string>
+	<key>startDeclarativeLeftStack</key>
+	<string>initializeGranularBulletHelper</string>
+</dict>
+</plist>

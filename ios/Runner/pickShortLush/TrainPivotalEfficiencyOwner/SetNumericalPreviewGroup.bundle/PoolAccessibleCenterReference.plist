@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cancelSeamlessResolverHandler</key>
+	<string>getTensorEventFilter</string>
+	<key>executePriorColorTarget</key>
+	<string>captureSignificantCoordStack</string>
+	<key>finishPrimaryMissionDelegate</key>
+	<string>floatReusableScreenDelegate</string>
+	<key>getRespectiveMendTarget</key>
+	<string>setDedicatedActivityType</string>
+	<key>pausePrimaryBufferCollection</key>
+	<string>restartHardRouteDelegate</string>
+	<key>retainRetainedPositionTarget</key>
+	<string>enumerateTensorModuleHelper</string>
+	<key>startAssociatedDispatcherContainer</key>
+	<string>setDirectlyButtonHandler</string>
+	<key>stopSemanticParamTarget</key>
+	<string>prepareIntuitiveTempleFactory</string>
+</dict>
+</plist>

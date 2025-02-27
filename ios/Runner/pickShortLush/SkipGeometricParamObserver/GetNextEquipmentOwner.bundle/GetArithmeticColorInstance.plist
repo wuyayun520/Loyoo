@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>getConcurrentScreenPool</key>
+	<string>cancelStandaloneOriginExtension</string>
+	<key>getIntuitiveOperationDecorator</key>
+	<string>stopSharedClusterExtension</string>
+	<key>setDiscardedVarType</key>
+	<string>updateIgnoredSizeContainer</string>
+	<key>setLiteComponentDecorator</key>
+	<string>startRequiredGroupDelegate</string>
+	<key>skipStandaloneInterfaceAdapter</key>
+	<string>getSortedLayerType</string>
+	<key>startSubsequentSliderImplement</key>
+	<string>setComprehensiveScaleCollection</string>
+</dict>
+</plist>

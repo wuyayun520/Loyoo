@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>initializeHierarchicalSceneBase</key>
+	<string>wrapIgnoredCardCollection</string>
+	<key>prepareSymmetricCharacterExtension</key>
+	<string>getGreatLoopBase</string>
+	<key>setGranularColorAdapter</key>
+	<string>setOpaqueVarHandler</string>
+	<key>setSustainableVarReference</key>
+	<string>checkIterativeChallengeInstance</string>
+</dict>
+</plist>

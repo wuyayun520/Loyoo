@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>getDeclarativeGroupCollection</key>
+	<string>allocateMultiColorFactory</string>
+	<key>getEnabledAspectPool</key>
+	<string>keepCartesianTimeStack</string>
+	<key>mitigateComprehensiveVarStack</key>
+	<string>refreshSmallContrastInstance</string>
+	<key>restartDisparateNumberDecorator</key>
+	<string>renameActivatedCapsuleExtension</string>
+	<key>setPrevAccessoryArray</key>
+	<string>limitUniqueEvaluationProtocol</string>
+	<key>wrapSecondLayerFilter</key>
+	<string>cancelDirectButtonContainer</string>
+</dict>
+</plist>

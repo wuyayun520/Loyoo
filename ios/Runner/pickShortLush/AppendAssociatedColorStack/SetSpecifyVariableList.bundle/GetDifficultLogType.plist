@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cancelExplicitSceneObserver</key>
+	<string>setCustomizedOperationOwner</string>
+	<key>endSymmetricBufferImplement</key>
+	<string>setDirectPrecisionCache</string>
+	<key>exitDirectlyValueManager</key>
+	<string>setRetainedEvolutionCache</string>
+	<key>getKeyPreviewProtocol</key>
+	<string>setAutoMultiplicationDecorator</string>
+	<key>introspectDiscardedPositionDelegate</key>
+	<string>storeImmutableVariableCollection</string>
+	<key>markCrudeBitrateList</key>
+	<string>resumeConcurrentImageHandler</string>
+	<key>setDeclarativeParticleHandler</key>
+	<string>insteadConcurrentEntropyAdapter</string>
+	<key>setPrimaryConsumptionCreator</key>
+	<string>finishMissedSampleList</string>
+</dict>
+</plist>

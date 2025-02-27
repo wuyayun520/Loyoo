@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>encapsulateConcreteParameterStack</key>
+	<string>getExplicitShapeList</string>
+	<key>getCommonCoordinatorExtension</key>
+	<string>scheduleRequiredStrokeDelegate</string>
+	<key>getOpaqueCoordList</key>
+	<string>skipDenseAnalogyGroup</string>
+	<key>getSubtleIndexOwner</key>
+	<string>setUnactivatedLeftInstance</string>
+	<key>prepareMediumTrianglesAdapter</key>
+	<string>checkSimilarImpactBase</string>
+	<key>reduceNormalParameterCache</key>
+	<string>prepareAccessibleVisibleHandler</string>
+</dict>
+</plist>
